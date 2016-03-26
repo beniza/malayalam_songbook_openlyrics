@@ -5,6 +5,7 @@
   
 ## Open Lyrics Format
 <img src="http://openlyrics.info/_images/xmlstructure.png" />
+
 <a href="http://openlyrics.info/intro.html">OpenLyrics</a> is a free, open XML standard for Christian worship songs. The goal of OpenLyrics is to provide an application-independent and operating system-independent song format for interoperability between applications.
 
 ## Lyrics Source
