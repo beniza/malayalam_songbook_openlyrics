@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:36">
+  <properties>
+    <titles>
+      <title>ദേവകുമാരാ! സർവ്വ പാപ വിദൂരാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദേവകുമാരാ! സർവ്വ പാപ വിദൂരാ! ജയിക്ക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കേശം വെളുത്തവനേ! ജ്വാലാഗ്നിലോചനനേ!<br/>ഉച്ചക്കതിരവൻ പോലുജ്ജ്വലദാനനനേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അങ്കിധരിച്ചു മാറിൽ പൊൻകച്ച കെട്ടിയോനേ<br/>തങ്കവിളക്കുകൾക്കുൾ തങ്കുന്ന ധർമ്മജനേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചുട്ടുപഴുത്തൊരോട്ടിൻ ത്വിട്ടിൻ മദമശേഷം<br/>തട്ടിക്കളഞ്ഞപാദ ത്വിട്ടാർന്ന സദ്പദനേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കോടിജലട്ട്സരികാ പാതത്തിന്നൊത്ത വിധം<br/>നീടാർന്നൊരൊച്ചയോടു കൂടും സനാതനനേ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മുറ്റും പ്രഭാവലയ മദ്ധ്യേ തിളങ്ങുമൊരു<br/>നക്ഷത്രമാല കൈയിൽ ചാർത്തുന്ന നായകനേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>വായ്ത്തല രണ്ടിനാലും ശത്രുക്കളെയരിഞ്ഞു<br/>വീഴ്ത്തുന്ന ഖഡ്ഗമൊന്നു വായ്ക്കുള്ളിലേന്തിയൊരു</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ന്യായാസനസ്ഥ നിന്റെ കായപ്രദർശനത്താൽ<br/>മായാവിമോഹമെല്ലാം ഭീയാർന്നു മണ്ടിടുമേ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>എക്ളീസിയയ്ക്കു പ്രേമവിഗ്രഹമായവനേ<br/>മത്ക്ളേശമാകെ നീക്കി മുഖ്യാശിസ്സേകണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

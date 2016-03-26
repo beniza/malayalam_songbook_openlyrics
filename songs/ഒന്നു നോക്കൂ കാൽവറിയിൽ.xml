@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>ഒന്നു നോക്കൂ! കാൽവറിയിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഒന്നു നോക്കൂ! കാൽവറിയിൽ ജീവൻ ലഭ്യമായിടും<br/>യേശുനാഥൻ ജീവനറ്റ പാപികൾക്കായ് തൂങ്ങുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശു നിന്നെ സ്നേഹിച്ചല്ലോ കാൽവറിയിൽ നിണം ചിന്തി<br/>ആശു നിന്റെ പാപം പോക്കാൻ ഈശപുത്രൻ മൃതിയേറ്റു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പ്രാർത്ഥനയോ അനുതാപമോ കണ്ണുനീരോ വില പോരാ<br/>ക്രൂശിലൊഴുക്കിയ രക്തം വേണം നിന്റെ പാപം പോക്കിടാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യേശുവേറ്റ മുറിവുകൾ നിന്നെ സൗഖ്യമാക്കാൻ മതിയല്ലോ<br/>നീതിവസ്ത്രം അണിയിക്കാനായ് നഗ്നനായ് താൻ ക്രൂശിന്മേൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യേശു നൽകും നിത്യജീവൻ സ്വീകരിക്കൂ അതിവേഗം<br/>മരണം നീങ്ങി വിജയം കിട്ടി നിത്യം വാഴാമവൻ കൂടെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഏകനോട്ടം ജീവൻ നൽകും പാപി നീതിമാനാകും<br/>യേശുവെപ്പോൽ രൂപം പൂണ്ടു ദേവസുതനായ് തീരും നീ.</lines>
+    </verse>
+  </lyrics>
+</song>

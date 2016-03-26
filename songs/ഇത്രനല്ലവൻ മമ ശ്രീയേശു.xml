@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:37">
+  <properties>
+    <titles>
+      <title>ഇത്രനല്ലവൻ മമ ശ്രീയേശു</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇത്രനല്ലവൻ മമ ശ്രീയേശു<br/>ക്രിസ്തുനാഥനെന്നിയെയാരുള്ളൂ?<br/>മിത്രമാണെനിക്കവനെന്നാളും<br/>എത്ര താഴ്ചകൾ ഭൂവി വന്നാലും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അതിമോദം നാഥനു പാടിടും<br/>സ്തുതിഗീതം നാവിലുയർന്നിടും<br/>ഇത്രനല്ലവൻ മമ ശ്രീയേശു<br/>ക്രിസ്തുനാഥനെന്നിയെയാരുള്ളൂ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവനുന്നതൻ ബഹുവന്ദിതനാം<br/>പതിനായിരങ്ങളിൽ സുന്ദരനാം<br/>ഭൂവി വന്നു വൈരിയെവെന്നവനാം<br/>എനിക്കാത്മരക്ഷയെ തന്നവനാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഒരുനാളും കൈവിടുകില്ലെന്നെ<br/>തിരുമാർവ്വെനിക്കഭയം തന്നെ<br/>വരുമാകുലങ്ങളിലും നന്നെ<br/>തരുമാശ്രയം തകരാറെന്യേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പ്രതികൂലമാണെനിക്കീ ലോകം<br/>അതിനാലൊരെള്ളളവും ശോകം<br/>കലരേണ്ടെനിക്കവനനുകൂലം<br/>ബലമുണ്ടു യാത്രയിലതുമൂലം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സത്യസാക്ഷിയായ പ്രവാചകനും<br/>മഹാശ്രേഷ്ഠനായ പുരോഹിതനും<br/>നിത്യരാജ്യസ്ഥാപകൻ രാജാവും<br/>എന്റെ ക്രിസ്തുനായകൻ ഹല്ലേലുയ്യാ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>അനുഗ്രഹിക്ക വധുവൊടുവരനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അനുഗ്രഹിക്ക വധുവൊടുവരനെ സർവ്വേശാ! മംഗളം<br/>ശിരസ്സിൻ നിൻകൈ നലമൊടുവച്ചു വാഴ്ത്തേണം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഒരിക്കലും വേർപെടാത്ത മോദം കൈവന്നും മംഗളം<br/>ശരിക്കു തങ്ങടെ ജീവിതകാലം പോക്കീടാൻ മംഗ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വിശിഷ്ടമാകും കാന്തി വിളങ്ങിയ സൂര്യന്നും സന്തതം<br/>ശശിപ്രഭയ്ക്കും സാമ്യമെഴുന്നിവർ ശോഭിപ്പാൻ മംഗളം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അരിഷ്ടകാലം വ്യാധികളെന്നിവയേശാതെ മംഗളം<br/>ഭരിച്ചു ഭാഗ്യക്കടലതിൽ മുഴുകാൻ വാഴ്ത്തേണം മംഗളം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>റിബേക്കയാകും വധുവൊടു സഹിതൻ ഇസ്ഹാക്കുപോൽ മംഗളം<br/>വിവേകമോടും നിജഗൃഹഭരണം ചെയ്തിടാൻ മംഗളം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:31">
+  <properties>
+    <titles>
+      <title>വാഴ്ത്തി സ്തുതിക്കുമെന്നും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഴ്ത്തി സ്തുതിക്കുമെന്നും ഞാൻ<br/>എന്റെ താഴ്ചയിൽ ഓർത്ത ഈശനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വർണ്ണിച്ചിടാനെനിക്കെന്റെ നാവു പോരായേ!<br/>എണ്ണിത്തീർത്തിടാമോ അവൻ ചെയ്തത്<br/>ആയിരമായ് സ്തുതിച്ചിടുന്നേ<br/>ആനന്ദഹസ്തങ്ങളെ ഉയർത്തി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപരോഗമായതെന്റെ ഭീതിയാൽ<br/>നാശഗർത്തത്തിൽ പതിക്കും നേരത്തിൽ<br/>സ്നേഹഹസ്തം നീട്ടിയെന്നെ<br/>നിൻതിരു രാജ്യത്തിലാക്കിയല്ലോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചേറ്റിലല്ലയോ കിടന്നതോർത്തുനോക്കിയാൽ<br/>നാറ്റമല്ലയോ വമിച്ചതെൻ ജീവിതം<br/>മാറ്റിയല്ലോ എൻജീവിതത്തെ<br/>മാറ്റമില്ലാത്ത നിന്റെ കൃപയാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാപികളെത്തേടിവന്ന യേശുരക്ഷകൻ<br/>പാപമില്ലാ ശുദ്ധർക്കായിതാ വരുന്നേ<br/>വരവിൻ ദിനം അതിസമീപം<br/>വരവിൻ പ്രത്യാശയാൽ നിറഞ്ഞിടാമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>അല്ലൽ തിങ്ങും ജീവിതത്തിൽ<br/>ഞാൻ വസിച്ചപ്പോൾ<br/>വല്ലഭാ നിൻ സ്നേഹമെന്നിൽ ഊറ്റിയല്ലോ<br/>ജയഗീതം പാടിടുവിൻ നിൻജയം<br/>നീ എനിക്കേകിയല്ലോ</lines>
+    </verse>
+  </lyrics>
+</song>

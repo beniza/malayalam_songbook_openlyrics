@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:04">
+  <properties>
+    <titles>
+      <title>യേശു എൻ പക്ഷമായ് തീർന്നതിനാൽ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു എൻ പക്ഷമായ് തീർന്നതിനാൽ<br/>എന്തൊരാനന്ദമീ ഭൂവിൽ വാസം<br/>ഹാ! എത്രമോദം പാർത്തലത്തിൽ<br/>ജീവിക്കും നാൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകം വെറുത്തവരേശുവോടു<br/>ചേർന്നിരുന്നപ്പോഴും ആശ്വസിക്കും<br/>മാ ഭാഗ്യകനാൻ ചേരുംവരെ<br/>കാത്തിടേണം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഈ ലോകരാക്ഷേപം ചൊല്ലിയാലും<br/>ദുഷ്ടർ പരിഹാസമേറിയാലും<br/>എൻപ്രാണനാഥൻ പോയതായ<br/>പാതമതി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വേഗം വരാമെന്നുരച്ചവനെ നോക്കി<br/>നോക്കി കൺകൾ മങ്ങിടുന്നേ<br/>എപ്പോൾ വരുമോ പ്രാണപ്രിയാ<br/>കണ്ടിടുവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലോകമെനിക്കൊരാശ്വാസമായ്<br/>കാണുന്നില്ലേ എന്റെ പ്രാണനാഥാ<br/>നാൾതോറുമെനിക്കാശ്വാസമായ്<br/>തീർന്നിടേണെ.</lines>
+    </verse>
+  </lyrics>
+</song>

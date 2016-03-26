@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:21">
+  <properties>
+    <titles>
+      <title>ഇന്നും രാവിലെ വന്നു</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇന്നും രാവിലെ വന്നു ഞാൻ തിരുസന്നിധി തന്നിൽ നായകാ!<br/>എന്നും നീ തന്നേയെന്നെ കാവൽ ചെയ്യുന്ന വൻപരിപാലകൻ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പോയ രാത്രിയിൽ ഞാൻ സമാധാനത്തോടുറങ്ങുവാൻ നിൻകൃപ<br/>നായകാ! നീ ചൊരിഞ്ഞതാൽ സ്തുതിഗാനങ്ങൾ പാടിടുന്നിതാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രാവകന്നൊളി വീശി ഭൂതലം ശോഭിതമായിടുന്നിതാ!<br/>മാമകാന്ധത മാറുവാൻ തവ കാന്തി വന്നതോർക്കുന്നിതാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇന്നലേമിന്നുമെന്നും നീയെനിക്കന്യനല്ലതു മൂലമായ്<br/>മുന്നിലായ് നിന്നെ കാണുന്നെത്രയോ ധന്യമായ് മമ ജീവിതം!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വന്നിടും പുലർകാലമൊന്നിനിയെന്നു കാത്തിരിക്കുന്നു ഞാൻ<br/>മന്നിടം തവ പൊന്മുഖം മൂലം മിന്നിടും നീതിസൂര്യനേ!</lines>
+    </verse>
+  </lyrics>
+</song>

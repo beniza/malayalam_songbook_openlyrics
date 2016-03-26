@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>കടലലമേൽ നടന്നു വന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കടലലമേൽ നടന്നു വന്നു<br/>പടകിലേറിനാൻ - യേശു<br/>പടകിലേറിനാൻ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നൊടിയിടയിൽ കടലും കാറ്റും<br/>ഒടുങ്ങി ശാന്തമായ്-എല്ലാം<br/>ഒതുങ്ങി ശാന്തമായ് (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കടലിനക്കരേ പോണ പ്രിയരേ<br/>പടകിലേശുവുണ്ട്-തെല്ലും<br/>പേടി വേണ്ടിനിയും (2)-</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:33">
+  <properties>
+    <titles>
+      <title>എൻപേർക്കായ് ജീവൻ വയ്ക്കും പ്രഭോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻപേർക്കായ് ജീവൻ വയ്ക്കും പ്രഭോ! നിന്നെ<br/>എന്നുമീ ദാസനോർക്കും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിൻ കൃപയേറിയ വാക്കിൻ പ്രകാരമി<br/>ങ്ങത്യന്ത താഴ്മയോടെ എന്റെ<br/>വൻകടം തീർപ്പാൻ മരിക്കും പ്രഭോ! നിന്നെ<br/>എന്നുമീ ദാസനോർക്കും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നുടെ പേർക്കായ് നുറുങ്ങിയ നിന്നുടൽ<br/>സ്വർഭോജ്യമത്രേ മമ നിന്റെ<br/>പൊന്നുനിയമത്തിൻ പാത്രമെടുത്തിപ്പോൾ<br/>നിന്നെ ഞാനോർക്കുന്നിതാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഗത്സമനേയിടം ഞാൻ മറന്നിടുമോ<br/>നിൻവ്യഥയൊക്കെയെയും നിന്റെ<br/>സങ്കടം രക്തവിയർപ്പെന്നിവയൊരു<br/>നാളും മറക്കുമോ ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്നുടെ കണ്ണുകൾ കാൽവറിയിങ്കലെ<br/>ക്രൂശിന്നു നേർ തിരിക്കേ എന്റെ<br/>പൊന്നുബലിയായ ദൈവകുഞ്ഞാടിനെ<br/>യോർക്കാതിരിക്കുമോ ഞാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിന്നെയും നിന്റെ വ്യഥകളെയും നിന്റെ<br/>സ്നേഹമെല്ലാറ്റെയും ഞാൻ എന്റെ<br/>അന്ത്യമാം ശ്വാസമെടുക്കും വരെയ്ക്കുമീ<br/>സാധുവോർത്തിടുമെന്നും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നിന്നുടെ രാജ്യത്തിൽ നീ വരുമ്പോളെന്നെ<br/>നീയോർത്തിടും സമയേ നിന്റെ<br/>വൻകൃപ പൂർണ്ണമായ് ഞാനറിയും തവ<br/>രൂപത്തോടേകമാകും.</lines>
+    </verse>
+  </lyrics>
+</song>

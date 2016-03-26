@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:44">
+  <properties>
+    <titles>
+      <title>യേശുവേ രക്ഷാദായക</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവേ രക്ഷാദായക<br/>നിന്റെ സന്നിധേവരുന്നു<br/>എന്റെ പാപഭാരവുമായ്<br/>വല്ലഭായേകൂ രക്ഷയേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഉന്നതി വെടിഞ്ഞവനേ<br/>മന്നിൽ താണുവന്നവനേ<br/>എനിക്കായിട്ടല്ലയോ<br/>ക്രൂശിങ്കൽ ജീവനേ തന്നത്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപം ചെയ്തിടാത്തവനേ<br/>പരിക്ഷീണനായവനേ<br/>എനിക്കായിട്ടല്ലയോ<br/>ക്രൂശിങ്കൽ ദാഹിച്ചു കേണത്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശാപരോഗമേറ്റവനേ<br/>പാപമായി തീർന്നവനെ<br/>എനിക്കായിട്ടല്ലയോ<br/>ക്രൂശിങ്കൽ പാടുകൾ ഏറ്റത്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്റെ പാപം നീ വഹിച്ചു<br/>എന്റെ ശാപം നീക്കി മുറ്റും<br/>നിനക്കായിട്ടെന്നെന്നും<br/>ഞാനിനി ജീവിക്കും നിശ്ചയം</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>എനിക്കൊത്താശ വരും പർവ്വതം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എനിക്കൊത്താശ വരും പർവ്വതം<br/>കർത്താവേ! നീ മാത്രമെന്നാളുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആകാശ ഭൂമികൾക്കെല്ലാം<br/>ആദിഹേതുവതായവൻ നീയേ<br/>ആശ്രയം നിന്നിലായതു മുതലെൻ<br/>ആധികളകന്നു പരാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എൻ കൺകളുയർത്തി ഞാൻ നോക്കും<br/>എൻകർത്താവേ നിൻദയക്കായി<br/>എണ്ണിയാൽ തീരാ നന്മകൾ തന്നു<br/>എന്നെയനുഗ്രഹിക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എൻ കാൽകൾ വഴുതാതനിശം<br/>എന്നെ കാത്തിടുന്നവൻ നീയേ<br/>കൃപകൾ തന്നും തുണയായ് വന്നും<br/>നടത്തുന്നത്ഭുതമായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻദേഹം മണ്ണിൽ മറഞ്ഞാലും<br/>ഞാൻ ജീവനോടിരുന്നാലും<br/>നീ വരും നാളിൽ നിന്നോടണഞ്ഞ-<br/>ന്നാനന്ദിച്ചാർത്തിടും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

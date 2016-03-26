@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:44">
+  <properties>
+    <titles>
+      <title>യേശുവിലെൻ തോഴനെ കണ്ടേൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവിലെൻ തോഴനെ കണ്ടേൻ<br/>എനിക്കെല്ലാമായവനെ<br/>പതിനായിരങ്ങളിൽ ഏറ്റം സുന്ദരനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തുമ്പം ദുഃഖങ്ങളതിൽ<br/>ആശ്വാസം നൽകുന്നോൻ<br/>എൻഭാരമെല്ലാം ചുമക്കാമെന്നേറ്റതാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകരെല്ലാം കൈവെടിഞ്ഞാലും<br/>ശോകഭാരം ഏറിയാലും<br/>യേശു രക്ഷാകരൻ താങ്ങും തണലുമായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അവനെന്നെ മറുക്കുകില്ല<br/>മൃത്യുവിലും കൈവിടില്ല<br/>അവനിഷ്ടം ഞാൻ ചെയ്തെന്നും ജീവിക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മഹിമയിൽ ഞാൻ കിരീടം ചൂടി<br/>അവൻ മുഖം ഞാൻ ദർശിക്കും<br/>അങ്ങു ജീവന്റെ നദി കവിഞ്ഞൊഴുകുമേ</lines>
+    </verse>
+  </lyrics>
+</song>

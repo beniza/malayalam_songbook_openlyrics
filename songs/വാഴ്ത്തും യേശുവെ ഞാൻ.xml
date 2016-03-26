@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>വാഴ്ത്തും യേശുവെ ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഴ്ത്തും യേശുവെ ഞാൻ<br/>വാഴ്ത്തും യേശുവെ<br/>ഭക്തിയായ് വണങ്ങി നിത്യം<br/>വാഴ്ത്തും യേശുവേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സത്യദൈവ ജാതനും<br/>സ്തുത്യനാമെൻ നാഥനും<br/>ഭക്തചിന്താമണിയുമായ്<br/>പാർത്തിടും ശ്രീയേശുവേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കത്തിയെരിഞ്ഞുള്ളൊരു<br/>തീയിൽ നിന്നീക്കൊള്ളിയെ<br/>തൽക്ഷണം വലിച്ചെടുത്തു<br/>കാത്ത കൃപാ മൂർത്തിയെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഘോരമാമിരുളിലെൻ<br/>ചാരുവാം വെളിച്ചമായ്<br/>സൂര്യനെപ്പോൽ വിളങ്ങുന്ന<br/>കാരണസ്വരൂപിയെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കാട്ടുമരപ്പന്തിയിൽ<br/>നാരകമാണെൻ പ്രിയൻ<br/>നാട്ടിലെങ്ങുമൊളി വീശും<br/>ശാരോൻ ലില്ലിപ്പുഷ്പവും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നായകനുമായവൻ<br/>സ്നേഹിതനും താതനും<br/>മായമറ്റ മാതാവുമെൻ<br/>മാന്യ ഗുരുഭൂതനും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ശീതമതിലുഷ്ണവും<br/>ചൂടിലെൻ തണുപ്പതും<br/>ദീന ശയ്യയിലെനിക്കു<br/>ദിവ്യമാമൗഷധവും</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ജീവനേകുമപ്പവും<br/>ദിവ്യപാന വസ്തുവും<br/>പ്രേമഗീതവും മധുര<br/>വാദ്യവും സമ്പാദ്യവും</lines>
+    </verse>
+    <verse name="v9">
+      <lines>നാശമില്ലാദ്രവ്യവും<br/>പേശലമാം ഹവ്യവും<br/>ആശയുള്ളോർക്കായവൻ<br/>താനായതിൽ ഭവ്യവും.</lines>
+    </verse>
+  </lyrics>
+</song>

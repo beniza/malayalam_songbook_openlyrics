@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>ജീവനും നിത്യ സൗഖ്യവും</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജീവനും നിത്യ സൗഖ്യവും<br/>ഏവനും ദാനമായ് നൽകിയ<br/>താതസുതാത്മൻ വന്ദനം<br/>മാനവും, ധനവും, മഹത്വവും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജീവിതപാതയിൽ വെളിച്ചമായ്<br/>യേശു മഹോന്നതൻ മാത്രമേ<br/>ഈ മഹാനാഥനെ സേവിക്കാൻ<br/>ഭാഗ്യം ലഭിച്ചോർ നാം ധന്യരാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാരുണ്യ കാരണൻ മരിസുതൻ<br/>താരവും തിങ്കളും സ്ഥാപിച്ചോൻ<br/>താങ്ങി നടത്തിടും തീർച്ചയായ്<br/>തൻ നാമമെന്നും മഹോന്നതം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അംബരേ വന്നിടും തമ്പുരാൻ<br/>തംബുരു മീട്ടിടാം ഭക്തരേ<br/>ഇമ്പമായീശനെ വാഴ്ത്തിടാം<br/>തുമ്പങ്ങളെല്ലാം താൻ തീർത്തിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

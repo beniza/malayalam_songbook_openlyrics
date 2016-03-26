@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:27">
+  <properties>
+    <titles>
+      <title>സ്തുതി ചെയ് മനമേ നിത്യവും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതി ചെയ് മനമേ നിത്യവും<br/>നിൻ ജീവനാഥനേശുവേ<br/>ഇതുപോൽ സ്വജീവൻ തന്നൊരാത്മ<br/>സ്നേഹിതൻ വേറാരിനി?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മരണാധികാരിയായിരുന്ന<br/>ഘോരനാം പിശാചിനെ<br/>മരണത്തിനാലെ നീക്കി മൃത്യു<br/>ഭീതി തീർത്ത നാഥനെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ബഹുമാന്യനാമാചാര്യനായി<br/>വാനിലവൻ വാഴ്കയാൽ<br/>ബലഹീനതയിൽ കൈവിടാതെ<br/>ചേർത്തുകൊള്ളുമാകയാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദിനവും മനമേ തൽസമയം<br/>വൻ കൃപകൾ പ്രാപിപ്പാൻ<br/>അതിധൈര്യമായ് കൃപാസനത്തി-<br/>ന്നന്തികത്തിൽ ചെന്നു നീ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ബഹുദൂതരുച്ച നാദമോടെ<br/>വാഴ്ത്തിടുന്ന നാഥനെ<br/>ബലവും ധനവും ജ്ഞാനമെല്ലാം<br/>സ്വീകരിപ്പാൻ യോഗ്യനെ.</lines>
+    </verse>
+  </lyrics>
+</song>

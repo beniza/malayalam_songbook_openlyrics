@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:52">
+  <properties>
+    <titles>
+      <title>മന്നിതിൽ വന്നവൻ മനുസുതനായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മന്നിതിൽ വന്നവൻ മനുസുതനായ്<br/>മരിച്ചവൻ മാനവർക്കായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻ ഭാരച്ചുമടൊഴിച്ചു<br/>ശാപങ്ങളഴിച്ചെന്നെയനുഗ്രഹിച്ചു<br/>ഇരുളിലിരുന്നയെന്നെയും<br/>വിളിച്ചു തിരുസന്നിധൗ ചേർത്തണച്ചു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവനെ തന്നു വീണ്ടെടുത്തു ചാവിനെ<br/>വെന്നവൻ ജീവനിലുയിർത്തു<br/>മഹിമയണിഞ്ഞു വാഴുന്നുയിന്നും<br/>ബഹുവന്ദിതനായ് മനുവേൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അനുഗമിക്കും ഞാൻ കുരിശെടുത്ത്<br/>ദിനവുമീലോകത്തിന്നിമ്പങ്ങൾ വെറുത്ത്<br/>വിനയിലുമവനോടേറ്റവുമടുത്ത്<br/>ധനമാനം കർത്തനു കൊടുത്ത്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വന്നിടും വാനിൽ അവൻ വിരവിൽ<br/>തന്നുടെ ദാസരെ ചേർത്തിടുമരികിൽ<br/>തോർന്നിടും കണ്ണീർ പൂർണ്ണമായ്<br/>വിണ്ണിൽ തരും പ്രതിഫലമാ സദസ്സിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

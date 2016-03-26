@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:48">
+  <properties>
+    <titles>
+      <title>നീയെൻ സ്വന്തമേ എന്താനന്ദമേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നീയെൻ സ്വന്തമേ എന്താനന്ദമേ!<br/>ജീവൻ തന്നൊരു നാഥാ എന്നുമേ!<br/>അതിസുന്ദരൻ നീയെൻ നിത്യാനന്ദമേ<br/>നിത്യാനന്ദമേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻ ഭാരമാകവേ നിൻമേൽ<br/>കുരിശതിൽ ഞാൻ കണ്ടേ ഹാ കുരിശതിൽ<br/>ഞാൻ കണ്ടേ! ആ ദിനം മുതലെന്നാധികളകന്നു കൈവന്നെനിക്കു ഭാഗ്യം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീയെൻ സങ്കേതം ജീവന്റെ ബലവും<br/>ഭയമെന്തിന്നീയുലകിൽ ഹാ ഭയമെന്തിന്നീയുലകിൽ?<br/>കരുമനകളിലും കരുണയോടരികിൽ<br/>കാണുന്ന തുണ നീയേഹാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഈ ദിവ്യസ്നേഹം തന്നിൽ നിന്നെന്നെ<br/>വേർതിരിപ്പാനാമോ ഹാ വേർതിരിപ്പാനാമോ?<br/>ആപത്തും വാളും മൃതിയും വന്നാലും<br/>ആവതല്ലൊരു നാളുംഹാ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിൻതിരുനാമം എന്നാളുമടിയൻ<br/>പാടിപ്പുകഴ്ത്തിടുമേ ഹാ പാടിപ്പുകഴ്ത്തിടുമേ<br/>നിൻതിരുമുഖം ഞാൻ കണ്ടിടുമൊരുനാൾ<br/>ഹല്ലേലുയ്യാ ആമേൻ ഹാ!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:22">
+  <properties>
+    <titles>
+      <title>പോയ രാവിൽ മുഴുവൻ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പോയ രാവിൽ മുഴുവൻ<br/>കരുണയോടെന്നെ സൂക്ഷിച്ച നാഥാ<br/>നന്ദിയോടെ തിരുസ്നേഹത്തിനായി<br/>ഞാൻ വന്ദനം ചെയ്തിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അന്ധകാരം നിറഞ്ഞു<br/>പലപല തിന്മകൾ വാണിരുന്ന<br/>രാവിൽ തവ ദൂതരിൻ<br/>കാവൽ തന്നു എന്നെ സൂക്ഷിച്ചതിനാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മന്നിതിൽ മർത്യഗണം<br/>പലവിധ കഷ്ടനഷ്ടം സഹിക്കും<br/>നേരമെനിക്കു തന്ന<br/>സുഖം സമാധാനമിവ നിനച്ചു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദുഃഖങ്ങൾ വന്നിടിലും<br/>തവദാസൻ രോഗിയായ് തീർന്നിടിലും<br/>ദുഃഖം സഹിച്ച നാഥാ!<br/>തിരുകൃപ തന്നു പാലിക്കണമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇന്നു പകൽ മുഴുവൻ<br/>തിരുഹിതമെൻ മോദമായിരിപ്പാൻ<br/>സ്വർഗ്ഗീയമന്ന തന്നു<br/>അടിയനു ശക്തി പകർന്നിടണേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇന്നെന്റെ ക്രിയകളും<br/>മാത്രമല്ല വാക്മനോഭാവങ്ങളും<br/>ശുദ്ധമായ് സൂക്ഷിക്കുവാൻ<br/>ശുദ്ധാത്മാവാൽ എന്നെ നയിക്കണമേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>പാപാന്ധകാരത്തിനാൽ<br/>നിറഞ്ഞതാം പാരിതിൽ ജ്യോതിസ്സുപോൽ<br/>പാരം പ്രകാശമേകി<br/>പാർത്തിടുവാൻ പ്രാപ്തനായ് തീർത്തിടണേ.</lines>
+    </verse>
+  </lyrics>
+</song>

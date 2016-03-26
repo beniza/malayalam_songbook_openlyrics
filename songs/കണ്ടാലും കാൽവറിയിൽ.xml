@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:33">
+  <properties>
+    <titles>
+      <title>കണ്ടാലും കാൽവറിയിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കണ്ടാലും കാൽവറിയിൽ<br/>കുരിശിൽ ശിരസ്സതും ചാഞ്ഞു പരൻ<br/>കണ്ടീടുക പ്രിയനേ! നിനക്കായ്<br/>തൂങ്ങിടുന്നു മൂന്നാണികളിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശിരസ്സിൽ മുൾമുടി അണിഞ്ഞവനായ്<br/>ഹൃദയം നിന്ദയാൽ തകർന്നവനായ്<br/>വേദനയാലേറ്റം വലഞ്ഞവനായ്<br/>തൻ ജീവനെ വെടിയുന്നു സ്വയം നിനക്കായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകസ്ഥാപനം മുതൽ അറുക്കപ്പെട്ട<br/>കളങ്കമില്ല ദൈവകുഞ്ഞാടിതാ<br/>ലോകത്തിൻ പാപങ്ങൾ ചുമന്നുകൊണ്ട്<br/>വാനിനും ഭൂവിനും മദ്ധ്യേ തൂങ്ങിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സമൃദ്ധിയായ് ജീവജലം തരുവാൻ<br/>പാനീയയാഗമായ്ത്തീർന്നവനെ<br/>കയ്പുനീർ ദാഹത്തിനേകീടവേ<br/>നിനക്കായവനായതും പാനം ചെയ്തു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാതകർക്കായ് ക്ഷമ യാചിച്ചവൻ<br/>പാതകലോകം വെടിഞ്ഞിടുമ്പോൾ<br/>നിവൃത്തിയായ് സകലമെന്നോതിയഹോ<br/>സ്വന്ത പ്രാണൻ പിതാവിനെയേൽപ്പിക്കുന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>തൻതിരുമേനി തകർന്നതിനാൽ<br/>തങ്കനിണം ചിന്തിയതിനാൽ<br/>നിൻവിലയല്ലോ നൽകിയവൻ<br/>നിന്നെ സ്വർഗ്ഗീയ സമ്പൂർണ്ണനാക്കിടുവാൻ</lines>
+    </verse>
+  </lyrics>
+</song>

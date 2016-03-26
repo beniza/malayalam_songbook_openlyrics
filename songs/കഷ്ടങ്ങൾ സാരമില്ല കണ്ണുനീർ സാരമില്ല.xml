@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>കഷ്ടങ്ങൾ സാരമില്ല കണ്ണുനീർ സാരമില്ല</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കഷ്ടങ്ങൾ സാരമില്ല കണ്ണുനീർ സാരമില്ല<br/>നിത്യതേജസ്സിൻ ഘനമോർത്തിടുമ്പോൾ<br/>നൊടിനേരത്തേക്കുള്ള കഷ്ടങ്ങൾ സാരമില്ല</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പ്രിയന്റെ വരവിൻ ധ്വനി മുഴങ്ങും<br/>പ്രാക്കളെപോലെ നാം പറന്നുയരും<br/>പ്രാണന്റെ പ്രിയനാം മണവാളനിൽ<br/>പ്രാപിക്കും സ്വർഗ്ഗീയ മണിയറയിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഭാഗ്യവാന്മാരവർ വസിപ്പൊർ ആലയതിൽ<br/>നിത്യം നിന്നെ സ്തുതിക്കും<br/>കണ്ണീർ താഴ്വരയോ ജലാശയമവർക്ക്<br/>മേല്ക്കുമേൽ ബലം പ്രാപിക്കുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഏക ദിവസം നിൻ പ്രാകാരത്തിൽ വാസ-<br/>മായിരം ദിനങ്ങളെക്കാൾ<br/>അത്യുത്തമ്മംമല്ലോ അതിമഹത്തല്ലോ<br/>സൂര്യനും പരിചയും നീയെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യുദ്ധവും ക്ഷാമവും ഭൂകമ്പങ്ങളും<br/>യുദ്ധത്തിൻ ശ്രുതിയും കേൾക്കുന്നില്ലയോ<br/>യിസ്രയേലിൻ ദൈവം എഴുന്നള്ളുന്നേ<br/>യേശുവിൻ ജനമേ ഒരുങ്ങുക നാം.</lines>
+    </verse>
+  </lyrics>
+</song>

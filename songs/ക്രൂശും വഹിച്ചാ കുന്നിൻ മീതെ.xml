@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>ക്രൂശും വഹിച്ചാ കുന്നിൻ മീതെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രൂശും വഹിച്ചാ കുന്നിൻ മീതെ പോകുവതാരോ!<br/>ക്ലേശം സഹിച്ചൊരഗതിയെപ്പോലെ ചാകുവതാരോ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സർവ്വേശ്വരനേക സുതനോ? സൽദൂതവന്ദിതനോ!<br/>സുരലോകേ നിന്നും നമ്മെത്തേടിവന്ന സ്നേഹിതനോ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീ വാക്കാൽ ചെയ്തോരുലകിൽ നിൻകൈ രചിച്ചോർക്കരികിൽ<br/>നീ വന്നനേരം ബഹുമതിയായവർ തന്നതു കുരിശോ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നാധിയകറ്റാൻ തനിയേ ക്രൂശെടുത്ത ദേവസുതാ!<br/>പിന്നാലെ ഞാനെൻ ക്രൂശുമെടുത്തു വരുന്നിതാ കൃപ താ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻജീവിതകാലം മുഴുവൻ നിൻ സ്നേഹമാധുര്യം<br/>പാടിപ്പുകഴ്ത്താൻ നാഥാ! തരിക നാവിനു ചാതുര്യം.</lines>
+    </verse>
+  </lyrics>
+</song>

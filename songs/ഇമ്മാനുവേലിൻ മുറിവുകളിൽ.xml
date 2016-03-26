@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:33">
+  <properties>
+    <titles>
+      <title>ഇമ്മാനുവേലിൻ മുറിവുകളിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇമ്മാനുവേലിൻ മുറിവുകളിൽ നിന്നും ഒഴുകും തിരുരക്തം<br/>എൻമാനസത്തിൻ പാപക്കളങ്കം കഴുകും തിരുരക്തം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കാണുന്നു ഞാൻ കാണുന്നു ഞാൻ<br/>കാണുന്നു ഞാനെന്നിൽ ജീവൻ പകർന്നിടും<br/>യേശുവിൻ തിരുരക്തം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പന്നി ഭുജിച്ചോരു ഭോജ്യത്തിനായി ആശിച്ചിരുന്നയെന്നിൽ<br/>മന്നവാ! നിൻ തിരുമേശയിൽ നിന്നും ഭോജ്യമേകി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപത്തിൻ ശമ്പളമാം മരണഭീതിയകറ്റുവാൻ<br/>ശാപമരണം വഹിച്ചെന്റെ നാഥാ! നീ കാൽവറി ക്രൂശതിന്മേൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ചത്ത നായെപ്പോലിരുന്നയെന്നിൽ കാരുണ്യം കാട്ടിയല്ലോ<br/>ശക്തിയും മുക്തിയും നിത്യമാം ജീവനും<br/>എന്നിൽ ചൊരിഞ്ഞുവല്ലോ</lines>
+    </verse>
+  </lyrics>
+</song>

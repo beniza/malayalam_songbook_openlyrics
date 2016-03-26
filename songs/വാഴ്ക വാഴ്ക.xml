@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>വാഴ്ക! വാഴ്ക!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഴ്ക! വാഴ്ക!<br/>ശ്രീയേശു മഹാരാജാ<br/>വാഴ്ക!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വാഴ്ക! വാഴ്ക! നീ<br/>സർവ്വ വല്ലഭാ വാഴ്ക!<br/>ഹാ! വാനിലും ഈ പാരിലും<br/>നിൻ നാമമേ ശ്രേഷ്ഠം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആയിരങ്ങളിലും പതിനായിരങ്ങളിലും<br/>അതീവസുന്ദരനാം മഹേശ്വരൻ<br/>വാഴ്ക! വാഴ്ക! നീ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രൂശിലോളം നീ നിന്നെ<br/>താഴ്ത്തിയോ നാഥാ!<br/>പിതാവു തവ നാമമേറ്റം ഉന്നതമാക്കി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്വർഗ്ഗലോകരും അധോലോകർ മർത്യരും<br/>സകലരും വണങ്ങിടും<br/>നിൻ സന്നിധാനത്തിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

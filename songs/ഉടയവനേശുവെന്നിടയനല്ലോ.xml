@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:06">
+  <properties>
+    <titles>
+      <title>ഉടയവനേശുവെന്നിടയനല്ലോ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉടയവനേശുവെന്നിടയനല്ലോ<br/>ഉലയുകില്ല ഞാനീയുലകിൽ<br/>ആനന്ദമേ പരമാനന്ദമേ<br/>ഞാനെന്നും നാഥനെ പുകഴ്ത്തിടുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പച്ചപ്പുൽപ്പുറങ്ങളിൽ കിടത്തിടുന്നോൻ<br/>ശുദ്ധജലമേകി പോറ്റിടുന്നു<br/>നീറുമെൻ പ്രാണനെ തണുപ്പിച്ചുതൻ<br/>നീതിയിൽ നയിക്കും സൽപാതകളിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഭീതിയെഴാതെന്നെ നടത്തിടുന്നു<br/>ലോകത്തിൻ കൂരിരുൾ താഴ്വരയിൽ<br/>ശോകമെനിക്കെന്തിന്നരുമനാഥൻ<br/>ആശ്വാസദായകനനുദിനവും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അരികളിൻമദ്ധ്യേ നൽവിരുന്നൊരുക്കി<br/>അഭിഷേകതൈലത്താൽ ശിരസ്സിലേകും<br/>കവിഞ്ഞൊഴുകും മമ പാനപാത്രം<br/>മനസ്സലിവെഴും പരൻഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നന്മയും കരുണയുമായുരന്തം<br/>പിന്തുടരുമെന്നെത്തിരു കൃപയാൽ<br/>ചെന്നുചേരും സ്വർഗ്ഗമന്ദിരത്തിലെന്നെന്നും<br/>വസിക്കും ഞാൻ ഹല്ലേലുയ്യാ.</lines>
+    </verse>
+  </lyrics>
+</song>

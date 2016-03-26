@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:40">
+  <properties>
+    <titles>
+      <title>സത്യസഭാപതി യേശുവേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സത്യസഭാപതി യേശുവേ!<br/>നിത്യം ജയിക്ക കൃപാനിധേ!<br/>സ്തുത്യർഹമായ നിൻ നാമത്തെ<br/>മർത്യരെല്ലാം ഭജിച്ചിടട്ടെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സീമയറ്റുള്ള നിൻ പ്രേമവും<br/>ആമയം നീക്കും പ്രസാദവും<br/>ഭൂമയർ കണ്ടുതൃപ്പാദത്തിൽ<br/>താമസമെന്യേ വീണിടട്ടെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്ഷീണിച്ച നിന്നവകാശമീ<br/>ക്ഷേണിയിലെങ്ങുമുണർന്നിടാൻ<br/>ആണിപ്പഴുതുളള പാണിയാൽ<br/>പ്രീണിച്ചനുഗ്രഹിക്കേണമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മന്ദമായ് നല്ലിളം പുല്ലിൽ വീ-<br/>ഴുന്ന ഹിമകണസന്നിഭം<br/>സുന്ദരമാം മൊഴി ജീവന്നാ-<br/>നന്ദം വളർത്തട്ടെ ഞങ്ങളിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലെബാനോനിന്റെ മഹത്വവും<br/>കർമ്മേലിൻ സൽഫലപൂർത്തിയും<br/>ശാരോൻഗിരിയുടെ ശോഭയും<br/>നിൻജനത്തിനു നൽകേണമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഭംഗമില്ലാത്ത പ്രത്യാശയിൽ<br/>തുംഗമോദേനയിജ്ജീവിത<br/>രംഗം സുമംഗളമാക്കുവാൻ<br/>സംഗതിയാക്കുക നായക!</lines>
+    </verse>
+  </lyrics>
+</song>

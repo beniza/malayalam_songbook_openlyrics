@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:56">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തുവിൻ സന്നിധിയിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തുവിൻ സന്നിധിയിൽ കൃപയെഴും തൻ നിഴലിൽ<br/>പാർക്കും ഞാൻ തന്നരികിൽ കീർത്തനം പാടി മുദാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശോധന നാളുകളിൽ വേദന വേളകളിൽ<br/>സാന്ത്വനമൊഴികളാൽ സങ്കടമകറ്റി<br/>സന്തോഷമരുളിടും താൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകസൗഭാഗ്യങ്ങളോ ശോകത്തിൻ മാർഗ്ഗങ്ങളാം<br/>ശാശ്വതശാന്തിയെൻ ക്രിസ്തുവിലൊഴികെ<br/>വേറെങ്ങും ലഭിക്കയില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദുഃഖിതർക്കാലംബം താൻ സൗഖ്യദായകൻ താൻ<br/>കഠിനമാം വ്യഥകളാൽ കലങ്ങിയമനസ്സിന്നാനന്ദ<br/>വല്ലഭൻ താൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിത്യമാം പാർപ്പിടത്തിൽ എത്തിടും നാൾവരെ ഞാൻ<br/>വിശ്രമമെന്നിയേ പ്രവർത്തിക്കും<br/>തൻതിരുനാമ മഹത്വത്തിനായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

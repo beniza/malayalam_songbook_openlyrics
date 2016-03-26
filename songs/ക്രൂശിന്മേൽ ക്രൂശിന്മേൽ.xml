@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>ക്രൂശിന്മേൽ ക്രൂശിന്മേൽ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രൂശിന്മേൽ ക്രൂശിന്മേൽ കാണുന്നതാരിതാ<br/>പ്രാണനാഥൻ പ്രാണനാഥൻ എൻപേർക്കായ് ചാകുന്നു!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആത്മാവേ പാപത്തിൻ കാഴ്ച നീ കാണുക<br/>ദൈവത്തിൻ പുത്രനീ ശാപത്തിലായല്ലോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇത്രമാം സ്നേഹത്തെ എത്രനാൾ തള്ളി ഞാൻ<br/>ഈ മഹാ പാപത്തെ ദൈവമേ ഓർക്കല്ലേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപത്തെ സ്നേഹിപ്പാൻ ഞാനിനി പോകുമോ<br/>ദൈവത്തിൻ പൈതലായ് ജീവിക്കും ഞാനിനി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കഷ്ടങ്ങൾ വന്നാലും നഷ്ടങ്ങൾ വന്നാലും<br/>ക്രൂശിന്മേൽ കാണുന്ന സ്നേഹത്തെ ഓർക്കും ഞാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പാപത്തിൻ ശോധന ഭീമമായ് വരുമ്പോൾ<br/>ക്രൂശിന്മേൽ കാണുന്ന സ്നേഹത്തെ ഓർക്കും ഞാൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>പാപത്തിൻ ഓളങ്ങൾ സാധുവെ തള്ളുമ്പോൾ<br/>ക്രൂശിന്മേൽ കാണുന്ന സ്നേഹത്തെ ഓർക്കും ഞാൻ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ശത്രുത്വം വർദ്ധിച്ചാൽ പീഡകൾ കൂടിയാൽ<br/>ക്രൂശിന്മേൽ കാണുന്ന സ്നേഹത്തെ ഓർക്കും ഞാൻ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>ആത്മാവേ ഓർക്ക നീ ഈ മഹാ സ്നേഹത്തെ<br/>ദൈവത്തിൻ പുത്രൻ ഈ സാധുവെ സ്നേഹിച്ചു.</lines>
+    </verse>
+  </lyrics>
+</song>

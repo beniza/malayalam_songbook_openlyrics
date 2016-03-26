@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>യേശുവിൻ സാക്ഷികൾ നാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവിൻ സാക്ഷികൾ നാം<br/>സുവിശേഷത്തിൻ സേനകൾ നാം<br/>ജയ് ജയ ഗീതം ശുഭനാദം<br/>സുവിശേഷം (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തെ വെറുക്കുന്നു<br/>ദൈവം പാപിയെ സ്നേഹിക്കുന്നു<br/>നല്ല സന്ദേശം നമ്മുടെ ദേശം<br/>എങ്ങുമേ അറിയിക്ക നാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദൈവത്തിൻ മഹത് സ്നേഹം<br/>ഏകജാതനെത്തന്ന സ്നേഹം<br/>കൽമനം മാറ്റും നന്മകളൂറ്റും<br/>കൃപയുടെയുറവിടമാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലജ്ജിതരാകേണ്ട<br/>ലവലേശവും ഭയം വേണ്ടാ<br/>ദൈവിക ശക്തി പാപിക്കു മുക്തി<br/>നൽകുന്നു സുവിശേഷം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വേറൊരു സുവിശേഷം<br/>ഇല്ല പാരിതിലിന്നശേഷം<br/>പാപികൾ സ്വർഗ്ഗം പൂകുന്നമാർഗ്ഗം<br/>മറ്റില്ലെന്നറിയിക്ക നാം.</lines>
+    </verse>
+  </lyrics>
+</song>

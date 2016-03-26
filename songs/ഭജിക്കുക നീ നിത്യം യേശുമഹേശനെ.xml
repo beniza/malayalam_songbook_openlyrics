@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:31">
+  <properties>
+    <titles>
+      <title>ഭജിക്കുക നീ നിത്യം യേശുമഹേശനെ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഭജിക്കുക നീ നിത്യം യേശുമഹേശനെ<br/>യേശുമഹേശനെ നാക നിവാസനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദേവകൾ വണങ്ങിടും ദീനദയാലുവെ<br/>സദയമീ നമ്മെക്കാക്കും സൽഗുണസിന്ധുവെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മരിയയിലവതാരം ചെയ്തൊരു നാഥനെ<br/>മലയതിൽ ബലി ചെയ്ത മർത്യശരീരനെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മാനുവേലാഹ്വയം പൂണ്ട മഹേശനെ<br/>മന്നിടം ത്രിദിവമായ് മാറ്റിടും മർത്യനെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>താരകം കരങ്ങളിൽ താങ്ങിടും നാഥനെ<br/>തരണിപോലവനിയിൽ വന്നിടും വന്ദ്യനെ.</lines>
+    </verse>
+  </lyrics>
+</song>

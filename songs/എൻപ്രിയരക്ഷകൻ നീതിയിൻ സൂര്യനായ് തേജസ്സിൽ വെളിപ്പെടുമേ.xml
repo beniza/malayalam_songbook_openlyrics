@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>എൻപ്രിയരക്ഷകൻ നീതിയിൻ സൂര്യനായ് തേജസ്സിൽ വെളിപ്പെടുമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻപ്രിയരക്ഷകൻ നീതിയിൻ സൂര്യനായ് തേജസ്സിൽ വെളിപ്പെടുമേ<br/>താമസമെന്നിയേ മേഘത്തിൽ വരും താൻ<br/>കാന്തയാമെന്നെയും ചേർത്തിടും നിശ്ചയമായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യെരൂശലേമിൽ തെരുവിലൂടെ ക്രൂശുമരം ചുമന്നു<br/>കാൽവറിയിൽ നടന്നു പോയവൻ<br/>ശോഭിത പട്ടണത്തിൽ മുത്തുകളാലുള്ള<br/>വീടുകൾ തീർത്തിട്ടു വേഗത്തിൽ വരുമവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആനന്ദപുരത്തിലെ വാസം ഞാനോർക്കുമ്പോൾ<br/>ഇഹത്തിലെ കഷ്ടം സാരമോ?<br/>പ്രത്യാശാഗാനങ്ങൾ പാടി ഞാൻ നിത്യവും<br/>സ്വർഗ്ഗീയ സന്തോഷമിഹത്തിലുണ്ടിന്നലേക്കാൾ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നീതിസൂര്യൻ വരുമ്പോൾ തൻപ്രഭയിൻ കാന്തിയാൽ<br/>എൻഇരുൾനിറം മാറിടുമെ രാജരാജപ്രതിമയെ<br/>ധരിപ്പിച്ചെന്നെ തൻ കൂടവെയിരുത്തുന്ന രാജാവു വേഗം വരും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സന്താപം തീർത്തിട്ടു അന്തമില്ലായുഗം കാന്തനുമായി വാഴുവാൻ<br/>ഉള്ളം കൊതിക്കുന്നെ പാദങ്ങൾ പൊങ്ങുന്നെ<br/>എന്നിങ്ങു വന്നെന്നെ ചേർത്തിടും പ്രേമകാന്തൻ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:18">
+  <properties>
+    <titles>
+      <title>കൂരിരുൾ നിറഞ്ഞ ലോകത്തിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കൂരിരുൾ നിറഞ്ഞ ലോകത്തിൽ<br/>തേജസ്സായി ദേവാ നീ വന്നു<br/>സ്തുതി മഹിമ കർത്താവിന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിഷ്കളങ്കയാഗമായ് ക്രൂശിലെൻ പരൻ<br/>അമൂല്യരക്തമേകി മുക്തി മാർഗ്ഗമായ്<br/>എന്തു ഞാനിതിന്നു ബദലായേകിടും പ്രഭോ!<br/>സ്തുതി മഹിമ കർത്താവിന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മൃത്യുവെ തകർത്തു ഹാ! എന്തൊരത്ഭുതം<br/>ഭീതിപോക്കി പ്രീതിയേകിയുള്ളത്തിൽ<br/>താതൻ ചാരേ പക്ഷവാദം ചെയ്‌വതും നീയേ<br/>സ്തുതി മഹിമ കർത്താവിന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഗാനം പാടി വാഴ്ത്തിടും മോദമോടെ ഞാൻ<br/>വൻകടങ്ങൾ നിൻ കരങ്ങൾ തീർത്തതാൽ<br/>വാനിൽ വേഗം വന്നിടും നിന്നന്തികേ ചേർപ്പാൻ<br/>സ്തുതി മഹിമ കർത്താവിന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

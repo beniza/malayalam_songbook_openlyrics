@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>അനുഗമിക്കും ഞാനേശുവിനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അനുഗമിക്കും ഞാനേശുവിനെ<br/>അനുദിനവും അത്യാനന്ദമായ്<br/>അനുഗ്രഹത്താലെന്നെ നിറച്ചിടുന്ന<br/>അനുപമ സ്നേഹിതൻ താൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹല്ലേലുയ്യാ ഗീതം പാടാം<br/>തുല്യമില്ലാനാമം പാടാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവനറിയാതെയൊന്നുമെന്നിൽ<br/>അനുവദിക്കില്ല ഇന്നു മന്നിൽ<br/>അതുമഖിലം എൻ നന്മകൾക്കായ്<br/>അനുദിനം നല്കിടും താൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിഷമതകൾ ഹാ! ഏറിടുകിൽ<br/>വിലപിക്കയെന്തിന്നീയുലകിൽ<br/>വിജയിതനാമെന്നേശുവെല്ലാ<br/>വിനകളുമകറ്റുമല്ലോ G.K.</lines>
+    </verse>
+  </lyrics>
+</song>

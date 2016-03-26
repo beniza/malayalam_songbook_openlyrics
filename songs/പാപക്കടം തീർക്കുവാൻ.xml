@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>പാപക്കടം തീർക്കുവാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2 v9 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാപക്കടം തീർക്കുവാൻ യേശുവിന്റെ രക്തം മാത്രം<br/>പാപബന്ധം അഴിപ്പാൻ യേശുവിന്റെ രക്തം മാത്രം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹാ! യേശുക്രിസ്തുവേ! ദൈവത്തിന്റെ കുഞ്ഞാടേ!<br/>രക്ഷിക്കുന്നു പാപിയെ നിന്റെ തിരുരക്തം മാത്രം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വീണ്ടെടുപ്പിൻ വിലയായ് യേശുവിന്റെ രക്തം മാത്രം<br/>പുണ്യമില്ലാ പാപിക്കായ് യേശുവിന്റെ രക്തം മാത്രം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദൈവത്തോടു നിരപ്പു യേശുവിന്റെ രക്തം മാത്രം<br/>വേറെയില്ല യോജിപ്പു യേശുവിന്റെ രക്തം മാത്രം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സാത്താനെ ജയിക്കുവാൻ യേശുവിന്റെ രക്തം മാത്രം<br/>തീയമ്പിനെ കെടുത്താൻ യേശുവിന്റെ രക്തം മാത്രം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പുത്രത്വത്തിൻ ആധാരം യേശുവിന്റെ രക്തം മാത്രം<br/>ശുദ്ധാത്മാവിൻ പ്രാകാരം യേശുവിന്റെ രക്തം മാത്രം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ആത്മജീവ പാനീയം യേശുവിന്റെ രക്തം മാത്രം<br/>സ്വർഗ്ഗഭാഗ്യ നിശ്ചയം യേശുവിന്റെ രക്തം മാത്രം</lines>
+    </verse>
+    <verse name="v8">
+      <lines>എന്തു ഞാൻ പ്രശംസിക്കും യേശുവിന്റെ രക്തം മാത്രം<br/>ഇങ്ങും സ്വർഗ്ഗത്തോളവും യേശുവിന്റെ രക്തം മാത്രം</lines>
+    </verse>
+    <verse name="v9">
+      <lines>എന്റെ പ്രിയ യേശുവേ രക്തമണവാളനേ<br/>രക്ഷിച്ചതും ഈ എന്നെ നിന്റെ തിരുരക്തം മാത്രം.</lines>
+    </verse>
+  </lyrics>
+</song>

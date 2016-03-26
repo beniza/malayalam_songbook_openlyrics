@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:57">
+  <properties>
+    <titles>
+      <title>ബലഹീനനാകുമെന്നെ താങ്ങും നല്ല നാഥനേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ബലഹീനനാകുമെന്നെ താങ്ങും നല്ല നാഥനേ!<br/>പലകോടി സ്തോത്രം പാടി നിന്നെ വാഴ്ത്തിടുന്നു ഞാൻ<br/>സ്തോത്രം സ്തോത്രമെന്നും സ്തോത്രമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നെത്തേടി നീ മന്നിൽ വന്നെന്നോ!<br/>എന്നെ സ്നേഹിച്ചാകയാൽ തൻ<br/>ജീവൻ തന്നെന്നോ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അറിവുകേടുകൾ അധികമുണ്ടെന്നിൽ<br/>അറിഞ്ഞു നീ നിൻ അരികിലെന്നെ<br/>ചേർത്തണയ്ക്കണേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തോൽവിയേയുള്ളു എന്നിലോർക്കുകിൽ<br/>കാൽവറിയിലെ വിജയി നീയെൻ<br/>കൈ പിടിക്കണേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സേനയാലല്ല സ്നേഹത്താലല്ലോ<br/>ജയകിരീടമണിഞ്ഞു വാഴും<br/>രാജൻ നീയല്ലോ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഒരിക്കൽ നിന്നെ ഞാൻ നേരിൽ കണ്ടിടും<br/>ശരിക്കു തീരുമന്നു മാത്ര-<br/>മെൻ വിഷാദങ്ങൾ.</lines>
+    </verse>
+  </lyrics>
+</song>

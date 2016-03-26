@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T16:42:36">
+  <properties>
+    <titles>
+      <title>അ അ അ ആ എൻ പ്രിയൻ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>&lt;fRachana&gt;അ അ അ ആ എൻ പ്രിയൻ<br/>ഒ ഒ ഒ ഓ നല്ലവൻ!&lt;/f&gt;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&lt;fRachana&gt;ഈ വിധം സ്നേഹിതൻ പാരിലാർ<br/>വീണ്ടെടുത്താനെന്നെത്തൻ ചോരയാൽ&lt;/f&gt;</lines>
+    </verse>
+    <verse name="v3">
+      <lines>&lt;fRachana&gt;കൈവിടുകയില്ലവനല്ലലിൽ വീഴുകിൽത്തൻ ശാശ്വത കൈകളിൽ&lt;/f&gt;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>&lt;fRachana&gt;ചൂടെഴുന്ന ശോധനവേളയിൽ കൂടെ വന്നു ചേരുമച്ചൂളയിൽ&lt;/f&gt;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>&lt;fRachana&gt;കൂട്ടിനുണ്ട് കൂടെന്നുമിദ്ധരേ വീട്ടിലെത്തി വിശ്രമിക്കും വരെ&lt;/f&gt;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>&lt;fRachana&gt;നശ്വരമല്ലാത്തൊരു ദേഹവും ഇശ്ശരീരം മാറ്റിത്താൻ തന്നിടും&lt;/f&gt;</lines>
+    </verse>
+    <verse name="v7">
+      <lines>&lt;fRachana&gt;ഹല്ലേലുയ്യാ പാടിടും മോദമായ് നല്ലവനാം എൻപ്രിയൻ മൂലമായ്&lt;/f&gt;</lines>
+    </verse>
+  </lyrics>
+</song>

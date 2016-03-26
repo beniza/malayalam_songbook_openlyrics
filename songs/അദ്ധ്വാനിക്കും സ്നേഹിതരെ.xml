@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>അദ്ധ്വാനിക്കും സ്നേഹിതരെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അദ്ധ്വാനിക്കും സ്നേഹിതരെ<br/>ഭാരം ചുമപ്പവരെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആശ്വാസം നിങ്ങൾക്കിങ്ങേകിടുവാനായ്<br/>രക്ഷകനേശു വിളിച്ചിടുന്നു<br/>ആശയോടേശുവിൻ ചാരേ വരൂ<br/>ആശ്വാസം നൽകുമവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിങ്ങൾ തൻക്ലേശങ്ങളേതാകിലും<br/>പാപമോ രോഗമോ മറ്റെന്താകിലും<br/>വിശ്വാസത്തോടെ കടന്നുവരൂ<br/>ക്ലേശങ്ങൾ നീക്കുമവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നന്മചെയ്‌വാൻ നിങ്ങൾക്കാശയെങ്കിലും<br/>തിന്മയതല്ലോ ചെയ്തിടുന്നു<br/>പാപമതിന്നുടെ കാരണമെ<br/>പാപത്തെ നീക്കുമവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വ്യർത്ഥവിചാരത്തിൽ വീണുലയാതെ കർത്തനാമേശുവിലാശ്രയിപ്പിൻ<br/>നിത്യനിരാമയ സ്വർഗ്ഗസുഖം<br/>നിശ്ചയം നൽകുമവൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇതു സുപ്രസാദദിനം പ്രിയരെ<br/>ഇതുതന്നെ കരുണാസമയം<br/>കാൽവറിയിൽ പൂർത്തിയാക്കിയതാം<br/>രക്ഷക്കായ്‌ വന്നിടുക.</lines>
+    </verse>
+  </lyrics>
+</song>

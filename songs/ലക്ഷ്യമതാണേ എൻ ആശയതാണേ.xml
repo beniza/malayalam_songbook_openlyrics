@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>ലക്ഷ്യമതാണേ എൻ ആശയതാണേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ലക്ഷ്യമതാണേ എൻ ആശയതാണേ<br/>എൻ ജീവനാഥനെ ഞാനെന്നു കാണുമോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ക്രൂശിൽ യാഗമായ് തൻ ചോരയൂറ്റിയ<br/>എൻ ജീവനാഥനെ ഞാനെന്നു കാണുമോ<br/>ദേവ ദേവനെ എൻത്യാഗവീരനെ<br/>എൻജീവിതസുഖം നീ മാത്രമാകുന്നേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പ്രത്യാശനാടിനെ ഞാനോർത്തിടുന്നേരം<br/>പ്രത്യാശയെന്നുള്ളിൽ പൊങ്ങിടുന്നിതാ<br/>നിത്യസൗഭാഗ്യം ലഭ്യമാകുവാൻ<br/>എത്രകാലം ഞാൻ കാത്തിടേണമോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പൂർവ്വപിതാക്കൾ നോക്കി പാർത്തതാം<br/>നിത്യസൗധത്തിൽ നാം എത്തിടുവാനായ്<br/>യുവസോദരങ്ങളെ യുവ കേസരികളെ<br/>നാം ഒന്നുചേരുക ജയക്കൊടി ഉയർത്തുക</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഈ പാഴ്മരുഭൂമി എനിക്കാനന്ദമല്ലേ<br/>സീയോൻ പുരിയതോ അധികകാമ്യമേ<br/>എന്നു ചെന്നു ഞാൻ വീട്ടിൽ ചേരുമോ<br/>അന്നു തീരുമേ ഈ പാരിൻ ദുരിതം</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:57">
+  <properties>
+    <titles>
+      <title>കരുണ നിറഞ്ഞ കടലേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുണ നിറഞ്ഞ കടലേ<br/>കാലാകാലമെല്ലാം എന്നെ കാത്തിടണേ<br/>കർത്താവേ കൈവിടാതെ<br/>കരുണ നിറഞ്ഞ കടലേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഓളങ്ങൾ മലപോലുയർന്നിടുന്ന<br/>വേളയിലും വൻവിനകളിലും<br/>ചിറകടിയിൽ തവ നിഴലിൽ<br/>അഭയം തരും നീയെനിക്ക്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മാരുതനെതിരായ് വീശിടിലും<br/>മാറയിന്നനുഭവമേറിടിലും<br/>മനസ്സലിഞ്ഞു മറവിടത്തിൽ<br/>മന്നവാ എന്നെ കാത്തിടണേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വൈരികൾ നടുവിൽ വിരുന്നൊരുക്കി<br/>ധൈര്യമായെന്നെ വഴി നടത്തും<br/>പരമനാഥാ! നീ നിയതം<br/>പിരിയാതരികിൽ പാർക്കണമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കാൽവറി കുരിശതിലെനിക്കായി<br/>വാവിട്ടു കരഞ്ഞു മരിച്ചവന്നായ്<br/>എരിഞ്ഞുതീർന്നു ധരയിൽനിന്നും<br/>പിരിഞ്ഞുപോവതെന്നാഗ്രഹമാം.</lines>
+    </verse>
+  </lyrics>
+</song>

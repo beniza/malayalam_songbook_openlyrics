@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>സീയോൻ മണാളനെ ശാലേമിൻ പ്രിയനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സീയോൻ മണാളനെ ശാലേമിൻ പ്രിയനെ<br/>നിന്നെക്കാണുവാൻ നിന്നെക്കാണുവാൻ<br/>എന്നെത്തന്നെ ഒരുക്കുന്നു<br/>നിൻരാജ്യത്തിൽ വന്നു വാഴുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പരനേ നിൻ വരവേതു നേരത്തെന്നു<br/>അറിയുന്നില്ല ഞാൻ അറിയുന്നില്ല ഞാൻ<br/>അനുനിമിഷവും അതികുതുകമായ്<br/>നോക്കിപ്പാർക്കുന്നേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കണ്ണുനീർ നിറഞ്ഞ ലോകത്തു നിന്നു<br/>ഞാൻ പോയ് മറയുമേ പോയ് മറയുമേ<br/>കണ്ണിമയക്കും നൊടിനേരത്തു<br/>ചേരുമേ വിൺപുരിയതിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സഭയാം കാന്തയെ ചേർക്കുന്ന നേരത്ത്<br/>എന്താനന്ദമേ... എന്താനന്ദമേ<br/>പ്രിയന്റെ മാർവ്വിൽ<br/>ഞാൻ ചാരും സമയത്ത് പരമാനന്ദമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കുഞ്ഞാട്ടിൻ രക്തത്താൽ കഴുകപ്പെട്ടവർ<br/>എടുക്കപ്പെടുമല്ലോ എടുക്കപ്പെടുമല്ലോ<br/>ആ മഹൽ സന്തോഷ ശോഭനനാളതിൽ<br/>ഞാനും കാണുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

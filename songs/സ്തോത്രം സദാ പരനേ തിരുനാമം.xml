@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:35">
+  <properties>
+    <titles>
+      <title>സ്തോത്രം സദാ പരനേ തിരുനാമം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രം സദാ പരനേ തിരുനാമം<br/>വാഴ്ത്തിപ്പുകഴ്ത്തിടും ഞാൻ<br/>ധാത്രിയിലെ മർത്യഗോത്രമശേഷമായ്<br/>കീർത്തിക്കും നിന്നുടെ കീർത്തിയെഴും നാമം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സംഖ്യയില്ലാ ഗണങ്ങൾ സദാ തവ<br/>സന്നിധി തന്നിൽ നിന്നു<br/>പങ്കമകന്ന നിൻ തങ്കനാമം വാഴ്ത്തി<br/>സങ്കടമെന്യേ സംസേവ ചെയ്യുന്നവർ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവനറ്റോരുലകമിതിന്നു നിൻ<br/>ജീവനരുളിടുവാൻ<br/>ദ്യോവിൻ മണിവിളക്കായിരുന്നുള്ള നിൻ<br/>പാവന സൂനുവെ ഭൂവിലയച്ചതാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിശ്വസ്ത നായകാ! നീ<br/>ന്നത്യന്തമാമൈശ്വര്യ കാരുണ്യങ്ങൾ<br/>ക്രിസ്തുവിൽ വ്യാപരിപ്പിച്ചവണ്ണം നിജ<br/>ദത്താവകാശത്തിൻ പുത്രർക്കും നൽകി നീ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്വർഗ്ഗം ഭൂവനതല മിവയിലെ<br/>വർഗ്ഗമെല്ലാം പിന്നെയും<br/>ക്രിസ്തുവിലൈക്യപ്പെടുത്തും വ്യവസ്ഥ നിൻ<br/>ശുദ്ധിമാന്മാർക്കറിയിച്ചുകൊടുത്തു നീ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്വർലോകസംബന്ധമാ<br/>മാശിസ്സുകളെല്ലാറ്റിനാലും ഭവാൻ<br/>ചൊല്ലെഴും പുത്രനിലാശീർവ്വദിച്ച നിൻ<br/>നല്ല നാമമെന്നും ചൊല്ലി വാഴ്ത്തിടുവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

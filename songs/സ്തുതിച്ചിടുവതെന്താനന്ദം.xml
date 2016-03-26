@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:48">
+  <properties>
+    <titles>
+      <title>സ്തുതിച്ചിടുവതെന്താനന്ദം!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതിച്ചിടുവതെന്താനന്ദം!<br/>യേശുദേവനെ<br/>സ്തുതിച്ചിടുവതെന്താനന്ദം!<br/>ശ്രീയേശുദേവനെ<br/>സ്തുതിച്ചിടുവതെന്താനന്ദം!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മോദമോടെ നാമേവരും<br/>തിരുപ്പാദം തന്നിലത്യാദരം<br/>വീണു വന്ദനം ചെയ്തുകൊണ്ടു<br/>സന്തോഷ സംഗീതം ചേർന്നുപാടി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാടുകേറിയൊരാടുപോലെ<br/>ഞാനാടലോടുഴന്നീടവേ<br/>തേടിവന്നെനിക്കെന്നുമാശ്രയം<br/>നേടി മാറിലണച്ച ദേവനെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആയിരം പതിനായിരങ്ങളി-<br/>ലാരിലുമതിസുന്ദരൻ<br/>ആയിടുമഖിലാണ്ഡനായക-<br/>നാശ്രിതേശ്വരനേശു ദേവനെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പെരിയ ഖേദവും പീഡനങ്ങളും<br/>പെരുകി വന്നിടും വേളയിൽ<br/>തിരുച്ചിറകതിന്നുള്ളിലാശ്രയമരുളി<br/>രക്ഷതരുന്ന ദേവനെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ലോകജാതികളെങ്ങുമേവരു-<br/>മാകെയാകുലരെങ്കിലും<br/>ആശ്രിതർക്കമിതാർത്തിതീർത്തിടു-<br/>മാർത്ത നാഥനാമേശുദേവനെ.</lines>
+    </verse>
+  </lyrics>
+</song>

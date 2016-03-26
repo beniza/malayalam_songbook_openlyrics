@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:38">
+  <properties>
+    <titles>
+      <title>ദൈവകൃപ മനോഹരമേ എന്റെ പ്രാണനായകൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവകൃപ മനോഹരമേ എന്റെ പ്രാണനായകൻ<br/>എനിക്കു ചെയ്യുന്ന കൃപ മനോഹരമേ<br/>സുരദേവ നന്ദനനേ! എന്റെ ദുരിതമൊക്കെയും<br/>ചുമന്നൊഴിച്ച നിൻകൃപ മനോഹരമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൊടുംപാപിയായിരുന്ന എന്റെ<br/>കഠിനപാപങ്ങൾ മോചനം ചെയ്ത കൃപ മനോഹരമേ<br/>ശത്രുവായിരുന്നയെന്നെ നിന്റെ<br/>പുത്രനാക്കി നീ തീർത്ത നിൻകൃപ എത്ര മനോഹര</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പല പീഡകളെതിർത്തു വരും<br/>കാലമെനിക്കു സഹിഷ്ണുത തരുംകൃപ മനോഹരമേ<br/>ബലഹീനനാകുമെന്നിൽകര<br/>ളലിഞ്ഞനുദിനം താങ്ങി നടത്തും കൃപ മനോഹരമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നാശലോകം തന്നിലെന്നെ സൽപ്ര<br/>കാശമായ് നടത്തിടും നിൻകൃപയെത്ര മനോഹരമേ<br/>അരിസഞ്ചയനടുവിൽഎന്നെ<br/>തിരുച്ചിറകുള്ളിൽ മറച്ചുകാക്കുന്ന കൃപ മനോഹരമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ചതിനിറഞ്ഞ ലോകമിതിൽ നിന്റെ പുതുജീവനിൽ ഞാൻ<br/>സ്ഥിതി ചെയ്‌വാൻ കൃപയധികം നൽകണമേ<br/>പരിശ്രമത്തിനാലെയൊന്നും എന്നാൽ പരമനാഥനേ,<br/>കഴികയില്ല നിൻ കൃപ ചൊരിയണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

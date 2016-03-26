@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:05">
+  <properties>
+    <titles>
+      <title>ഏതൊരു കാലത്തും ഏതൊരു നേരത്തും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഏതൊരു കാലത്തും ഏതൊരു നേരത്തും<br/>യേശവെ നിന്നെ ഞാൻ സ്തുതിക്കും<br/>ഇമ്പമാണെങ്കിലും തുമ്പമാണെങ്കിലും<br/>എൻപരാ! നിന്നെ ഞാൻ സ്തുതിക്കും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എൻ ഭയം നീക്കി എന്നഘം പോക്കി<br/>എന്നെ നന്നാക്കി നീ നിൻ മകനാക്കി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നല്ലവൻ നീയേ വല്ലഭൻ നീയേ<br/>അല്ലലേറുമ്പോളെന്നാശ്രയം നീയേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ബാലസിംഹങ്ങൾ വിശന്നിരിക്കുമ്പോൾ<br/>പാലനം നൽകും നീ നിൻസുതർക്കെന്നും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിന്നെ നോക്കുന്നോർ ലജ്ജിതരാകാ<br/>നിൻ ജനം നിത്യം പ്രശോഭിതരാകും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആദിയും നീയേ അനാദിയും നീയേ<br/>അന്തവും നീയേയെൻ സ്വന്തവും നീയേ.</lines>
+    </verse>
+  </lyrics>
+</song>

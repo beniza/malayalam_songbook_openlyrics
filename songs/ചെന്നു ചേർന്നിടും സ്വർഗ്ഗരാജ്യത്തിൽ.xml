@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>ചെന്നു ചേർന്നിടും സ്വർഗ്ഗരാജ്യത്തിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ചെന്നു ചേർന്നിടും സ്വർഗ്ഗരാജ്യത്തിൽ<br/>അന്നു തീർന്നിടും സർവ്വ ദുഃഖവും (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മുഖാമുഖമായ് കണ്ടിടുമെൻ പ്രിയൻ പൊന്മുഖം ഞാൻ അന്നു<br/>മുത്തം ചെയ്തിടും യുഗായുഗമായ് പാർത്തിടും<br/>തൻരാജ്യേ പാടിടും സ്വർഗ്ഗീതങ്ങൾ ആമോദത്തോടെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ചെന്നു ചേർന്നിടും സ്വർഗ്ഗരാജ്യത്തിൽ<br/>ഈ മണ്മയ ശരീരം വിണ്മയമാകും (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചെന്നു ചേർന്നിടും സ്വർഗ്ഗരാജ്യത്തിൽ<br/>അന്നു കണ്ടിടും തൻ വൻ മുറിവുകൾ (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ചെന്നു ചേർന്നിടും സ്വർഗ്ഗരാജ്യത്തിൽ<br/>അന്നു പാടിടും ഹാ.. ഹല്ലേലുയ്യാ (2)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ചെന്നു ചേർന്നിടും സ്വർഗ്ഗരാജ്യത്തിൽ<br/>അന്നു തന്മുഖം കണ്ടാരാധിച്ചിടും.(2)</lines>
+    </verse>
+  </lyrics>
+</song>

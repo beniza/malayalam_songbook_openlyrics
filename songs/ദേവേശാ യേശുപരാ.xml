@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:32">
+  <properties>
+    <titles>
+      <title>ദേവേശാ! യേശുപരാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദേവേശാ! യേശുപരാ! ജീവനെനിക്കായ് വെടിഞ്ഞോ!<br/>ജീവനറ്റ പാപികൾക്കു നിത്യജീവൻ<br/>കൊടുപ്പാനായ് നീ മരിച്ചോ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഗതസമന പൂവനത്തിൽ അധികഭാരം വഹിച്ചതിനാൽ<br/>അതിവ്യഥയിൽ ആയിട്ടും താതനിഷ്ടം നടപ്പതിന്നനുസരിച്ചു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അന്നാസിൻ അരമനയിൽ മന്നവാ! നീ വിധിക്കപ്പെട്ടു<br/>കന്നങ്ങളിൽ കരങ്ങൾകൊണ്ടുമന്നാ<br/>നിന്നെ അടിച്ചവർ പരിഹസിച്ചു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പീലാത്തോസെന്നവനും വിലമതിച്ചു കുരിശേൽപ്പിച്ചു<br/>തലയിൽ മുള്ളാൽ മുടിയും വച്ചു<br/>പലർ പല പാടുകൾ ചെയ്തു നിന്നെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ബലഹീനനായ നിന്നെ വലിയ കൊലമരം ചുമത്തി<br/>തലയോടിട മലമുകളിൽ അലിവില്ലാതയ്യോ<br/>യൂദർ നടത്തി നിന്നെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>തിരുക്കരങ്ങൾ ആണികൊണ്ടു മരത്തോടു ചേർത്തടിച്ചു<br/>ഇരുവശവും കുരിശുകളിൽ ഇരുകള്ളർ<br/>നടുവിൽ നീ മരിച്ചോ പരാ!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>കഠിനദാഹം പിടിച്ചതിനാൽ കാടിവാങ്ങാനിടയായോ<br/>ഉടുപ്പുകൂടി ചിട്ടിയിട്ടു ഉടമ്പും<br/>കുത്തിത്തുറന്നോ രുധിരം ചിന്തി</lines>
+    </verse>
+    <verse name="v8">
+      <lines>നിൻമരണം കൊണ്ടെന്റെ വൻനരകം നീയകറ്റി<br/>നിൻമഹത്വം തേടിയിനി എൻകാലം<br/>കഴിപ്പാൻ കൃപചെയ്യണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:00">
+  <properties>
+    <titles>
+      <title>അൻപോടെന്നെ പോറ്റും പ്രിയന്റെ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അൻപോടെന്നെ പോറ്റും പ്രിയന്റെ<br/>ഇമ്പമേറും സ്വരം കേട്ടു ഞാൻ<br/>തുമ്പമകറ്റി സ്വരം കേട്ടു ഞാൻ<br/>അൻപു നിറഞ്ഞയെന്നേശുവെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇത്രമാ സ്നേഹത്തെ<br/>എങ്ങനെ വർണ്ണിക്കും എൻ പ്രിയാ(2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നൊന്തു നീറുന്നെൻ മാനസത്തെ<br/>നാഥൻ ശാന്തിതന്നു രക്ഷിച്ചു<br/>കണ്ണുനീർ തൂകിടും നേരത്തും<br/>കാന്തൻ പൊൻകരത്താൽ തുടച്ചു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>രോഗത്താൽ ഭാരപ്പെട്ടിടുമ്പോൾ<br/>രോഗത്തിൻ വൈദ്യനാം പ്രിയനിൽ<br/>മാറോടു ചേർന്നു ഞാൻ പാടിടാം<br/>മന്നിതിൽ പ്രിയനെ വാഴ്ത്തിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മുൾമുടി ചൂടി എനിക്കായി<br/>മൂന്നാണിമേൽ നാഥൻ തൂങ്ങിയേ<br/>മുറ്റും എന്നെ കഴുകിടുവാൻ<br/>മുഴുവൻ ചെന്നിണം തന്നവൻ. L.K.</lines>
+    </verse>
+  </lyrics>
+</song>

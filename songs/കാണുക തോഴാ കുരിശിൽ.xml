@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>കാണുക തോഴാ! കുരിശിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാണുക തോഴാ! കുരിശിൽ കാണുക തോഴാ!<br/>കാൽവറിയമ്മാമലയിൽ കാണുക തോഴാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കാരിരുമ്പിൻ ആണി മൂന്നിൽ കാൽകരങ്ങൾ ചേർന്നു തൂങ്ങും<br/>കാരുണ്യ കടാക്ഷമേവം കാണുക തോഴാ! കുരിശിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോക പാപമാകവേ തൻ ഏകജാതൻ തന്റെ തോളിൽ<br/>ആവഹിച്ചൊഴിപ്പതിന്നായ് നാകനാഥൻ മോദമാർന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആശയറ്റോരേഴകൾ പ്രത്യാശയാൽ നിറഞ്ഞുമേവാൻ<br/>ആശ്രയ വിഹീനനായിട്ടേശു നാഥൻ തൂങ്ങിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

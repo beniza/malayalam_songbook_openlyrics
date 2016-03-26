@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:37">
+  <properties>
+    <titles>
+      <title>ശ്രീയേശു നാഥന്റെ മഹാത്മ്യമേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ശ്രീയേശു നാഥന്റെ മഹാത്മ്യമേ!<br/>ഹാ എത്രയോ രമ്യമേ!<br/>ആരാലും വർണ്യമല്ലാത്തവണ്ണ<br/>മാണവൻ മാഹാത്മ്യം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മാലിന്യമേശാത്ത ജീവിതവും<br/>മാറാത്ത മാസ്നേഹവും<br/>മാനവപാപ മോചനവും<br/>ശ്രീമാനുവേലിൽ മാത്രം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആയിരമായിരമാളുകളിൽ<br/>ആരിലും സൗന്ദര്യവാൻ<br/>പാരിലുണ്ടാകും മാലുകളാകും<br/>മാറയിൽ മാധുര്യവാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഏതൊരു നേതാവുമീഭൂതലേ<br/>ചാവിന്നുമുൻ വീഴുമേ<br/>നേതാവും മൃത്യുജേതാവും<br/>ക്രിസ്തുനാഥനൊരാൾ മാത്രം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലോകാധിപത്യം ഭരമേൽക്കുവാൻ<br/>ആകെ തൻകീഴാക്കുവാൻ<br/>ഏകാധികാരിയായ് വാഴുവാനും<br/>യോഗ്യനവൻ മാത്രം.</lines>
+    </verse>
+  </lyrics>
+</song>

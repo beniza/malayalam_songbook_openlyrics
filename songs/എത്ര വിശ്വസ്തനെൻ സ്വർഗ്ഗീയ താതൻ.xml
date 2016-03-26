@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:36">
+  <properties>
+    <titles>
+      <title>എത്ര വിശ്വസ്തനെൻ സ്വർഗ്ഗീയ താതൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എത്ര വിശ്വസ്തനെൻ സ്വർഗ്ഗീയ താതൻ<br/>എന്നെ പുലർത്തുമെൻ സ്നേഹനാഥൻ<br/>തൻ മാർവ്വിൽ ചേർത്തണയ്ക്കും ദിവ്യസ്നേഹം<br/>എത്രയോ സാന്ത്വനം നൽകുന്നു ഹാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എത്ര വിശ്വസ്തൻ! എത്ര വിശ്വസ്തൻ!<br/>രാവിലെ തോറും പുതു കരുണ നൽകീടും<br/>എല്ലാവശ്യങ്ങളും തന്നു നടത്തും<br/>എത്ര വിശ്വസ്തൻ എനേശുനാഥൻ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കർത്തൻ നടത്തും എന്നെ പുലർത്തും<br/>ഓരോരോ നാളും തൻ കൃപകളാൽ<br/>വാക്കുമാറാത്ത തൻ വാഗ്ദത്തം തന്ന്<br/>എന്നെ നടത്തുമെൻ സ്നേഹനാഥൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഭാവിയെ ഓർത്തിനി ആകുലമില്ല<br/>നാളെയെ ഓർത്തിനി ഭീതിയില്ല<br/>ഭാരമെല്ലാമെന്റെ നാഥൻ മേലിട്ടാൽ<br/>ഭൂവാസമെത്രയോ ധന്യം ധന്യം!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നന്മയല്ലാതൊന്നുമില്ല തൃക്കൈയിൽ<br/>തിന്മയായൊന്നുമേ ചെയ്യില്ല താൻ<br/>തൻ മക്കൾ നേരിടും ദുഃഖങ്ങളെല്ലാം<br/>വിണ്മഹത്വത്തിനായ് വ്യാപരിക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:13">
+  <properties>
+    <titles>
+      <title>യേശുവേ എൻപ്രാണനായകാ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവേ എൻപ്രാണനായകാ!<br/>ജീവനെനിക്കേകിയോനേ<br/>എൻ സങ്കടങ്ങൾ അറിഞ്ഞെന്റെ<br/>വൻകടങ്ങൾ തീർത്തെന്റെ<br/>കണ്ണുനീർ തുടച്ചല്ലോ നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപിയായ് ഞാൻ ജീവിച്ചപ്പോൾ<br/>പാതതെറ്റി ഓടിയപ്പോൾ<br/>പാലകൻ നീ തേടി ഈ പാതകനടിയാനെ<br/>പാവനമാർഗ്ഗേ ചേർത്തല്ലോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നെ നിന്നിൽ ധന്യനാക്കുവാൻ<br/>വന്നിതോ എന്നുള്ളിൽ രാജനായ്<br/>തന്നിതോ നിൻനീതിയും ദിവ്യമാം സന്തോഷവും<br/>നിത്യമാം സമാധാനവും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഭാരമെന്യേ ജീവിക്കുവാൻ<br/>എൻഭാരമെല്ലാം ചുമന്നവനേ<br/>ആശ്രയം നീ മാത്രമെൻ ആശയിൻ പ്രകാശമേ<br/>ആശിഷം നിൻ കാരുണ്യമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വന്നിടും ഞാൻ അതിവേഗത്തിൽ<br/>എന്നുരച്ചു പോയവനേ<br/>വന്നു നിൻ മഹിമയിൻ രാജ്യമതിൽ ചേർക്കുവാൻ<br/>ആശയാൽ ഞാൻ കാത്തിടുന്നേ</lines>
+    </verse>
+  </lyrics>
+</song>

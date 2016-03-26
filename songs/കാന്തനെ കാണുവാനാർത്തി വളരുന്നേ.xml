@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>കാന്തനെ കാണുവാനാർത്തി വളരുന്നേ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാന്തനെ കാണുവാനാർത്തി വളരുന്നേ<br/>ഇല്ല പ്രത്യാശ മറ്റൊന്നിലും<br/>കണ്ടാലും വേഗം ഞാൻ വന്നീടാമെന്നുര<br/>ചെയ്തപ്രിയൻ വരും നിശ്ചയം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാഴ്മരുഭൂമിയിൽ ക്ലേശം സഹിക്കുകിൽ<br/>നിത്യതുറമുഖത്തെത്തും ഞാൻ<br/>വിശ്രമിച്ചിടും ഞാൻ നിത്യകൊട്ടാരത്തിൽ<br/>നിസ്തുല്യമായ പ്രതാപത്തിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തമ്മിൽ തമ്മിൽ കാണും ശുദ്ധന്മാർ വാനത്തിൽ<br/>കോടി കോടി ഗണം തേജസ്സിൽ<br/>സർവ്വാംഗസുന്ദരൻ ആകുമെൻ പ്രിയനെ<br/>കാണാമതിൻ മദ്ധ്യേ ഏഴയും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഞാൻ നിനക്കുള്ളവൾ നീയെനിക്കുള്ളവൻ<br/>ഇന്നലെയും ഇന്നുമെന്നേക്കും<br/>കണ്ടാൽ മതിവരാ സുന്ദരരൂപനെ<br/>കൂടിക്കാണ്മാൻ വാഞ്ചയേറുന്നേ.</lines>
+    </verse>
+  </lyrics>
+</song>

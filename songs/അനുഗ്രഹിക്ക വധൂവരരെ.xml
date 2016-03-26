@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>അനുഗ്രഹിക്ക വധൂവരരെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അനുഗ്രഹിക്ക വധൂവരരെ ആശീർവദിക്കണമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അനുഗ്രഹമായൊരു കുടുംബമായി<br/>ആത്മിക ഭൗമിക നന്മകളാൽ<br/>ആയുസ്സിൻ നാളെല്ലാം വസിച്ചിടുവാൻ<br/>ആശിഷം നൽക നാഥാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അനുദിന ജീവിത സുഖങ്ങളിലും<br/>ആധികൾ തിങ്ങിടും വേളയിലും<br/>ആശ്രയിച്ചിടുക അവനിലെന്നും<br/>ആരിലും അധികമായി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആശംസിച്ചിടട്ടെ അനുഗ്രഹങ്ങൾ<br/>അബ്രഹാമിൻ ദൈവം നൽകിടട്ടെ<br/>ആയിരമായിരം മംഗളങ്ങൾ ... ..നും ... ... യ്ക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

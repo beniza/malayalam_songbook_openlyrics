@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:39">
+  <properties>
+    <titles>
+      <title>എന്നേശുവേ നിൻ കൃപമതിയാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നേശുവേ നിൻ കൃപമതിയാം<br/>എനിക്കേതു ജീവിതപാതയിലും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എൻ പാപത്തിൽ ഭാരമെല്ലാം<br/>എന്നേക്കുമായ് നീക്കിയല്ലോ<br/>എൻവിലാപം നൃത്തമാക്കി<br/>വൻ പ്രമോദമണിയിച്ചു നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരിശോധന നേരിടുമ്പോൾ<br/>പരിതാപമങ്ങേറിടുമ്പോൾ<br/>പാവനൻ നിൻ പാതയിൽതന്നെ<br/>പോകുവാൻ കൃപയേകണമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മനുജാതിയിലാശ്രയിച്ചാൽ<br/>അനുവേലം നിരാശയല്ലോ<br/>മനുവേലാ നിൻ പദതാരിണ<br/>മാനനീയമനുദിനവും.</lines>
+    </verse>
+  </lyrics>
+</song>

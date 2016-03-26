@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:37">
+  <properties>
+    <titles>
+      <title>എൻപ്രിയനെപ്പോൽ സുന്ദരനായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻപ്രിയനെപ്പോൽ സുന്ദരനായ് ആരെയും ഞാനുലകിൽ<br/>കാണുന്നില്ല മേലാലും ഞാൻ കാണുകയില്ല</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സുന്ദരനാം മനുവേലാ! നിന്നെ പിരിഞ്ഞീ ലോകയാത്ര<br/>പ്രാകൃതരാം ജാരൻമാരെ വരിക്കുമോ വത്സലാ<br/>മണ്ണേപ്രതി മാണിക്യം വെടിയുകില്ല ഞാൻ - ഈ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സർവ്വാംഗസുന്ദരൻ തന്നെ എന്നെ വീണ്ടെടുത്തവൻ<br/>സർവ്വസുഖ സൗകര്യങ്ങൾ അർപ്പിക്കുന്നേ ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യെരുശലേം പുത്രിമാരെൻ ചുറ്റും നിന്നു രാപ്പകൽ<br/>പ്രിയനോടുള്ളനുരാഗം കവർന്നിടുകിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലോകസുഖ സൗകര്യങ്ങളാകുന്ന പ്രതാപങ്ങൾ<br/>മോടിയോടുകൂടിയെന്നെ മാടിവിളിച്ചാൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വെള്ളത്തിൻ കുമിളപോലെ മിന്നിവിളങ്ങിടുന്ന<br/>ജഡികസുഖങ്ങളെന്നെ എതിരേൽക്കുകിൽ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>പ്രേമമെന്നിൽ വർദ്ധിക്കുന്നേ പ്രിയനോടു ചേരുവാൻ<br/>നാളുകൾ ഞാനെണ്ണിയെണ്ണി ജീവിച്ചിടുന്നേ.</lines>
+    </verse>
+  </lyrics>
+</song>

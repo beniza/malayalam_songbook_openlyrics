@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>സ്തോത്രം പാടിടും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രം പാടിടും ഞാൻ<br/>എന്നായുസ്സിൻ നാളെല്ലാം<br/>നിൻദയ ഓർത്തെന്നെന്നും<br/>നിന്നെ സ്തുതിച്ചിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിന്നധീനതയിൽ കിടന്ന<br/>ദുഷ്കർമ്മിയാമെന്നെ വിടുവിച്ചു<br/>ഘോരവൈരിയിൻ ശിരസ്സിനെ<br/>തകർത്തെനിക്കായ്<br/>കീർത്തനം പാടുവാൻ കൃപ തന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻകൃപകൾ എത്ര മോഹനമേ<br/>നിൻക്രിയകൾ എത്ര അഗാധമേ<br/>എണ്ണമില്ലാത്ത സ്വർഗ്ഗീയ ദാനങ്ങളാൽ<br/>ഏഴയെ അനുഗ്രഹിച്ചു കാത്തതിനാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സന്തോഷത്തോടെന്നും വന്നിടുമേ<br/>സംഗീതത്തോടെ നിൻ സന്നിധിയിൽ<br/>ദൈനംദിനം നടത്തുന്ന വൻകൃപയ്ക്കായ്<br/>നന്ദിയോടെന്നും ഞാൻ സ്തുതിച്ചിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

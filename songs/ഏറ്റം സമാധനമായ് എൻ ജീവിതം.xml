@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:00">
+  <properties>
+    <titles>
+      <title>ഏറ്റം സമാധനമായ് എൻ ജീവിതം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഏറ്റം സമാധനമായ് എൻ ജീവിതം<br/>പരമരക്ഷകനേശുവേ<br/>ഏറ്റു പറഞ്ഞു വിശ്വാസമവനിൽ<br/>വച്ചാശ്രയിച്ച നാൾ മുതൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാടുമെന്നും മോദമായ് സംഗീതമുച്ചനാദമായ്<br/>എൻജീവകാലമാകവേ ഞാൻ വാഴ്ത്തിപ്പുകഴ്ത്തിടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്രൂശിൽ ചൊരിഞ്ഞ തൻരക്തം<br/>മൂലമായ് സമാധനമുളവായത്<br/>നിത്യജീവൻ നൽകാൻ ശക്തനാണെന്നുയിർപ്പാൽ<br/>താൻ വ്യക്തമാക്കി ഹാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്ധരായി ലോകരാകവേയങ്ങലഞ്ഞുഴന്നിടും കാലവും<br/>തന്മുഖത്തു നിന്നുമത്ഭുത<br/>പ്രകാശമെപ്പോഴും ലഭിച്ചിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മൃത്യുഭീതിയില്ല ലേശമെൻപ്രിയൻ<br/>മരണം ജയിച്ച വീരനാം<br/>മൃത്യുശേഷവും പിരിഞ്ഞിടാത്ത<br/>മിത്രമായ് ഈ ക്രിസ്തുമാത്രമാം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ശത്രുഭയങ്കരമായ വിധത്തിൽ<br/>പ്രവർത്തിച്ചിടുമീ ജഗത്തിൽ<br/>ഭീതിവേണ്ട ലോകം ഞാൻ<br/>ജയിച്ചുവെന്ന വാക്കെനിക്കു പിൻബലം.</lines>
+    </verse>
+  </lyrics>
+</song>

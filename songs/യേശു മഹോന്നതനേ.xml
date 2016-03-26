@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>യേശു മഹോന്നതനേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു മഹോന്നതനേ!<br/>ദിനവും കൃപ ചൊരിഞ്ഞിടണമേ<br/>കൂരിരുളിൻ നടുവിൽ നീ വഴികാട്ടിടണേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പ്രതികൂലമേറൂമീ മരുവാസമെന്നും<br/>അനുകൂലമാക്കുമവൻ<br/>ബലഹീനനായിടിലും എന്നും<br/>ബലം തരും നാഥനവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉറ്റവരേവരും മാറിടുമെങ്കിലും<br/>ഉടയവനേശുവുണ്ട്<br/>നിന്ദിതനായിടിലും പാരിൽ<br/>നിൻകൃപമതിയെനിക്ക്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മാറാത്ത മാറയാണിന്നിവിടം<br/>മാറുന്ന സ്നേഹിതരും<br/>മാറ്റമില്ലാത്തവനായി നിത്യം<br/>മനുവേലൻ കൂടെയുണ്ട്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്നു നീ വന്നിടുമെൻ നാഥനേ!<br/>എന്നാധിയകറ്റിടുവാൻ<br/>നിന്നോടു ചേർന്നിടുവാൻകാന്താ!<br/>എന്നുള്ളം വാഞ്ഛിക്കുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

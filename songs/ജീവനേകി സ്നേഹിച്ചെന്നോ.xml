@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:17">
+  <properties>
+    <titles>
+      <title>ജീവനേകി സ്നേഹിച്ചെന്നോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജീവനേകി സ്നേഹിച്ചെന്നോ<br/>യേശുവേ എന്നെ നീ ഹാ... ...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അർദ്ധപ്രാണനായ് കിടന്നൊ രെന്നെ<br/>രക്ഷ ചെയ്തിടുവാനായ് ആ ആ<br/>താണിറങ്ങി ഭൂവിൽ നീ വന്നിതോ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കീറ്റുശീലയിൽ പൊതിഞ്ഞ<br/>പൊന്നുമേനിയങ്ങു ശയിപ്പു ആ ആ<br/>പുൽത്തൊഴുത്തിലല്ലയോ നാഥനേ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഗത്ശെമന പൂവനത്തിൽ<br/>പാപചഷകം കണ്ടൊരു നേരം ആ ആ<br/>മണ്ണിൽ വീണുപോയവൻ ആർത്തനായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിണമണിഞ്ഞ മേനിയിൽ വൻ<br/>കുരിശുമേന്തി പാടുകളേറ്റ് ആ ആ<br/>വീണു വീണു പോകയാണെൻ പരൻ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കുരിശിൽ കൈകാൽകൾ വിരിച്ച്<br/>ശിരസ്സിൽ മുൾക്കിരീടമണിഞ്ഞു ആ ആ<br/>തല ചുമലിൽ ചായ്ച്ചവൻ കേഴുന്നു</lines>
+    </verse>
+    <verse name="v7">
+      <lines>സകലരും കൈവിട്ടനേരം<br/>പ്രാണൻ കുരിശിൽ യാഗമായ്ത്തീർന്നു ആ ആ<br/>വീണ്ടെടുത്തെൻ പ്രാണനെ സ്നേഹവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

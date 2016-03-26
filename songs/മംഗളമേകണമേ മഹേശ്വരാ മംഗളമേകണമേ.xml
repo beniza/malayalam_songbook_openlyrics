@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>മംഗളമേകണമേ! മഹേശ്വരാ മംഗളമേകണമേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മംഗളമേകണമേ! മഹേശ്വരാ മംഗളമേകണമേ!<br/>മംഗളമേകണമേ! നിരന്തരം ദമ്പതികളിവർക്കു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്നുടെ സന്നിധിയിൽ<br/>പ്രതിജ്ഞയാലിന്നു വിവാഹിതരായ്<br/>തീർന്നവരാമിവർ മേൽ<br/>അനുഗ്രഹം ഭംഗമെന്യേ പകർന്ന്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇന്നു മുതൽ കുടുംബ-<br/>മായ് ജീവിതമൊന്നു ചേർന്നു തുടരാൻ<br/>നിന്നുടെ സേവനത്തിൽ<br/>തന്നെയിവർ നന്നായ് പുലർന്നിടുവാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉം ... ... ഉം<br/>അനുകൂല സാഹചര്യങ്ങളിലും<br/>പ്രതികൂല്യങ്ങളിലും ഒരുപോലെ<br/>യോജിച്ചുനിന്നു കാണാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സദ്വചനം പഠിച്ചും<br/>നിരന്തരം പ്രാർത്ഥനയിൽ തുടർന്നും<br/>കർത്താവിൻ ഭൃത്യരായി<br/>കുടുംബമായ് സുസ്ഥിര-രായ് വസിപ്പാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സത്യമണവാട്ടിയാം<br/>നിൻസഭയെ ചേർത്തുകൊള്ളാൻ വരും നാൾ<br/>കാത്തു പ്രത്യാശയോടെ<br/>അനുദിനം പാർത്താലേ പാർത്തിടുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

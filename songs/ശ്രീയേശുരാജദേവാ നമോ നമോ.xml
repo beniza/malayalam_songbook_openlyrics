@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>ശ്രീയേശുരാജദേവാ നമോ നമോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ശ്രീയേശുരാജദേവാ നമോ നമോ...<br/>ശ്രീതരും തിരുപൊന്നു നാമം നമോ നമോ...<br/>ഏഴകൾ ഞങ്ങൾ നാഥാ വീഴുന്നു തിരുപ്പാദേ<br/>കേഴും ഹൃദയം നാഥാ താഴ്മയായ് നമിക്കുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാരിൽ പിറന്ന ദേവാ നമോ നമോ...<br/>പാരിന്നുടയവനേശു ദേവാ നമോ നമോ...<br/>പരിശുദ്ധയേശുവേ നിൻ പാദം പണിയുന്നെങ്ങൾ<br/>പാരിൽ ഞങ്ങൾക്കഭയം വേറില്ല പ്രാണനാഥാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപമില്ലാത്ത ദേവാ നമോ നമോ...<br/>പാപം അറിയാത്ത ദൈവപുത്രാ നമോ നമോ...<br/>പാപികൾ ഞങ്ങൾക്കായി ക്രൂശിൽ മരിച്ച പ്രഭോ<br/>പാപം നീക്കി ഞങ്ങളെ ആശിർവദിച്ച പ്രഭോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മേഘേ വരുന്ന നാഥാ നമോ നമോ...<br/>വേഗം വരുമെന്നു ചൊന്ന നാഥാ നമോ നമോ...<br/>വേഗം വന്നെങ്ങളെയീ നാശലോകത്തിൽനിന്നും<br/>താവകസന്നിധിയിൽ ചേർക്കണം മഹിമയിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

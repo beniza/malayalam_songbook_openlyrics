@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>യേശുനാഥാ യേശുനാഥാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുനാഥാ യേശുനാഥാ<br/>എന്നു നീ വന്നിടും പ്രാണനാഥാ?<br/>എൻ ക്ലേശഭാരങ്ങൾ തീർത്തിടുവാൻ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകത്തിൻ മായകൾ മോഹിച്ചു<br/>ഞാൻ ഓടിയനേരമെൻ ചാരെ വന്നു<br/>കൈപിടിച്ചെന്നെ താൻ തേജസ്സിൻ മാർഗ്ഗത്തിൽ<br/>ആക്കിയെൻ കർത്താവു ഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഈ ലോകത്തിൽ ഞാനൊരന്യനത്രേ<br/>ഈ മരുജീവിതം ക്ലേശമത്രേ<br/>സ്വർഗ്ഗകനാനെന്റെ സ്വന്തസ്ഥലമത്രേ<br/>സ്വർഗ്ഗീയജീവിതം നിത്യമത്രേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കർത്തൻ വരവിനെ നോക്കി നോക്കി<br/>പാർത്തലേ പാർത്തിടുന്നാശയാൽ ഞാൻ<br/>പ്രത്യാശയാലുളളം തിങ്ങി നിറയുന്നേ<br/>ആമേൻ കർത്താവേ നീ വന്നിടണേ.</lines>
+    </verse>
+  </lyrics>
+</song>

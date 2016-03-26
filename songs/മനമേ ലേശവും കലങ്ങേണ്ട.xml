@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:52">
+  <properties>
+    <titles>
+      <title>മനമേ ലേശവും കലങ്ങേണ്ട</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മനമേ ലേശവും കലങ്ങേണ്ട<br/>മനുവേൽ സകലവുമറിയുന്നു<br/>മന്നിൽ വന്നു പ്രാണനെ തന്നോൻ<br/>കരുതിക്കൊള്ളും നിൻവഴികൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കടലല കണ്ടുഭ്രമിക്കേണ്ട<br/>കാറ്റാലുള്ളം പതറേണ്ട<br/>കടലിൻമീതെ നടന്നവൻ നിന്നെ<br/>കരുതിക്കൊള്ളും കണ്മണിപോൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മരുവിൽ പൊള്ളും ചുടുവെയിലിൽ<br/>വരളും നാവിനു നീരേകാൻ<br/>മാറയെ മധുരമായ് മാറ്റിയ നാഥൻ<br/>മതി നിൻ സഖിയായീ മരുവിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അരിനിര മുന്നിൽ നിരന്നാലും<br/>അഭയം തന്നവനിനിമേലും<br/>അല്ലും പകലും തുമ്പമകറ്റി<br/>അമ്പോടു പോറ്റിടുമത്ഭുതമായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യോർദ്ദാൻ തുല്യം ശോധനയും<br/>തീർന്നങ്ങക്കരെയെത്തുമ്പോൾ<br/>പ്രതിഫലം കണ്ടുൾ നിർവൃതികൊള്ളും<br/>പ്രിയനെ കണ്ടുൾപളകം കൊള്ളും.</lines>
+    </verse>
+  </lyrics>
+</song>

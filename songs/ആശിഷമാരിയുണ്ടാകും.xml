@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:40">
+  <properties>
+    <titles>
+      <title>ആശിഷമാരിയുണ്ടാകും</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആശിഷമാരിയുണ്ടാകും ആനന്ദവാഗ്ദത്തമേ<br/>മേൽനിന്നു രക്ഷകൻ നൽകും<br/>ആശ്വാസ കാലങ്ങളെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആശിഷമാരി ആശിഷം പെയ്യണമേ<br/>കൃപകൾ വീഴുന്നു ചാറി വൻമഴ താ ദൈവമേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആശിഷമാരിയുണ്ടാകും വീണ്ടും നൽ ഉണർവുണ്ടാം<br/>കുന്നുപള്ളങ്ങളിൻമേലും കേൾ വൻമഴയിൻ സ്വരം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആശിഷമാരിയുണ്ടാകും ഹാ! കർത്താ! ഞങ്ങൾക്കും താ<br/>ഇപ്പോൾ നിൻ വാഗ്ദത്തം ഓർത്തു നൽവരം തന്നിടുക</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആശിഷമാരിയുണ്ടാകും എത്ര നന്നിന്നു പെയ്കിൽ<br/>പുത്രന്റെ പേരിൽ തന്നാലും ദൈവമേ!ഇന്നേരത്തിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

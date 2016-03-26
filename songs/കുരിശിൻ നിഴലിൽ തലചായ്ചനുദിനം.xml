@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:46">
+  <properties>
+    <titles>
+      <title>കുരിശിൻ നിഴലിൽ തലചായ്ചനുദിനം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കുരിശിൻ നിഴലിൽ തലചായ്ചനുദിനം വിശ്രമിച്ചിടുന്നടിയൻ<br/>കുരിശിൻ സ്നേഹത്തണലിൽ കൃപയിൻ ശീതളനിഴലിൽ<br/>പ്രാണപ്രിയന്റെ തൃക്കഴലിൽ കാണുന്നഭയമെന്നഴലിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപഭാര ചുമടെടുത്തവശനായ് തളർന്നൊരെൻ ജീവിതമേ<br/>തളർന്നൊരെൻ ജീവിതം കുരിശിൻ തണലിൽ ശാന്തി കണ്ടതിനാൽ<br/>തളരാതിനി വാനവിരിവിൽ ചിറകടിച്ചുയർന്നിടും വിരവിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്നേഹം നിറയും തിരുമൊഴി ശ്രവിച്ചു മൽ<br/>ക്ലേശം മറന്നിടും ഞാൻ<br/>തിരുമൊഴിയാനന്ദനാദം, തേനിലും മധുരം തൻവേദം<br/>തരുമെനിക്കനന്തസമ്മോദം തീർക്കുമെൻ മാനസഖേദം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഏതു ഘോരവിപത്തിലും ഭയന്നിടാതവനിൽ ഞാനാശ്രയിക്കും<br/>അവനിലെന്നാശ്രയമെന്നാൽ അവനിയിലാകുലം വന്നാൽ<br/>അവശതയണയുകിലന്നാൾ<br/>അവൻ തുണയരുളിടും നന്നായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

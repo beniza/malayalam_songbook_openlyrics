@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:53">
+  <properties>
+    <titles>
+      <title>എന്തുഭാഗ്യം ജീവിതത്തിൽ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്തുഭാഗ്യം ജീവിതത്തിൽ!<br/>എന്തു മോദമെന്നുള്ളത്തിൽ!<br/>എൻപാപഭാരമെല്ലാം<br/>നീങ്ങിപ്പോയി ഹല്ലേലുയ്യാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻ കുഴിയിൽ കിടന്നു<br/>പാരം കേണുവലഞ്ഞവൻ ഞാൻ<br/>പരമസന്തോഷമുള്ളിൽ<br/>പകർന്നിന്നു പുതുഗീതം പാടിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആദ്യമെന്നെയവൻ സ്നേഹിച്ചു<br/>ആദിയുഗങ്ങൾക്കു മുന്നമേ താൻ<br/>അഗതിയാമെന്നെ ദൈവം<br/>അനുഗ്രഹിച്ചവകാശിയാക്കിയല്ലോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തൻ നിണം മൂലമായ് മോചനം തന്നു<br/>തൻസ്വന്തമാക്കിയെന്നെ<br/>അവനിനിയെന്നിലും ഞാൻ<br/>അവനിലുമാകയാൽ ഭാഗ്യവാനാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആയിരം പതിനായിരത്തിൽ<br/>അതിസുന്ദരനെൻ മനുവേൽ<br/>അവനെന്നും മാധുര്യവാൻ<br/>ആരുമില്ലെനിക്കിതുപോലൊരുവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

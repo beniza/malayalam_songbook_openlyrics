@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:53">
+  <properties>
+    <titles>
+      <title>കാരുണ്യപൂരക്കടലേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാരുണ്യപൂരക്കടലേ! കരളലിയുക ദിനമനു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കാരണനായ പരാപരനേയെൻ<br/>മാരണകാരി മഹാസുരശീർഷം<br/>തീരെയുടച്ചു തകർപ്പതിനായി<br/>ദ്ധീരതയോടവനിയിലവതരിച്ചൊരു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപമതാം ചെളി പൂണ്ടുടലാകെ<br/>ഭീകരമായ വിധം മലിനത്വം<br/>ചേർന്നു വിരൂപതയാർന്നൊരിവന്നു<br/>ചേരുവാൻ നിന്നരികതിൽ ഭാഗ്യമുണ്ടായി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിൻ വലങ്കൈ നിവർത്തെന്നെത്തലോടി<br/>നിൻമുഖത്താലെന്നെ ചുംബനം ചെയ്തു<br/>നിന്നുടെ യെനിക്കേകി മോതിരം ചെരിപ്പു<br/>മന്നുമിന്നുമൊന്നുപോലെ കാത്തുപോറ്റുന്നെന്നെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പന്നികൾ തിന്നുന്ന തവിടു ഭുജിച്ച<br/>നിന്ദ്യമാം കാലങ്ങൾ മറന്നുപോയ് സാധു<br/>മന്നവനേ തിരുമേശയിൽ നിന്നു<br/>സ്വർന്നഗരഭോജനം ഞാൻ തിന്നുവരുന്നിന്നും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആർക്കുമതീവ മനോഹരമാം നിൻ<br/>സ്വർഗ്ഗ യെരൂശലേം മാളികയിൽ ഞാൻ<br/>ദീർഘയുഗം വസിച്ചാനന്ദ ബാഷ്പം<br/>വീഴ്ത്തിയാലും നിൻ കരുണയ്ക്കതു ബദലാമോ?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ജീവപറുദീസിന്നാനന്ദക്കുയിലേ!<br/>ജീവവസന്തർത്തുവാരംഭിച്ചില്ലേ?<br/>ജീവവൃക്ഷക്കൊമ്പിൻ മീതിലിരുന്നു<br/>ജീവമൊഴി മധുരമായ് പാടുക നീ ദിനവും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:16">
+  <properties>
+    <titles>
+      <title>മതി മതി യേശുവിൻ കൃപ മതിയേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മതി മതി യേശുവിൻ കൃപ മതിയേ<br/>മതിമറന്നനുദിനം സ്തുതിച്ചിടുവാൻ (2)<br/>ധരയിൽ ദുരിതം പെരുകിടുമ്പോൾ<br/>പ്രതികൂലമനവധി അണഞ്ഞിടുമ്പോൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അരികൾ മുന്നിൽ അണിനിരന്നാൽ<br/>വഴികൾ പലതും അടഞ്ഞുവെന്നാൽ (2)<br/>ബന്ധം ബന്ധനമായിടുമ്പോൾ<br/>ബന്ധുജനങ്ങൾ പിരിഞ്ഞിടുമ്പോൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശോകം രോഗം മൂലമതാൽ<br/>ദേഹമിതാകെ തളർന്നുവെന്നാൽ (2)<br/>മരണം വരുമൊരുനാൾ വരെയും<br/>നിയതം പാടും കൃപമതിയേ.</lines>
+    </verse>
+  </lyrics>
+</song>

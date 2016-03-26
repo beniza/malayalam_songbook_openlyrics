@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>യേശു മഹേശൻ ആശ്രിതർക്കെല്ലാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു മഹേശൻ ആശ്രിതർക്കെല്ലാം<br/>ആശ്വാസമരുളാൻ വല്ലഭനല്ലോ<br/>നാശത്തിന്നിരയായ് തീർന്നോരെയെല്ലാം<br/>ഈശനിൻ രുധിരം വീണ്ടിടുമല്ലോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മരണത്തിൻ ഭീകര വാഴ്ചയിൽ ലോകം<br/>ശരണമില്ലാതെ വലയുവതെന്തേ?<br/>കുരിശിലെ മരണം മൂലമിതാ വൻ-<br/>നരകത്തിൻ ഭയമെല്ലാം അസ്തമിച്ചല്ലോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആശ്രയഹീനരായ് വലയുന്നോരേ<br/>യേശുവിന്നരികേ അണയുക വേഗം<br/>മറ്റൊരു മാർഗ്ഗം മന്നിതിലുണ്ടോ<br/>മറ്റൊരു രക്ഷകൻ വന്നിട്ടുണ്ടോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തന്നുടെ സന്നിധൗ വന്നിടുന്നോർക്കു<br/>ഖിന്നത തീർന്നു മന്നിതിലെന്നും<br/>മന്നവൻ പാദേ വീണു നമിക്കാം<br/>പിന്നവൻ ചെയ്യും നന്മകളോതാം.</lines>
+    </verse>
+  </lyrics>
+</song>

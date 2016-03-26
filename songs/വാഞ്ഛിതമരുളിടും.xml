@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:40">
+  <properties>
+    <titles>
+      <title>വാഞ്ഛിതമരുളിടും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഞ്ഛിതമരുളിടും വാനവർക്കധിപ നീ<br/>വന്നിടുക വരം തന്നിടുക<br/>തഞ്ചമടിയർക്കു നീയെന്നറിഞ്ഞടിയങ്ങൾ<br/>അഞ്ചിടാതെ പരം കെഞ്ചിടുന്നേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മുൾപ്പടർപ്പിന്നുമേൽ കെൽപോടമർന്നൊരു<br/>ചിൽപ്പൊരുളേ, ദയാതൽപ്പരനേ,<br/>ദർപ്പമെല്ലാം നീക്കി ഉൾക്കലഹം പോക്കി<br/>സത്പഥമടിയർക്കു കാട്ടുക നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആത്മവിശപ്പുദാഹമേറ്റമരുൾക ദേവാ<br/>തൃപ്തരായടിങ്ങൾ തീർന്നിടുവാൻ<br/>സൂക്ഷ്മമാം തിരുമൊഴി കേട്ടറിഞ്ഞതുവിധം<br/>ശുദ്ധിയായ് ജീവിപ്പാറാകണമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പൊന്നിലുമഖിലമീ മന്നിലുമതുവിധം<br/>വിണ്ണിലും വിലയേറും നിൻവചനം<br/>ഇന്നു ധരിച്ചു ഞങ്ങൾ ധന്യരായ് തീരുവാൻ<br/>മന്നവനേ, ദയ ചെയ്യണമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മന്ദമനസ്സുകളിലുന്നത ബലത്തോടു<br/>ചെന്നിടണം പരാ നിൻവചനം<br/>നന്ദിയോടടിയങ്ങൾ നിന്നെ വണങ്ങാനരുൾ<br/>ചെയ്യണമേ കൃപ പെയ്യണമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പൂവിലും മണമേറും പൊന്നിലുമൊളിചിന്നും<br/>തേനിലും മധുരമേ നിൻവചനം<br/>രാവിലും പകലിലും ജീവനായ് ഭവിച്ചുമൽ<br/>ഭാവിയനുഗ്രഹമാകണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

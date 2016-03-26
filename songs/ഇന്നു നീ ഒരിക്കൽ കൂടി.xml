@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>ഇന്നു നീ ഒരിക്കൽ കൂടി</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇന്നു തന്നെ യേശു നിന്നെ രക്ഷിപ്പാനായ് കാക്കുന്നു<br/>ഭയം വേണ്ടാ, ശങ്കിക്കേണ്ടാ, വാ ഇന്നവങ്കൽ നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എത്രനാൾ വൃഥാവായ് ഓടി മനുഷ്യാ നിൻ ജീവിതം<br/>ലോകത്തിന്റെ ഇമ്പം തേടി പാഴിലാക്കി ഈവിധം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൈക്കൊള്ളാതെ തള്ളുമെന്നു ഒട്ടും വേണ്ടാ സംശയം<br/>രക്ഷിതാവു നിന്നെയിന്നു സ്വന്തമാക്കി തീർത്തിടും</lines>
+    </verse>
+  </lyrics>
+</song>

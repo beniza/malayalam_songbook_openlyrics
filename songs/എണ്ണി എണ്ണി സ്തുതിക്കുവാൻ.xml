@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:08">
+  <properties>
+    <titles>
+      <title>എണ്ണി എണ്ണി സ്തുതിക്കുവാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എണ്ണി എണ്ണി സ്തുതിക്കുവാൻ<br/>എണ്ണമില്ലാത്ത കൃപകളിനാൽ<br/>ഇന്നയോളം തൻഭുജത്താൽ<br/>നിന്നെ താങ്ങിയ നാമമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഉന്നം വച്ച വൈരിയിൻ<br/>കണ്ണിൻ മുമ്പിൽ പതറാതെ<br/>കണ്മണിപോൽ കാക്കും കരങ്ങളാൽ<br/>നിന്നെ മൂടി മറച്ചില്ലേ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യോർദ്ദാൻ കലങ്ങി മറിയും<br/>ജീവിതഭാരങ്ങൾ<br/>ഏലിയാവിൻ പുതപ്പെവിടെ<br/>നിന്റെ വിശ്വാസശോധനയിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിനക്കെതിരായ് വരും<br/>ആയുധം ഫലിക്കയില്ല<br/>നിന്റെ ഉടയവൻ നിന്നവകാശം<br/>തന്റെ ദാസരിൻ നീതിയവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

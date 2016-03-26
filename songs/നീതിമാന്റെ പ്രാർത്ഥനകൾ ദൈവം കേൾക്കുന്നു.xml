@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>നീതിമാന്റെ പ്രാർത്ഥനകൾ ദൈവം കേൾക്കുന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നീതിമാന്റെ പ്രാർത്ഥനകൾ ദൈവം കേൾക്കുന്നു<br/>പനപോലെ അവൻ തഴച്ചു വളർന്നു വന്നിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്റെ നാമത്തിങ്കൽ യാചിച്ചീടിൽ<br/>നിങ്ങൾക്കുത്തരം അരുളും ഞാൻ<br/>അറിഞ്ഞിടാത്തതാം അത്ഭുതകാര്യങ്ങൾ<br/>വെളിപ്പെടുത്തിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇതുവരെ നിങ്ങൾ കർത്തൻ<br/>തൻനാമത്തിൽ ഒന്നുമേ യാചിച്ചില്ല<br/>നിറഞ്ഞുകവിയും സന്തോഷം<br/>യാചിക്കിൽ അനുഭവിച്ചുകൊൾവിൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കർത്താവിനുവേണ്ടി കാത്തിരിക്കുന്നവർ<br/>പുതുശക്തി പ്രാപിക്കും<br/>കഴുകന്മാരെപ്പോൽ ചിറകടിച്ചവർ<br/>പറന്നുപോയിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ചോദിക്കുന്നതിലും നിനയ്ക്കുന്നതിലും<br/>എത്രയോ അധികമായ്<br/>ഉള്ളത്തിൽ പ്രിയമായ് ചെയ്യും രക്ഷകനു<br/>സ്തോത്രം നിത്യമായ്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കൈവിടുകയില്ല ഞാൻ മാറിപ്പോകില്ല<br/>ഞാൻ നിന്നെവിട്ടൊരുനാളും<br/>നിങ്ങളതിനാലെ ധൈര്യത്തോടുകൂടെ<br/>കർത്തനിലാശ്രയിപ്പിൻ</lines>
+    </verse>
+  </lyrics>
+</song>

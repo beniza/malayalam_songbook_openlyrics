@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:31">
+  <properties>
+    <titles>
+      <title>ആരാധിച്ചിടാം ആത്മനാഥനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആരാധിച്ചിടാം ആത്മനാഥനെ<br/>ആയുസ്സിൻ നാളെല്ലാം നന്ദിയോടെ<br/>ഇത്രമാത്രം എന്നെ സ്നേഹിച്ചിടുന്നോരു<br/>രക്ഷകൻ ഇല്ല ഇക്ഷിതിയിൽ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സിംഹക്കുഴിയോ, ചെങ്കടൽ ചൂളയോ<br/>എന്തു വന്നീടിലും ഭാരമില്ല<br/>എന്നെ വിളിച്ചവൻ എൻകൂടെയുണ്ടെന്നും<br/>എന്നെ നടത്തിടും അന്ത്യം വരെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്തു ഞാൻ തന്നിടും എൻകർത്താ നിനക്കായ്<br/>എന്നെ ഞാൻ തന്നിടുന്നു നിൻകരത്തിൽ<br/>എടുക്ക എന്നെ നീ നിൻഹിതം പോലെന്നും<br/>നടത്തിടേണമെ യേശുനാഥാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആയിരം ആയിരം ദേവന്മാരേക്കാൾ<br/>എത്രയോ ഉന്നതൻ എന്റെ യേശു<br/>അവനൊപ്പം പറയുവാൻ അവനെപ്പോൽ ആരുമേ<br/>ഇല്ലെനിക്കെന്നുടെ ജീവിതത്തിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നാളുകൾ ഓരോന്നായ് തീർന്നൊരു നാളിൽ<br/>നാഥനരികിൽ ഞാൻ അണഞ്ഞിടുമ്പോൾ<br/>ഓടിവരും എന്നെ മാറോടണച്ചിടും<br/>എൻ കണ്ണുനീരെല്ലാം തുടച്ചിടും താൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

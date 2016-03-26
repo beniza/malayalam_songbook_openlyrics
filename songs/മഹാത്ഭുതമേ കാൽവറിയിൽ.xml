@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:33">
+  <properties>
+    <titles>
+      <title>മഹാത്ഭുതമേ കാൽവറിയിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മഹാത്ഭുതമേ കാൽവറിയിൽ കാണുന്ന സ്നേഹം<br/>മഹോന്നതൻ വഹിച്ചിടുന്നു ലോകത്തിൻ പാപം<br/>സർവ്വ ലോകത്തിൻ ശാപം!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആദിയുഗങ്ങൾ തുടസ്സമായതിൻ മുൻപേ<br/>ആദിപരാ! പാപികളെയോർത്ത നിന്നൻപേ<br/>ആശ്രയമതാണെനിക്കുള്ളാശയിൻകൂമ്പേ!<br/>ദിവ്യ കാരുണ്യക്കാമ്പേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വേദനപ്പെടും മനുജനായവതാരം<br/>മേദുര മനോഹരൻ നീ ചെയ്തതിൻസാരം<br/>ആരറിയുന്നതിശയമേ നിന്നുപകാരം!<br/>തവ സ്നേഹമപാരം!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തിരുസഭയെ തൻനിണത്താൽ വാങ്ങുകയെന്നോ!<br/>തിരുഹിതത്തിൻ നിർണ്ണയങ്ങളീവിധമെന്നോ!<br/>തിരുഹൃദയമേഴകൾക്കായ് തകരുകയെന്നോ!<br/>ദൈവം കൈവിടുകെന്നോ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്വർഗ്ഗസുഖമണുവളവുമനുഭവമാക്കാൻ<br/>യോഗ്യതയില്ലഗതിയെനിക്കൽപ്പവുമോർക്കിൽ<br/>ഭാഗ്യവശാൽ പാപിയാം ഞാൻ രക്ഷിതനായി<br/>പാപ ശിക്ഷകൾ പോയി.</lines>
+    </verse>
+  </lyrics>
+</song>

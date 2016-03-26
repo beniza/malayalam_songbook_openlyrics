@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>എന്റെ നാഥൻ ജീവൻ തന്നോരു രക്ഷകൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ നാഥൻ ജീവൻ തന്നോരു രക്ഷകൻ<br/>എന്നും സഖി എനിക്കാശ്വാസമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാരിൽ പരദേശിയാമെനിക്കെന്നുമാ<br/>പാവന നാഥന്റെ കാവൽ മതി<br/>പാതയിൽ പാദമിടറാതെ നാഥന്റെ<br/>പാദം പതിഞ്ഞിടം പിൻചെല്ലും ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാവലിനായ് ദൂതസംഘത്തെ നൽകിയെൻ<br/>കാന്തനനുദിനം കാക്കുന്നതാൽ<br/>കൂരിരുൾ താഴ്വരയിലേകനായാലും<br/>കൂട്ടിൻ യേശു ഉണ്ടായാൽ മതി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉറ്റവർ കൂടെയില്ലെങ്കിലും മുറ്റുമെൻ<br/>ഉറ്റസഖിയായി യേശു മതി<br/>ഉള്ളം കലങ്ങിടും വേളയിലും യേശു<br/>ഉള്ളതാൽ ചഞ്ചലമില്ലെനിക്ക്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രാത്രിയിലും ദീർഘയാത്രയിലും എന്നും<br/>ധാത്രിയേപോലെനിക്കേശു മതി<br/>മാത്രനേരം ഉറങ്ങാതെന്നെ കാക്കുന്ന<br/>മിത്രമാണെൻ ദൈവം എത്ര മോദം.</lines>
+    </verse>
+  </lyrics>
+</song>

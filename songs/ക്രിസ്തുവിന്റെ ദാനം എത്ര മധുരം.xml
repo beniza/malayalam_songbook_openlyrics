@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:48">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തുവിന്റെ ദാനം എത്ര മധുരം!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തുവിന്റെ ദാനം എത്ര മധുരം!<br/>പൂർണ്ണസമാധാനം പൂർണ്ണ ആനന്ദം<br/>എത്രയോ വിസ്താരം ഉള്ളോർ നദിപോൽ!<br/>വർണ്ണിക്കുവാൻ ആഴം നാവിന്നില്ല ചൊൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്റെ അടിസ്ഥാനം അതു ക്രിസ്തുവിൽ<br/>പൂർണ്ണസമാധാനം ഉണ്ടീപാറയിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പണ്ടു എന്റെ പാപം മനസ്സാക്ഷിയെ<br/>കുത്തി ഈ വിലാപം തീർന്നതെങ്ങനെ?<br/>എൻ വിശ്വാസക്കണ്ണു നോക്കി ക്രൂശിന്മേൽ<br/>എല്ലാം തീർത്തു തന്നു എൻ ഇമ്മാനുവേൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കർത്തന്നുള്ളം കൈയിൽ മറഞ്ഞിരിക്കേ<br/>പേയിൻ സൂത്രം എന്നിൽ മുറ്റും വെറുതേ<br/>മല്ലൻ ആയുധങ്ങൾ എല്ലാം പൊട്ടിപ്പോം<br/>ഇല്ല ചഞ്ചലങ്ങൾ ധൈര്യമോ തുലോം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഭയം സംശയങ്ങൾ തീരെ നീങ്ങുവാൻ<br/>എത്ര വാഗ്ദത്തങ്ങൾ തന്നിട്ടുണ്ടുതാൻ!<br/>അതിൽ ഒരു വള്ളി ഇല്ലാതാകുമോ?<br/>പോകയില്ലോർ പുള്ളി സാത്താനേ നീ പോ-</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ബുദ്ധിമുട്ടു കഷ്ടം പെരുകി വന്നാൽ<br/>എനിക്കെന്തു നഷ്ടം ഞാൻ കർത്താവിൻ ആൾ<br/>യേശു താൻ എൻ സ്വന്തം തന്റെ രാജ്യവും<br/>എനിക്കുള്ള അംശം അതാരെടുക്കും?</lines>
+    </verse>
+  </lyrics>
+</song>

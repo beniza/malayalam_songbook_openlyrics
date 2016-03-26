@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>നവയെരൂശലേം പാർപ്പിടം തന്നിലെ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നവയെരൂശലേം പാർപ്പിടം തന്നിലെ<br/>വാസം ഓർക്കുമ്പോൾ വാസം ഓർക്കുമ്പോൾ<br/>ആനന്ദംകൊണ്ടു നിറയുന്നു മാനസേ<br/>മോദമേറുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മഹത്വീകരണം പ്രാപിച്ച വൃതന്മാർ<br/>സ്വഛന്ദമായി സ്വഛന്ദമായി<br/>തേജസ്സിൽ വാഴുന്നു മോദമോടെ<br/>അവർ നാഥനോടൊത്തു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പളുങ്കിൻ നദിയത്തെരുവിൻ നടുവിൽ<br/>പ്രവഹിക്കുന്നേ പ്രവഹിക്കുന്നേ<br/>മുത്തിനാൽ നിർമ്മിതം ചെയ്തതാം<br/>പട്ടണം തത്ര ശോഭിതം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നീതിയിൻ സൂര്യനുദിക്കുമേ വേഗത്തിൽ<br/>അല്ലൽ മാറുമേ അല്ലൽ മാറുമേ<br/>മർത്യമാം ദേഹം അമർത്യമായിടുമേ<br/>ദിവ്യശക്തിയാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്തെന്തുഭാഗ്യമേ എന്തെന്തു ഭാഗ്യമേ<br/>സന്തതം പാർക്കിൽ സന്തതം പാർക്കിൽ<br/>കോടികോടി യുഗം യേശുവിനോടൊത്തു<br/>പാടി വാഴുമേ</lines>
+    </verse>
+  </lyrics>
+</song>

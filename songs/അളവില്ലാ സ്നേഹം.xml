@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>അളവില്ലാ സ്നേഹം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അളവില്ലാ സ്നേഹം<br/>യേശുവിൻ സ്നേഹം മാത്രം!<br/>അതിരില്ലാ സ്നേഹം കുരിശിലെ<br/>നിസ്തുല സ്നേഹം മാത്രം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻ പാതയിൽ ഞാൻ പോകുന്ന<br/>നേരത്തവൻ ചാരത്തണഞ്ഞു<br/>ചോരചൊരിഞ്ഞു തൻ സ്വന്തമാക്കിയെന്നെയവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആഴിയുമാകാശവും ഊഴിയും നിർമ്മിച്ചവൻ<br/>പാപിയാമെന്നെ സ്നേഹിച്ചു ക്രൂശിൽ<br/>പ്രാണനും തന്നു രക്ഷിച്ചല്ലോ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വീഴ്ചകൾ ജീവിതത്തിൽ വന്നാലും കൈവിടാതെ<br/>രക്ഷകൻ കാത്തു നിത്യവുമെന്നെ<br/>താങ്ങി നടത്തും അത്ഭുതമായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തൻ സനേഹബന്ധത്തിൽ നിന്നെന്നെ പിൻതിരിക്കുവാൻ<br/>ആപത്തോ! വാളോ! മൃത്യുവിനാലോ!<br/>സാദ്ധ്യമല്ലെന്നും നിശ്ചയമായ്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നാളുകൾ തീർന്നിടുമ്പോൾ നാഥനെ കണ്ടിടുമ്പോൾ<br/>തൻസ്നേഹഭാരം തിങ്ങിയെന്നുള്ളിൽ<br/>തൃപ്പാദേ വീണു ചുംബിക്കും ഞാൻ. G.P.</lines>
+    </verse>
+  </lyrics>
+</song>

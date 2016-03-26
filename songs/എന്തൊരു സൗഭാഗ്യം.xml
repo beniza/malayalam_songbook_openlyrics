@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:54">
+  <properties>
+    <titles>
+      <title>എന്തൊരു സൗഭാഗ്യം!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രൂശിലെനിക്കായ്‌ മരിച്ചു<br/>പാപമെല്ലാം പരിഹരിച്ചു<br/>ശാപദോഷങ്ങൾ ഹനിച്ചു<br/>ഞാൻ പാടുംകീർത്തനങ്ങൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആപത്തുനാളുകളിൽ<br/>ആവശ്യവേളകളിൽ<br/>എത്തുമവനരികിൽ<br/>കാത്തിടുംകണ്മണി പോൽ-</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തന്റെ പിതൃഭവനം<br/>എന്റെ നിത്യമാംവീടാം<br/>വന്നെന്നെ ചേർത്തിടും<br/>താൻ പിന്നെപ്പിരികയില്ല-</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രിസ്തുവിലെൻ മനമേ<br/>ഇത്ര സൗഭാഗ്യമെങ്കിൽ<br/>എന്തിന്നു കലങ്ങിടുന്നു?<br/>സന്തോഷിച്ചുല്ലസിക്കാം-</lines>
+    </verse>
+  </lyrics>
+</song>

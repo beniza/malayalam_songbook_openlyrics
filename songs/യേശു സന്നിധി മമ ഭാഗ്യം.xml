@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:10">
+  <properties>
+    <titles>
+      <title>യേശു സന്നിധി മമ ഭാഗ്യം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു സന്നിധി മമ ഭാഗ്യം<br/>ക്ലേശം മാറ്റി മഹാ സന്തോഷം ഏകുന്ന</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശുദ്ധാത്മവനുദിനം എന്നുള്ളിൽ വസിച്ചെന്നെ<br/>പ്രാർത്ഥിപ്പാൻ പഠിപ്പിക്കും നേരമെപ്പോഴും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദൈവവചനമതിൽ ധ്യാനിച്ചിടുവാനതി<br/>രാവിലെ തൻ പാദം പ്രാപിക്കും നേരം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപത്താലശുദ്ധനായ് തീരും സമയമനു<br/>താപഹൃദയമോടെ ഞാനണയുമ്പോൾ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലോകചിന്തകളാകും ഭാരച്ചുമടതിനാൽ<br/>ആകുലപ്പെട്ടു തളർന്നിടുന്ന നേരം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ദുഃഖങ്ങൾ ഹൃദയത്തെ മുറ്റും തകർത്തിടുമ്പോൾ<br/>ഒക്കെയും സഹിച്ചിടാൻ ശക്തി നൽകുന്ന</lines>
+    </verse>
+    <verse name="v7">
+      <lines>യാതൊരു സമയമെന്നന്ധതയതുമൂലം<br/>പാതയറിയാതെ ഞാൻ വലയുമ്പോൾ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>തക്കസമയമെല്ലാം മുട്ടും പ്രയാസവും തൻ<br/>മക്കൾക്കു തീർത്തു കൊടുത്തിടുന്നോരെൻ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>ശത്രുവിൻ പരീക്ഷയെൻ നേരേ വന്നിടുന്നൊരു<br/>മാത്രയിൽ ജയം നൽകി രക്ഷിച്ചിടുന്ന.</lines>
+    </verse>
+  </lyrics>
+</song>

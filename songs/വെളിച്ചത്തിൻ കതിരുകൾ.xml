@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:21">
+  <properties>
+    <titles>
+      <title>വെളിച്ചത്തിൻ കതിരുകൾ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വെളിച്ചത്തിൻ കതിരുകൾ<br/>വിളങ്ങുമീ സമയത്തു<br/>വെളിച്ചമാം യഹോവയെ<br/>സ്തുതിക്കണമവൻ ജനം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇരുട്ടൊഴിഞ്ഞവനിയിൽ<br/>തിളക്കമിങ്ങുദിക്കുന്നു<br/>വെളിച്ചമാം മശീഹയീ<br/>വിധം നമ്മിലുദിക്കണം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തിരുമുഖമതിൻ പ്രഭ<br/>തെളിവോടു വിലസുമ്പോൾ<br/>ഇരുളിന്റെ പ്രവൃത്തികൾ<br/>മറവിടം തിരക്കിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തിരുമൊഴി ദിവസവും<br/>പുതിയതായ് പഠിക്കുകിൽ<br/>ശരിവരെ വഴി തെറ്റാ-<br/>തിരുന്നിടാമസംശയം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദിനമതിൻ തുടസ്സത്തിൽ<br/>മനുവേലിൻ മുഖാംബുജം<br/>ദരിശിച്ച നരനൊരു<br/>ദുരിതവും വരികില്ല</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മനമതി തെളിവിനോ-<br/>ടിരുന്നിടും സമാധാനം<br/>ദിവസത്തിന്നൊടുവോളം<br/>ഭരിച്ചിടും മനസ്സിനെ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>സമസ്തമാം പരീക്ഷയും<br/>ജയിച്ചിടാം കൃപാമുലം<br/>ഒരിക്കലുമിളകാത്ത<br/>പുരമതിൽ കടന്നിടാം</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഗതിയില്ലാ ജനങ്ങളിൽ<br/>കനിയുന്ന മഹേശനേ!<br/>കരം പിടിച്ചന്നെ തിരു<br/>വഴികളിൽ നടത്തുക.</lines>
+    </verse>
+  </lyrics>
+</song>

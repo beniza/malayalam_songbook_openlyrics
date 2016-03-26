@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:18">
+  <properties>
+    <titles>
+      <title>ജീവനാം എൻ യേശുവേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജീവനാം എൻ യേശുവേ നമോനമോ<br/>പാപികൾക്കമിതാനന്ദപ്രദനാം കൃപാകരാ! നീ<br/>വാ വാ വാനോർ വാഴ്ത്തും നായകാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപനാശകാരണാ നമോ നമോ<br/>പാരിതിൽ നരനായുദിച്ച പരാപരപ്പൊരുളേ!നീ<br/>വാ വാ വാനോർ വാഴ്ത്തും നായകാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സർവ്വലോകനായകാ നമോ നമോ<br/>ജിവനറ്റവരിൽ കനിഞ്ഞ നിരാമയാ! വരദാ നീ<br/>വാ വാ വാനോർ വാഴ്ത്തും നായകാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ജീവജാല പാലകാ നമോ നമോ<br/>ദിവ്യകാന്തിയിൽ ശോഭിച്ചന്ധതമാറ്റും ഭാസ്കരാ നീ<br/>വാ വാ വാനോർ വാഴ്ത്തും നായകാ.</lines>
+    </verse>
+  </lyrics>
+</song>

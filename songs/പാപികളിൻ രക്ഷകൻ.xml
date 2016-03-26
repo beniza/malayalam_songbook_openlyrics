@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>പാപികളിൻ രക്ഷകൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാപികളിൻ രക്ഷകൻ താനിവൻ പാദം വണങ്ങിടും നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപശാപം തീർപ്പാൻ പാരിൽ ജനിച്ചോരു<br/>ദേവസുതനാകുമേശു നായകനിവനറിക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആദിവചനമായ് ഭേദമെന്യേ നിന്നു<br/>മേദിനിയോടഖിലവും മോദമായ് ചമച്ചതിവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആദിപിതാക്കൾക്കോരേകശരണമായ്<br/>സാദരമായ് നിന്ന ദിവ്യ ദാനവസ്തുവായതിവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദിവ്യബലികൾക്കൊരവ്യാജ ശക്തിയായ്<br/>ഭവ്യമായിരുന്ന നിത്യഹവ്യവസ്തുവായതിവൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ക്രൂശിൽ മരിച്ചതാൽ നാശമൊഴിച്ചു തന്നാശ്രയം<br/>തെളിഞ്ഞുടൻ പ്രത്യാശയിൻ വഴി തുറന്നാൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ജീവനിൽ പൂകേണ്ട വാതിലാം തന്നിലൂടാവലായടുപ്പോർ<br/>ദിവ്യജീവനിൽ കടന്നിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

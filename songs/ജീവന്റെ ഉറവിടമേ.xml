@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>ജീവന്റെ ഉറവിടമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജീവന്റെ ഉറവിടമേ എന്റെ ആശ്രയസങ്കേതമേ!<br/>ജീവന്റെ പുതുക്കത്തിൽ ഞാൻ<br/>ദിനം നടക്കുവാൻ കൃപതരിക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൃപതരിക കൃപതരിക<br/>ദിനംതോറും തന്നിടുക<br/>ഈ ഘോരഭൂവിൽ യാത്ര ചെയ്‌വാൻ<br/>ദൈവകൃപതരിക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശാശ്വതപർവ്വതവും എന്റെ<br/>ആശ്വാസസങ്കേതവും<br/>കണ്ണുകളുയർത്തിക്കൊണ്ട്<br/>പ്രിയാ നിന്നെ ഞാൻ നോക്കിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കഷ്ടതഭാരങ്ങളും എന്റെ<br/>ജീവിതത്തെ അലച്ചാൽ<br/>പതറാതെ മുന്നേറുവാൻ<br/>ഈ മരുവിൽ നിൻകൃപ തരിക</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ജീവിതപാതകളിൽ എന്റെ<br/>കാലുകൾ വഴുതിടാതെ<br/>അന്ത്യം വരെ ഗമിപ്പാൻ<br/>നിന്റെ അമിതബലം തരിക.</lines>
+    </verse>
+  </lyrics>
+</song>

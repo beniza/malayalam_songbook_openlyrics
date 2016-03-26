@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:10">
+  <properties>
+    <titles>
+      <title>നിസ്തുലനാം നിർമ്മലനാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിസ്തുലനാം നിർമ്മലനാം<br/>ക്രിസ്തുവിനെ സ്തുതിച്ചിടുവിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അദൃശ്യനാം ദൈവത്തിൻ പ്രതിമയവൻ<br/>ദൈവിക തേജസ്സിൻ മഹിമയവൻ<br/>ആദിയവൻ അന്തമവൻ<br/>അഖിലജഗത്തിനും ഹേതുവവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാർത്തയായിരുന്നവൻ ജഡമെടുത്തീ<br/>പാർത്തലത്തിൽ വന്നു പാർത്തതിനാൽ<br/>നമുക്കു തന്റെ നിറവിൽ നിന്നും<br/>കൃപമേൽ കൃപ ലഭിപ്പാനിടയായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദൈവവിരോധികളായതിനാൽ<br/>ന്യായവിധിക്കു വിധേയർ നമ്മെ<br/>ദൈവമക്കൾ ആക്കിയല്ലോ<br/>ജീവനും തന്നവൻ സ്നേഹിച്ചതാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തൻകൃപയിൻ മഹിമാധനത്തെ<br/>നിത്യയുഗങ്ങളിൽ കാട്ടിടുവാൻ<br/>മർത്യർ നമ്മെ അവനുയർത്തി<br/>സ്വർഗ്ഗസ്ഥലങ്ങളിലങ്ങിരുത്തി</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വിണ്ണിലും മണ്ണിലും ഉള്ളതെല്ലാം<br/>പിന്നെയും ക്രിസ്തുവിലൊന്നാകും<br/>പൂർണ്ണതയിൽ ദൈവികമാം<br/>നിർണ്ണയങ്ങൾ നിറവേറിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

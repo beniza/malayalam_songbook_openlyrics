@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>സത്യസഭാ പതിയേ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സത്യസഭാ പതിയേ... സ്തുതിതവ<br/>നിത്യദയാനിധിയേ<br/>തിരുവടി തേടി വരുന്നിതാ ഞങ്ങൾ<br/>ഇരുകൈകൂപ്പി വീണു തൊഴുന്നേൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപനാശക ദേവകുമാരാ പതിതർക്കു<br/>പാരിൽ അവലംബം നീയേ<br/>നിൻതിരുനാമം എന്തഭിരാമം<br/>നിൻമഹാസ്നഹേം സിന്ധുസമാനം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മനുഷ്യനായി കുരിശതിൽ നരർക്കായ്<br/>മരിച്ചുയിർത്തെഴുന്നു വാഴും വിജയ് നീ<br/>മഹിയിൽ വീണ്ടുംവരുന്നവൻ നീയേ<br/>മലിനത നീക്കി വാഴ്വതും നീയേ.</lines>
+    </verse>
+  </lyrics>
+</song>

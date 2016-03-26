@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>നായകാ! എൻ ക്രൂശെടുത്തു</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നായകാ! എൻ ക്രൂശെടുത്തു നിൻ പിന്നാലെ വരും ഞാൻ<br/>നിന്ദ്യനായിത്തീർന്നെന്നാലും നിൻ മഹത്വം ഘോഷിപ്പാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എൻ കർത്താവെ ഞാൻ പിൻചെല്ലും<br/>ലോകമെന്നെ കൈവിട്ടാലും കൃപയാൽ ഞാൻ പിൻചെല്ലും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലൗകികാഭിലാഷമല്ല സ്വർഗ്ഗത്തിന്റെ ദൈവം താൻ<br/>എന്റെ ദിവ്യ പങ്കെന്നേക്കും ഞാൻ മഹാ സൗഭാഗ്യവാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിൻപ്രസാദം എൻപ്രമോദം നിൻ പ്രകാശം ജീവനാം<br/>നീ താൻ എന്റെ ഏകലാക്കും നീ എല്ലാറ്റിലും എല്ലാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശത്രു ഏറ്റം ക്രുദ്ധിച്ചാലും മിത്രം ഹസിച്ചിടിലും<br/>നിന്റെ മുഖശോഭമൂലം ക്ലേശമില്ലൊരിക്കലും.</lines>
+    </verse>
+  </lyrics>
+</song>

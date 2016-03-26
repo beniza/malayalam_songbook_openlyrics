@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>ആണിപ്പാടുള്ളതാം പാണികൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആണിപ്പാടുള്ളതാം പാണികൾ<br/>നീട്ടിയിന്നേശു കർത്താവു നിന്നെ<br/>മാർവ്വിലണച്ചിടാൻ മാടി വിളിക്കുന്നു<br/>ആ വിളി കേൾക്കുമോ നീ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകയിമ്പങ്ങളിൽ ഭൂനിക്ഷേപങ്ങളിൽ<br/>നീ രസിച്ചു വസിച്ചാൽ ഇന്നു നീ രസിച്ചു വസിച്ചാൽ<br/>ശോകസമ്പൂർണ്ണമാം നിത്യനരകം<br/>നിന്നോഹരിയോർത്തുകൊൾക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നല്ലിടയനാകും യാഹ്വയെ പിൻചെന്നാൽ<br/>അല്ലലില്ലാടുകൾക്ക് തെല്ലും അല്ലലില്ലാടുകൾക്ക്<br/>നല്ല സഖിയവൻ വല്ലഭമാർന്നതാം<br/>തോളിൽ വഹിച്ചുകൊള്ളും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിന്നുടെ പാപത്തിൻ ശിക്ഷ തൻപുത്രന്മേൽ<br/>സ്വർഗ്ഗതാതൻ ചുമത്തി¬തന്നെ കാൽവറി ക്രൂശിൽ<br/>കൈവിട്ടഹോ നിന്റെ മരണശിക്ഷയൊഴിപ്പാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിന്നുടെയാത്മാവു പാതാളവേദനാ<br/>മൃത്യുവെടിഞ്ഞിനിമേൽ ഘോര മൃത്യുവെടിഞ്ഞിനിമേൽ<br/>സ്വർഗ്ഗസൗഭാഗ്യമാം<br/>നിത്യജീവന്നവകാശിയാക്കിടുവാനായ്</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>വരും പ്രാണപ്രിയൻ വിരവിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v6 v7 v6 v8 v6 v9 v6 v9 v6 v10 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വരും പ്രാണപ്രിയൻ വിരവിൽ<br/>തന്റെ കാന്തയെ ചേർത്തിടുവാൻ<br/>തന്റെ രക്തത്താൽ വീണ്ടെടുത്ത പ്രിയയെ<br/>തൻകൂടെന്നെന്നും വാണിടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകരാഷ്ട്രങ്ങളാകവേയിളകും<br/>അതിൻശക്തിയോ ബലഹീനമാകും<br/>കർത്തൻ വരവിനെ കാത്തിടും ശുദ്ധരോ<br/>അവർ പുതുക്കിടും ശക്തിയെ ദിനവും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കഷ്ടം നിന്ദകളേറി വരികിലും<br/>കഷ്ടം സഹിച്ചവൻ കൂടെയുണ്ടെന്നും<br/>തിരുസാന്നിദ്ധ്യം ആനന്ദം നൽകും<br/>തിരുക്കരങ്ങളാൽ താങ്ങി നടത്തും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മണവാളൻ തൻവരവു സമീപം<br/>ഉണർന്നിടുക നാം അതിവേഗം<br/>തെളിയിച്ചിടുക നമ്മൾ ദീപം<br/>അന്നു ചേർന്നിടും നാം തൻസമീപം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വാട്ടം മാലിന്യം ലേശമില്ലാത്ത<br/>സ്വർഗ്ഗനാടതിൽ വാണിടും മോദാൽ<br/>തേജസ്സോടെ നാം യേശുവിൻകൂടെ<br/>വാഴും ശോഭാപരിപൂർണ്ണരായി. M.E.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കർത്താവു വാനിൽ വന്നിടാറായി<br/>പ്രതിഫലം നമുക്കു തന്നിടാനായി</lines>
+    </verse>
+    <verse name="v7">
+      <lines>കഷ്ടതയൊന്നുമില്ല പട്ടിണി തെല്ലുമില്ല<br/>ദുഷ്ടജനമാരും അവിടെ വരികില്ല</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഇന്നിഹേ വന്നിടുന്ന ഖിന്നത ഭിന്നത<br/>ഒന്നുമവിടില്ല ഒന്നല്ലോ നാമെല്ലാം</lines>
+    </verse>
+    <verse name="v9">
+      <lines>വാഴും നാം മന്നിടത്തിൽ അന്നാളിൽ മന്നവർ നാം<br/>താഴുമരിഗണം ആ നൽഭരണത്തിൽ</lines>
+    </verse>
+    <verse name="v10">
+      <lines>കാലങ്ങളേറെയില്ല നാളുകൾ നീളുകില്ല<br/>കാന്തനവൻ വരും ഒരുങ്ങിടാം പ്രിയരേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>എല്ലാം അങ്ങേ മഹത്വത്തിനായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എല്ലാം അങ്ങേ മഹത്വത്തിനായ്<br/>എല്ലാം അങ്ങേ പുകഴ്ചയ്ക്കുമായ്<br/>തീർന്നിടേണമേ പ്രിയനേ തിരുനാമമുയർന്നിടട്ടെ<br/>എല്ലാം അങ്ങേ മഹത്വത്തിനായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്നേഹത്തിലൂടെയെല്ലാം കാണുവാൻ<br/>സ്നേഹത്തിൽ തന്നെയെല്ലാം ചെയ്യുവാൻ<br/>എന്നിൽ നിൻസ്വഭാവം പകരണമേ ദിവ്യ<br/>തേജസ്സാലെന്നെ നിറയ്ക്കണമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആത്മാവിൻ ശക്തിയോടെ ജീവിപ്പാൻ ആത്മ<br/>നൽവരങ്ങൾ നിത്യവും പ്രകാശിപ്പാൻ<br/>ആത്മദായകാ! നിരന്തരമായെന്നി-<br/>ലാത്മദാനങ്ങൾ പകരണമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിന്റെ പേരിൽ ഞങ്ങൾ ചെയ്യും വേലകൾ<br/>തിരുനാമവും ധരിച്ചു ചെയ്യും ക്രിയകൾ<br/>ഭൂവിൽ ഞങ്ങൾക്കല്ല വാനവനേ<br/>അങ്ങേ വാഴ്വിന്നായ് മാത്രം തീരണമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വക്രത നിറഞ്ഞ പാപലോകത്തിൽ<br/>നീ വിളിച്ചു വേർതിരിച്ച നിൻ ജനം<br/>നിന്റെ പൊന്നു നാമമഹത്വത്തിനായ്<br/>ദിനം ശോഭിപ്പാൻ കൃപ നൽകേണമേ</lines>
+    </verse>
+  </lyrics>
+</song>

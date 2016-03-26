@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:50">
+  <properties>
+    <titles>
+      <title>പലതരം ഹൃദയങ്ങൾ പലതിലാശ വയ്ക്കുന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പലതരം ഹൃദയങ്ങൾ പലതിലാശ വയ്ക്കുന്നു<br/>മമ ലാക്കെന്നുടെ യേശു അവനത്രേയെനിക്കെല്ലാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കനകമോ നിധികളോ, കളിമേള രസങ്ങളോ,<br/>ഉടലിൻ ഭംഗിയോ സുഖമരുളുന്നില്ലെനിക്കൊട്ടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉലകവുമതിന്നുടെ ബഹളവും നശിച്ചിടും<br/>മലർപോലായതു വാടും ക്ഷണമാത്രം നിലനിൽക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇതുതാൻ ഗോപുരമതിനെതിരാരും വരികില്ല<br/>തിരുരാജ്യം നശിക്കുമോ നിലനിൽക്കുമൊടുവോളം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അടിയനോ പരദേശി അലയുന്നാകിലുമെന്നെ<br/>സുരലോകമഹിമയിൽ തരസാ ചേർത്തിടും നാഥൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

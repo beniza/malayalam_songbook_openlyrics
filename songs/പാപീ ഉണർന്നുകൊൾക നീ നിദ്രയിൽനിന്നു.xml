@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>പാപീ! ഉണർന്നുകൊൾക നീ നിദ്രയിൽനിന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാപീ! ഉണർന്നുകൊൾക നീ നിദ്രയിൽനിന്നു<br/>പാപീ! ഉണർന്നുകൊൾക നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വലിയനാശം വന്നിടും കളിപ്പാൻ സമയമില്ല<br/>ചെലവു ചെയ്യരുതേ നീ വിലയില്ലത്തതിന്നായി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കടലിൻ ഇരച്ചൽപോലെയും ഇടിമുഴക്കം പോലെയും<br/>വിധിനാളിൻ ഭയങ്കരം അടുത്തടുത്തു വരുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിന്റെ വഴികളെയും അന്തർഭാഗങ്ങളെയും<br/>തന്റെ തുലാസിൽ ദൈവം സന്തതം തൂക്കിടുന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സത്യമാർഗ്ഗത്തിലേക്കും നിത്യരക്ഷയിലേക്കും<br/>മർത്യനാകുന്ന നിന്നെ കർത്തൻ വിളിച്ചിടുന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നരകാഗ്നിയിൻ ജ്വാലയ്ക്കു ഇരയായ് പോകാതിരിപ്പാൻ<br/>പരനോടു യോജിക്കുക കരുണ കണ്ടെത്തുവാനായ്</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഉറക്കം തൂങ്ങരുതിനി തുറക്ക വേഗം നിൻ കൺകൾ<br/>വെറുതേ കളയരുതേ ചുരുക്കമാംരക്ഷാകാലം.</lines>
+    </verse>
+  </lyrics>
+</song>

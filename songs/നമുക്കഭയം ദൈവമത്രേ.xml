@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:55">
+  <properties>
+    <titles>
+      <title>നമുക്കഭയം ദൈവമത്രേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നമുക്കഭയം ദൈവമത്രേ<br/>മനുഷ്യഭയം വേണ്ടിനിയും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നും നൽസങ്കേതം ദൈവം<br/>തന്നു നമ്മെ കാത്തിടുന്നു<br/>മണ്ണും മലയും നിർമ്മിച്ചതിന്നും<br/>മുന്നമേ താൻ വാഴുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രാവിലെ തഴച്ചുവളർന്നു<br/>പൂവിടർന്ന പുല്ലുപോലെ<br/>മേവിടുന്ന മനുഷ്യർ വാടി<br/>വീണിടുന്നു വിവശരായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചേരും മണ്ണിൻ പൊടിയിലൊരു നാൾ<br/>തീരും മനുഷ്യമഹിമയെല്ലാം<br/>വരുവിൻ തിരികെ മനുഷ്യരേയെ-<br/>ന്നരുളിചെയ്യും വല്ലഭൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നന്മ ചെയ്തും നാട്ടിൽ പാർത്തും<br/>നമുക്കു ദൈവസേവ ചെയ്യാം<br/>ആശ്രയിക്കാം അവനിൽ മാത്രം<br/>ആഗ്രഹങ്ങൾ തരുമവൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിത്യനാടു നോക്കി നമ്മൾ<br/>യാത്ര ചെയ്യുന്നിന്നു മന്നിൽ<br/>എത്തും വേഗം നിശ്ചയം നാം<br/>പുത്തൻ ശാലേം പുരമതിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

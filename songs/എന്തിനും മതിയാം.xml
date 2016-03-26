@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:35">
+  <properties>
+    <titles>
+      <title>എന്തിനും മതിയാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്തിനും മതിയാം<br/>തൻ തിരു സ്നേഹം<br/>ഹന്ത നീ കാൽവറി<br/>തന്നിൽ കാട്ടിയ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യൂദകുലമൊരു പോൽ<br/>നാഥനെ കൊന്നീടാൻ<br/>കൂട്ടമായ്‌ കൂടുവാൻ<br/>കാരണമെന്തെന്നോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇരുകള്ളന്മാർ മദ്ധ്യേ<br/>പെരും കള്ളെനെന്നപോൽ<br/>മരുവുന്ന കാരണം<br/>തിരയുമൊ മാ പാപി-</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കുത്തുന്നു പടയാളി<br/>കുന്തത്താൽ തിരുമാർവ്വിൽ<br/>എന്തൊരുബന്ധമീ രുധിരംചിന്തുവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്തിമ നാളിങ്കൽ<br/>എന്തു നീ ചെയ്തിടും<br/>എന്തുക നാഥനെ<br/>നിൻ ഹൃദയാന്തരേ.</lines>
+    </verse>
+  </lyrics>
+</song>

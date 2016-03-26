@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:51">
+  <properties>
+    <titles>
+      <title>ഞാനെന്റെ കണ്ണുകൾ ഉയർത്തിടുന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഞാനെന്റെ കണ്ണുകൾ ഉയർത്തിടുന്നു<br/>എൻ സഹായം എവിടെ നിന്നു വരും?<br/>എൻ സഹായം ആകാശവും ഭൂമിയും സൃഷ്ടിച്ച<br/>യഹോവയിങ്കൽ നിന്നല്ലോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്റെ കാൽ വഴുതുവാൻ സമ്മതിക്കുകില്ല<br/>നിന്നെ കാക്കുന്നവൻ മയങ്ങുകില്ല<br/>അവൻ മയങ്ങുകില്ല അവനുറങ്ങുകില്ല<br/>യിസ്രായേലിൻ പരിപാലകൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യഹോവ നിന്റെ പരിപാലകൻ<br/>യഹോവ വലഭാഗേ നിനക്കു തണൽ<br/>പകൽ സൂര്യനെങ്കിലും രാത്രി ചന്ദ്രനെങ്കിലും<br/>നിന്നെ യാതൊന്നും ബാധിക്കയില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യഹോവ നിന്നെ പരിപാലിക്കും<br/>നിന്റെ പ്രാണനെയും പരിപാലിക്കും<br/>നിന്റെ ഗമനത്തെയും ആഗമനത്തെയും<br/>എന്നേക്കും പരിപാലിക്കും</lines>
+    </verse>
+  </lyrics>
+</song>

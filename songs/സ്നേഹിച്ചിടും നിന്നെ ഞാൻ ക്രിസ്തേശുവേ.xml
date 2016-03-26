@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:44">
+  <properties>
+    <titles>
+      <title>സ്നേഹിച്ചിടും നിന്നെ ഞാൻ ക്രിസ്തേശുവേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്നേഹിച്ചിടും നിന്നെ ഞാൻ ക്രിസ്തേശുവേ<br/>സേവിച്ചിടും നിന്നെ ഞാൻ സേവിക്കും<br/>ഞാനെന്റെ ജീവകാലമെല്ലാം<br/>ജീവൻ വെടിഞ്ഞെന്നെ സ്നേഹിച്ച നാഥനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇന്നു മുതൽ ഞാനുമെൻ കുടുംബവും<br/>നിന്നെ മാത്രം സേവിക്കും<br/>നിന്നെ സേവിക്കുമ്പോൾ നേരിടും കഷ്ടങ്ങൾ<br/>എന്നും ക്ഷമയോടെ എല്ലാ സഹിക്കും ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ബന്ധുജനങ്ങളെന്നെ വെടിഞ്ഞാലും<br/>സന്തതം സേവിക്കും ഞാൻ<br/>ബന്ധുവെപ്പോലെന്നെ സന്ധാരണം ചെയ്യും<br/>തന്തയാമേശുവേ സന്തോഷമോടെ ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകം ദ്വേഷിച്ചിടിലും ഒരു നാളും<br/>ശോകപ്പെടുകയില്ല<br/>ലോകത്തിൽനിന്നെന്നെ നിത്യമുയർത്തി<br/>സ്വർലോകത്തിൽ ചേർക്കും ശ്രീയേശുരക്ഷകനേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സർവ്വലോകങ്ങളെക്കാൾ വലിയവൻ<br/>ഉർവ്വിയിൽ നീയെനിക്കു<br/>സർവ്വജനങ്ങളുംഎന്നെ വെടിഞ്ഞാലും<br/>സർവ്വദാ ഞാൻ നിന്നെ സേവിച്ചിടും മുദാ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വക്രതയുള്ളവരിൻ മദ്ധ്യേ ദിനം<br/>സൽക്രമമായ് ജീവിപ്പാൻ<br/>ഈ കൃമിക്കേതും കഴിവില്ല ദേവ, നിൻ<br/>ഉൽക്കൃഷ്ടമാം കൃപയേറെ നൽകിടേണം.</lines>
+    </verse>
+  </lyrics>
+</song>

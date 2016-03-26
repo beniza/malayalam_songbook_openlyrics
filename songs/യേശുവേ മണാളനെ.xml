@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>യേശുവേ മണാളനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കണ്ടിടും കണ്ടിടും പ്രിയനെ<br/>ഞാൻ കണ്ടിടും<br/>അന്യനല്ല സ്വന്തകണ്ണാൽ<br/>തന്റെ മുഖം കണ്ടിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കണ്ണുനീർ നിറഞ്ഞ ലോകമേ<br/>നിന്നിൽ നിന്നു ഞാൻ മറയട്ടെ<br/>കണ്ണിമയ്ക്കും നൊടിനേരത്തിൽ<br/>എത്തും ഞാൻ ബയൂലതീരത്തിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മണ്മറഞ്ഞ സിദ്ധരും<br/>ജീവനോടിരിക്കും ശുദ്ധരും<br/>വിണ്ണിൽ കാഹളം ധ്വനിക്കുമ്പോൾ<br/>മണ്ണിൽനിന്നും വാനിൽ പോകുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉയിർപ്പിൻ സുപ്രഭാതത്തിൽ<br/>ദൂതർ വീണമീട്ടും സംഘത്തിൽ<br/>ആ പൊൻകിരീടകൂട്ടത്തിൽ<br/>എന്റെ പേർ വിളിക്കും നേരത്തിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻഓട്ടവും അദ്ധ്വാനവും ഞാൻ<br/>കാത്തതാം വിശ്വാസവും<br/>വ്യർത്ഥമല്ല അതു നിശ്ചയം<br/>വേഗം കാണും എൻ മണാളനെ</lines>
+    </verse>
+  </lyrics>
+</song>

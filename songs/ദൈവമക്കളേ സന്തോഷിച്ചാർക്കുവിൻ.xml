@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:25">
+  <properties>
+    <titles>
+      <title>ദൈവമക്കളേ സന്തോഷിച്ചാർക്കുവിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവമക്കളേ സന്തോഷിച്ചാർക്കുവിൻ<br/>ദൈവം ചെയ്ത നന്മയോർക്കുവിൻ<br/>ജീവനാഥനീ നമ്മെ രക്ഷിക്കുവാൻ<br/>ജീവനെയും തന്നതോർക്കുവിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹല്ലേലുയ്യാ ഹല്ലേലുയ്യാ ഹല്ലേലുയ്യാ ഗീതം പാടുവിൻ<br/>ഹല്ലേലുയ്യാ ഹല്ലേലുയ്യാ ഹല്ലേലുയ്യാ ചേർന്നു പാടുവിൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തങ്കമേനിയിൽ ലംഘനങ്ങളെ ശങ്കയെന്നിയേ വഹിച്ചവൻ<br/>സങ്കടങ്ങളിൽ തൻ കരങ്ങളാൽ കൺകളെ തുടച്ചിടുന്നവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദൈവം നമ്മുടെ ജീവന്റെ ബലം ഒന്നിലും ഭയന്നിടേണ്ട നാം<br/>ക്ഷാമവും മഹായുദ്ധമാകിലും ക്ഷേമമായി നടത്തിടുമവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഹാ! വിഷാദത്താലുള്ളം കലങ്ങാതെ<br/>ദൈവത്തിൽ പ്രത്യാശ വയ്ക്കുവിൻ<br/>ദൈവം നമ്മുടെ മുഖപ്രകാശമാം കൈവിടാത്ത ദിവ്യമിത്രമാം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ദൈവത്തിൽ സദാ ആശ്രയിക്കുവോർ<br/>എന്നും നിൽക്കും സീയോൻ പോലെയാം<br/>ഇന്നുമെന്നേക്കും തൻജനങ്ങളെ ഒന്നുപോലെ കാത്തിടുമവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

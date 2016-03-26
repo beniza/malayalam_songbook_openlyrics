@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:10">
+  <properties>
+    <titles>
+      <title>ജീവിതക്കുരിശിൻ ഭാരം ഏറിവന്നീടിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുനാഥനെന്റെ കണ്ണുനീർ തുടച്ചിടും<br/>തൻകരങ്ങൾ നീട്ടിയെന്നെത്താൻ തഴുകിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപികളെ പാവനരായുയർത്തിടുവാനായ്<br/>പാഴ്മരുവാം പാരിടത്തിൽ തേടിവന്നവനാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശത്രുവിന്നായ് ജീവരക്തം സർവ്വമേകിയവൻ<br/>മർത്യരിലും ഉത്തമനാം കാത്തിടും നിത്യം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വൈരികളെൻ ചുറ്റിനുമങ്ങാഞ്ഞടുത്താലും<br/>പാരിടമെനിക്കെതിരായാഞ്ഞുലഞ്ഞാലും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മർത്യരെല്ലാം മാറിയാലും കൂടെ നിന്നിടും<br/>കത്തിടും മത്മാനസത്തെ മുത്തിടും നാഥൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഭൂവിതിലെ ക്ലേശമേറെ നീളുകില്ലിനി<br/>ദൂതരുമൊത്തെത്തിടും താൻ ചേർത്തിടും ചാരേ.</lines>
+    </verse>
+  </lyrics>
+</song>

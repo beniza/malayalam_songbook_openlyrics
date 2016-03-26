@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:58">
+  <properties>
+    <titles>
+      <title>ആനന്ദമേ എന്താനന്ദമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആനന്ദമേ എന്താനന്ദമേ<br/>യേശു എന്നുള്ളത്തിൽ വന്നതാലെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻഭാരം നീങ്ങി മമ<br/>നാവിലുയർന്നു സ്തോത്ര ഗാനം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സന്താപമെല്ലാം തീർന്നുയെന്നിൽ<br/>സന്തോഷം വന്നു ഹല്ലേലുയ്യ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉള്ളം കലങ്ങി നീറിടുമ്പോൾ<br/>ഉണ്ടെനിക്കേശു ആശ്വാസമായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കൺകൾ നിറയും നേരങ്ങളിൽ<br/>കണ്ണീർ തുടയ്ക്കും തൻ കരങ്ങൾ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇത്ര സൗഭാഗ്യ ജീവിതം ഹാ!<br/>ഇദ്ധരയിൽവേറില്ലിതുപോൽ</lines>
+    </verse>
+  </lyrics>
+</song>

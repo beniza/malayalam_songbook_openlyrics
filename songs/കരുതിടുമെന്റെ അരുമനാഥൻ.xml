@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:59">
+  <properties>
+    <titles>
+      <title>കരുതിടുമെന്റെ അരുമനാഥൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുതിടുമെന്റെ അരുമനാഥൻ<br/>കരുണയോടെന്നും ചിറകടിയിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വേണ്ടഖേദം തെല്ലും മനമേ<br/>ജീവിതഭാരങ്ങൾ പെരുകിടുമ്പോൾ<br/>ക്ഷോണിയിലെ ഈ ക്ഷീണമെല്ലാം മാറും<br/>അവൻകരങ്ങളിൽ നിന്നെ സമർപ്പിക്കുമ്പോൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കഷ്ടങ്ങൾ, രോഗങ്ങൾ, പ്രതികൂലങ്ങൾ<br/>ഒട്ടൊഴിയാതെ വന്നാഞ്ഞടിച്ചാൽ<br/>ഇഷ്ടനാമേശു നിന്നരികിലുണ്ട്<br/>സ്പഷ്ടമായ് നിന്നെ വഴി നടത്താൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശത്രുവിൻ ഭീകരയൊളിയമ്പുകൾ<br/>ശക്തിയായ് നിന്നിൽ പതിച്ചിടുമ്പോൾ<br/>ശക്തിയില്ലെന്നു നീ ധരിച്ചിടുന്നോ?<br/>ശാശ്വതഭൂജങ്ങൾ നിൻകീഴെയുണ്ട്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മനം തകർന്നിടുന്ന വേളകളിൽ<br/>കനിവില്ലാതെ പലർ പഴിച്ചിടുമ്പോൾ<br/>കണ്ണീർ വാർക്കുന്നൊരേശു നാഥൻ<br/>സ്നേഹത്തണ്ണീരാലുള്ളം തണുപ്പിക്കുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

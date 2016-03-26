@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>മനുവേലേ, മന്നിതിലെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിന്നുദയ പൊൻപുലരി<br/>എന്നിനിയും കാണുമീ ഞാൻ<br/>അന്നുതീരും ഖിന്നതകൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപമെഴും പാരിടത്തെ<br/>പാവനമാം പാർപ്പിടമായ്<br/>ഭാസുരമായ് മാറ്റി ഭവാൻ<br/>ഭാഗധേയ ഭാവിതരും<br/>പാടവമായ് പാടുമന്നാൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻജനത്തിന്നിംഗിതങ്ങൾ<br/>ക്കിന്നിഹത്തിൽ സ്ഥാനമില്ല<br/>നിൻഹിതത്തിൽ തന്നെയെത്തി-<br/>യീ ധരിത്രി കാണുമെല്ലാം<br/>ആയതിനായ് കാത്തിടുന്നേൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നല്ലതല്ലാതൊന്നുമില്ല വല്ലഭൻ<br/>നിൻ വാഴ്ച തന്നിൽ<br/>ഹല്ലേലുയ്യ, ഹല്ലേലുയ്യാ,<br/>ഹല്ലേലുയ്യ ചൊല്ലുമന്നാൾ<br/>ചൊല്ലുമന്നാൾ ഹല്ലേലുയ്യാ.</lines>
+    </verse>
+  </lyrics>
+</song>

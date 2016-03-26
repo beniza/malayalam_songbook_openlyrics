@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:41">
+  <properties>
+    <titles>
+      <title>ഇന്നയോളം തുണച്ചോനെ ഇനിയും തുണയ്ക്ക</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇന്നയോളം തുണച്ചോനെ ഇനിയും തുണയ്ക്ക<br/>ഇഹ ദുഃഖരക്ഷയും നീ ഈയെൻ നിത്യഗൃഹം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിൻ സിംഹാസന നിഴലിൽ നിൻ ശുദ്ധർ പാർക്കുന്നു<br/>നിൻ ഭുജം മതിയവർക്കു നിർഭയം വസിപ്പാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പർവ്വതങ്ങൾ നടുംമുമ്പേ പണ്ടു ഭൂമിയേക്കാൾ<br/>പരനെ നീ അനാദിയായ് പാർക്കുന്നല്ലോ സദാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആയിരം വർഷം നിനക്ക് ആകുന്നിന്നലെപ്പോൽ<br/>ആദിത്യോദയമുമ്പിലെ അൽപ്പയാമം പോലെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിത്യനദിപോലെ കാലം നിത്യം തൻമക്കളെ<br/>നിത്യത്വം പൂകിപ്പിക്കുന്നു നിദ്രപോലെയത്രേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇന്നയോളം തുണച്ചോനെ ഇനിയും തുണയ്ക്ക<br/>ഇഹം വിട്ടു പിരിയുമ്പോൾ ഈയെൻ നിത്യഗൃഹം</lines>
+    </verse>
+  </lyrics>
+</song>

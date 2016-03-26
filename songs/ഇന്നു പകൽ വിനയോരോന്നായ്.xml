@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:22">
+  <properties>
+    <titles>
+      <title>ഇന്നു പകൽ വിനയോരോന്നായ്</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇന്നു പകൽ വിനയോരോന്നായ് വന്നെന്നാൽ<br/>കർത്തനെ നിൻ ചിറകിൻകീഴിൽ<br/>ഭദ്രമായ് ശരണം നൽകിയതോർത്തു ഞാൻ വന്ദിക്കുന്നാദരവായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശത്രുവിന്നസ്ത്രം പറക്കും പകലിലും രാവിൻ ഭയങ്ങളിലും ഘോര<br/>മാരിയോ പീഡയോ ലേശമേഴാതെന്നെ പാലിച്ചെന്തത്ഭുതമായ്!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കണ്ണീരിലാണ്ടു വലഞ്ഞു നിരാശയിൽ ലോകർ ഞരങ്ങിടുമ്പോൾ ദേവാ<br/>എത്രയും മോദമായ് പാടുവാൻ നീ തന്നു ഭാഗ്യമീ സാധുവിന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഘോരമാം കൂരിരുളേറുന്നു പാരിതിൽ നാഥനേ! നീ വെളിച്ചം തൂകും<br/>പൊൻപ്രഭാതം വരും വേളവരെ നിന്നിൽ വിശ്രാമം തന്നിടേണം P.P.G.</lines>
+    </verse>
+  </lyrics>
+</song>

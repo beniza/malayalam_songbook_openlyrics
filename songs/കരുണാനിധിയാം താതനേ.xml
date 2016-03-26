@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:45">
+  <properties>
+    <titles>
+      <title>കരുണാനിധിയാം താതനേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുണാനിധിയാം താതനേ! നിൻവചനത്തിൻ<br/>മഹിമാവനന്തമീശനേ! പരലോകലിപികളാൽ<br/>പരിശോഭിച്ചിടുമിതു സ്മരണം ചെയ്തടിയങ്ങൾ<br/>തിരുനാമം വാഴ്ത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കനിവേറും രക്ഷിതാവിന്റെ സ്വാഗതസ്വനം<br/>വിതറുന്നു സ്വർഗ്ഗ ശാന്തിയെ അഴിവില്ലാജ്ജീവനുമ<br/>ങ്ങളവില്ലാ പ്രമോദവും അണയുന്നു നിന്റെ ദിവ്യധ്വനി<br/>കേൾക്കുന്നതുനേരം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സുരലോക രേഖകളിതു സർവ്വനേരവും<br/>മമ മോദമായിരിക്കണം<br/>ദിനവും പുതിയ ഭംഗി വളരും വെളിച്ചമിവ<br/>ഇതിൽനിന്നു കണ്ടിടുവാൻ തുണ ചെയ്ക പരമാത്മൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പരമഗുരുവാം നാഥനേ! ദയനിറഞ്ഞ പരനേ!<br/>സകലനാളും നീ അരികേയിരുന്നു നിന്റെ<br/>തിരുവാചമഭ്യസിപ്പാൻ അരുളേണം കൃപയെന്നു<br/>തവ ദാസരുരയ്ക്കുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

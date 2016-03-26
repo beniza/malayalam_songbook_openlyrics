@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:03">
+  <properties>
+    <titles>
+      <title>എന്നേശുനാഥനെന്നുമെത്ര നല്ലവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നേശുനാഥനെന്നുമെത്ര നല്ലവൻ<br/>എത്ര നല്ലവൻ! താനെത്ര വല്ലഭൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചെഞ്ചോര ചിന്തി കുരിശിലേറി<br/>എൻപാപം തീർത്തെന്നെ സ്വന്തമാക്കി<br/>താൻ നന്ദിയാൽ പാടും ഞാൻ<br/>പുതിയ ഗീതങ്ങൾ ജീവൻ പോവോളവും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സങ്കടം തിങ്ങിടും നേരമെല്ലാം<br/>തൻകരത്താലെന്നെ താങ്ങുമല്ലോ<br/>കൈവിടില്ലവൻ ഹാ! എത്ര<br/>നല്ലവൻ എന്നും മാറാത്തവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ജീവിതപാതയിൽ നേരിടുന്ന<br/>എല്ലാപ്രയാസവും തീർത്തുതന്നിടും<br/>ഭിതിയില്ലിനി തൻ ചിറകിൻ കീഴിൽ<br/>ഞാൻ മോദമായ് പാർത്തിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തേജസ്സിലെന്നേശു വന്നു വേഗം<br/>തേജസ്കരിച്ചെന്നെ ചേർത്തണയ്ക്കുമെ<br/>തേജസ്സേറിടും തൻ രൂപമഹിമയിൽ<br/>വാഴും നിത്യകാലം ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

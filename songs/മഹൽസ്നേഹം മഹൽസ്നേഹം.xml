@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>മഹൽസ്നേഹം മഹൽസ്നേഹം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മഹൽസ്നേഹം മഹൽസ്നേഹം പരലോക പിതാവു തൻ<br/>മകനെ മരിപ്പതിന്നായ് കുരിശിൽ കൈവെടിഞ്ഞോ?<br/>മകനെ മരിപ്പതിന്നായ്(3)കുരിശിൽ കൈവെടിഞ്ഞോ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്വർഗ്ഗസ്ഥലങ്ങളിലുള്ളനുഗ്രഹം നമുക്കായ്<br/>സകലവും നൽകിടുവാൻ പിതാവിന്നു ഹിതമായ്<br/>സകലവും നൽകിടുവാൻ(3)പിതാവിന്നു ഹിതമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉലകസ്ഥാപനത്തിൻ മുമ്പുളവായൊരൻപാൽ<br/>തിരഞ്ഞെടുത്തവൻ നമ്മെ തിരുമുമ്പിൽ വസിപ്പാൻ<br/>തിരഞ്ഞെടുത്തവൻ നമ്മെ(3)തിരുമുമ്പിൽ വസിപ്പാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മലിനതമാറി നമ്മൾ മഹിമയിൽ വിളങ്ങാൻ<br/>മനുവേലൻ നിണംചിന്തി നരരെ വീണ്ടെടുപ്പാൻ<br/>മനുവേലൻ നിണംചിന്തി(3)നരരെ വീണ്ടെടുപ്പാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അതിക്രമ മോചനമാമനുഗ്രഹമവനിൽ<br/>അനുഭവിക്കുന്നു നമ്മൾ അവൻ തന്ന കൃപയാൽ<br/>അനുഭവിക്കുന്നു നമ്മൾ(3)അവൻ തന്ന കൃപയാൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മരണത്താൽ മറയാത്ത മഹൽസ്നേഹപ്രഭയാൽ<br/>പിരിയാബന്ധമാണിതു യുഗകാലം വരെയും<br/>പിരിയാബന്ധമാണിതു(3)യുഗകാലം വരെയും.</lines>
+    </verse>
+  </lyrics>
+</song>

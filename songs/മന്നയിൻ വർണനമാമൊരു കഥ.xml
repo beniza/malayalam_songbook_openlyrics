@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>മന്നയിൻ വർണനമാമൊരു കഥ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മന്നയിൻ വർണനമാമൊരു കഥ<br/>ചിന്തനം ചെയ്തീടുവിൻ<br/>ഉന്നതനാം ദൈവം വിണ്ണുലകിൽ നിന്നു<br/>തൻജനത്തിനു കൊടുത്തോരു ധാന്യമാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഏറ്റം ചെറിയതല്ലോഭുജിപ്പതിന്നേറ്റൊരു ധാന്യമിത്<br/>ഉറ്റം പെരുത്തൊരു നാഥനാം മന്നയി<br/>ങ്ങേറ്റം ചെറിയവനായിരുന്നില്ലയോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇല്ലമുന ചെറുതും ഉരുണ്ടൊരു നല്ലവടിവിതിന്നു<br/>നല്ലവനേശുവും കൂർപ്പിയലാവിധം<br/>തന്നെയത്രേ ഭൂവിൽ ജീവനം ചെയ്തതു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>താണതറയിൽ മന്നാകിടുന്നുപോൽ താണുവന്നെന്റെ നാഥൻ<br/>തേനൊലിവാക്കുകൾ ചൊന്നാനതൊക്കെയും<br/>സ്വാദുള്ള മന്നയിൽ കാണുന്നു ഞാനിതാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മഞ്ഞിലുൽപാദിതമായ് മന്നാ വിശുദ്ധാവിയിൽ യേശു താനും<br/>കഷ്ടമിടിപൊടിയേറ്റ മന്നായെന്റെ<br/>ഇഷ്ടനാം നാഥനെ ഓർക്കുമാറാക്കുന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആർക്കുമെടുത്തുകൊൾവാ നെളുപ്പമായ്<br/>വീട്ടുമുറ്റത്തു മന്നാ പാട്ടിൽ കിടക്കുന്നു നാഥനുമവ്വണ്ണം<br/>നോക്കിവിളിപ്പവർക്കെല്ലാം സമീപസ്ഥൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ആർക്കും തികവരുളും മന്നയിതു തീർക്കും പശി, ദാഹവും<br/>സ്വർഗ്ഗകനാന്നതിർ തന്നിലെത്തും വരെ<br/>ദീർഘനാൾ നിൽക്കുമി ശാശ്വത ഭോജനം. K.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>S.</lines>
+    </verse>
+  </lyrics>
+</song>

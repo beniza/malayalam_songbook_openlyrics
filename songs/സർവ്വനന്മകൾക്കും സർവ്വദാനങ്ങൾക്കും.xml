@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>സർവ്വനന്മകൾക്കും സർവ്വദാനങ്ങൾക്കും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സർവ്വനന്മകൾക്കും സർവ്വദാനങ്ങൾക്കും<br/>ഉറവിടമാം എൻ യേശുവേ<br/>നിന്നെ ഞാൻ സ്തുതിച്ചിടുന്നു<br/>ദിനവും പരനെ നന്ദിയായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആഴി ആഴത്തിൽ ഞാൻ കിടന്നു<br/>കൂരിരുൾ എന്നെ മറ പിടിച്ചു<br/>താതൻ തിരുക്കരം തേടിയെത്തി<br/>എന്നെ മാർവ്വോടു ചേർത്തണച്ചു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരിശുദ്ധാത്മാവാൽ നിറയ്ക്ക<br/>അനുദിനവും എന്നെ പരനെ<br/>നിന്റെ വേലയെ തികച്ചിടുവാൻ<br/>നൽവരങ്ങളെ നൽകിടുക</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:09">
+  <properties>
+    <titles>
+      <title>നീ വീണ്ടെടുത്തതാം എൻ പ്രാണനും</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നീ വീണ്ടെടുത്തതാം എൻ പ്രാണനും<br/>ഘോഷിച്ചുല്ലസിക്കും എന്നാത്മാവും<br/>ആഴിയിൻ ആഴംപോൽ അഗാധമാം<br/>നിൻസ്നേഹം ഞാനെന്നും ധ്യാനിക്കുമ്പോൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ക്രൂശിൽ ഞാൻ കാണും നിത്യസ്നേഹം<br/>പാപിയെത്തേടും ദിവ്യസ്നേഹം<br/>പാടിടും ഞാൻ ഇന്നുമെന്നും,<br/>പാരിലെന്നും പ്രഘോഷിക്കും<br/>ആമോദമായ്, ആഘോഷമായ്<br/>സ്നേഹമതാൽ, സ്നേഹമതാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സീമയ്ക്കതീതമാമീ പ്രപഞ്ചം<br/>സർവ്വേശൻ തൻനാമം ഘോഷിക്കുമ്പോൾ<br/>തല ചായ്പാനിടമില്ലാതീധരയിൽ<br/>പാപിയെ നേടാൻ പാടുപെട്ടു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിൺദൂതർ വാഴ്ത്തും വിൺനാഥനാം<br/>ഉർവിക്കധിപനാം ദൈവപുത്രൻ<br/>മണ്ണിൽ മനുജനെപ്പോൽ ധരയിൽ<br/>പാപിയെ നേടാൻ പാടുപെട്ടു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിണ്ണിനും മണ്ണിനുമായ് നടുവിൽ<br/>ഇരുകള്ളർ നടുവിൽ ഗോൽഗോഥാമുകളിൽ<br/>ചങ്കിലെ രക്തം ഊറ്റിക്കൊടുത്തു<br/>പാപിയെ നേടാൻ പാടുപെട്ടു.</lines>
+    </verse>
+  </lyrics>
+</song>

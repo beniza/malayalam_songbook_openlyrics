@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>സുവിശേഷയുഗം ഇതു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സുവിശേഷയുഗം ഇതു<br/>സവിശേഷമതായതു<br/>സുവിശേഷയുഗം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>രക്ഷകനേശുവിന്റെ രക്ഷണ്യ സുവിശേഷം<br/>ഇക്ഷണം മുഴങ്ങുന്നു പക്ഷമോടിക്ഷിതിയിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യേശു നിന്നെ വിളിക്കുന്നാശു വരിക പാപീ!<br/>കാശും വിലയില്ലാതെ യേശു രക്ഷിക്കും നിന്നെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിശ്വസിച്ചാശ്രയിച്ചു വിശ്രമം കണ്ടെത്തുവാൻ<br/>വിശ്രുതനാം വല്ലഭനാശ്രിതർക്കായി എന്നും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വേദവചനമതി മോദം ധ്വനിക്കുന്നിതാ<br/>ഖേദഹരനാമേശുപാദേ വരികയിന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പാപം മരണം നീങ്ങും താപം ന്യായവിധിയും<br/>പാപി വിശ്വസിച്ചു ഈ നിൽപ്പിൽ<br/>ക്രൂശിങ്കൽ പോയാൽ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>അന്ത്യയുഗമാണിതു ചിന്തിക്ക നരനേ! നീ<br/>സന്തോഷയുഗം തീർന്നിങ്ങന്ധയുഗം<br/>വരും മുൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

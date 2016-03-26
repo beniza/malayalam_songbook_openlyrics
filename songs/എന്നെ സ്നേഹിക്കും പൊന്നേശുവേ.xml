@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>എന്നെ സ്നേഹിക്കും പൊന്നേശുവേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നെ സ്നേഹിക്കും പൊന്നേശുവേ!<br/>എന്നും പാലിക്കും എൻ നാഥനേ!<br/>ഈ മരുഭൂവിൽ കൈവിടല്ലേ<br/>തിരുചിറകെന്നെ പൊതിയേണമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നിൽ വന്നുപോയ് തെറ്റധികം<br/>എല്ലാം ക്ഷമിക്കണേ കർത്താവേ!<br/>എന്നെ വെണ്മയാക്കേണമേ<br/>വന്നിടുന്നേഴ നിൻ സവിധേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉള്ളം ആകെ തകരും നേരം<br/>ഉറ്റവർ വിട്ടുപിരിയും നേരം<br/>എന്നെ വിട്ടങ്ങു പോകരുതേ<br/>നീയല്ലാതില്ലെനിക്കഭയം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എങ്ങും ആപത്തൊളിച്ചിരിക്കും<br/>വേളയിൽ നിൻദാസനാമെന്നെ<br/>ഉള്ളം കൈയിൽ വഹിച്ചിടണേ<br/>കൺമണിപോലെ കാത്തിടണേ.</lines>
+    </verse>
+  </lyrics>
+</song>

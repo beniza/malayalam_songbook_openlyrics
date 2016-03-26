@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:22">
+  <properties>
+    <titles>
+      <title>അരുമനാഥനേ! തവ പരമജീവനെ മമ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അരുമനാഥനേ! തവ പരമജീവനെ മമ<br/>ദുരിതപരിഹാരമായ് കുരിശിൽ വച്ചതോർക്കുന്നേൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപം ചെയ്തതോയീ ഞാൻ ശാപമായതോ ഭവാൻ!<br/>താപം നീക്കുവാൻ ദേവകോപം തൂകി നിന്റെ മേൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മനുജരാകവേ മൃതിവശരായ് കോപപാത്രരായ്<br/>മനുജനായി നീ ജീവനരുളാൻ ദേവ സൂനുവേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചത്തു ക്രൂശതിൽ നിന്നോടൊത്തു മർത്യനാമിവൻ<br/>പുത്തൻ ജീവനെ നീ താൻ ദത്തം ചെയ്തതാൽ മമ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പുത്തൻ കല്ലറയതിൽ ഭക്തർ വച്ചു നിന്നെയും<br/>സത്യം നിന്നുടെയടക്കത്തിലെന്നെയും പരം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നീയോ ചാവിനെ ജയിച്ചാരംഭമായുയിർപ്പിൻ<br/>ജീവനിലെന്നെയുമുയർത്തി നിന്നോടുകൂടെ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ആരോഹണമായി നീ താതൻ വല ¬ഭാഗത്തു<br/>മേവുന്നെന്നെയുമവിടാക്കി ഭാഗ്യവാനഹം</lines>
+    </verse>
+    <verse name="v8">
+      <lines>കല്ലറയെനിക്കിതാ! വെള്ളം തന്നെ സ്നാനത്തിൽ<br/>നല്ല സാമ്യമുണ്ടടക്കത്തിന്നുമുയർപ്പിനും<br/>CT</lines>
+    </verse>
+  </lyrics>
+</song>

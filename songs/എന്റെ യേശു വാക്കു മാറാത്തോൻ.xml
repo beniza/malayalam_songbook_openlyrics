@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:16">
+  <properties>
+    <titles>
+      <title>എന്റെ യേശു വാക്കു മാറാത്തോൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ യേശു വാക്കു മാറാത്തോൻ (2)<br/>ഈ മൺമാറും വിൺമാറും മർത്യരെല്ലാം വാക്കുമാറും<br/>എന്റെ യേശു വാക്കു മാറാത്തോൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പെറ്റതള്ള മാറിപ്പോയാലും<br/>ഇറ്റുസ്നേഹം തന്നില്ലെങ്കിലും<br/>അറ്റുപോകയില്ലെൻ യേശുവിന്റെ സ്നേഹം<br/>എന്റെ യേശു വാക്കു മാറാത്തോൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉള്ളം കയ്യിലെന്നെ വരച്ചു<br/>ഉള്ളിൽ ദിവ്യശാന്തി പകർന്നു<br/>തന്റെ തൂവൽകൊണ്ട് എന്നെ മറയ്ക്കുന്ന<br/>എന്റെ യേശു വാക്കു മാറാത്തോൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഒലിവുമല ഒരുങ്ങിക്കഴിഞ്ഞു<br/>പ്രാണപ്രിയൻ പാദമേൽക്കുവാൻ<br/>കണ്ണുനീരു തോരും നാളടുത്തു സ്തോത്രം<br/>എന്റെ യേശു വാക്കു മാറാത്തോൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

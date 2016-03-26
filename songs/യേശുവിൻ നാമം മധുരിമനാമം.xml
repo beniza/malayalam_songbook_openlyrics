@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:36">
+  <properties>
+    <titles>
+      <title>യേശുവിൻ നാമം മധുരിമനാമം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവിൻ നാമം മധുരിമനാമം<br/>ഇണയില്ലാനാമം ഇമ്പനാമം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻ ഭാരം ശാപവും നീക്കും<br/>പരമ സന്തോഷം ഏകിടും നാമം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരിമള തൈലം പോലേശുവിൻ നാമം<br/>പാരെങ്ങും വാസന വീശിടും നാമം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വാനിലും ഭൂവിലും മേലായ നാമം<br/>വാനാധിവാനവനേശുവിൻ നാമം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വാഗ്ദത്തമഖിലവും നൽകിടും നാമം<br/>ആശ്രിതർക്കാലംബദായക നാമം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എത്ര മഹാത്ഭുതം യേശുവിൻ നാമം<br/>ഏവരുമൊരുപോൽ വണങ്ങിടും നാമം</lines>
+    </verse>
+  </lyrics>
+</song>

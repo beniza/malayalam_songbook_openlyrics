@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>കാണും വരെ ഇനി നാം തമ്മിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാണും വരെ ഇനി നാം തമ്മിൽ<br/>കൂടെ വസിക്കട്ടെ ദൈവം<br/>ചേർത്തു തൻചിറകിൻ കീഴിൽ<br/>കാത്തു സൂക്ഷിക്കട്ടെ നിങ്ങളെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുവിൻ പാദത്തിൽ ചേർന്നു നാം വരുവോളം<br/>യേശുവിൻ പാദത്തിൽ ചേരുവോളം പാലിച്ചിടട്ടെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാണുംവരെ ഇനി നാം തമ്മിൽ<br/>ദിവ്യ മന്ന തന്നു ദൈവം<br/>ഒന്നും ഒരു കുറവെന്യേ<br/>കാത്തു സൂക്ഷിക്കട്ടെ നിങ്ങളെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കാണുംവരെ ഇനി നാം തമ്മിൽ<br/>ദുഃഖം വന്നു നേരിട്ടെന്നാൽ<br/>സ്നേഹക്കൈയിൽ ഏന്തിക്കൊണ്ടു<br/>കാത്തു സൂക്ഷിക്കട്ടെ നിങ്ങളെ.</lines>
+    </verse>
+  </lyrics>
+</song>

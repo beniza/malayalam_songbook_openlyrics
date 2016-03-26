@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:14">
+  <properties>
+    <titles>
+      <title>കരുണാനിധിയേ കാൽവറി</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുണാനിധിയേ കാൽവറി<br/>അൻപേ ആ ആ ആ ആ<br/>നീ മാത്രമാണെനിക്കാധാരം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൃപയേകണം കൃപാനിധിയെ<br/>കൃപാനിധിയെ കൃപാനിധിയെ<br/>മുമ്പേ പോയ നിൻപിമ്പേ ഗമിപ്പാൻ ആ ആ ആ ആ<br/>നീ മാത്രമാണെനിക്കാധാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>താതാനിന്നിഷ്ടം മന്നിൽ ഞാൻ ചെയ്‌വാൻ<br/>തന്നിൽ വസിപ്പാൻ ഉന്നതം ചേരാൻ<br/>ത്യാഗം ചെയ്യുന്നീ പാഴ്മണ്ണിനാശ ആ ആ ആ ആ<br/>ഓടുന്നു നാടിനെ പ്രാപിപ്പാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മാറാ എലീമിൽ പാറയിൻ വെള്ളം<br/>മാറാത്തനേകം മാധുര്യമന്ന<br/>പാറയാം യാഹെൻ രാപ്പകൽ ധ്യാനം ആ ആ ആ ആ<br/>യോർദ്ദാന്റെ തീരമെൻ ആശ്വാസം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്നെൻ സീയോനെ ചെന്നങ്ങു കാണും<br/>അന്നെൻ കണ്ണീരും മാറും കനാനിൽ<br/>ഭക്തർ ശ്രവിക്കും കർത്തൃകാഹളം ആ ആ ആ ആ<br/>വ്യക്തമായ് കാണും എൻ രക്ഷകനെ.</lines>
+    </verse>
+  </lyrics>
+</song>

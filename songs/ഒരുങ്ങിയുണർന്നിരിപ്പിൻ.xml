@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>ഒരുങ്ങിയുണർന്നിരിപ്പിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഒരുങ്ങിയുണർന്നിരിപ്പിൻ എന്നാളും ഒരുങ്ങിയുണർന്നിരിപ്പിൻ<br/>മണവാളനേശു വാനിൽ വരാറായ് ഒരുങ്ങിയുണർന്നിരിപ്പിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അത്തിവൃക്ഷം തളിർത്തുവല്ലോ വേനലും അടുത്തുപോയി<br/>കർത്തൻ വേഗം വന്നിടും നാമും കൂടെ പോകും<br/>ഒരുങ്ങിയുണർന്നിരിപ്പിൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാഹളം മുഴങ്ങിടാൻ കാലമേറെയില്ലല്ലോ<br/>തുല്യമില്ലാമോദം നിറഞ്ഞവരായ് നാം<br/>ഒരുങ്ങിയുണർന്നിരിപ്പിൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കണ്ണുനീർ തുടച്ചിടും കർത്താവു തൻ കൈകളാൽ<br/>നമുക്കു പ്രതിഫലം നൽകും നല്ലനാഥൻ യേശു ഒരുങ്ങിയുണർന്നിരിപ്പിൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശോകമെല്ലാം തീർന്നിടും ശോഭിതരായ് മാറിടും<br/>സന്തോഷമായ് വാഴും സ്വർഗ്ഗസീയോനിൽ നാം<br/>ഒരുങ്ങിയുണർന്നിരിപ്പിൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

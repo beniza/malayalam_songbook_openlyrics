@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:55">
+  <properties>
+    <titles>
+      <title>അത്യുന്നതൻ തൻ മറവിൽ വസിക്കും</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അത്യുന്നതൻ തൻ മറവിൽ വസിക്കും<br/>ഭൃത്യരെത്ര സൗഭാഗ്യശാലികൾ!<br/>മൃത്യുഭയം മുറ്റുമകന്നു പാടും<br/>അത്യുച്ചത്തിൽ സ്വർഗ്ഗീയ സംഗീതം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇത്രഭാഗ്യം വേറില്ല ചൊല്ലുവാൻ<br/>ഇദ്ധരയിൽ നിശ്ചയമായ് (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സർവ്വശക്തൻ തൻ ചിറകിന്നു കീഴിൽ<br/>നിർഭയനായ് സന്തതം വാഴ്വൂ ഞാൻ<br/>ഘോരതര മാരിയോ കൊടുങ്കാറ്റോ<br/>കൂരിരുട്ടോ പേടിപ്പാനില്ലൊന്നും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദൈവമെന്റെ സങ്കേതവും കോട്ടയും<br/>ദിവ്യസമാധാനവും രക്ഷയും<br/>ആപത്തിലും രോഗദുഃഖങ്ങളിലും<br/>ആശ്വാസവും സന്തോഷഗീതവും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്നേഹിതരും ബന്ധുമിത്രരേവരും<br/>കൈവിട്ടാലും ഖേദിപ്പാനെന്തുള്ളു<br/>വാനം ഭൂമി മാറിപ്പോയീടിലും തൻ<br/>വാഗ്ദത്തമോ നില്ക്കും സുസ്ഥിരമായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

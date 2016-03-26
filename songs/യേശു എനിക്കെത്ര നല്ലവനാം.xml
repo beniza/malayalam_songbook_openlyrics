@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:10">
+  <properties>
+    <titles>
+      <title>യേശു എനിക്കെത്ര നല്ലവനാം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു എനിക്കെത്ര നല്ലവനാം<br/>ക്ലേശമെഴാതെന്നെ കാത്തവനാം<br/>താഴ്ചകൾ വന്നാലും വീഴ്ചകൾ വന്നാലും<br/>താങ്ങി നടത്തുവാൻ വല്ലഭനാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എക്കാലുത്തും തൻഭക്തരെ<br/>തൃക്കയ്യാൽ താങ്ങി നടത്തുമവൻ<br/>കഷ്ടതയിൽ നൽതുണ താൻ<br/>ദുഃഖത്തിൽ ആശ്വാസദായകനാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉള്ളം കലങ്ങും പ്രയാസം വന്നാൽ<br/>ഉണ്ടെനിക്കഭയസ്ഥാനമൊന്ന്<br/>ഉറ്റവർ സ്നേഹിതർ വിട്ടുപോമെന്നാലും<br/>ഉന്നതൻ മാറില്ല കൈവിടില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആഴിയിൽ പാതയൊരുക്കുമവൻ<br/>ആശ്രിതർക്കാപത്തൊഴിക്കുമവൻ<br/>ആ ദിവ്യപാദത്തിലാശ്രയിച്ചോരാരും<br/>ആലംബഹീനരായ് തീർന്നതില്ല</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തൻബലത്താലേ ഞാൻ യുദ്ധം ചെയ്യും<br/>തൻമുഖം നോക്കി ഞാൻ യാത്ര ചെയ്യും<br/>തൻകൃപമേൽ കൃപ പ്രാപിച്ചു ഞാനിന്ന്<br/>തൻപദ സേവയിൽ നാൾ കഴിക്കും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വാനവിതാനത്തിൽ ദൂതരുമായ്<br/>വന്നു വിളിക്കുമ്പോൾ ആ ക്ഷണത്തിൽ<br/>മണ്ണിൽ മറഞ്ഞാലും മന്നിലിരുന്നാലും<br/>വിണ്ണിൽ തൻസന്നിധൗ ചേർന്നിടും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

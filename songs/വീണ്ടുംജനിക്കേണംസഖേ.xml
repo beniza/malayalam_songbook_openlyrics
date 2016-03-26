@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>വീണ്ടുംജനിക്കേണംസഖേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വീണ്ടുംജനിക്കേണംസഖേ!<br/>വീണ്ടുംജനിക്കേണം<br/>ദൈവരാജ്യം കാണ്മാൻ വീണ്ടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വീണ്ടുംജനിക്കേണമാത്മാവിനാലെ നീ<br/>ഉണ്ടാകണം പുതുജന്മംനിനക്കിനി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഭക്തനായെന്നാലും പ്രാർത്ഥന ചെയ്താലും<br/>നിത്യവും വേദങ്ങളെത്ര പഠിച്ചാലും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപസ്വഭാവവും ജീവിതവും മാറി<br/>ദേവനിൽനിന്നുള്ള ജീവൻ ലഭിക്കേണം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മാനവരിൻ ബുദ്ധി ജ്ഞാനത്തിനാലല്ല<br/>വാനവന്റെ കൃപാദാനത്തിനാലെ നീ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഒന്നാമാദാമിനാൽ വന്ന ശാപം നീങ്ങി<br/>രണ്ടാമാദാമിനാലുണ്ടാകണം ജീവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

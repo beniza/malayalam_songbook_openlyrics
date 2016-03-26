@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>യിസ്രായേലിൻ ദൈവം യുദ്ധവീരനാം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യിസ്രായേലിൻ ദൈവം യുദ്ധവീരനാം<br/>യെഹൂദയിൻ സിംഹം രാജരാജനാം<br/>മൃത്യുവെ ജയിച്ചുയിർത്ത തേശുനാഥനാം<br/>നമ്മുടെ നായകൻ ക്രിസ്തു മാത്രമാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഓ! പോയിടാം ക്രിസ്തുവിൻ പിമ്പേ പോയിടാം<br/>ഹാ! പാടിടാം ജയത്തിൻ ഗീതം പാടിടാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഘോരനായ സാത്താൻ നമ്മെ മുറ്റിലും<br/>ക്രൂരമായെതിർത്തു നിൽക്കുമെങ്കിലും<br/>ഭീതിയെന്യേ പോയിടാം കുരിശിൻ പാതയിൽ<br/>നീതിമാർഗ്ഗമോതിടാം ലോകമെങ്ങും നാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്ധകാരം മന്നിൽ വ്യാപരിക്കയാൽ<br/>അന്ധരായി മർത്യർ ഹന്ത! മേവുന്നു<br/>അത്ഭുത പ്രകാശത്തിൻ ദീപമേന്തി നാം<br/>ആത്മനാഥനേശുവിൻ നാമമുയർത്തിടാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അല്ലലേറും കാറ്റും കോളും കണ്ടുനാം<br/>തെല്ലും കലങ്ങേണ്ടതില്ലീ യാത്രയിൽ<br/>വല്ലഭൻ യേശു താൻ കൂടെയുള്ളതാൽ<br/>ഹല്ലേലുയ്യാ ഗീതം നാം പാടി പോയിടാം.</lines>
+    </verse>
+  </lyrics>
+</song>

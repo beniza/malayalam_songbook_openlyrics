@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>കർത്തൃകാഹളം യുഗാന്ത്യകാലത്തിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്തൃകാഹളം യുഗാന്ത്യകാലത്തിൽ ധ്വനിക്കുമ്പോൾ<br/>നിത്യമാം പ്രഭാതശോഭിതത്തിൻ നാൾ<br/>പാർത്തലേ രക്ഷപെട്ടോരക്കരെക്കൂടി ആകാശേ<br/>പേർ വിളിക്കും നേരം കാണുമെൻ പേരും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പേർ വിളിക്കും നേരം കാണും (3)<br/>പേർ വിളിക്കും നേരം കാണുമെൻ പേരും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്രിസ്തനിൽ നിദ്രകൊണ്ടോരീ ശോഭിത പ്രഭാതത്തിൽ<br/>ക്രിസ്തൻ ശോഭ ധരിപ്പാനുയിർത്തു തൻ ഭക്തർ<br/>ഭവനേ ആകാശമപ്പുറം കൂടിടുമ്പോൾ<br/>പേർ വിളിക്കും നേരം കാണുമെൻ പേരും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കർത്തൻ പേർക്കു രാപ്പകൽ അദ്ധ്വാനം ഞാൻ ചെയ്തിങ്ങനെ<br/>വാർത്ത ഞാൻ ചൊല്ലിടട്ടെ തൻ സ്നേഹത്തിൻ<br/>പാർത്തലത്തിൽ എന്റെ വേല തീർത്തു ജീവിതാന്ത്യത്തിൽ<br/>പേർ വിളിക്കും നേരം കാണുമെൻ പേരും.</lines>
+    </verse>
+  </lyrics>
+</song>

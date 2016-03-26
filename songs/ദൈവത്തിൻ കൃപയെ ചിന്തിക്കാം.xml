@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>ദൈവത്തിൻ കൃപയെ ചിന്തിക്കാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവത്തിൻ കൃപയെ ചിന്തിക്കാം<br/>ദിവ്യജീവൻ നൽകിയതോർക്കാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഏകസുതനിൽ വിശ്വസിച്ചിടുന്നോർ<br/>ക്കേവർക്കും ജീവൻ നൽകുവാനവനെ<br/>ഏകി ലോകത്തെ സ്നേഹിച്ച കൃപയെ<br/>പുകഴ്ത്തി നമുക്കു സ്തുതിക്കാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ന്യായവിധിയിൻ വാളിന്നു കീഴിൽ<br/>ന്യായമായകപ്പെട്ടാകുലരാകും<br/>നമ്മുടെ ശിക്ഷയഖിലം പുത്രന്മേൽ<br/>ചുമത്തിയ കൃപയോർക്കാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദൈവമേ! ദൈവമേ! ഈ വിധമെന്നെ<br/>കൈവിട്ടതെന്തന്നലറിക്കരയുവാൻ<br/>ജീവന്റെ നാഥന്നിടയായതെന്തെ<br/>ന്നറിഞ്ഞു നമുക്കു സ്തുതിക്കാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കുരിശിൽ തൻജീവൻ വെടിഞ്ഞുവെന്നാലും<br/>മരണത്തെവെന്നുതാനുയിർത്തു മൂന്നാം നാൾ<br/>പ്രാണന്നു പുതുക്കം പ്രാപിച്ചു നമുക്കും<br/>പ്രണമിച്ചു മുന്നിൽ വീഴാം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നമുക്കായിട്ടിന്നും മൽക്കിസദേക്കിൻ<br/>ക്രമത്തിൽ പ്രധാന പുരോഹിതനായി<br/>സ്വർഗ്ഗവിശുദ്ധസ്ഥലത്തെത്തി വാഴു-<br/>ന്നവനെ നമുക്കു സ്തുതിക്കാം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>വീണ്ടുംവരുന്നു രാജാധിരാജൻ<br/>കണ്ടിടും മേഘം തന്നിൽ നാമവനെ<br/>സ്വന്തജനത്തെ ചേർത്തിടുമുടനെ<br/>ഹല്ലേലുയ്യാ ഗീതം തുടരാം.</lines>
+    </verse>
+  </lyrics>
+</song>

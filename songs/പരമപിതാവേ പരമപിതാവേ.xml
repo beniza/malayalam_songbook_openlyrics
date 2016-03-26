@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>പരമപിതാവേ! പരമപിതാവേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരമപിതാവേ! പരമപിതാവേ!<br/>കാരണമെന്തേ കൈവെടിയാൻ<br/>-നിൻ സുതനെ-<br/>കുരിശിലിതുപോൽ കൈവെടിയാൻ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കരൾ അലിയിക്കും മൊഴി ഉരുവായി<br/>തിരുസുതൻ ഒരു ബലിയായി<br/>നരനായ്, മോചനദ്രവ്യവുമായി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപിയെ വാരിപുണാരാനല്ലോ<br/>പാവന കൈകൾ വിരിച്ചമലൻ<br/>ആശ്രിതർക്കഭയം അരുളാനല്ലോ<br/>തൻതിരുമാർവ് തുറന്നതവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കയ്പ് നിറഞ്ഞൊരു ചഷകം വാങ്ങി<br/>തേനെന്നപോലെ നുകർന്നതവൻ<br/>സ്വർഗ്ഗപിതാവിൻ തിരുഹിതം എറ്റം<br/>പ്രിയമാം ഭോചനമാക്കി അവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

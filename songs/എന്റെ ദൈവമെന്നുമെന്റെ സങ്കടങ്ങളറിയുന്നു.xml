@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>എന്റെ ദൈവമെന്നുമെന്റെ സങ്കടങ്ങളറിയുന്നു</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ ദൈവമെന്നുമെന്റെ സങ്കടങ്ങളറിയുന്നു<br/>തന്റെ മഹത്വത്തിന്നായിട്ടെല്ലാമവൻ ചെയ്തിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഉഷസ്സിൽ ഞാനുണരുമ്പോൾ തങ്കമുഖശോഭ കാണും<br/>ഉന്നതന്റെ പൊന്നുമാറിൽ ചാരി നിന്നു സ്തോത്രം ചെയ്യും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എനിക്കായി മുറിവേറ്റ തിരുമാറിൽ ചാരും നേരം<br/>എന്റെ ദുഃഖമുറിവുകൾ എന്നേക്കുമായ് പൊറുത്തിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പുത്തനെരൂശലേമതിൽ എത്തിടും ഞാനൊരു നാളിൽ<br/>കർത്താവിന്റെ പൊന്നുമുഖം കൺകുളിർക്കെ ദർശിക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഏഴയെൻമേൽ ചൊരിഞ്ഞതാം സ്നേഹത്തിന്റെ വലുപ്പവും<br/>ആഴമതുമുയരവുമന്നാളിൽ ഞാനറിഞ്ഞിടും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മൺകൂടാരമീ ഭവനം വിട്ടുമാറി താതന്നൊപ്പം<br/>വിൺഭവനമതിൽ പാർപ്പാൻ മനമേറെ കൊതിക്കുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>സ്തുതിക്കു നീ യോഗ്യൻ സ്തുതികളിന്മീതെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതിക്കു നീ യോഗ്യൻ സ്തുതികളിന്മീതെ<br/>വസിച്ചിടും പരനേ യേശു മഹേശാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അവനിയിലമിതം മോദമായ് വസിപ്പാ<br/>നരുളണമേ നിൻകൃപകളപാരം<br/>പരമസൗഭാഗ്യം പാപികൾക്കേകാൻ<br/>പുതുവഴി തുറന്ന സ്നേഹസ്വരൂപ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നരകുലപാപച്ചുമടു നീ വഹിച്ചു<br/>കുരിശിൽ കരേറി പ്രാണനെ വെടിഞ്ഞു<br/>പരിശുദ്ധനേ തിരുപ്പാദാന്തികത്തിൽ<br/>പരിചൊടു സ്തുതിപ്പാൻ കൃപയരുളേണം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തവതിരുനാമം ജയിക്കട്ടെ മേന്മേൽ<br/>സ്തോത്രയാഗങ്ങൾ സമർപ്പിക്കുന്നടിയൻ<br/>തിരുക്കരം തന്നിൽ വഹിച്ചനുദിനവും<br/>നടത്തുക ദാസനെ നിൻ ഹിതംപോലെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അജഗണത്തെ നല്ലിടയനെപ്പോലെ<br/>ദിനം പ്രതി നടത്തും സ്നേഹമപാരം<br/>ഹരിതപുൽമാലിയിൽ വിശ്രമമേകും<br/>സ്വച്ഛജലാശയം തന്നിൽ നീ നടത്തും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മരണത്തിൻ താഴ്വര തന്നിൽ നടന്നാൽ<br/>സഹവസിച്ചിടും നീ അനിശവും സ്നേഹ<br/>തൃക്കരം തന്നിൽ വഹിക്കും നല്ലിടയൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>പരമസമ്പന്നൻ ദരിദ്രനായ് തീർന്നു<br/>ദരിദ്രജനാവലി സമ്പന്നരാകാൻ<br/>ധരിത്രിയിൽ പാപത്തിൽ മരിച്ചവർ ജീവൻ<br/>ധരിച്ചു ക്രിസ്തേശുവിൻ ദാസരായ് ഭവിച്ചു.</lines>
+    </verse>
+  </lyrics>
+</song>

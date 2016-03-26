@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>വന്ദനം വന്ദനം നാഥാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്ദനം വന്ദനം നാഥാ<br/>നിന്റെ രക്ഷയ്ക്കായ്‌ വന്ദനം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഉന്നതത്തിൽ നിന്നു എന്നെ പ്രതി<br/>മന്നിൽ വന്ന നാഥനേ!വന്ദനം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നന്ദിയോടെ ഇന്നു നിന്റെ ദാസൻ<br/>വന്ദിക്കുന്നു മന്നനേ!വന്ദനം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശത്രുവായ എന്നെയോർത്തു നിന്റെ<br/>പുത്രനാക്കി തീർത്തതാൽ!വന്ദനം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്റെ നാമം ജീവപുസ്തകത്തിൽ<br/>ചേർത്തിതനെയോർത്തിതാ!വന്ദനം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എന്തുമോദം എന്റെ അന്തരംഗേ<br/>സന്തതം വിലസിടുന്നു!വന്ദനം.</lines>
+    </verse>
+  </lyrics>
+</song>

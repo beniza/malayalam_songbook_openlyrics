@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:22">
+  <properties>
+    <titles>
+      <title>അതിമോദം നിന്തിരു</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അതിമോദം നിന്തിരു<br/>സന്നിധിയണയുന്നു പ്രഭാതത്തിൽ<br/>സ്തുതിഗീതങ്ങൾ പാടിവാഴ്ത്തുവാൻ കൃപയേകണമധികം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തിരുനാമത്തിലഭയം പ്രാപിച്ചധികം ശക്തി ലഭിപ്പാൻ<br/>തിരുസന്നിധിയണയുന്നീശാ ബലഹീനനാമടിയൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മമ ജീവിതവഴികൾ തവഹിതം പോൽ തുടർന്നിടുവാൻ<br/>പരനേ, മമ പ്രിയനേ, കൃപ പകർന്നീടണമധികം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അരുണോദയസമയം പാരിൽ പതഗഗണം പാടുന്നു<br/>തിരുവേദത്തിൻ പൊരുളേ ദിവ്യ<br/>കതിർ വീശണം ഹൃദയേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അരിസഞ്ചയം വിഹരിക്കുന്നു, വിനകൾ വരുത്തിടുവാൻ<br/>അഖിലേശ, മാം കരങ്ങൾ നീട്ടിപ്പരിപാലിക്ക പരനേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ജഗദീശനെ ഭജിച്ചാത്മീയ പുതുക്കം പ്രാപിച്ചതിനാൽ<br/>ജയജീവിതം നയിപ്പാനാശ വളരുന്നാത്മപ്രിയനേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>സ്വാന്തഗുണമിയന്ന കാന്തിമയനേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്വാന്തഗുണമിയന്ന കാന്തിമയനേ! മമ<br/>ബന്ധനമെന്നു തീരുമോ? മണവറയിൽ<br/>എന്നു ഞാൻ വന്നുചേരുമോ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദുഷ്ടാളരാകമാനം പട്ടാളമെന്നപോലെ<br/>കൂട്ടം കൂടീടുന്നീശനേ! എനിക്കെതിരെ<br/>വട്ടം കൂടുന്നു ദേവനേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാതിരാവിൻ ശിവകൾ കൂകും വിധത്തിൽ<br/>വെറും ദോഷമുരയ്ക്കും ജാതിയെ ശാസിക്ക<br/>വേദമുരയ്ക്കും നീതിയെ ദിവ്യ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആരുമില്ലെനിക്കൊരു ധീരസഹായം മമ<br/>ചാരേ വന്നീടിൽ ദൈവമേ!<br/>എനിക്കനിശം നേരെ കൈവരും ഭവ്യമെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തള്ള മറക്കിൽ ചെറുപിള്ളയ്ക്കെന്തൊരുഗതി<br/>തള്ളയാം യേശുദേവനേ! സഹായമറ്റ<br/>പിള്ളയാമെന്നെ കാക്കണേ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഏറ്റം കടുത്ത കാറ്റും ഊറ്റം പെരുത്തമല<br/>ക്കൂറ്റമേലൽപമേശുമോ<br/>ഇതുപോലെന്നെയാക്കുവാനൊന്നു പേശുമോ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>കണ്ണു പൊടിഞ്ഞവന്നു കണ്ണാടിയെന്തിന്നാത്മ<br/>കണ്ണേ! ഞാൻ നിന്നെ വെടികിൽ<br/>എനിക്കുവേറെ സന്തോഷമെന്തിന്നുലകിൽ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>നിന്നെപ്പിരിഞ്ഞിരിപ്പാനെ-<br/>ന്നാലസാധ്യമല്ലോ<br/>നിന്ദ്യമാം ദേഹം നില്ക്കുമോ?<br/>ജീവൻ പിരിഞ്ഞാൽ ഒന്നു ചലിക്കാൻ ശക്തമോ?</lines>
+    </verse>
+    <verse name="v9">
+      <lines>നിമ്നമാം സരസ്സിങ്കൽ നിൽക്കുന്ന പത്മം കര<br/>തന്നിൽ പതിച്ചപോലവേ നിന്നെപ്പിരിഞ്ഞാൽ<br/>ദാസൻ നശിച്ചുപോകുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

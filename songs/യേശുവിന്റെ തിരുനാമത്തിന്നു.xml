@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:35">
+  <properties>
+    <titles>
+      <title>യേശുവിന്റെ തിരുനാമത്തിന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവിന്റെ തിരുനാമത്തിന്നു<br/>എന്നുമെന്നും സ്തുതിസ്തോത്രമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വാനിലും ഭൂവിലും മേലായ നാമം<br/>വന്ദിത വല്ലഭ നാമമതു<br/>ദൂതർ വാഴ്ത്തി പുകഴ്ത്തിടും നാമമതു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപത്തിൽ ജീവിക്കും പാപിയെ രക്ഷിപ്പാൻ<br/>പാരിതിൽ വന്നൊരു നാമമതു<br/>പരലോകത്തിൽ ചേർക്കും നാമമതു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉത്തമ ഭക്തന്മാർ വാഴ്ത്തിപ്പുകഴ്ത്തിടും<br/>ഉന്നതമാം ദൈവനാമമതു<br/>ഉലകെങ്ങും ധ്വനിക്കുന്ന നാമമതു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സങ്കടം ചഞ്ചലം ശോധന വേളയിൽ<br/>താങ്ങി നടത്തിടും നാമമതു<br/>ഭയം മറ്റുമകറ്റിടും നാമമതു.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:56">
+  <properties>
+    <titles>
+      <title>മമ നാവിൽ പുതുഗാനം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആനന്ദം കൊണ്ടു ഞാൻ സ്തുതിഗീതം പാടിടും<br/>അവനായെന്നായുസ്സെല്ലാം ഹല്ലെലുയ്യ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപച്ചേറ്റിൽ നിന്നുമെന്റെ പാദമുയർത്തി<br/>പാവനമാം രക്തത്താലെൻ പാപമകറ്റി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകമരുഭൂവിലിന്നു വേണ്ടതൊക്കെയും<br/>തന്നുയെന്നെ ക്ഷേമത്തോടെ പോറ്റും രക്ഷകൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മാതാപിതാവുറ്റോരാദിയായോരേവരും<br/>മാറുമെന്നാലേശുമാറാ-തെന്നെ കാത്തിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രോഗദുഃഖവേളകളിലുറ്റമിത്രമായ്<br/>കൂടെ വന്നു സ്നേഹക്കൈയാലെന്നെ താങ്ങിടും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ലോകസുഖം തേടിയിനി പോകയില്ല ഞാൻ<br/>ക്രൂശിൻ നിന്ദ നിത്യസ്വത്തെ-ന്നെണ്ണി പാർത്തിടും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>വീണ്ടുംവരുമെന്നുരച്ചുപോയ നാഥനെ<br/>വീണ്ടെടുപ്പിൻ ഗാനം പാടി കാത്തിരിക്കും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

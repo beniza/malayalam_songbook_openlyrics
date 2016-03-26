@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>ദൈവമങ്ങൊരുക്കിടും ഭവനമുണ്ടതിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവമങ്ങൊരുക്കിടും ഭവനമുണ്ടതിൽ<br/>താമസംകൂടാതെ ഞാനും ചേർന്നിടുമേ<br/>ദൂതസംഘം ആർത്തു പാടും പുത്തൻപാട്ടുകൾ<br/>ഞാനും ചേർന്നു ഹല്ലേലുയ്യാ ഗീതം പാടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇന്നു ഞാൻ പോകുമീ കൂരിരുൾ പാതയിൽ<br/>എന്നുമെൻ യേശുവെ നോക്കി നോക്കി പോയിടും<br/>തീരുമെന്റെ ഭീതിയും മാറുമെൻ അനർത്ഥവും<br/>എൻപ്രിയനെ കാണും നേരത്തിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഈ മരുയാത്രയിൽ വീണിടുന്ന വേളയിൽ<br/>യേശുവിന്റെ പൊൻകരം താങ്ങിടുന്നു നിത്യവും<br/>മാറുമെന്റെ ക്ഷീണവും തീരുമെന്റെ ക്ലേശവും<br/>സ്വന്ത വീട്ടിൽ ചേരും നാളതിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്തിനീ താമസം മൽപ്രിയൻ വന്നിടാൻ<br/>എത്രനാളീ ഭൂമിയിൽ കാത്തുകാത്തു പാർക്കണം<br/>നേരിലൊന്നു കണ്ടുഎന്റെ കാന്തനോടു ചേരുവാൻ<br/>എൻമനം കൊതിച്ചു കാക്കുന്നേ.</lines>
+    </verse>
+  </lyrics>
+</song>

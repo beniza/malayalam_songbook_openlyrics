@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:08">
+  <properties>
+    <titles>
+      <title>ജീവകിരീടത്തിൻ കല്ലുകളിൽ കാണുന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജീവകിരീടത്തിൻ കല്ലുകളിൽ കാണുന്നു<br/>ഞാനൊരു വൈരമിതാ<br/>യേശുവിൻ കാൽകളെ പിന്തുടരും<br/>ദാസരെന്നും പെടും പാടുതന്നെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ക്രിസ്തുവിൻ നാമത്തിലേറ്റിടുന്ന<br/>കഷ്ടതയ്ക്കില്ലൊരു നഷ്ടമൽപ്പം<br/>സുസ്ഥിരലോകത്തിന്നോഹരിക്ക്<br/>സത്യമായിട്ടിതു പുഷ്ടി നൽകും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മർത്യജഡം നശിച്ചിടുന്നതീ<br/>പൃഥ്വിയിൽ നമ്മുടെ ഭാഗ്യമല്ലോ<br/>പുത്തനുടുപ്പുകൾ കിട്ടുംവരെ<br/>കഷ്ടതയാകിലും കാത്തിരിക്കാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മണ്മയമാകിന വാസസ്ഥലം<br/>വിണ്ണവൻ നീക്കുന്ന നാളിലെന്റെ<br/>പൊന്മയമാം ദിവ്യകൂടാരത്തിൽ<br/>ചെമ്മയായ് നിത്യവും വാണുകൊള്ളാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അസ്ഥികളാകവേ കത്തികൊണ്ട്<br/>വെട്ടിനുറുക്കിലും ചേർത്തണച്ചു<br/>അഗ്നികൊണ്ടായവ ചുട്ടെന്നാലും<br/>നിത്യഭുജമെന്നെത്താങ്ങുമെന്നും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ക്രിസ്തുവിൻ ക്ലേശത്തിൽ പെട്ടിടാതെ<br/>വിട്ടുള്ള പാടുകളെന്നുടലിൽ<br/>പെട്ടവ പൂർത്തിയായ്തീരും വരെ<br/>കഷ്ടത താൻ മമ കൂട്ടുസഖി</lines>
+    </verse>
+    <verse name="v7">
+      <lines>യേശുവിൻ ദിവ്യമാം ജീവനെന്റെ<br/>നാശമയമായ ദേഹമതിൽ<br/>ആശു വെളിപ്പെടുന്നാകിൽ<br/>തിരശ്ശീലയാമീയുടലെന്തെനിക്ക്?</lines>
+    </verse>
+  </lyrics>
+</song>

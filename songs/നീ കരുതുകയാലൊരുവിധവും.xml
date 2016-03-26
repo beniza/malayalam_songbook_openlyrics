@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:01">
+  <properties>
+    <titles>
+      <title>നീ കരുതുകയാലൊരുവിധവും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നീ കരുതുകയാലൊരുവിധവും പരിതാപമില്ല പരാ!<br/>നിൻതുണയല്ലോ തണലല്ലോ നീളെയെനിക്കഭയം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മനം കനിഞ്ഞെനിക്കായ് നിണം ചിന്തുകയായ്<br/>നീ കാൽവറിക്കുരിശിൽ എനിക്കൊരു വിടുതൽ<br/>ലഭിച്ചു നിൻ കരുതൽ കണ്ടാശ്വസിപ്പാനായ്<br/>കൃപയരുളിയത് മറന്നിടുമോ?<br/>മാറാത്ത മഹൽ സ്നേഹം നിൻതുണ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ധനം കുറഞ്ഞിരിക്കും മനം തളർന്നിരിക്കും<br/>ആ നേരമെൻനേരേ തവ മിഴി തിരിക്കും<br/>തിരുമൊഴിയുരയ്ക്കും സന്താപവും തീരെ<br/>മമ കരുമനയിന്നരികണയാനാരോമൽ<br/>സ്നേഹിതനാം നിൻ തുണ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അമിതമായ് കരുത്തുള്ളമലൻ നീ വരുത്തു<br/>ന്നെൻ കാലുകൾക്കുറപ്പ് മഹിമയിൽ നിറുത്തു<br/>ന്നതുവരെ നടത്തും വീഴാതെ നീ കാത്ത്<br/>നൽവഴി നിരത്തും അതിൽ നടത്തും<br/>എൻഭീതിയുമകറ്റും നിൻതുണ.</lines>
+    </verse>
+  </lyrics>
+</song>

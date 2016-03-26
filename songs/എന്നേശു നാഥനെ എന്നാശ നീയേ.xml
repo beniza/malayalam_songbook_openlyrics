@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:14">
+  <properties>
+    <titles>
+      <title>എന്നേശു നാഥനെ എന്നാശ നീയേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നേശു നാഥനെ എന്നാശ നീയേ<br/>എന്നാളും മന്നിൽ നീ മതിയേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആരും സഹായമില്ലാതെ പാരിൽ<br/>പാരം നിരാശയിൽ നീറും നേരം<br/>കൈത്താങ്ങലേകുവാൻ കണ്ണുനീർ തുടപ്പാൻ<br/>കർത്താവേ നീയല്ലാതാരുമില്ല</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അല്ലലിൻ വഴിയിൽ ആഴിയിന്നലയിൽ<br/>അലയാതെ ഹൃദയം തകരാതെ ഞാൻ<br/>അന്ത്യം വരെയും നിനക്കായി നിൽപ്പാൻ<br/>അനുദിനം നിൻകൃപ നൽകണമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉറ്റവർ സ്നേഹം അറ്റുപോയാലും<br/>ഏറ്റം പ്രിയർ വിട്ടുമാറിയാലും<br/>മാറ്റമില്ലാത്ത മിത്രം നീ മാത്രം<br/>മറ്റാരുമില്ല പ്രാണപ്രിയാ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിൻമുഖം നേരിൽ എന്നു ഞാൻ കാണും<br/>എന്മനമാശയാൽ കാത്തിടുന്നു<br/>നീ വരാതെന്റെ കണ്ണുനീരെല്ലാം<br/>തുവരുകയില്ല ഹല്ലേലുയ്യാ!</lines>
+    </verse>
+  </lyrics>
+</song>

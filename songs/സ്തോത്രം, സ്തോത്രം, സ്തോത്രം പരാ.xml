@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:44">
+  <properties>
+    <titles>
+      <title>സ്തോത്രം, സ്തോത്രം, സ്തോത്രം പരാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രം, സ്തോത്രം, സ്തോത്രം പരാ<br/>സ്തോത്രം സ്തുതി നിനക്കേ സ്തുതിച്ചിടുന്നു<br/>നമിച്ചിടുന്നു പരിശുദ്ധനേ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപിയാം എന്നെ വീണ്ടെടുപ്പാനായ്<br/>ചൊരിഞ്ഞോ നിൻ നിണം എൻപേർക്കായ്<br/>നമിക്കുന്നു സ്തുതിക്കുന്നു തവതിരുപാദേ<br/>അർപ്പിക്കുന്നു നിനക്കു സദാ സ്തോത്രയാഗം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇത്രമേൽ സ്നേഹിപ്പാൻ എന്തു നീ കണ്ടു<br/>നീചനാമെന്നിൽ യേശു നാഥാ<br/>നന്ദിയും സ്നേഹവും തവതിരുപ്പാദേ<br/>അർപ്പിക്കുന്നു നിനക്കു സദാ സ്തോത്രയാഗം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എടുക്ക നിൻകൈകളിൽ എന്നെയും നാഥാ<br/>നിറയ്ക്ക നിൻ പരിശുദ്ധാത്മാവാൽ<br/>തുറക്ക എന്നധരം നിനക്കായ് നാഥാ<br/>നിറയ്ക്ക നിൻവചനം ഘോഷിപ്പാനായ്<br/>പ്രഘോഷിപ്പാനായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സമർപ്പിക്കുന്നെന്നെ മുറ്റും നിനക്കായ്<br/>ഉപയോഗിക്കെന്നെ നിൻ ആയുധമായ്<br/>പോകട്ടെ നിനക്കായ് അടരാടാനായ്<br/>സമർപ്പിക്കുന്നെൻ സർവ്വസ്വവും<br/>തിരുപ്പാദത്തിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

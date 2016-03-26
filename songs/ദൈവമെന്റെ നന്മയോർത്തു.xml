@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:59">
+  <properties>
+    <titles>
+      <title>ദൈവമെന്റെ നന്മയോർത്തു</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവമെന്റെ നന്മയോർത്തു ചെയ്‌വതാമീ സർവ്വവുമേ<br/>ദിവ്യകൈകൾ ചെയ്‌വതല്ലാതുർവി തന്നിൽ നന്മയില്ല</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഒട്ടനേകം കഷ്ടതകൾ ഏറ്റിടുവാനേശു നാഥൻ<br/>ഇഷ്ടമാകുമെങ്കിലും ഞാൻ ഒട്ടുമേ നിരാശനാകാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാർത്തലമെൻ സ്വന്തനാടോ പാർത്തിടുവാനൊത്ത വീടോ<br/>അല്ല തെല്ലുമെന്നറിവാനല്ലലെല്ലാം നല്ലതല്ലോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശിക്ഷകൾ തന്നിടുമെങ്കിൽ രക്ഷകൻ കൈയുണ്ടതിങ്കൽ<br/>ഇച്ഛപോലെ ചെയ്യുമെങ്കിൽ തുച്ഛമായൊന്നില്ലവങ്കൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തേജസ്സിലെൻ വാസമോർത്താലായുസ്സിലിന്നുള്ള ഖേദം<br/>ഹാ! നിസ്സാരമെന്നറിഞ്ഞെന്നായുസ്സെല്ലാം പാടിടും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

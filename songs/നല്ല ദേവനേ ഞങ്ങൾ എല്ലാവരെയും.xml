@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:45">
+  <properties>
+    <titles>
+      <title>നല്ല ദേവനേ! ഞങ്ങൾ എല്ലാവരെയും</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നല്ല ദേവനേ! ഞങ്ങൾ എല്ലാവരെയും<br/>നല്ലോരാക്കി നിൻ ഇഷ്ടത്തെ ചൊല്ലിടേണമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പച്ചമേച്ചിലിൽ ഞങ്ങൾ മേഞ്ഞിടുവാനായ്<br/>മെച്ചമായാഹാരത്തെ നീ നൽകിടേണമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അന്ധകാരമാം ഈ ലോകയാത്രയിൽ<br/>ബന്ധുവായിരുന്നു വഴി കാട്ടിടേണമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇമ്പമേറിയ നിൻ അൻപുള്ള സ്വരം<br/>മുമ്പേ നടന്നു സദാ കേൾപ്പിക്കേണമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വേദവാക്യങ്ങൾ ഞങ്ങൾക്കാദായമാവാൻ<br/>വേദനാഥനേ നിന്റെ ജ്ഞാനം നൽകുകേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സന്തോഷം സദാ ഞങ്ങൾ ചിന്തയിൽ വാഴാൻ<br/>സന്തോഷത്തെ ഞങ്ങൾക്കിന്നു ദാനം ചെയ്യുകേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>താതനാത്മനും പ്രിയ നിത്യപുത്രനും<br/>സാദരം സ്തുതി സ്തോത്രം എന്നും ചൊല്ലുന്നേൻ</lines>
+    </verse>
+  </lyrics>
+</song>

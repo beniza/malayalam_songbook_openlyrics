@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>വരുവിൻ മുദാ സോദരരേ! നിങ്ങൾ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വരുവിൻ മുദാ സോദരരേ! നിങ്ങൾ<br/>വരുവിൻ ആയുധസംയുതരായ്<br/>യെരുശലേം മതിൽ പണിതുയർത്തിടാം<br/>നാമിനി നിന്ദിതരാകാതെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>രാവും പകലുമെല്ലാം നമ്മൾ<br/>ആയുധപാണികളായിടണം<br/>അരികിലുണ്ടരിവരർ പണിമുടക്കാനെ-<br/>ന്നതറിഞ്ഞു നാം നിൽക്കേണം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അന്യോന്യം ധൈര്യമേകി നമ്മൾ<br/>ഐക്യമായി നിന്നു വേലചെയ്താൽ<br/>പരിഹാസ പ്രഭൃതികൾ പരിഭ്രമി-<br/>ച്ചോടിടും ജയം നമ്മൾ നേടിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശ്രേഷ്ഠജനങ്ങൾ ആരും കർത്തൃ-<br/>വേലക്കു ചുമൽ കൊടുത്തില്ലെങ്കിലും<br/>എളിയവർക്കാശ്രയമരുളിടും<br/>നായകൻ അരികിലുണ്ടനുഗ്രഹിപ്പാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കണ്ണീരിൽ നമ്മൾ വിതച്ചാൽ<br/>നല്ല കറ്റകൾ കൊയ്തിടുമാർപ്പോടെ<br/>കരയുന്ന കണ്ണുകൾ തുവർന്നിടും<br/>നാളിനിയധികമകലമല്ല.</lines>
+    </verse>
+  </lyrics>
+</song>

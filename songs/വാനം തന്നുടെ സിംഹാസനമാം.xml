@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:36">
+  <properties>
+    <titles>
+      <title>വാനം തന്നുടെ സിംഹാസനമാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാനം തന്നുടെ സിംഹാസനമാം<br/>ഭൂമിയോ പാദപീഠവുമാം<br/>ഇത്രമഹത്വമെഴുന്നൊരു ദൈവം<br/>വന്നോ മന്നിൽ താണവനായ് അവൻ<br/>തീർന്നോ ഹീന മാനവനായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻ വഴിയിൽ നാശത്തിൻകുഴിയിൽ<br/>വീണവനാമെന്നെ<br/>തേടിവരാൻ കൈയ്താങ്ങിയെടുക്കാ-<br/>നവനേ തുനിഞ്ഞുള്ളൂ -എന്നേശു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാണാതെപോയാരാടിനെത്തേടി<br/>വന്ന നല്ലിടയനവൻ<br/>കണ്ടുപിടിച്ചു തോളിലെടുത്തു<br/>വീടു വന്നിടുവോളം -എന്നേശു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കുരുടനു കണ്ണും ചെകിടനും കാതും<br/>മുടന്തനു കാലുമവൻ<br/>വഴിയറിയാതെ വലയുന്നവനു വഴിയും<br/>ജീവനുമാം -എന്നേശു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്തൊരു താഴ്മയെന്തൊരു ത്യാഗം!<br/>എന്തൊരു സ്നേഹമിതോ!<br/>ചിന്തിച്ചിടുകിൽ സിന്ധുസമാന-<br/>മന്തമില്ലതിരുമില്ല -എന്നേശു.</lines>
+    </verse>
+  </lyrics>
+</song>

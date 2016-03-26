@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:58">
+  <properties>
+    <titles>
+      <title>കൺകളുയർത്തുന്നു ഞാൻ എന്റെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കൺകളുയർത്തുന്നു ഞാൻ എന്റെ<br/>സങ്കേതമാകുന്ന സീയോൻ ഗിരിയിലെൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആരുടെ കൈകളീയാകാശഭൂമികളാകൃതി<br/>ചെയ്തവൻ താൻ സഹായമെൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തെറ്റുകയില്ലയെൻ പാദങ്ങൾ പാതയിൽ<br/>തെല്ലുമുറങ്ങുകയില്ലെന്റെ നായകൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാരിലെൻ പാലകനിസ്രയേൽ നായകൻ<br/>പാർക്കിലവനെന്നരികിലൊരു തണൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രാപ്പകൽ ദോഷങ്ങളേശാതെയീ വീധം<br/>ആപത്തകന്നെന്തൊരാനന്ദ ജീവിതം!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എന്റെ ഗമനാഗമനങ്ങൾ സർവ്വവു<br/>മെന്നുമവൻ കാത്തു നന്നായ് നടത്തിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

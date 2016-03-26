@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>നാം വിമുക്തന്മാർ ദൈവകൃപ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നാം വിമുക്തന്മാർ ദൈവകൃപ ലഭിച്ചോർ യാഹിൽ<br/>സന്തോഷിച്ചാനന്ദിച്ചാർക്കുക നാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യാഹിലെ സന്തോഷം ബലം നമുക്ക്<br/>ഏവരും തൻ തിരുസന്നിധിയിൽ<br/>ആത്മപൂർണ്ണരായ് ദിനവും<br/>നാം പാടി വാഴ്ത്തി സ്തുതിച്ചിടുക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാൾതോറും താൻ ചെയ്ത നന്മകൾക്കായ്<br/>നമ്മുടെ ഭാരങ്ങൾ വഹിച്ചതിനാൽ<br/>വന്ദ്യനാം പിതാവിനെനാം<br/>പാടി വാഴ്ത്തി സ്തുതിച്ചിടുക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നാനാവിധ പരിശോധനകൾ<br/>നാലുപാടും നമ്മെ മൂടിയപ്പോൾ<br/>താങ്ങി തൻ കൃപാകരത്താൽ നാം<br/>നന്ദിയോടെ സ്തുതിച്ചിടുക</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തൻകൃപയാൽ രക്ഷപ്രാപിച്ച നാം<br/>വൻകൃപയിൽ നമ്മെ സൂക്ഷിക്കുന്നു<br/>കൃപകൃപയെന്നാർത്തുകൊണ്ട്<br/>കൃപാസനത്തോടടുത്തിടുക</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇന്നയോളം പ്രിയൻ തൻകൃപയിൽ<br/>കണ്മണിപോൽ നമ്മെ കാത്തതിനാൽ<br/>പൊന്നുനാമമുയർത്തി മോദാൽ<br/>നാം നന്ദിയോടെ സ്തുതിച്ചിടുക.</lines>
+    </verse>
+  </lyrics>
+</song>

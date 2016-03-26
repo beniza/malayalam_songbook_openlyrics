@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:59">
+  <properties>
+    <titles>
+      <title>ഉടയോനാമിടയനെ വെടിയാമോ?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉടയോനാമിടയനെ വെടിയാമോ? ജീവൻ തന്നവൻ താനല്ലോ<br/>നാളെല്ലാമവൻ നടത്തുമല്ലോ നാമെല്ലാമവന്ന് അടുത്തു ചെല്ലാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദിവസവുമവൻ മൊഴി ശ്രവിച്ചിടാം പിന്നാലേ മുദാ പോയിടാം<br/>എന്നാലെന്നുമൊരനുഗ്രഹമാം തൻനാമത്തിനു മഹത്വവുമാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മഹീതലമഹിമയിൽ മതിമയങ്ങി മാസ്നേഹം നാം മറന്നിടുമോ?<br/>മാലേശാതിരുൾസാനുവിലും പാലിപ്പോനെ നാം മറക്കുകയോ?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വലിയവനിടയനെ വെടിഞ്ഞെന്നാൽ വല്ലാതെയലഞ്ഞിടും നാം<br/>ഉല്ലാസത്തോടു വസിപ്പതിന്നായ് എല്ലാം ചെയ്തിടാം നമുക്കവന്നായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വരുമവനിടയരിലതിശ്രേഷ്ഠൻ വാടാതുള്ള കിരീടം നാം<br/>പ്രാപിച്ചിടുവാനവൻ വചനം പാലിച്ചീഭുവിയധിവസിക്കാം</lines>
+    </verse>
+  </lyrics>
+</song>

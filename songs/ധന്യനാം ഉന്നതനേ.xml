@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>ധന്യനാം ഉന്നതനേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ധന്യനാം ഉന്നതനേ!<br/>എന്നും വന്ദനം വന്ദനമേ<br/>മന്നവാ! നിന്നുടെ നാമത്തെ<br/>ഞങ്ങളിന്നാർത്തു നമിച്ചിടുന്നേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നാശത്തിൽ പാതയിൽ ഞാൻ<br/>ദൈവക്രോധത്തിൽ പാത്രനായി<br/>നാശകൂപത്തിൽ നിന്നെന്നെ രക്ഷിക്കാൻ<br/>നിൻ പ്രാണനെ നൽകിയല്ലോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാൽവറി മേടതിന്മേൽ<br/>എൻ പാപപരിഹാരമായ്<br/>തീർന്നോരു രക്ഷകാ നിൻ തിരുനാമത്തെ<br/>വന്ദിക്കുന്നാദരവായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശോധന വേളകളിൽ<br/>എൻ വേദന നാളുകളിൽ<br/>ചാരത്തണഞ്ഞെന്നെ മാർവ്വോടണച്ചിടും<br/>സ്നേഹമെന്തത്ഭുതമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്വർഗ്ഗീയ ഗേഹമതിൽ<br/>വന്ദ്യതാതനോടൊത്തണഞ്ഞ്<br/>ധന്യനായ് തീർന്ന നീ വന്നിടും വേഗത്തിൽ<br/>മഹത്വ സമ്പൂർണ്ണനായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

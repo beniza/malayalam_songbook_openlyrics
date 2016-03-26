@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>കൂടുക സോദരരേ! നാമൊന്നായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കൂടുക സോദരരേ! നാമൊന്നായ്<br/>പാടുക ജയ ജയ ഗീതങ്ങൾ<br/>യേശുമഹേശൻ തൻതിരുനാമം<br/>ദേശമശേഷമുയർത്തിടാൻ നാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അലസത സകലവുമകലട്ടെ<br/>ചിന്താകുലമാകവേ പോകട്ടെ<br/>ഉത്സുകരായുണർന്നിടാമേശുവിൻ<br/>നിസ്തുലനാമമുയർത്തിടാൻ നാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപികളെ പ്രതി ക്രൂശിൽ താൻ മൃതിയേറ്റതുമുയിർത്തെഴുന്നേറ്റതുമാം<br/>വാസ്തവമേവരുമറിയട്ടെ<br/>ജനമേശുവിൻ ക്രൂശിനൊടണയട്ടെ ജന</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രിസ്തുവിലെന്യേ മറ്റൊരു മാർഗ്ഗം<br/>മർത്യനു രക്ഷപ്പെടാനില്ല<br/>വാർത്തയിതേറ്റം തീർത്തരുളിടാൻ<br/>എത്രയും ജാഗ്രത കാണിക്കാം നാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പലവിധമെതിരുകളുലകിതിലുളവാം<br/>എങ്കിലുമൊന്നിലുമിളകേണ്ടാ<br/>വലിയവനാമഖിലേശനിലല്ലോ<br/>ബലവും നമ്മുടെ വിജയമതും ഹാ!</lines>
+    </verse>
+  </lyrics>
+</song>

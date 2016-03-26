@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>ഈ ഗേഹം വിട്ടുപോകിലും</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഈ ഗേഹം വിട്ടുപോകിലും ഈ ദേഹം കെട്ടുപോകിലും<br/>കർത്തൻ കാഹളനാദത്തിൽ ഒത്തു ചേർന്നിടും നാമിനി</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വിൺഗേഹം പൂകിടുമന്നു വിൺദേഹം ഏകിടുമന്നു<br/>കർത്തൻ കാഹളനാദത്തിൽ ഒത്തു ചേർന്നിടും നാമിനി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൂട്ടുകാർ പിരിഞ്ഞിടും വീട്ടുകാർ കരഞ്ഞിടും<br/>കർത്തൻ കാഹളനാദത്തിൽ ഒത്തു ചേർന്നിടും നാമിനി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വേണ്ട ദുഃഖം തെല്ലുമേ ഉണ്ടു പ്രത്യാശയിൻ ദിനം<br/>കർത്തൻ കാഹളനാദത്തിൽ ഒത്തു ചേർന്നിടും നാമിനി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കഷ്ടം ദുഃഖം മരണവും മാറിപോയിടുമന്ന്<br/>കർത്തൻ കാഹളനാദത്തിൽ ഒത്തു ചേർന്നിടും നാമിനി</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കോടാകോടി ശുദ്ധരായി പ്രിയൻകൂടെ വാഴുവാൻ<br/>കർത്തൻ കാഹളനാദത്തിൽ ഒത്തു ചേർന്നിടും നാമിനി.</lines>
+    </verse>
+  </lyrics>
+</song>

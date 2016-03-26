@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:46">
+  <properties>
+    <titles>
+      <title>ലോകസുഖമോ വെള്ളിയോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വചനമെന്റെ കാലിനു ദീപം<br/>വീഥിക്കത് പ്രകാശവും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നടപ്പുകളെ നിർമ്മലമാക്കുവാൻ<br/>ബാലകർക്ക് സാദ്ധ്യമാമോ<br/>വചനംകൊണ്ട് സൂക്ഷിക്കുകിൽ<br/>സാധിച്ചിടും നിശ്ചയമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപമെന്യേ ജീവിക്കുവാൻ<br/>വചനം ഹൃത്തിൽ സംഗ്രഹിക്ക<br/>വചനമുള്ളിൽ വാസം ചെയ്താൽ<br/>യാചനകൾ സാധിച്ചിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>രോഗാതുരമാം നാളുകൾ<br/>ഭാരപ്പെടാൻ കാര്യമില്ല<br/>വചനമയച്ച് സൗഖ്യം<br/>നൽകി മാനുവേലൻ വിടുവിച്ചിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇരുപുറവും മൂർച്ചയുള്ള<br/>വാളാണല്ലോ തിരുവചനം<br/>അസ്ഥി, സന്ധി മജ്ജകളെ<br/>തുളച്ചിടുവാൻ ശക്തമത്രേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>തിരുവെഴുത്തു സമസ്തവും<br/>ദൈവശ്വാസീയമാണല്ലോ<br/>ഉപദേശവും ശാസനയും<br/>വചനമെന്നും നൽകിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

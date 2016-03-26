@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:18">
+  <properties>
+    <titles>
+      <title>യേശു നല്ലവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു നല്ലവൻ എൻ യേശു നല്ലവൻ അതേ<br/>സംശയമില്ലേതുമെന്റെ യേശു നല്ലവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തൻ കരുണയോ എന്നേക്കുമുള്ളതാം നിത്യം<br/>തൻ കഴലെനിക്കഭയം യേശു നല്ലവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നല്ല ഇടയൻ ഇല്ല ചഞ്ചലം തന്റെ<br/>ചൊല്ലെനിക്കു മാധുര്യമെൻ യേശു നല്ലവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇല്ല തനിക്കു തുല്യനാരുമേ ഭുവി<br/>വല്ലഭൻ മഹേശനെന്റെ യേശു നല്ലവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇന്നലേമിന്നും എന്നേക്കുമവൻ താൻ തന്നെ<br/>ഒന്നുപോലിരിക്കുന്നവൻ യേശു നല്ലവൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കഷ്ടതകളിൽ ആശ്വാസമേകുവാൻ എനി-<br/>ക്കേറ്റമടുത്ത തുണയാം യേശു നല്ലവൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>യേശു നല്ലവൻ എന്നാസ്വദിച്ചവർ തന്നിൽ<br/>ആശ്രയിക്കും മേൽക്കുമേലെൻ യേശു നല്ലവൻ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>നന്ദിയോടു ഞാൻ എന്നാളുമവനെ അഭി-<br/>വന്ദനം ചെയ്യുമനന്തം യേശു നല്ലവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

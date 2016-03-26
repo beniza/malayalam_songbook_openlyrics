@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:27">
+  <properties>
+    <titles>
+      <title>വന്ദനം കർത്താധികർത്താവിനു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്ദനം കർത്താധികർത്താവിനു<br/>വന്ദനം നിത്യനാം രാജാവിനു<br/>വന്ദനം, വന്ദനം, വന്ദനമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മന്നിതിൽ വന്നവനെ ക്രൂശിൽ മരിച്ചവനെ<br/>മരണത്തെ വെന്നവൻ വിണ്ണിൽ വസിക്കുന്നോൻ<br/>വീണ്ടുംവരുന്നവനെ<br/>വന്ദനം ചെയ്ക യേശുകർത്താവിനെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നുടെ പാപമെല്ലാം തൻതിരുമേനിയതിൽ<br/>എന്നേക്കുമായ് വഹിച്ചെന്നെ വിടുവിച്ച<br/>തൻ സ്നേഹമാശ്ചര്യമേ<br/>വന്ദനം ചെയ്ക യേശുകർത്താവിനെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എല്ലാ മഹത്വവും ഞാൻ തൻ മുമ്പിലർപ്പിക്കുന്നേ<br/>എല്ലാ മുഴങ്കലും മടങ്ങും തൻ മുമ്പിൽ<br/>വല്ലഭൻ എന്നുമവൻ<br/>വന്ദനം ചെയ്ക യേശുകർത്താവിനെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വന്ദിച്ചു വാഴ്ത്തിടുവാൻ വീണു വണങ്ങിടുവാൻ<br/>മണ്ണിലും വിണ്ണിലും എന്നുമേ യോഗ്യനാം<br/>മന്നവനേശുനാഥൻ<br/>വന്ദനം ചെയ്ക യേശുകർത്താവിനെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഹല്ലേലുയ്യാ മഹത്വം വല്ലഭനേശുവിൻ<br/>അല്ലലെല്ലാമകറ്റിടുമെന്നേശുവി<br/>ന്നല്ലേലുയ്യ, മഹത്വവും ഹല്ലേലുയ്യ<br/>എന്നേശു കർത്താവിൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

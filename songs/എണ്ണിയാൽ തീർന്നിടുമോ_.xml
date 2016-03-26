@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:57">
+  <properties>
+    <titles>
+      <title>എണ്ണിയാൽ തീർന്നിടുമോ?</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v6 v7 v6 v8 v6 v9 v6 v10 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എണ്ണിയാൽ തീർന്നിടുമോ?<br/>എന്നിലെൻ ദൈവം നൽകിയ<br/>കൃപകൾ എണ്ണീലടങ്ങിടുമോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലാഭമെന്നുലകസല്ലാപങ്ങളെ<br/>ഞാനെണ്ണിവന്നൊരു നാൾ<br/>ചേതമാണവയിന്നു ധനമാ<br/>യേശുവുള്ളതിനാൽ മനമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആസ്തികൾ ഭൗതികമേന്മകൾ<br/>നന്മകൾ കീർത്തിയിവയെക്കാൾ<br/>ക്രിസ്തുവിന്റെ നിന്ദയോർത്താ-<br/>ലെത്രയോ ശ്രേഷ്ഠം! മനമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നിൽ വെളിപ്പെടും തേജസ്സു നിനച്ചാൽ<br/>മന്നിലിന്നാളിൽ വന്നിടുന്ന ഖിന്നതകൾ<br/>തീരെ നിസ്സാരം മനമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഭൂവനമിതിൽ പല ദുസ്സഹശോധന<br/>നേരിടുംനേരം സഹനശക്തി നൽകും<br/>ദൈവകൃപ മനോഹരമാം മനമേ. M.E.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പരമസുതനെന്റെ പാപമശേഷം<br/>തിരുമെയ് ബലിയാൽ താൻ ശിഥിലീകരിച്ചാൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>കരുണാകരനവൻ കരളലിഞ്ഞെന്നെ<br/>ദുരിതാംബുധൗ നിന്നു കരയേറ്റിനാൻ ഹാ!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>പരമേശ്വരൻ മുന്നിലാണവാനധീരനാം<br/>നരനെ സുരനാഥപുരിയിൽ കടത്തിനാൻ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>ഉരുദോഷസന്ദോഹരതനായിരുന്നെന്നിൽ<br/>തിരുജീവനെ തൂകി പരമാത്മികനാക്കി</lines>
+    </verse>
+    <verse name="v10">
+      <lines>വരുവോരനന്തമാം തിരുരാജ്യനിലയെ<br/>നിക്കരുളി പരമാത്മ നിറവെൻമേൽ പൊഴിച്ചു താൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

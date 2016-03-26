@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:45">
+  <properties>
+    <titles>
+      <title>നിൻതിരു വചനത്തിൽ നിന്നത്ഭുതകാര്യങ്ങൾ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിൻതിരു വചനത്തിൽ നിന്നത്ഭുതകാര്യങ്ങൾ<br/>ചന്തമായ് ഗ്രഹിപ്പതിന്നു നിൻതുണ നൽകീശോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അന്ധകാര രാജനെന്റെ ചിന്ത കലക്കാതെ<br/>കാന്താ! നിൻ ചിന്തയെന്നിൽ തന്നാദ്യന്തം പാലിക്ക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സത്യവചനത്തിൽ നിന്നു നിത്യജീവവാക്യം<br/>ചിത്തേ പതിപ്പിച്ചിടുക ശുദ്ധാത്മനായകാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിശ്വാസത്തോടെന്നുള്ളിൽ നിൻ നിശ്വാസമൊഴികൾ<br/>നിശ്ചയമായ് കലർന്നെനിക്കാശ്വാസമുണ്ടാവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:50">
+  <properties>
+    <titles>
+      <title>എന്റെ ജീവനായകാ! യേശുനായകാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ ജീവനായകാ! യേശുനായകാ!<br/>ജീവദായകാ! എന്റെ ജീവനായകാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മർത്യ രക്ഷക്കായ് മൃതി വരിക്കുവാൻ<br/>നിത്യതയിൽ നീ നിർണ്ണയിക്കയോ!<br/>ഇപ്പാപിയെൻ പാപത്തിൻ ഭാരം നീ വഹിക്കയോ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരമദുഷ്ടരാം ദ്രോഹികൾ ഞങ്ങൾ പരിശുദ്ധൻ നിന്നെ<br/>കുരിശിൽ തൂക്കിയോ! ഇപ്പാതകർക്കെന്നും നിൻ<br/>കൃപയൊന്നേയുള്ളാശ്രയം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപത്തെ സദാ വെറുക്കും ദൈവം നീ<br/>പാപിയെ മുദാ സ്നേഹിക്കുന്നതാൽ<br/>നിൻചങ്കിലെ ചോരയാലെന്നെ വീണ്ടെടുക്കയോ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഏകയാഗത്താൽ വിശുദ്ധരാകുവോർക്കെന്നും<br/>സൽഗുണപൂർത്തി നൽകി നീ<br/>നൽപുതുവഴി തുറന്നു തന്നെനിക്കുമുൾപ്രവേശനം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പരീക്ഷിതനായ് നീ കഷ്ടമേൽക്കയാൽ<br/>പരീക്ഷിതർക്കു നീ നൽസഹായിയാം<br/>തേൻമൊഴികളെൻ ഹൃദയത്തിൻ വിനകൾ തീർക്കുമെപ്പൊഴും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>വരുന്നു ഞാനിതാ കുരിശിൻ പാതയിൽ<br/>മരിച്ചു ഞാനും നീ എന്നിൽ ജീവിപ്പാൻ<br/>ഈയെനിക്കിനീയുലകത്തിൻ മഹിമ വേണ്ട നീ മതി</lines>
+    </verse>
+    <verse name="v8">
+      <lines>സ്വന്തപുത്രനെയാദരിച്ചിടാതെന്നും ഞങ്ങൾക്കായ്<br/>തന്ന ദൈവമേ നീ സകലവുമവനിൽ<br/>തന്നെന്നെ നിത്യം പോറ്റിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

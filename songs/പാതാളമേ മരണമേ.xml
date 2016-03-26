@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:04">
+  <properties>
+    <titles>
+      <title>പാതാളമേ! മരണമേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജയത്തിൻഘോഷം ഉല്ലാസഘോഷം<br/>ഭക്തരിൻ കൂടാരത്തിൽ എന്നും പുതുഗീതം<br/>മഹത്വരാജനായ് സേനയിൻ വീരനായ്<br/>അഭയം താനവർക്കെന്നുമെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭീകരമാം ചെങ്കടലും<br/>മിസ്രയീം സൈന്യനിരയും<br/>ഭീഷണിയായ് മുമ്പും പിമ്പും<br/>ഭീതിപ്പെടുത്തിടുമ്പോൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശക്തരായ രാജാക്കളാം<br/>സീഹോനും ഓഗും വന്നാൽ<br/>ശങ്കവേണ്ട ഭീതി വേണ്ട<br/>ശക്തൻ നിൻനായകൻ താൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അഗ്നി നിന്നെ ദഹിപ്പിക്കില്ല<br/>നദി നിന്മേൽ കവിയുകയില്ല<br/>അഗ്നിയതിൽ നാലാമൻ താൻ<br/>ആഴിമേൽ നടകൊണ്ടോൻ താൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കൂരിരുൾ പാതയിൽ നീ<br/>നടന്നാൽ വെളിച്ചമായവൻ നിനക്കു<br/>കൂട്ടിനുവരും തൻകോലും വടിയും<br/>കൂടെന്നും ആശ്വാസമായ്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഭൂമിയും പണിയും അഴിഞ്ഞുപോകും<br/>നിലനിൽക്കും തൻവചനം<br/>മരണം മാറും നാം വാഴും ജീവനിൽ<br/>തൻകൂടെ യുഗായുഗമായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

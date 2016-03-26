@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:14">
+  <properties>
+    <titles>
+      <title>കർത്തനെന്റെ സങ്കേതമായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്തനെന്റെ സങ്കേതമായ് എന്നോടുകൂടെയുണ്ട്<br/>കാലമെല്ലാം കാത്തിടുവാൻ എന്നെ കരുതിടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സന്താപനേരത്തും സന്തോഷിക്കും<br/>എന്താപത്തായാലുമെന്നാളിലും<br/>മാറാത്ത മിത്രം തൻ തീരാത്ത സ്നേഹത്തിൻ<br/>മാറിൽ ഞാൻ വിശ്രാമം നേടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകം തരാത്തതാം സന്തോഷവും<br/>ശോകം കലരാത്തൊരാനന്ദവും<br/>കർത്താവിൽ നിത്യവും പ്രാപിച്ചു പാരിതിൽ<br/>പാർക്കുന്നതെത്രയോ ധന്യം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മന്നിൽ സഹിക്കും ദുഃഖങ്ങളെല്ലാം<br/>നന്മയ്ക്കുമാത്രം ഭവിക്കുന്നതാൽ<br/>അല്ലും പകലും ഞാൻ തെല്ലും കലങ്ങാതെ<br/>ചെല്ലും എൻ വല്ലഭൻ പിൻപേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കൂടാരവാസം തീർന്നെന്റെ പ്രിയൻ<br/>കൂടെ വസിക്കുന്ന നാൾ പാർത്തു ഞാൻ<br/>ഈ ലോക കഷ്ടങ്ങൾ സാരമില്ലെന്നെണ്ണി<br/>പോകുന്നു പ്രത്യാശയിൽ ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

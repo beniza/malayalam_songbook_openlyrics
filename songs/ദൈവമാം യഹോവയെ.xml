@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:38">
+  <properties>
+    <titles>
+      <title>ദൈവമാം യഹോവയെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവമാം യഹോവയെ സ്തുതിക്ക തന്റെ മന്ദിരേ... ഓ<br/>വാനഗോള സംവിധാനമേനി കണ്ടു വാഴ്ത്തുക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ധന്യമായ തന്റെ വേല മന്നിൽ രക്ഷ തന്നു ഹാ!<br/>ഉന്നതന്റെ വൻ കൃപയ്ക്കു മുന്നിൽ നമ്മൾ വാഴ്ത്തണം<br/>വൻമഹിമയുള്ള തന്റെ നാമമെത്ര വന്ദ്യമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാഹളങ്ങളുച്ചനാദ ഭംഗിയിൽ മുഴങ്ങണം<br/>വീണമീട്ടിപ്പാടൂ നമ്മൾ മോദഗീതമങ്ങനെ<br/>കിന്നരത്തിനുള്ള കമ്പിയീണമേകി നിൽക്കണം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തപ്പുവാദ്യമൊപ്പമുള്ള ചിട്ടകൾ ചമയ്ക്കണം<br/>തന്ത്രി നാദമെന്നു വേണ്ടവേണുനാദമോടെയും<br/>നൃത്തഗാനമോടു നമ്മൾ സ്തോത്രമേകി വാഴ്ത്തണം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കരങ്ങൾ കൊട്ടിയുച്ചനാദ ഭംഗിയിൽ പുകഴ്ത്തണം<br/>വല്ലഭന്റെ നല്ല നാമമെന്നുമെന്നുമുന്നതം<br/>ജീവനുള്ളതൊക്കെയും യഹോവയെ വണങ്ങണം.</lines>
+    </verse>
+  </lyrics>
+</song>

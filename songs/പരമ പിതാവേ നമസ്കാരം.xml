@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:59">
+  <properties>
+    <titles>
+      <title>പരമ പിതാവേ! നമസ്കാരം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരമ പിതാവേ! നമസ്കാരം<br/>പരിശുദ്ധ പരനേ നമസ്കാരം<br/>തിരുവചനത്താൽ സകലവും ചെയ്ത<br/>വല്ലഭ ദേവാ നമസ്കാരം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദേവ കുമാരാ! നമസ്കാരം<br/>നീതി ദിവാകരാ നമസ്കാരം<br/>ധരണിയിൽ നരനായവതരിച്ചവനാം<br/>ദിവ്യരക്ഷ‍ാകരാ നമസ്കാരം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരിശുദ്ധാത്മാവേ! നമസ്കാരം<br/>പരമസത്ഗുരുവേ നമസ്കാരം<br/>അരുപിയായടിയാർ ഹൃദയത്തിൽ വസിക്കും<br/>ആശ്വാസപ്രദനേ നമസ്കാരം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ത്രിയേക ദൈവമേ! നമസ്കാരം<br/>സർവ്വ ലോകാധിപാ നമസ്കാരം<br/>ദേവാധിദേവാ ദിവ്യ ദയാലോ<br/>സ്തോത്രം സദാ തവ നമസ്കാരം.</lines>
+    </verse>
+  </lyrics>
+</song>

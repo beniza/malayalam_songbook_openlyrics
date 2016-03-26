@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:00">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തുനാമത്തിന്നനന്തമംഗളം ദിവസ്ഥരേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തുനാമത്തിന്നനന്തമംഗളം ദിവസ്ഥരേ!<br/>നിസ്ത്രപം ശിരസ്സണച്ചു സന്നമിപ്പിൻ തൽപ്പദേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>രാജയോഗ്യമായ പൊൽക്കിരീടമേകി രാജനെ<br/>സാദരമലങ്കരിച്ചു വീണു വന്ദിച്ചീടുവിൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യിസ്രയേൽ പ്രഭുക്കളേ ഭവത്സഹായ മൂർത്തിയെ<br/>വിദ്രുതം കിരീടമേകി വാഴ്ത്തുവിൻ വണങ്ങുവിൻ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കയ്പ്പുകാടി വിസ്മരിച്ചിടാഞ്ഞ ഭക്തഭൃത്യനെ<br/>ശുദ്ധിമത്സമാജമേ, കിരീടമേകി വാഴ്ത്തുവിൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിശ്വവംശപുഷ്കരസ്ഥ താരസഞ്ചയങ്ങളെ<br/>വിശ്വവന്ദിതന്നു പൊൽക്കിരീടമേകി വാഴ്ത്തുവിൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

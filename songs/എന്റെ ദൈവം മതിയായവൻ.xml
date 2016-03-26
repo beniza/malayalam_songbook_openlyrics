@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>എന്റെ ദൈവം മതിയായവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ ദൈവം മതിയായവൻ (2)<br/>ഏതുനേരത്തും മതിയായവൻ<br/>എനിക്കെന്നും... ദൈവമവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തന്നിലാശ്രയിച്ചിടുകിൽ ഒന്നിലും ... കുറഞ്ഞിടാതെ<br/>മന്നിൽ തൻബലത്താലെ നടത്തും<br/>എന്റെ ദൈവമെന്നും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്ലേശം നേരിടും നേരം എന്നാശ ഉഴറിടുമ്പോൾ<br/>യേശു താനരികിൽ വന്നാശ്വസിപ്പിക്കും<br/>ശാശ്വതമായി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഏറിടുന്ന വേദനയിൽ... നീറിടും തീച്ചൂളയതിൽ<br/>കൂടെവന്നു താൻ നടക്കും സഖിയായി<br/>കൈവിടുകില്ല</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കാണും ഞാൻ മുഖാമുഖമായി<br/>പ്രാണനാഥനെ വിരവിൽ<br/>ആണിയേറ്റ പാണിയാലെ തുടയ്ക്കും<br/>കണ്ണുനീരെല്ലാം.</lines>
+    </verse>
+  </lyrics>
+</song>

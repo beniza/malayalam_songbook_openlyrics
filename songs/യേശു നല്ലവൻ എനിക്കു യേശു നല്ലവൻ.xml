@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:50">
+  <properties>
+    <titles>
+      <title>യേശു നല്ലവൻ എനിക്കു യേശു നല്ലവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു നല്ലവൻ എനിക്കു യേശു നല്ലവൻ<br/>നല്ല രക്ഷകൻ തൻനാമം വാഴ്ത്തിപ്പാടും ഞാൻ<br/>യേശു നല്ലവൻ അതേ എൻ യേശു നല്ലവൻ<br/>യേശു നല്ലവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചെങ്കടൽ പിളർന്നു നൽവഴി നടത്തിടും<br/>അടിമയിൻ നുകം തകർത്തു വീണ്ടെടുത്തവൻ<br/>ചിറകുകൾ വിടർത്തി മറവിൽ കാത്തിടുന്നവൻ<br/>യേശു നല്ലവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മുന്നിലും പിറകിലും നടന്നു കാവലായ്<br/>മേഘമൊന്നെനിക്കുമേൽ വിരിച്ചു സ്നേഹമായ്<br/>നീണ്ടമരുഭൂവിലുള്ളങ്കൈയിൽ താങ്ങിടും<br/>യേശു നല്ലവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കോട്ടകൾ തകർത്തിടാൻ ബലത്തെ നൽകിടും<br/>നീട്ടിയ ഭൂജത്താലെന്നെ താൻ നടത്തിടും<br/>വീട്ടിലെത്തുവോളം പൊൻമുഖത്തെ നോക്കിടാം<br/>യേശു നല്ലവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ക്ഷാമകാലത്തെന്നെ ക്ഷേമമോടെ കാത്തിടും<br/>പച്ചപ്പുൽത്തകിടിയിൽ കിടത്തിടുന്നവൻ<br/>വേണ്ടതെല്ലാം നിത്യമേകി പോറ്റിടുന്നവൻ<br/>യേശു നല്ലവൻ</lines>
+    </verse>
+  </lyrics>
+</song>

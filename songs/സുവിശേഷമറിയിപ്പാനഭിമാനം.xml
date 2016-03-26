@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>സുവിശേഷമറിയിപ്പാനഭിമാനം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സുവിശേഷമറിയിപ്പാനഭിമാനം<br/>സവിശേഷം തോന്നുന്നു<br/>ഹൃദി പരമാർത്ഥം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിയതം രക്ഷയ്ക്കു ദിവ്യശക്തിയതു<br/>ദയയെഴും സത്യദൈവത്തിൻ സന്ദേശം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കഠിന കിരാതവർഗ്ഗം പോലുമിതിൻ<br/>പ്രതിഭയാൽ ദിവ്യഗുണങ്ങളുള്ളോരായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പരമാനന്ദപ്രദമാമുപദേശം<br/>ധരണിയിലിതിന്നു സമമില്ലേതും.</lines>
+    </verse>
+  </lyrics>
+</song>

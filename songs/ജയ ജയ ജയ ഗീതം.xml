@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:49">
+  <properties>
+    <titles>
+      <title>ജയ ജയ ജയ ഗീതം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജയ ജയ ജയ ഗീതം ഉന്നതനാമെന്നേശുവിനായ്<br/>ഞാനെന്നാളും പാടിടും രാജാധിരാജൻ നീ<br/>ദേവാധിദേവൻ നീ<br/>ഭൂജാതികൾക്കെല്ലാം രക്ഷാകരൻ നീയേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഉന്നതി വിട്ടീ മന്നിതിൽ വന്നെൻ ഖിന്നത തീർപ്പാനായ്<br/>തന്നുയിരേകി മന്നവനാം നീ നിന്ദ ചുമന്നതിനാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വിലാപഗാനം മാറ്റിയെൻ നാവിൽ പുതിയൊരു പാട്ടേകി<br/>വിണ്ണുലകത്തിന്നധിപതിയാകും നിൻപ്രിയ മകനാക്കി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കരുമന തീരും കണ്ണീർ തോരും നിൻതിരു സന്നിധിയിൽ<br/>കരുണയെഴും നിൻ കരങ്ങളാലെ കരുതി നടത്തിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

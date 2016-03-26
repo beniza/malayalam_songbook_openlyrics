@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:52">
+  <properties>
+    <titles>
+      <title>എന്നേശുപോയ പാതയിൽ പോകുന്നിതാ ഞാനും</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നേശുപോയ പാതയിൽ പോകുന്നിതാ ഞാനും<br/>തൻസ്നേഹത്തിൻ കരങ്ങളാലെന്നെ നടത്തുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുവിന്റെ കൂടെ ഞാൻ കുരിശിന്റെ പാതയിൽ<br/>കുരിശിന്റെ പാതയിൽ പാതയിൽ ഞാൻ പോകുമേ<br/>പതറാതെ പോകുമേ പോകുമേ യേശുവിന്റെ കൂടെ ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ബന്ധുമിത്രങ്ങളാദിയോരെത്രയെതിർത്താലും<br/>എന്തുമെൻ ജീവപാതയിൽ വന്നുഭവിച്ചാലും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദാരിദ്ര്യ പീഡമൂലമെൻ ദേഹം തളർന്നാലും<br/>പാരിച്ച ദുഃഖഭാരത്താൽ ഹൃദയം തകർന്നാലും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലക്ഷോപലക്ഷം സ്നേഹിതർ പാപത്തിൽ ചാകുന്നു<br/>രക്ഷാവഴിയവർക്കു ഞാൻ ചൊല്ലേണ്ടതല്ലയോ?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ലോകജനങ്ങളെത്രയോ സമരങ്ങൾ നടത്തുന്നു!<br/>ക്രൂശിന്റെ വീരസേനകൾ നാം മാത്രമുറങ്ങുകയോ?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>എന്നായുസ്സ് നാൾ മുഴുവനും തൻ പിൻഗമിക്കും ഞാൻ<br/>നന്നായി പോർപൊരുതിയെൻ ഓട്ടം തികച്ചിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>പാപലോകം തേടിയിപ്പാരിൽ വന്നു ദേവൻ താൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാപലോകം തേടിയിപ്പാരിൽ വന്നു ദേവൻ താൻ<br/>പരലോകം പാപികൾക്കേകിടുവാൻ<br/>സുരലോകമഹിമ സകലവും വെടിഞ്ഞു<br/>കുരിശോളം താണവൻ താൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഉലകത്തിനുയിരേകാൻ ഉന്നതൻ മേനി<br/>തകരുന്നു കാൽവറി മാമലയിൽ<br/>ചൊരിയുന്നു കുരിശിന്മേൽ ചെഞ്ചോരധാര<br/>മനുവേൽ മശിഹ മാനവർക്കായി പാപിക്കു ബദലായ്<br/>ബലിയായി സ്വമനസ്സാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇരുളുന്നു ഉലകാകെ പിളരുന്നു പാറ<br/>ഉയിരാർന്നു ഭക്തരിൻ മൃതദേഹം<br/>കീറുന്നു മറനീക്കാൻ തിരശ്ശീല നീളേ<br/>കുരിശിൽ മശിഹ ഉയിർ വിട്ടനേരം<br/>പാവനരുധിരം പാപികൾക്കരുളി പരലോക മാർഗ്ഗമതേ.</lines>
+    </verse>
+  </lyrics>
+</song>

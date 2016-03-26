@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>ഉണരുവിൻ! ഉണരുവിൻ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉണരുവിൻ! ഉണരുവിൻ! ഊതുവിൻ കാഹളം!<br/>പോകുവിൻ സുവിശേഷക്കൊടികളേന്തി നാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മൃത്യുവിന്നടിമയായ് ആയിരങ്ങളനുദിനം<br/>നാശത്തിന്റെ പാതയിൽ പതിച്ചിടുന്നിതാ<br/>അന്ധകാരം ഭൂമിയെയും കൂരിരുട്ടു ജാതിയെയും<br/>മൂടിടുവാൻ കാലമേറെയില്ലല്ലോഇല്ലല്ലോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകമോഹം വെടിഞ്ഞു നാം ലോകേയോട്ടം തികച്ചിടാം<br/>പോർക്കളത്തിൽ പോരിന്നായ് അണിനിരന്നിടാം<br/>കൂടെയുണ്ടു നായകൻ യൂദയിലെ സിംഹമായ്<br/>ഭയപ്പെടാതെ ധീരമായ് മുന്നേറിടാംമുന്നേറിടാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കഷ്ടതകളേറ്റവർ നിന്ദിതരായ് തീർന്നവർ<br/>കർത്തനേശുരാജന്നായ് ത്യാഗമേറ്റവർ<br/>വാങ്ങിടും പ്രതിഫലം രാജൻസേവ ചെയ്തതാൽ<br/>തേജസ്സിൽ സമ്പൂർണ്ണരായി വാഴുമേവാഴുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

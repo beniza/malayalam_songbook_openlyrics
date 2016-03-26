@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>ശ്രീയേശു നാഥാ നിൻ സ്നേഹം!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ശ്രീയേശു നാഥാ നിൻ സ്നേഹം!<br/>സ്വർഗ്ഗ മോടി വെടിഞ്ഞു എന്നെ<br/>തേടി ധരയിൽ വന്ന</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ബേതലേംപുരി മുതൽ കാൽവറി കുരിശോളം<br/>വേദനപ്പെട്ടു മമ വേദനയകറ്റി നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അടിയനെപ്പോലുള്ളോരഗതികളെ പ്രതി<br/>അടിമുടി മുഴുവനുമടികൾ നീയേൽക്കയോ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപക്കുഴിയിൽ നിന്നെൻ പാദങ്ങളുയർത്തി നീ<br/>പാടുവാൻ പുതിയൊരു പാട്ടുമെൻ നാവിൽ തന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അനുപമ സ്നേഹത്തിനാഴവുമുയരവും<br/>അകലവും നീളവുമറിയുവാൻ കഴിയുമോ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഒടുവിലൊരിക്കൽ നിന്നരികിലണയും ഞാ-<br/>നവിടെയും പാടും നിന്നതിശയ സ്നേഹത്തെ.</lines>
+    </verse>
+  </lyrics>
+</song>

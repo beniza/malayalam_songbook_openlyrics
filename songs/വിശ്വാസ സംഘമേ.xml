@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>വിശ്വാസ സംഘമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വിശ്വാസ സംഘമേയുണർ-<br/>ന്നൊരുങ്ങിടാം നിരന്നിടാം<br/>ദൈവത്തിൻ സർവ്വായുധ-<br/>വർഗ്ഗമെടുത്തു കൊള്ളുവിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്വതന്ത്രരാം നമുക്കിഹത്തിൽ<br/>ക്ലേശമേറുമെങ്കിലും<br/>അകറ്റിടും പരാപരൻ സന്താപമാകെ ദൂരവേ<br/>നമുക്കവൻ കരുത്തനാം<br/>സഹോദരൻ നാം ചാരവേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അലസതയകറ്റി വേഗം<br/>ദുർദ്ദിനത്തെയെതിരിടാൻ<br/>സർവ്വായുധമണിഞ്ഞൊരുങ്ങി<br/>നിരന്നിടാം സഗർഭ്യരേ!<br/>സർവ്വോന്നതൻ സദാ നമ്മോടു<br/>കൂടെയുണ്ടു ജയം തരാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സത്യമാമരക്കെട്ടും സൽനീതിയെന്ന<br/>കവചവും<br/>അവികല പ്രശാന്തിയേകും<br/>സുവിശേഷവുമേന്തുക<br/>അതിന്നൊരുക്കം കാലുകൾക്കു<br/>പാദരക്ഷയാക്കുക</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദുഷ്ടനാമരാതി നമ്മിൽ ചൊരിഞ്ഞിടും<br/>തീയമ്പുകൾ<br/>കെടുത്തുവാനെടുത്തു കൊൾ<br/>വിശ്വാസപ്പരിച സോദരാ<br/>രക്ഷയാം ശിരസ്ത്രവുമാത്മാവിൻ വാളുമേന്തിടാം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പ്രഗൽഭരായ്, പ്രബുദ്ധരായ്<br/>സംയുക്തരായ് നിരന്നിടാം<br/>വിജയ പടഹധ്വനി മുഴക്കി നീങ്ങിടാം<br/>രണാങ്കണേ!<br/>നമുക്കു പോർ നടത്തിടാം പിതാവിന്നായ്<br/>വിശ്വസ്തരേ! ധീരരേ!</lines>
+    </verse>
+  </lyrics>
+</song>

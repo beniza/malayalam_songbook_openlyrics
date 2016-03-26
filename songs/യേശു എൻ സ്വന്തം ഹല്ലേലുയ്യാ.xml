@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>യേശു എൻ സ്വന്തം ഹല്ലേലുയ്യാ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു എൻ സ്വന്തം ഹല്ലേലുയ്യാ<br/>എന്നുടെ ഭാഗ്യം ചൊല്ലിക്കൂടാ<br/>പഴയതെല്ലാം കഴിഞ്ഞുപോയ്<br/>കണ്ടാലും സർവ്വം പുതിയതായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എനിക്കു പാട്ടും പ്രശംസയും<br/>ദൈവകുഞ്ഞാടും തൻകുരിശും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യേശു എൻ സ്വന്തം ഹല്ലേലുയ്യാ<br/>തീർന്നു എന്നാന്ധ്യം നീങ്ങിയെൻരാ<br/>ഇരുട്ടിൻ പാശം അറുത്തു താൻ<br/>ജീവപ്രകാശം കാണുന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യേശു എൻ സ്വന്തം ഹല്ലേലുയ്യാ<br/>തുറന്ന സ്വർഗ്ഗം കാണുന്നിതാ<br/>പാപം താൻ നീക്കി രക്തത്തിനാൽ<br/>ദൈവകുഞ്ഞാക്കി ആത്മാവിനാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യേശു എൻ സ്വന്തം ഹല്ലേലുയ്യാ<br/>പാടാൻ എന്നിമ്പം പോരാ എൻവായ്<br/>ജീവന്റെ വെള്ളം തണുപ്പിനായ്<br/>ജീവന്റെ അപ്പം എൻശക്തിക്കായ്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>യേശു എൻ സ്വന്തം ഹല്ലേലുയ്യാ<br/>ഈ സ്നേഹബന്ധം നിൽക്കും സദാ<br/>മരണത്തോളം സ്നേഹിച്ചു താൻ<br/>നിത്യതയോളം സ്നേഹിക്കും താൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>യേശു എൻ സ്വന്തം ഹല്ലേലുയ്യാ<br/>ഞാൻ നിൻ സമ്പാദ്യം എൻ രക്ഷകാ<br/>നീയെൻ കർത്താവും സ്നേഹിതനും<br/>ആത്മഭർത്താവും സകലവും.</lines>
+    </verse>
+  </lyrics>
+</song>

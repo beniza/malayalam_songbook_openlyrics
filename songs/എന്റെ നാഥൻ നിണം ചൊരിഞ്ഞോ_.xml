@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:32">
+  <properties>
+    <titles>
+      <title>എന്റെ നാഥൻ നിണം ചൊരിഞ്ഞോ?</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ നാഥൻ നിണം ചൊരിഞ്ഞോ?<br/>എന്റെ രാജാ മരിച്ചുവെന്നോ?<br/>പുഴുവിനൊത്തോരെനിക്കുവേണ്ടി<br/>വിശുദ്ധമാം ശിരസ്സവൻ കുനിച്ചുവെന്നോ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുനാഥൻ എനിക്കുമപ്പോൽ<br/>നിനക്കും വേണ്ടിമരിച്ചുപാപി<br/>സകലർക്കുമായവൻ മരിച്ചു<br/>രക്ഷ വെറും ദാനമത്രേ തനിക്കു സ്തുതി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാം നശിച്ച കാരണത്താൽ ക്രൂശിലവൻ തൂങ്ങുന്നിതാ<br/>ഭ്രമിച്ചുപോകും ദയവിതുതാൻ<br/>അറിയാതുള്ളൊരു കൃപ പരമസ്നേഹം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപത്തിനാൽ നശിച്ച നമ്മെ കരുതിയല്ലോ പരൻ മരിച്ചു<br/>അഭിഷിക്തന്റെ മരണം മൂലം<br/>അരുണൻ തന്നുടെ കരം മറച്ചിരുണ്ടു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്നേഹമുള്ള ക്രൂശു കണ്ടു ഞാനും മുഖം താഴ്ത്തുന്നിതാ<br/>നന്ദിചൊൽവാനെന്റെ മനം<br/>ഉരുക്കണമെൻ കണ്ണുകളലിക്കണമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എങ്കിലുമെൻ കണ്ണുനീരാൽ സ്നേഹക്കടം വീട്ടിടാമോ?<br/>ഒന്നുമാത്രമെനിക്കു സാദ്ധ്യം<br/>തരുന്നു ഞാനെന്നെപ്പരാ നിനക്കെന്നേക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>എന്നന്തരംഗമേ പാടൂ പൊന്നേശുവിൻ ഗീതം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നന്തരംഗമേ പാടൂ പൊന്നേശുവിൻ ഗീതം<br/>എന്നെ വീണ്ട തൻ സ്നേഹത്തെ<br/>എന്നാളും കീർത്തിക്കൂ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആശയറ്റിട്ടാർത്തനായി ക്ലേശിച്ചുകേണു ഞാൻ<br/>ഈശാ! നീയെന്റെ പാതകം<br/>ക്രൂശിൽ വഹിച്ചു ഹാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നാധികൾ എൻ വ്യാധികൾ എല്ലാം വഹിപ്പാനായ്<br/>എല്ലായ്പ്പോഴും ചാരെയുള്ളോൻ<br/>ആശ്വാസദായകൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിണ്ണിലെത്തും നാൾവരെയും കണ്ണീരിൻ താഴ്വര;<br/>മണ്ണിലെ വാസമെങ്കിലും<br/>പൂർണ്ണാനന്ദം നീയേ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻപേർക്കു, പക്ഷവാദമായ് അൻപെഴുമാചാര്യൻ<br/>ഉന്നതത്തിൽ വാണിടുന്നു<br/>പൂർണ്ണരക്ഷകനായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

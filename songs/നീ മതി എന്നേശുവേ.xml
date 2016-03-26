@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:11">
+  <properties>
+    <titles>
+      <title>നീ മതി എന്നേശുവേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നീ മതി എന്നേശുവേ ഈ മരുഭൂയാത്രയിൽ<br/>കൂടെ നടന്നിടുവാൻ കണ്ണീർ തുടച്ചിടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീയല്ലാതാരുമില്ലീ നീറുന്ന ശോധനയിൽ<br/>താങ്ങിടുവാൻ പ്രിയനേ! തള്ളരുതേഴയെന്നെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉള്ളം കലങ്ങിടുമ്പോൾ ഉറ്റവർ മാറിടുമ്പോൾ<br/>ഉന്നത നന്ദനനേ! ഉണ്ടെനിക്കാശ്രയം നീ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മാറയിൽ മാധുര്യമായ് പാറയിൽ വെള്ളവുമായ്<br/>മാറ്റമില്ലാത്തവനായ് മറ്റാരുമില്ലിതുപോൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്നന്നു വേണ്ടുന്നതാം അന്നം തരുന്നവനായ്<br/>അന്തികേയുള്ളതിനാൽ അന്ത്യം വരെ മതിയാം.</lines>
+    </verse>
+  </lyrics>
+</song>

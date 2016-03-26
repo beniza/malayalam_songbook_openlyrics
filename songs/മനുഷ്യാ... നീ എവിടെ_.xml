@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>മനുഷ്യാ... നീ എവിടെ?</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മനുഷ്യാ... നീ എവിടെ? നീ എവിടെ?<br/>ആദിയിലേദനിൽ എൻ പ്രതിച്ഛായയിൽ<br/>അധിപനായ് വാഴിച്ച മനുഷ്യാ<br/>നീ എവിടെ? നീ എവിടെ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സർവ്വ സൗഭാഗ്യവും തന്നു നിന്നെ<br/>ഭൂമിയിൽ വാഴുവാനാക്കിയില്ലെ?<br/>എന്നിട്ടും നീയെന്തെ പോയ് മറഞ്ഞു<br/>എൻപാതവിട്ടങ്ങു ദൂരെ ദൂരെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻ ജഡരൂപം ഞാനെടുത്തു<br/>നിൻപാപശിക്ഷകൾ ഞാൻ വഹിച്ചു<br/>തേടിയലയുന്നു നിന്നെ വീണ്ടും<br/>എന്നോമൽപുത്രനായ് ചേർത്തിടുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

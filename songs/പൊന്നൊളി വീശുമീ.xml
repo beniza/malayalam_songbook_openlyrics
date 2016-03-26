@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:21">
+  <properties>
+    <titles>
+      <title>പൊന്നൊളി വീശുമീ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പൊന്നൊളി വീശുമീ പൊന്നുഷസ്സിലുണർ-<br/>ന്നുന്നത ദൈവമേ വാഴ്ത്തുന്നേ<br/>മന്നിതിൽ കൂരിരുൾ നീങ്ങി പ്രഭാതത്തെ<br/>കാണ്മാൻ തുണച്ചോനേ വാഴ്ത്തുന്നേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിൻതിരുപാതയിലിന്നു നടന്നിടാൻ<br/>നീ കൃപചെയ്ക എൻ ദൈവമേ<br/>അന്നന്നുവേണ്ടുന്നതെല്ലാം നീ തന്നെന്നെ<br/>എന്നും പുലർത്തണേ ദൈവമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നുടെ ക്രിയകൾ നിൻനാമ മേന്മയ്ക്കായ്<br/>എന്നാളും തീരുമാറാകണമേ<br/>മന്നിതിൻ മോഹങ്ങളൊന്നിലുമെൻ മനം<br/>മങ്ങിമയങ്ങാതെ കാക്കണമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇന്നലെക്കാളും ഞാൻ നിന്നോടണഞ്ഞിന്നു<br/>നന്നായി ജീവിപ്പാറാകണേ<br/>നീ കൃപ തന്നെന്നെ ആശീർവദിക്കണം<br/>ഇന്നന്ത്യത്തോളമെൻ ദൈവമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:07">
+  <properties>
+    <titles>
+      <title>യേശു മതി മരുവിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു മതി മരുവിൽ<br/>എനിക്കാശ്രയിപ്പാൻ ദിനവും<br/>തിരുമാറിൽ ചാരും നേരത്തിൽ<br/>തീരുമാകുലങ്ങളാകെയും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വല്ലഭൻ നല്ലവൻ എനിക്കേറ്റ മുറ്റവൻ<br/>വർണ്ണ്യമല്ലൊരിക്കലുമെനിക്കവന്റെ മാധുര്യം!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവൻ നല്ലവനെന്നധികം<br/>ആസ്വദിക്കുന്നാധികളിൽ ഞാൻ<br/>അവനിൽ ശരണപ്പെട്ടതാൽ<br/>എത്ര ധന്യമായെൻ ജീവിതം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഞാനിന്നു ദൈവപൈതലാം<br/>എനിക്കായ് ഞാൻ കരുതുകയാൽ<br/>എന്റെ ഭാരം മുറ്റുമേറ്റു താൻ<br/>എന്നെ താങ്ങിടുന്നു കൃപയാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാരിലെന്റെ അൽപനാളുകൾ<br/>തീരണം തൃപ്പാദ സേവയിൽ<br/>പിന്നെയെന്റെ യേശുവിന്മാ‍റിൽ<br/>മറഞ്ഞു വിശ്രാമം നേടും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

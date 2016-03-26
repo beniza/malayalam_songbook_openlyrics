@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:25">
+  <properties>
+    <titles>
+      <title>സ്തോത്രമെന്നേശുപരാ നിൻ നാമത്തെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രമെന്നേശുപരാ നിൻ നാമത്തെ<br/>മാത്രം പുകഴ്ത്തുന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആർത്തികൾ തീർത്തെന്നെ ചേർത്തിടുവാനായി<br/>പാർത്തലം തന്നിൽ വന്ന കർത്താവിനെ<br/>മാത്രം പുകഴ്ത്തുന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവനെ നീയെനിക്കായ് വെടിഞ്ഞെന്നുടെ<br/>ജീവനെ വീണ്ടതിനെ നിനച്ചു നിൻ<br/>നാമം പുകഴ്ത്തുന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാവന ലോകെയെൻ ജീവനെയും കൊണ്ടു<br/>രാപ്പകൽ വാണിടുന്ന സർവ്വേശാ!<br/>നിൻ നാമം പുകഴ്ത്തുന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ജീവനെ നീയെന്നിൽ രാപ്പകൽ നൽകി നിൻ<br/>ആവിയിൽ കാത്തിടുന്ന കൃപാലോ<br/>നിൻ നാമം പുകഴ്ത്തുന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>താതസുതാത്മന നാരതവും സ്തുതി<br/>നീതിയിൻ സൂര്യനേ നീ പ്രകാശമായ്<br/>വാണിടുന്നെന്നിലതാൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

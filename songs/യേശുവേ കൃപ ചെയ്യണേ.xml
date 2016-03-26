@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:40">
+  <properties>
+    <titles>
+      <title>യേശുവേ കൃപ ചെയ്യണേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവേ കൃപ ചെയ്യണേ<br/>ഈശാ! തിരുസവിധമാശയോടണയുമീ<br/>ദാസരിലകം കനിഞ്ഞിടണേ നാഥനേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്നേഹം തിരുജനങ്ങൾക്കാദി നിലയിലെപ്പോൽ<br/>കാണുന്നതില്ലയെന്നു തോന്നുമാറായിതാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻമക്കളൊന്നു ചേർന്നു സമ്മോദമനുഭവി<br/>ച്ചുള്ളൊരു കാലമോർത്തു കെഞ്ചിടുന്നിപ്പൊഴും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചാരത്തു വന്നിടുന്ന സാധുക്കളൊരുവരും<br/>ക്ഷീണിച്ചു പോകയില്ല നിൻ കൃപാ വൈഭവാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശീതമിയന്ന മനമാകെയെരിവുകൊണ്ട്<br/>പൂർണ്ണമാകുവാൻ കൃപ ചെയ്യണേ നാഥനേ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്നേഹത്തെ വളർത്തുക ദ്വേഷത്തെയകറ്റുക<br/>ദാഹത്തെത്തരിക നിൻ വാക്കുകൾ കേൾക്കുവാൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നിൻവരവിനെ കാത്തു ചെമ്മെയോടിരിക്കുവാൻ<br/>വൻവരമരുളണം വന്ദനം! വന്ദനം!</lines>
+    </verse>
+  </lyrics>
+</song>

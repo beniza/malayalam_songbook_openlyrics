@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:51">
+  <properties>
+    <titles>
+      <title>ഉന്നതനേശുവെ വാഴ്ത്തിടുവിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉന്നതനേശുവെ വാഴ്ത്തിടുവിൻ<br/>ഉച്ചത്തിൽ സ്തുതി പാടിടുവിൻ<br/>വന്ദിതനാമവൻ വല്ലഭനാം നാം<br/>വന്ദനം ചെയ്തിടുവിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹല്ലെലുയ്യ! ഹല്ലെലുയ്യ! ഹല്ലെലുയ്യ!<br/>പാടിടുവിൻ വല്ലഭനെ പുകഴ്ത്തിടുവിൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മന്നിതിൽ വന്നവൻ മാനവനായ്<br/>തന്നുയിർ തന്നു മാനവർക്കായ്<br/>ഇന്നു മഹിമയിൽ വാഴുന്നു നമുക്കായ്<br/>ഉന്നതനായ് മാനുവേൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നാൾതോറും ഭാരം ചുമന്നൊഴിക്കും<br/>നല്ലൊരു രക്ഷാനായകൻ താൻ<br/>ആകയാൽ ചിന്താഭാരങ്ങളകന്നിന്നൂഴിയിൽ പാർക്കുക നാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശിക്ഷകൾ തന്നാലും കൈവിടാതെ<br/>രക്ഷകൻ കാത്തു സൂക്ഷിച്ചിടും<br/>നന്മയല്ലാതവൻ തിന്മയായൊന്നും നൽകയില്ലൊരിക്കലുമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വന്നിടും വാനവിതാനമതിൽ<br/>ചേർന്നിടും നമ്മൾ തന്നരികിൽ<br/>പാർത്തിടും തൻ മുഖകാന്തിയിലെന്നും<br/>സ്തോത്രം ഹാ! ഹല്ലെലുയ്യ!</lines>
+    </verse>
+  </lyrics>
+</song>

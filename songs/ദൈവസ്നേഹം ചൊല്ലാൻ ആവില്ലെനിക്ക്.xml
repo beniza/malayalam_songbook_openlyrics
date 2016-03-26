@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:35">
+  <properties>
+    <titles>
+      <title>ദൈവസ്നേഹം ചൊല്ലാൻ ആവില്ലെനിക്ക്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവസ്നേഹം ചൊല്ലാൻ ആവില്ലെനിക്ക്<br/>വർണ്ണിച്ചതു തീർക്കാൻ നാവില്ലെനിക്ക്<br/>ആഴിയിലുമാഴം ദൈവത്തിന്റെ സ്നേഹം<br/>കുന്നുകളിലേറും അതിന്നുയരം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അമ്മ മറന്നാലും മറന്നിടാത്ത<br/>അനുപമ സ്നേഹം അതുല്യസ്നേഹം<br/>അനുദിനമേകി അവനിയിലെന്നെ<br/>അനുഗ്രഹിച്ചിടും അവർണ്യസ്നേഹം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്വന്ത പുത്രനേയും ബലിതരുവാൻ<br/>എന്തു സ്നേഹമെന്നിൽ ചൊരിഞ്ഞു പരൻ<br/>അന്തമില്ലാക്കാലം സ്തുതി പാടിയാലും<br/>തൻതിരു കൃപയ്ക്കതു ബദലാമോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അലകളുയർന്നാൽ അലയുകയില്ല<br/>അലിവുള്ള നാഥൻ അരികിലുണ്ട്<br/>വലമിടമെന്നും വലയമായ് നിന്ന്<br/>വല്ലഭനേകും ബലമതുലം.</lines>
+    </verse>
+  </lyrics>
+</song>

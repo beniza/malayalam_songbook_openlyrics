@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:40">
+  <properties>
+    <titles>
+      <title>ദൈവത്തിൻ നാമത്തിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവത്തിൻ നാമത്തിൽ<br/>നാം ചേർന്നിടും സമയങ്ങളിൽ<br/>മോദമായ് ധ്യാനിച്ചിടാം<br/>തന്റെ വൻകൃപകൾ ദിനവും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കുന്നുകളകന്നിടിലും മഹാ<br/>പർവ്വതം മാറിടിലും<br/>തന്റെ ദയയെന്നും ശാശ്വതമേതന്റെ<br/>മക്കൾക്കാശ്രയമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സീയോനിലവൻ നമുക്കായ്<br/>അതിശ്രേഷ്ഠമാം മൂലക്കല്ലായ്<br/>തന്നോടു ചേർന്നു നാമും<br/>തന്റെ ജീവകല്ലുകളായിടാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കർത്തൻ തൻവരവിൻ നാളിൽ<br/>തന്റെ കാന്തയാം നമ്മെ ചേർത്തിടും<br/>എന്റെ കണ്ണുനീരെല്ലാം തുടയ്ക്കും<br/>തന്റെ മാർവ്വോടു ചേർത്തീടുമേ</lines>
+    </verse>
+  </lyrics>
+</song>

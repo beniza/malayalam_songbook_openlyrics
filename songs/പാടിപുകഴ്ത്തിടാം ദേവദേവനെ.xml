@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:47">
+  <properties>
+    <titles>
+      <title>പാടിപുകഴ്ത്തിടാം ദേവദേവനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാടിപുകഴ്ത്തിടാം ദേവദേവനെ<br/>പുതിയതാം കൃപകളോടെ<br/>ഇന്നലെയുമിന്നുമെന്നും മാറാ യേശുവെ<br/>നാം പാടിപുകഴ്ത്താം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുവെന്ന നാമമേ<br/>എൻ ആത്മാവിൻ ഗീതമേ<br/>എൻപ്രിയനേശുവെ ഞാൻ എന്നും<br/>വാഴ്ത്തിപുകഴ്ത്തിടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഘോരഭയങ്കരകാറ്റും അലയും<br/>കൊടിയതായ് വരും നേരത്തിൽ<br/>കാക്കും കരങ്ങളാൽ ചേർത്തു മാർവ്വണച്ച<br/>സ്നേഹം നിത്യം പാടും ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യോർദ്ദാൻ സമമാന ശോധനയിലും<br/>താണുവീണുപോകാതെ<br/>ആർപ്പിൻ ജയധ്വനിയോടു കാത്തു<br/>പാലിക്കുന്ന സ്നേഹമാശ്ചര്യം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പെറ്റതള്ള കുഞ്ഞിനെ മറന്നാലും<br/>ഞാൻ മറക്കായെന്ന വാർത്തയാൽ<br/>താഴ്ത്തിയെന്നെ തൻ കരത്തിൽ വെച്ചു<br/>ജീവപാത എന്നും ഓടും ഞാൻ.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഭൂമിയെങ്ങും പോയി സാക്ഷി ചൊല്ലുവിന്‍<br/>എന്നുരച്ച കല്പനയതാല്‍<br/>ദേഹം ദേഹിയെല്ലാം ഒന്നായ്<br/>ചേര്‍ന്നു പ്രിയനായ് വേലചെയ്യും ഞാന്‍</lines>
+    </verse>
+  </lyrics>
+</song>

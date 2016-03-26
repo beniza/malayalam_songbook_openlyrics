@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>എൻ ദൈവമെ നിന്നെ വാഴ്ത്തിടുമെ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ ദൈവമെ നിന്നെ വാഴ്ത്തിടുമെ<br/>എൻ ജീവനാൾകളെല്ലാം<br/>നിത്യസ്നേഹമെ തലതാഴ്ത്തിയിതാ<br/>നമിക്കുന്നു തിരുപാദെ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹാലേലുയ്യാ... ഹാലേലുയ്യാ<br/>സ്തുതി ഗീതമുയർന്നിടട്ടെ<br/>ഹാലേലുയ്യാ... ഹാലേലുയ്യാ<br/>സ്തുതി ധ്വനി മുഴങ്ങിടട്ടെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്ലേശപ്രതികൂലനാളിൽ വീണു കേണിടുമ്പോൾ<br/>കരുണയിൻ കരത്താലെന്നെ താങ്ങിടുന്നു നിത്യം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അവങ്കലേക്ക് നോക്കിയോർ പ്രകാശിതരായി<br/>അവർ തൻ മുഖങ്ങളൊട്ടും ലജ്ജയേറ്റതില്ല</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യഹോവ നല്ലവനെന്ന് രൂചിച്ചറിഞ്ഞിടുവിൻ<br/>അവനിൽ ശരണമുള്ളോർ ഭാഗ്യവാനായ് തീരും.</lines>
+    </verse>
+  </lyrics>
+</song>

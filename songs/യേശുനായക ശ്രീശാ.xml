@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:39">
+  <properties>
+    <titles>
+      <title>യേശുനായക! ശ്രീശാ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുനായക! ശ്രീശാ! നമോ നമോ<br/>നാശവാരണ സ്വാമിൻ! നമോ നമോ<br/>മോശി പൂജിതരൂപാ! നമോ നമോ<br/>മഹീപാദ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മാനുവേലനേ പാഹി! നമോ നമോ<br/>മാനവസുതവര്യാ! നമോ നമോ<br/>ദീനവത്സല! ക്രിസ്തോ! നമോ നമോ<br/>ദിനമാകെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കുഷ്ഠരോഗവിനാശാ! നമോ നമോ<br/>തുഷ്ടി നൽകുമെന്നീശാ! നമോ നമോ<br/>ശിഷ്ടപാലക വന്ദേ! നമോ നമോ<br/>ദിപപീഠ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പഞ്ചപൂപപ്രദാനാ! നമോ നമോ<br/>സഞ്ചിതാധിക പുണ്യാ! നമോ നമോ<br/>അഞ്ചിതാനനയുക്താ! നമോ നമോ<br/>പരമീഡേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആഴിമേൽ നടന്നോനേ! നമോ നമോ<br/>ശേഷിയറ്റവർക്കീശാ! നമോ നമോ<br/>ഊഴിമേൽ വരും നാഥാ! നമോ നമോ<br/>തൊഴുകൈയായ്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്വസ്തികാവിദ്ധദേഹാ! നമോ നമോ<br/>ദുസ്ഥ രക്ഷണ ശീലാ! നമോ നമോ<br/>ശസ്തമസ്തു തേ നിത്യം നമോ നമോ<br/>ബഹുഭൂയാൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:44">
+  <properties>
+    <titles>
+      <title>സർവ്വവും സമർപ്പിക്കുന്നു ഞാൻ ജീവ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സർവ്വവും സമർപ്പിക്കുന്നു ഞാൻ ജീവ<br/>സർവ്വവുമാം വല്ലഭാ! തിരുക്കരങ്ങളിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചിത്തവും ബുദ്ധിശക്തിയും പ്രിയൻ<br/>ദത്തം ചെയ്തിട്ടുള്ള സർവ്വ താലന്തുകളും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാവുമെന്നധരങ്ങളും ദാസൻ<br/>മേവിടുന്ന കാലം ഭൂമൗ നിന്നെ സ്തുതിക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സർവേന്ദ്രിയങ്ങളെയും ഞാൻ മനഃ<br/>പൂർവ്വമിന്നർപ്പിച്ചിടുന്നു ജീവബലിയായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വസ്തു സമ്പത്തും ഭവനം നിന്റെ<br/>നിസ്തുലസ്നേഹത്താൽ തന്ന മക്കളെയും ഞാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇല്ലെനിക്കൊന്നും ഭൂമിയിൽ ഇനി<br/>ചൊല്ലിടുന്നതിന്നു മമ സ്വന്തമെന്നു ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

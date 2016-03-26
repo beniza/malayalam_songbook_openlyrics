@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:16">
+  <properties>
+    <titles>
+      <title>ഉണർന്നെഴുന്നേൽപ്പിൻ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉണർന്നെഴുന്നേൽപ്പിൻ ഉണർന്നെഴുന്നേൽപ്പിൻ<br/>ഉത്സുകരായിരിപ്പിൻ<br/>ഉന്നതനാഥൻ ഉയിർത്തെഴുന്നേറ്റു<br/>ഉയരത്തിൽ ജീവിക്കുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇരുൾ മൂടും കാലം ഈ ഭൂവിൽ<br/>വരുവാൻ ഇല്ലിനി നാളധികം<br/>പ്രബുദ്ധരായ് നമ്മൾ പ്രവൃത്തികൾ ചെയ്‌വിൻ<br/>പ്രത്യാശയോടിരിപ്പിൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അത്തിയും തളിർത്തു വേനലുമടുത്തു<br/>ക്രിസ്തുവിൻ വരവടുത്തു<br/>വിശുദ്ധിയെക്കാത്തു വിശുദ്ധർ<br/>നാമൊത്തു വിജയത്തിൻ ഗീതംപാടാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രിസ്തുവിൽ ചെയ്യും<br/>പ്രവൃത്തികളൊന്നും വൃഥാവിലല്ലല്ലൊ<br/>പ്രതിഫലം ലഭിക്കും കിരീടം ധരിക്കും<br/>പ്രിയനവൻ വരും നാളിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പുതുമേനി ധരിച്ചു പുതുവീണയേന്തി<br/>പുതുഗാനം പാടിയന്നാൾ<br/>പരലോകം തന്നിൽ പിരിയാതെ<br/>നമ്മൾ പരനോടു ചേർന്ന് വാഴും</lines>
+    </verse>
+  </lyrics>
+</song>

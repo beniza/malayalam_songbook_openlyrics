@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>വന്ദനം വന്ദനം വന്ദനം നാഥാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്ദനം വന്ദനം വന്ദനം നാഥാ<br/>വന്ദനം യേശുപരാ<br/>വന്ദിതനാം വല്ലഭനാം യേശുപരാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആദിയുഗങ്ങൾക്കു മുന്നമേ നിന്നിൽ<br/>തിരഞ്ഞെടുത്തെന്നോ നാഥായെന്നെ<br/>നിരുപമ സ്നേഹം തവ തിരുസ്നേഹം<br/>അനുദിനവും പുകഴ്ത്തിടും<br/>ഞാൻ സ്തുതിച്ചിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്വർഗ്ഗമഹിമകൾ വിട്ടു നീയെന്നെ<br/>നീചജഗത്തിൽ തേടിയോ? നാഥാ!<br/>നികരില്ലാ സ്നേഹം തവതിരുസ്നേഹം<br/>അനുദിനവും പുകഴ്ത്തിടും<br/>ഞാൻ സ്തുതിച്ചിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>രക്തം ചൊരിഞ്ഞെന്നെ വീണ്ടെടുപ്പാനായ്<br/>മൃത്യു വരിച്ചോ? കുരിശിലെൻ നാഥാ!<br/>അളവില്ലാ സ്നേഹം തവതിരുസ്നേഹം<br/>അനുദിനവും പുകഴ്ത്തിടും<br/>ഞാൻ സ്തുതിച്ചിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇത്ര മഹാദയ തോന്നുവതിന്നായ്<br/>എന്തുള്ളു നന്മയീ സാധുവിലോർത്താൽ<br/>അതിരില്ലാ സ്നേഹം തവതിരുസ്നേഹം<br/>അനുദിനവും പുകഴ്ത്തിടും<br/>ഞാൻ സ്തുതിച്ചിടും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

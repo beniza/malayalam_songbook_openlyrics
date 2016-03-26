@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:37">
+  <properties>
+    <titles>
+      <title>യേശുവെപ്പോലൊരു സഖിയായെന്നും</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവെപ്പോലൊരു സഖിയായെന്നും<br/>ഇല്ലാരുമില്ലാരും<br/>അവനല്ലാതാത്മാവെ നേടിയവനായ്<br/>ഇല്ലാരുമില്ലാരും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എൻഖേദമെല്ലാം താനറിഞ്ഞിടും<br/>എൻകാലമെല്ലാം താൻ നയിച്ചിടും<br/>യേശുവെപ്പോലൊരു സഖിയായെന്നും<br/>ഇല്ലാരുമില്ലാരും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവനെപ്പോൽ ശുദ്ധനായുന്നതനായ്<br/>ഇല്ലാരുമില്ലാരും<br/>സൗമ്യതയും താഴ്മയും നിറഞ്ഞവനായ്<br/>ഇല്ലാരുമില്ലാരും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അവനെപ്പോൽ കൈവിടാ സഖിയായിട്ടെന്നും<br/>ഇല്ലാരുമില്ലാരും<br/>അവനെപ്പോൽ പാപിയെത്തേടിയോനായ്<br/>ഇല്ലാരുമില്ലാരും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>താതൻ താൻ തന്നിടും ദാനം പോലൊന്ന്<br/>ഇല്ലൊന്നുമില്ലൊന്നും<br/>താൻ തരും സ്വർഗ്ഗീയവീടിനു തുല്യം<br/>ഇല്ലൊന്നുമില്ലൊന്നും.</lines>
+    </verse>
+  </lyrics>
+</song>

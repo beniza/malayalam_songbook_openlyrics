@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:47">
+  <properties>
+    <titles>
+      <title>എന്നും നല്ലവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നും നല്ലവൻ<br/>യേശു എന്നും നല്ലവൻ<br/>ഇന്നലെയുമിന്നുമെന്നു-<br/>മന്യനല്ലവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭാരമുള്ളിൽ നേരിടും<br/>നേരമെല്ലാം താങ്ങിടും<br/>സാരമില്ലെന്നോതിടും<br/>തൻ മാറിനോടു ചേർത്തിടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സംഭവങ്ങൾ കേൾക്കവേ<br/>കമ്പമുള്ളിൽ ചേർക്കവേ<br/>തമ്പുരാൻ തിരുവചന-<br/>മോർക്കവേ പോമാകവേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉലകവെയിൽ കൊണ്ടു ഞാൻ<br/>വാടിവീഴാതോടുവാൻ<br/>തണലെനിക്കു തന്നിടുവാൻ<br/>വലഭാഗത്തായുണ്ടുതാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിശ്വസിക്കുവാനുമെ<br/>ന്നാശവച്ചിടാനുമീ<br/>വിശ്വമതിലാശ്വസിക്കാ-<br/>നാശ്രയവുമേശു താൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>രാവിലും പകലിലും<br/>ചേലൊടു തൻ പാലനം<br/>ഭൂവിലെനിക്കുള്ളതിനാൽ<br/>മാലിനില്ല കാരണം.</lines>
+    </verse>
+  </lyrics>
+</song>

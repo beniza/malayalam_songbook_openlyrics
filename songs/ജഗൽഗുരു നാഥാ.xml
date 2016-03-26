@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>ജഗൽഗുരു നാഥാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജഗൽഗുരു നാഥാ! യേശുമഹേശാ!<br/>ജയ ജയ തവ നമസ്കാരം!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആദിയിൽ വചനമായിരുന്നവൻ നീ<br/>ആദിയനാദിയും നീയേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആദമനേദനിലാദിയിൽ ചെയ്ത<br/>പാതകം തീർത്ത മഹേശാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപനിവാരണ കാരണൻ നീയേ<br/>പാലയമാം പരമേശാ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വഴിയും സത്യവും ജീവനും നീയേ<br/>വഴിയിൽ തണലും തുണയും നീ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പഴയ പുതിയ നിയമങ്ങൾ രണ്ടും<br/>നിറഞ്ഞുനിൽപ്പവൻ നീയേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>താവകനാമം പാപിക്കു ശരണം<br/>പാവന ദേവകുമാരാ!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ജയജയ ജനതതി വണങ്ങും നിൻപാദം<br/>ജയജഗദഖിലം നിൻനാമം.</lines>
+    </verse>
+  </lyrics>
+</song>

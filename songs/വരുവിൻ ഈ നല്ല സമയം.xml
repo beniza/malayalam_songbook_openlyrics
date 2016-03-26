@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>വരുവിൻ! ഈ നല്ല സമയം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വരുവിൻ! ഈ നല്ല സമയം<br/>വൃഥാവാക്കാതെ<br/>നിന്നെ യേശു വിളിച്ചിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭൂതലവാസം കണ്ണുനീരിൽ<br/>ഭാരത്തോടെ നീ കഴിക്കുകയോ?<br/>വന്നുടൻ പാദം തേടിടുകിൽ<br/>വിണ്ണതിൽ നിന്നെ ചേർത്തിടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉലകം മായ അഴകും സമം<br/>അതു നമ്പാതെ മയക്കും നിന്നെ<br/>മരണമൊരുനാൾ വന്നിടുമേ<br/>മറക്കാതെ നിൻ രക്ഷകനെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വാനത്തിൻ കീഴേ ഭൂമി മീതേ<br/>വാനവനേശു നാമമെന്യേ<br/>രക്ഷിപ്പാൻ മാർഗ്ഗം വേറെയില്ല<br/>രക്ഷകനേശു താൻ വഴിയേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സത്യവചനം കേട്ടു നീ വാ!<br/>നിത്യജീവൻ നിനക്കേകിടുമേ<br/>നിൻപേരും ജീവപുസ്തകത്തിൽ<br/>ഉണ്മയായ് ഇന്നു എഴുതിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

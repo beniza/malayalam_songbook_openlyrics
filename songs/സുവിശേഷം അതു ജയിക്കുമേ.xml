@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>സുവിശേഷം അതു ജയിക്കുമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സുവിശേഷം അതു ജയിക്കുമേ,<br/>അതു ജയിക്കുമേ എന്നും ജയിക്കുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പോകുവിൻ നിങ്ങൾ എൻസുവിശേഷം<br/>ഓതിടുവാനായ് ലോകമശേഷം<br/>യേശുനാഥനീ സന്ദേശം<br/>ഏകുകയാൽ പോക നാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാൽവറി മലയിൽ കൈവന്ന വിജയം<br/>കാഹളനാദം മുഴക്കി സമ്മോദം<br/>യെരിഹോവിൻ നേരേയുള്ള<br/>പോരിന്നായി പോയിടാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഏറുന്നു ദുരിതം ധരയിലെന്നതിനാൽ<br/>യേശുവിൻ വരവു വേഗമെന്നറിയാം<br/>ദാസരായ് തൻവേലയിൽ പ്ര-<br/>വാസകാലം പാർത്തിടാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മന്നിതിലിതിനെതിരധികമുണ്ടാകും<br/>ഒന്നിലും നാം ഭയന്നിടുക വേണ്ട<br/>സൈന്യനാഥൻ കൂടെയുണ്ട്<br/>മുന്നിലായി നിർണ്ണയം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പ്രതിനിധിസേവ തുടരാമിന്നാളിൽ<br/>പ്രതിഫലമിതിനുണ്ടധികമന്നാളിൽ<br/>പ്രാണനാഥന്നായ് നമുക്കു<br/>പ്രാണനും ത്യജിച്ചിടാം.</lines>
+    </verse>
+  </lyrics>
+</song>

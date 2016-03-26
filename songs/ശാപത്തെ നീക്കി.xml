@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:04">
+  <properties>
+    <titles>
+      <title>ശാപത്തെ നീക്കി</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ശാപത്തെ നീക്കി ജീവനെ നൽകാൻ<br/>രക്ഷകനേശു കാൽവറി ക്രൂശിൽ<br/>നീറും നോവിൽ നീന്തി നീന്തി<br/>മൃത്യുവെയേറ്റതോർക്ക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഘോരമാം പാപത്തിൻ ശിക്ഷയഖിലവും<br/>തന്റെ മേലേറ്റു കൊണ്ടങ്ങു<br/>എന്നേയ്ക്കുമായേകയാഗം കഴിച്ചു താ<br/>നേവർക്കും രക്ഷയെ നൽകാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഹാ! യേശുനാഥാ! താവകപാദേ<br/>വീണു വന്നിടുന്നാത്മമോദാൽ<br/>നന്ദി തിങ്ങി, സ്നേഹവായ്പിൽ<br/>കണ്ണീർപൊഴിക്കുമീ ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിന്നുടെ തങ്കച്ചോരയെൻ മറുവില<br/>വീണ്ടെടുത്തെന്നെ രക്തത്താൽ<br/>പൊൻവെള്ളിയൊന്നുമേ പോരാ മനുഷ്യനു<br/>ജീവനേകിടുവാൻ പാർക്കിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്നുടെ ശ്രഷ്ഠാചാര്യനായ് ദിനവും<br/>പേർക്കുമാദ്ധ്യസ്ഥം ചെയ്‌വവൻ<br/>എൻകാന്തനായി നീ വേഗം വരുമെങ്ങുമെൻ<br/>ചേരുമേ ഞാനും സ്വർഗ്ഗഹേ.</lines>
+    </verse>
+  </lyrics>
+</song>

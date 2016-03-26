@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:32">
+  <properties>
+    <titles>
+      <title>നിൻ പാദത്തിൽ ഞാൻ വന്ദിക്കുന്നേ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിൻ പാദത്തിൽ ഞാൻ വന്ദിക്കുന്നേ<br/>നിൻ മഹത്വം ഞാൻ വർണ്ണിക്കുന്നേ<br/>അത്യുന്നതൻ നീ നിസ്തുല്യനാം<br/>അത്യാദരം ഞാൻ നമിക്കുന്നേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>താതൻ സവിധം വിട്ടീഭൂവിൽ<br/>താണിറങ്ങി നീ ക്രൂശിലോളം<br/>താഴ്ചയിലെന്നെ ഓർത്ത നിന്നെ<br/>താഴ്മയോടെ ഞാൻ നമിക്കുന്നേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീചനാം എന്നെ വീണ്ടെടുത്ത<br/>നിൻ മഹാസ്നേഹം അവർണ്ണ്യമാം<br/>നൽകിടുന്നെന്നെ ഞാൻ നിനക്കായ്<br/>നന്ദിയോടെ ഞാൻ നമിക്കുന്നേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>രാജാധിരാജൻ ഉന്നതൻ നീ<br/>ദേവാധിദേവൻ വന്ദിതൻ നീ<br/>സ്തോത്രം സ്തുതികൾ സ്വീകരിപ്പാൻ<br/>പാത്രം നീ മാത്രം ഇന്നുമെന്നും.</lines>
+    </verse>
+  </lyrics>
+</song>

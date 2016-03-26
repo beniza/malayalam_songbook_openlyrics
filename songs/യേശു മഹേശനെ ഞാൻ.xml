@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:58">
+  <properties>
+    <titles>
+      <title>യേശു മഹേശനെ ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു മഹേശനെ ഞാൻ<br/>ചിന്തിപ്പതെ ന്നുള്ളത്തിന്നാനന്ദമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഈശനുടെ തിരു സന്നിധി ചേർന്നിനി<br/>വിശ്രമം ചെയ്തു തന്റെ<br/>തിരുമുഖം കാൺമതത്യാനന്ദമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാനസൈന്യങ്ങളും മാനുഷജാലവും<br/>ഊനമില്ലാതെ നിന്നെ<br/>വർണ്ണിക്കുവാൻ സാദ്ധ്യമതാകയില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മാനുഷരക്ഷകാ നിന്നുടെ നാമംപോൽ<br/>വാനിലും ഭൂമിയിലും<br/>ഇല്ലേയൊരു നാമം നിനപ്പതിന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഉള്ളം നുറുങ്ങിയോർക്കുള്ള പ്രത്യാശയും<br/>നല്ല പ്രസാദവും നീ<br/>സർവ്വേശ്വരാ സൗമ്യതയുള്ളവർക്കേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എത്ര ദയാപരൻ വീഴുന്നവർക്കേശു<br/>എത്ര നല്ല ഗുണവാൻ<br/>തേടിടുന്ന മർത്യഗണങ്ങൾക്കു താൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>കണ്ടിടും മാനവർക്കെന്തൊരാഹ്ളാദം നീ<br/>ഉണ്ടോ നാവും പേനയും<br/>വർണ്ണിക്കുവാൻ ആ നല്ല സന്ദർഭത്തെ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>യേശുവിൻ സ്നേഹമതെന്തെന്നു ചൊല്ലുവാൻ<br/>ആസ്വദിച്ചോർക്കല്ലാതെ<br/>മറ്റാർക്കുമസാദ്ധമറിഞ്ഞിടുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

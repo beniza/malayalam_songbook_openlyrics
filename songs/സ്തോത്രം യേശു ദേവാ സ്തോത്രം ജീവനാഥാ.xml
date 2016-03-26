@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>സ്തോത്രം യേശു ദേവാ സ്തോത്രം ജീവനാഥാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രം യേശു ദേവാ സ്തോത്രം ജീവനാഥാ<br/>സ്തോത്രമിന്നുമെന്നും ദൂതന്മാർ<br/>രാപ്പകൽ വാഴ്ത്തിടുന്ന ദേവാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപികളെ തേടി പാരിൽ വന്ന ദേവാ<br/>പാവന നിണം പാപികൾക്കേകിയ<br/>പ്രാണനായകനേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീ മരിച്ചുയിർത്തു ഹാ ജയം വരിച്ചു<br/>വാനിലുയർന്നു താതൻ വലഭാഗത്തിന്നു<br/>വാഴുന്നോനേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആയിരങ്ങളിൽ നീ ആരിലും സുന്ദരനാം<br/>വാനിലും ഭൂവിലാകെ മഹോന്നതനേശു<br/>രക്ഷകനേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വാഴ്ത്തിടുന്നിതാ ഞാൻ ലോകരക്ഷിതാവേ<br/>വാഴ്ത്തിടുന്നെന്നും സർവ്വ ലോകാധിപനേശു<br/>നായകനേ.</lines>
+    </verse>
+  </lyrics>
+</song>

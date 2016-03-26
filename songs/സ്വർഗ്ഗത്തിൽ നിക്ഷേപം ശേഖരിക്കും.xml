@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:47">
+  <properties>
+    <titles>
+      <title>സ്വർഗ്ഗത്തിൽ നിക്ഷേപം ശേഖരിക്കും</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്വർഗ്ഗത്തിൽ നിക്ഷേപം ശേഖരിക്കും<br/>സാധുവോടീവിധമായിരിക്കും<br/>സർവ്വേശൻ ചൊല്ലുവതെല്ലായ്പോഴും<br/>എൻകണ്ണിനാൽ നിന്നെ ഞാൻ നടത്തും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നാനാ പരീക്ഷകൾ വന്നിടുമ്പോൾ<br/>പാലകന്മാർ പറന്നോടിടുമ്പോൾ<br/>നാദമിതു ചെവി പൂകിടട്ടെ<br/>എൻകണ്ണിനാൽ നിന്നെ ഞാൻ നടത്തും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഭൗമികമായ നിന്നാശയെല്ലാം<br/>കാലമാം കല്ലറ പൂകിടുമ്പോൾ<br/>പിന്നെയുമീ വാക്കു ധൈര്യമേകും<br/>എൻ കണ്ണിനാൽ നിന്നെ ഞാൻ നടത്തും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കള്ളൻ തുരുമ്പും പുഴുവിവയാൽ<br/>കൊള്ളയാകാതുള്ള നിൻമുതൽ നീ<br/>സ്വർഗ്ഗമഹത്വത്തിൽ കണ്ടിടുമ്പോ<br/>ളെൻ നടത്തിപ്പുകൾ ബോദ്ധ്യമാകും.</lines>
+    </verse>
+  </lyrics>
+</song>

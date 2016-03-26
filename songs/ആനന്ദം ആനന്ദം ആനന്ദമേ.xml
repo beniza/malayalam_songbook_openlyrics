@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:57">
+  <properties>
+    <titles>
+      <title>ആനന്ദം ആനന്ദം ആനന്ദമേ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആനന്ദം ആനന്ദം ആനന്ദമേ<br/>ആരും തരാത്ത സമാധാനമേ<br/>അരുമ നാഥൻ എന്റെ അരികിലുണ്ടേ<br/>അതുമതി അടിയനീ മരുയാത്രയിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തന്നരികിൽ എന്നും മോദമുണ്ട്<br/>ആനന്ദത്തിൻ പരിപൂർണ്ണതയും<br/>മാൻ അരുവി തിരഞ്ഞിടുന്നപോൽ<br/>ഞാനവൻ സന്നിധി കാംക്ഷിക്കുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നല്ലവൻ താനെന്ന് രുചിച്ചറിഞ്ഞാൽ<br/>ഇല്ലൊരു ഭാരവുമീയുലകിൽ<br/>തൻചുമലിൽ എല്ലാം വച്ചിടും<br/>ഞാൻ താൻ ചുമടാകെ വഹിച്ചിടുവാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്ത്യം വരെ എന്നെ കൈവെടിയാതന്തികേ<br/>നിന്നിടാമെന്നു ചൊന്ന<br/>തൻതിരുമാറിടമെന്നഭയം<br/>എന്തിനെനിക്കിനീ ലോകഭയം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:12">
+  <properties>
+    <titles>
+      <title>എന്നിൽ കനിയും ദൈവം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നിൽ കനിയും ദൈവം<br/>എന്റെ വേദനകളിൽ ശോധനകളിൽ<br/>ഏറ്റം അടുത്ത തുണയവനാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നും സ്നേഹിതരില്ലരികിൽ<br/>ഒന്നായിരുന്നോർ പിരിഞ്ഞിടുമേ<br/>എന്നും പിരിയാതരികിൽ വരും<br/>ഇന്നുമെന്നുമനന്യനവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എല്ലാ നാളും പുകഴ്ത്തിടും ഞാൻ<br/>നല്ലവനാം തൻ വൻകൃപയെ<br/>വല്ലഭൻ തൻകൈകളിൽ ഞാൻ<br/>അല്ലും പകലും നിർഭയനാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നീർത്തോടുകളിൽ മാനിനെപ്പോൽ<br/>ആർത്തിയോടവനെത്തേടിടും ഞാൻ<br/>പാർത്തിടും തൻ പദമരികിൽ<br/>തീർത്തിടും എൻപശിദാഹം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കണ്ണുകളിന്നു കൊതിക്കുന്നെൻ<br/>കർത്തനെ നേരിൽ കണ്ടിടുവാൻ<br/>നിത്യത മുഴുവൻ തന്നരികിൽ<br/>ഭക്തരുമൊത്തു പാർത്തിടുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:09">
+  <properties>
+    <titles>
+      <title>ദൈവമക്കളേ! നമ്മൾ ഭാഗ്യശാലികൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവമക്കളേ! നമ്മൾ ഭാഗ്യശാലികൾ<br/>ദിവ്യജീവനുള്ളിലേകി ക്രിസ്തു നായകൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വിശ്വസിച്ചു ദൈവപുത്രൻ തന്റെ നാമത്തിൽ<br/>സംശയിച്ചിടേണ്ട നമ്മൾ ദൈവമക്കളായ്<br/>നിശ്ചയിച്ചു നിത്യഭാഗ്യമേകുവാനവൻ<br/>ആശ്വസിച്ചു പാർത്തിടാം നമുക്കു പാരിതിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഭൂമിയിന്നു ദുഷ്ടനായവന്റെ കൈകളിൽ<br/>നമ്മളിന്നു ഭ്രഷ്ടരായിടുന്നതാകയാൽ<br/>സൗമ്യമായി കാത്തിരിക്ക ദൈവപുത്രനീ<br/>ഭൂമി വാണടക്കിടുന്ന നാളടുത്തു ഹാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മർത്യപാപമിദ്ധരിത്രി ശാപയോഗ്യമായ്<br/>തീർത്തതാൽ വിമോചനം വരുത്തുമേശു താൻ<br/>ഈറ്റുനോവുമേറ്റുകൊണ്ടു ദൈവപുത്രരേ<br/>കാത്തിടുന്നു സൃഷ്ടിജാലമിന്നു ഭൂമിയിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഭാരമേറി മാനസം കലങ്ങിടാതെ നാം<br/>ഭാവിയോർത്തു പുഞ്ചിരിച്ചു പാടി മോദമായ്<br/>പാരിതിൽ നമുക്കു തന്ന കാലമൊക്കെയും<br/>ഭാഗ്യദായകന്റെ സേവനത്തിലേർപ്പെടാം.</lines>
+    </verse>
+  </lyrics>
+</song>

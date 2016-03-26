@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:48">
+  <properties>
+    <titles>
+      <title>യേശു മതി മനമേ ദിനവും യേശു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു മതി മനമേ ദിനവും യേശു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശു മഹേശനെ തേടുകിൽ ക്ലേശം<br/>ഏശുകയില്ലിനിയും ലവലേശം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആശ്രയം വേറിനി വേണ്ടനിനക്കു<br/>ആകുലം തീർത്തിടും താനഗതിക്കു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകമത്യുൽക്കട സങ്കടക്കടലിൽ<br/>താഴുകിൽ താൻമതി ജീവിതപ്പടകിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആകുലമേകിടും ഭീകരവിപത്തിൽ<br/>ആശ്രയിച്ചിടുക നീ തിരുപദത്തിൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഭൂമിയിലോർക്കുകിലെന്തൊരു സാദ്ധ്യം?<br/>സങ്കടം മാത്രമീ ലോകസമ്പാദ്യം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നീതി ദിവാകരനീയുലകത്തിൽ<br/>വാഴുകിലന്ധത പോമകലത്തിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>കാത്തിരിക്കുന്നു ഞാൻ പ്രാണേശനേശുവിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാത്തിരിക്കുന്നു ഞാൻ പ്രാണേശനേശുവിൻ<br/>കാഹളനാദം മുഴക്കിയെഴുന്നെള്ളും<br/>കാർമേഘമണ്ഡലം മാറി മറഞ്ഞിടും<br/>കാഴ്ച ഞാൻ കാണ്മാൻ കൊതിച്ചിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മന്നിൽ മനോഹരം ചില്ലിട്ട കൊട്ടാരം<br/>ഒന്നിലും എന്മനം ശാന്തികാണാ<br/>മന്നനെ നീയിങ്ങു വന്നല്ലാതെന്നുടെ<br/>ഖിന്നത തീരുകില്ലീയുലകിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇന്നത്തെ സന്ധ്യമയങ്ങിടും മുമ്പഹോ<br/>വന്നെത്തും എന്നേശു വാനമേഘേ<br/>എന്നതാണെന്നുമെന്നാശയിപ്പാരിതിൽ<br/>എന്നുമുണരും പുലരിതോറും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാരിലെ ക്ലേശങ്ങളോടി മറയുമ്പോൾ<br/>പാവന ചിന്തയിൽ മുങ്ങിടുമ്പോൾ<br/>താവകസ്നേഹത്തിൻ ചൂടെന്നിലേറുന്നു തൻസവിധേയോടിയെത്തിടുവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എത്രയോ വേഗം ഗമിക്കുന്ന യാമങ്ങൾ<br/>അത്ര വലുതായുള്ളാശയതാൽ<br/>മിത്രമായെത്തുമെന്നേശുവിൻ കാലൊച്ച<br/>മാത്രമെൻ കാതിൽ മുഴങ്ങിടട്ടെ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>സന്തതം സ്തുതി തവ ചെയ്വേനേ ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സന്തതം സ്തുതി തവ ചെയ്വേനേ ഞാൻ<br/>നിൻതിരുകൃപയോ സാന്ത്വനകരമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചന്തം ചിന്തും നിന്തിരുകരമെൻ<br/>ചിന്താഭാരം നീക്കിടുന്നതിനാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എരിതീ സമമായ് ദുരിതം പെരുകി<br/>ദഹനം ചെയ്തിതു ഗുണചയമഖിലവും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്നാളിൽ നിന്നാശയമുരുകി<br/>വന്നെൻ പേർക്കായ് ക്രൂശിൽ നീ കയറി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഒരു നാൾ തവ കൃപ തെളിവായ് വന്നു<br/>കരളു തുറന്നു കരുതി ഞാനന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എത്താസ്നേഹം കരുതി നീയെന്റെ<br/>ചിത്താമോദം വരുത്തി നീ പരനേ!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>എന്തേകും ഞാൻ പകരമിതിന്നു<br/>ചിന്തിച്ചാൽ ഞാനഗതിയെന്നറിവായ്</lines>
+    </verse>
+    <verse name="v8">
+      <lines>എൻ നാളെല്ലാം നിന്നുടെ പേർക്കായ്<br/>മന്നിൽ നിൽപ്പാൻ കരുണ നീ ചൊരിക.</lines>
+    </verse>
+  </lyrics>
+</song>

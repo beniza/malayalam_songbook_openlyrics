@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:21">
+  <properties>
+    <titles>
+      <title>വന്ദനം പൊന്നേശുനാഥാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്ദനം പൊന്നേശുനാഥാ!<br/>നിന്റെ കൃപയ്ക്കായ് എന്നുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇന്നുഷസ്സിൽ പ്രഭ കാണ്മതിന്നായ്<br/>തന്ന കൃപയോർത്തിതാ -വന്ദനം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പോയരാവിൽ എന്നെ കാവൽ ചെയ്ത<br/>നായകനേ നന്ദിയായ്‌ -വന്ദനം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇന്നലെക്കാൾ ഇന്നു നിന്നോടേറ്റം<br/>ചേർന്നു ജീവിക്കേണം ഞാൻ -വന്ദനം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇന്നു നിന്റെ ആത്മശക്തി മൂലം<br/>എന്നെ മുറ്റും കാക്കുക -വന്ദനം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിന്മുഖത്തിലുള്ള ദിവ്യകാന്തി<br/>എൻമേൽ ശോഭിക്കേണമേ -വന്ദനം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>അഴിയാത്ത ജീവശക്തിയെന്നിൽ<br/>ഒഴിയാതെ പാർക്കേണം -വന്ദനം.</lines>
+    </verse>
+  </lyrics>
+</song>

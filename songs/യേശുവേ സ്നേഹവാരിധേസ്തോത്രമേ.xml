@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>യേശുവേ സ്നേഹവാരിധേ!സ്തോത്രമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവേ സ്നേഹവാരിധേ!സ്തോത്രമേ<br/>സ്തോത്രമെന്നുമെന്നുമേ<br/>വാനലോകം വിട്ടു നീയി<br/>പാരിലേഴയാമെനിക്കുവേണ്ടിവന്നിതോ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>താതനോടൊത്തു നിത്യമായി മേവി നീ<br/>ആദിയിൽ വാനം ഭൂമിയാദിയായവ<br/>സൃഷ്ടിചെയ്ത നാൾക്കുമുമ്പേ<br/>കണ്ടുനിൻ പ്രമോദമന്നുമിങ്ങീ മർത്യരിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാനവ വൃന്ദമൊക്കെ പാടി വാഴ്ത്തിടും<br/>വിണ്ണവർ നാഥൻ പാപിയെ നിനയ്ക്കു വാൻ<br/>ഏതുമില്ല കാര്യമെന്നാൽ<br/>തന്നു നിന്റെ പ്രണനെന്റെ വീണ്ടെടുപ്പിനായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അംബരേ കാണുമായിരങ്ങളായിടും<br/>ഗോളങ്ങൾ സൃഷ്ടിചെയ്ത നാഥനേ! നീയി<br/>കീടതുല്യർ മർത്യരേയ<br/>ങ്ങോർത്തു നിന്റെ മക്കളാക്കിയെന്തൊരത്ഭുതം!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>താണു നീ ക്രൂശിലോളം മഹേശനേ!<br/>തേജസ്സിൽ ആക്കിടാൻ അനേക പുത്രരെ<br/>ദൈവപുത്രൻ എങ്കിലും നീ കഷ്ടമേറ്റു<br/>പൂർത്തിയാക്കി താതന്നിഷ്ടത്തെ.</lines>
+    </verse>
+  </lyrics>
+</song>

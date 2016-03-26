@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>നിസ്സീമമാം നിൻസ്നേഹത്തെ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിസ്സീമമാം നിൻസ്നേഹത്തെ പ്രകാശിപ്പിക്കും ക്രൂശിനെ<br/>ദർശിച്ചനേരം നാഥനേ നിനക്കു ഞാനധീനനായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഈ ഭൂമിയിൽ നിക്ഷേപമായ് ഞാനെണ്ണിവന്ന സർവ്വവും<br/>ഗണിച്ചിടുന്നു നഷ്ടമായ് ഈ ദർശനം മുഖാന്തരം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പ്രമോദമായെന്നായുസ്സിൽ സ്നേഹിച്ച വ്യർത്ഥകാര്യങ്ങൾ<br/>നികൃഷ്ടമെന്നറിഞ്ഞഹം വെടിഞ്ഞിടുന്നശേഷവും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിൻക്രൂശിൽ ഞാൻ നിരന്തരം പ്രശംസിച്ചിടും രക്ഷകാ<br/>മറ്റൊന്നിലുമെൻമാനസം മഹത്വമാഗ്രഹിക്കൊലാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അഗാധമപ്രമേയമാം ഈ സ്നേഹമർഹിക്കുന്നിദം<br/>എൻ ദേഹം ദേഹി മാനസം സമ്പൂർണ്ണമായ് സമസ്തവും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സാഷ്ടാംഗം വീണു പാദത്തിൽ വണങ്ങിടുന്നു ഭക്തിയിൽ<br/>നിനക്കും നിൻ പിതാവിന്നും മഹത്വം ദൈവാത്മാവിന്നും.</lines>
+    </verse>
+  </lyrics>
+</song>

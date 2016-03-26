@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:31">
+  <properties>
+    <titles>
+      <title>സ്തോത്രം സ്തുതി ഞാൻ അർപ്പിക്കുന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രം സ്തുതി ഞാൻ അർപ്പിക്കുന്നു<br/>നിൻ മുറിവിൽ ഞാൻ ചുംബിക്കുന്നു<br/>ആരാധനയ്ക്കു നീ യോഗ്യനാം<br/>സാഷ്ടാംഗം വീണു വന്ദിക്കുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നെ രക്ഷിച്ച ദൈവസ്നേഹം<br/>വർണ്ണിച്ചു തീർക്കാൻ അസാദ്ധ്യമെ<br/>ഉയർത്തി എന്നെ ചേറ്റിൽ നിന്നും<br/>പ്രഭുക്കളോടൊത്തിരുത്തി നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാഴ്ചയാലല്ല വിശാസത്താൽ<br/>വീണു നിൻപാദം കുമ്പിടുന്നു<br/>നേരിൽ ഞാൻ കാണും നിൻമുഖത്തെ<br/>കണ്ടുനിർവൃതി പൂകിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സർവ്വമഹത്വം കുഞ്ഞാടിനു<br/>അർപ്പിക്കുന്നു ഞാൻ സർവ്വസ്വവും<br/>ദേവന്മാരേക്കാൾ ശ്രേഷ്ഠനാം നിൻ<br/>ഉന്നതനാമം വാഴ്ത്തിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

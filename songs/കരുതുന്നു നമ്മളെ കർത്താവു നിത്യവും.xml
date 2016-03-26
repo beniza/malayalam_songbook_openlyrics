@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:55">
+  <properties>
+    <titles>
+      <title>കരുതുന്നു നമ്മളെ കർത്താവു നിത്യവും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുതുന്നു നമ്മളെ കർത്താവു നിത്യവും<br/>കലങ്ങേണ്ടതൻ ജനമേ<br/>ആമയം തീർത്തവൻ ചേലൊടു പോറ്റിടും<br/>എന്നും നിർണ്ണയമായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വിലയേറും തൻ ചോര വിലയായ് തന്നെന്നെ<br/>വിമലജൻ വാങ്ങിയല്ലോ<br/>ഇതുപോലെ സ്നേഹിച്ചു ജീവനും നൽകുവാൻ<br/>ആരു തുനിഞ്ഞിടുമോ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മുന്നിലെ ചെങ്കടൽ പിന്നിലെ വൻ പട<br/>തന്നിലും തൻജനത്തെ<br/>ഖിന്നത തീർത്തുടൻ അക്കരെയെത്തിച്ചോൻ<br/>എന്നും നമ്മൾക്കുണ്ട്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരുവാസമേകും പ്രതികൂലമെത്രയും<br/>മധുരമായ് മാറ്റുമവൻ<br/>മരണത്തിൻ നിഴലിലും പതറാതെ നിർത്തുവാൻ<br/>മുറ്റും ശക്തനവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വീടൊന്നൊരുക്കി ഹാ! വേഗത്തിൽ വന്നിടും<br/>വീട്ടിൽ കൈക്കൊണ്ടിടും താൻ<br/>നിത്യതമുഴുവനും പിരിയാതെ വാഴും നാം<br/>നിത്യവും ആനന്ദമായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

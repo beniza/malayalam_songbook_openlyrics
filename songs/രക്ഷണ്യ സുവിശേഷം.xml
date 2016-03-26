@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>രക്ഷണ്യ സുവിശേഷം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>രക്ഷണ്യ സുവിശേഷം കേട്ടുകൊൾവിൻ<br/>രക്ഷകനേശുവെ ഏറ്റു കൊൾവിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാരിൽ വന്നു പ്രാണൻ തന്നു<br/>പാപികൾക്കായി മരിച്ചു പരൻ ക്രൂശിൽ<br/>പാതകനെപ്പോൽ മരിച്ചു പരൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മൃതിയെവെന്നു ഉയിർത്തെഴുന്നു<br/>മഹത്വത്തിലേശു ജീവിക്കുന്നു ഇന്നു<br/>രക്ഷകനായേശു ജീവിക്കുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സത്യവഴിയും മോക്ഷവാതിലും<br/>നിത്യജീവനും യേശുമാത്രം അവൻ<br/>എല്ലാവർക്കും രക്ഷാദായകനാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആത്മരക്ഷയെ തള്ളിക്കളഞ്ഞാൽ<br/>അഗ്നി നരകത്തിൽ ചെന്നിടുമേ<br/>തീയിൽ അല്ലും പകലും എരിഞ്ഞിടുമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>അന്ത്യവിധിയിൽ നൊന്തിടാതെ<br/>സ്വന്തമായേശുവെ സ്വീകരിപ്പിൻ<br/>എന്നാൽ അന്ത്യം ശുഭമ‍ായ് തീർന്നിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

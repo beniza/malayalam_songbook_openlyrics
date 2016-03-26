@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:50">
+  <properties>
+    <titles>
+      <title>ഞാനെന്റെ കർത്താവിൻ സ്വന്തം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഞാനെന്റെ കർത്താവിൻ സ്വന്തം സ്വരക്തത്താൽ<br/>താനെന്നെ വാങ്ങിയതാൽ ദയ തോന്നിയെന്നെത്തൻ<br/>മകനാക്കിത്തീർത്തൊരു സ്നേഹം മറക്കാവതോ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൃപയാലെ ദൈവം ക്രിസ്തുവിലെന്നെ<br/>കണ്ടുയുഗങ്ങൾക്കു മുന്നേ<br/>അന്നേ ബലിയാകാൻ ദൈവകുഞ്ഞാടിനെ<br/>കരുതിയെനിക്കായവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തൻമക്കളെത്തൻ കണ്മണി പോലെയുണ്മയിൽ<br/>കാക്കുന്നതാലെ കലങ്ങാതെയുലകിൽ ഞാൻ<br/>കുലുങ്ങാതെ ധൈര്യമായ്<br/>അനുദിനം വാഴുന്നു ഹാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കർത്താവെന്നെത്തൻ കൂടാരമറവിൽ<br/>കാത്തിടും കഷ്ടത വരികിൽ<br/>ചുറ്റുമെതിർക്കുന്ന ശത്രുക്കൾ മുമ്പിൽ ഞാൻ<br/>മുറ്റും ജയം നേടിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഒന്നേയെന്നാശ തൻ സന്നിധാനം<br/>ചേർന്നെന്നുമാനന്ദഗാനം<br/>പാടിപ്പുകഴ്ത്തിത്തൻ മന്ദിരത്തിൽ ധ്യാനം<br/>ചെയ്തെന്നും പാർത്തിടണം.</lines>
+    </verse>
+  </lyrics>
+</song>

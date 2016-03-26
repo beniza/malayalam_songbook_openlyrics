@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:41">
+  <properties>
+    <titles>
+      <title>കർത്താവിൽ സന്തോഷം അവനെൻ ബലം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്താവിൽ സന്തോഷം അവനെൻ ബലം<br/>പാരിതിൽ പാർക്കും നാൾ അവനെൻ ബലം<br/>അവനെന്റെ സങ്കേതം വിശ്രമം നാൾതോറും<br/>അവനെന്റെ സർവ്വവുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പലനാൾ കരുതി ഞാൻ ഏകനെന്ന്<br/>അന്നാളിലവനെന്നോടു ചൊല്ലി<br/>ലോകാന്ത്യത്തോളവും കൂടെയിരിക്കുന്നോൻ<br/>നിന്നോടുകൂടെയുണ്ട്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ബലഹീനനെന്നു ഞാൻ കരുതിയ നാൾ<br/>അന്നാളിലവനെന്നോടു ചൊല്ലി<br/>ശക്തനാക്കുന്നവൻ ബലം പകരുന്നവൻ<br/>നിന്നോടുകൂടെയുണ്ട്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സ്നേഹിതരില്ലെന്നു കരുതിയനാൾ<br/>അന്നാളിലവനെന്നോടു ചൊല്ലി<br/>നിത്യമാം സ്നേഹത്താൽ നിന്നെ സ്നേഹിച്ചവൻ നിന്നോടുകൂടെയുണ്ട്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അസാദ്ധ്യമെന്നു ഞാൻ കരുതിയനാൾ<br/>അന്നാളിലവനെന്നോടു ചൊല്ലി<br/>മനുഷ്യരാൽ അസാദ്ധ്യം സാദ്ധ്യമാക്കുന്നവൻ<br/>നിന്നോടുകൂടെയുണ്ട്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിന്ദിതനെന്നു ഞാൻ കരുതിയ നാൾ<br/>അന്നാളിലവനെന്നോടു ചൊല്ലി<br/>ക്ഷീണിച്ചുപോകേണ്ട നിന്നെ മാനിക്കുന്നോൻ<br/>നിന്നോടുകൂടെയുണ്ട്</lines>
+    </verse>
+  </lyrics>
+</song>

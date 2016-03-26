@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>പരമസുതനാം മശിഹ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരമസുതനാം മശിഹ, ഭൂവനേ മനുജാ നിന്നെ<br/>തിരവാൻ കനിവായ് വന്നു!<br/>കരുതേണമിതു മനസ്സിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തവ പാപഭാരം നീക്കാൻ മനോഹര<br/>രൂപൻ താൻ യാഗമായ്<br/>തിരുമരണമതാൽ ലഭ്യം വിമോചനമേവർക്കും<br/>വിശ്വാസമതിൽ വച്ചാൽ ഇതു താൻ സുവിശേഷമഹോ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തിരുവേദമതോതിടും വിലയേറുമീ വാർത്ത സോദരാ!<br/>കരുതാതെയിനി പോയാൽ വന്നിടും തീരാത്ത<br/>ശിക്ഷാവിധിയെന്നോർക്ക ഒരു മാറ്റവുമില്ലാതെ.</lines>
+    </verse>
+  </lyrics>
+</song>

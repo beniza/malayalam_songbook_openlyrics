@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:46">
+  <properties>
+    <titles>
+      <title>വചനം വചനം തിരുവചനം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വചനം വചനം തിരുവചനം<br/>മാനവഹൃദയങ്ങൾക്കാനന്ദമേകുന്ന<br/>വചനം തിരുവചനം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആദിയിൽ വചനമുണ്ടായിരുന്നു<br/>ആ വചനം ദൈവമായിരുന്നു<br/>കൃപയും സത്യവും നിറഞ്ഞൊരീ വചനം<br/>ജഡമെടുത്തിഹെ വന്നു മന്നവനായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാതയ്ക്കു ദീപമാമീവചനം<br/>പാരിൽ നല്ലൊളി ഈ വചനം<br/>പാതയറിയാത്ത പഥികനെന്നും<br/>പരിപാലനമേകും തിരുവചനം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കാരിരുളേറുമീ ജീവിത പാതയിൽ<br/>വാടിത്തളരും വേളകളിൽ<br/>എന്നാശ്വാസമായെന്നേക്കും ധ്യാനിക്കും<br/>എന്നും മാറാത്ത തിരുവചനം.</lines>
+    </verse>
+  </lyrics>
+</song>

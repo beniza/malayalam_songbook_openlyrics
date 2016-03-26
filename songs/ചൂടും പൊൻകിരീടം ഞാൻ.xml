@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:09">
+  <properties>
+    <titles>
+      <title>ചൂടും പൊൻകിരീടം ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ചൂടും പൊൻകിരീടം ഞാൻ മഹത്വത്തിൽ<br/>വാഴും നിത്യതേജസ്സിൻ പ്രഭാവത്തിൽ<br/>മാറും അന്ധകാരം നീങ്ങും ചിന്താഭാരം<br/>ഖേദമോ പൊയ്പോകും പ്രിയൻ വന്നാൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പ്രിയൻ വന്നാൽ പ്രിയൻ വന്നാൽ<br/>എൻ ഖേദമോ പൊയ്പോകും പ്രിയൻ വന്നാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാണും ഞാൻ പ്രാണപ്രിയന്റെ ലാവണ്യം<br/>വർണ്ണിക്കും പ്രശസ്തമായ് തൻകാരുണ്യം<br/>കീർത്തിക്കും തൃനാമം ശ്ളാഘിക്കും തൻപ്രേമം<br/>ഹൃദ്യമായ് നിസ്സീമം പ്രിയൻ വന്നാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിൽക്കും വിശുദ്ധരിൻ സമൂഹത്തിൽ<br/>പാടും ഹല്ലേലുയ്യാ ഘോഷസ്വരത്തിൽ<br/>വന്ദിക്കും സാഷ്ടാംഗം ... ...<br/>... ... ... ...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പിഞ്ചെല്ലും കുഞ്ഞാടിനെ നിസ്സന്ദേഹം സ്വച്ഛന്ദം ഉൾപൂകും<br/>ഞാനും സ്വർഗേഹം വാഴും തൃപ്തിയോടെ<br/>എന്നും വേർപെടാതെ ഭക്തരോടും കൂടെ പ്രിയൻ വന്നാൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

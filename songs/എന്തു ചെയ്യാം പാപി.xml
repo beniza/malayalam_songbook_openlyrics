@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>എന്തു ചെയ്യാം പാപി!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1 v10 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്തു ചെയ്യാം പാപി!<br/>എന്തു ചെയ്യാം പാപി!<br/>അന്ധകാരകാലം<br/>വരുന്നെന്തു ചെയ്യാം?<br/>ചിന്തയറ്റിരിപ്പതേറ്റം<br/>സന്താപഹേതുകമാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ബന്ധുതയും നിൻയശസ്സും<br/>ചിന്തിക്കുകിലെന്ത നിത്യം!<br/>ചെന്തീക്കനലിന്നു മുമ്പിൽ<br/>വെന്തിടുന്ന പഞ്ഞിപോലെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഈശനിതാ തൻദയയാൽ<br/>നാശമയനായ നിന്നെ<br/>നീചതയിൽ നിന്നുയർത്താ-<br/>നാശയോടുരച്ചിടുന്നാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദേവദയയാൽ ശുഭമാം<br/>ഭാവം നിനക്കുള്ളതിപ്പോൾ<br/>ദേവകൃപ തള്ളിടവേ<br/>ശാപം വരും നിശ്ചയമാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിൻ ബലമെന്തോർത്തു<br/>കണ്ടാൽ പുല്ലുതുല്യമാം ശരീരം<br/>ചുംബനം ചെയ്യുന്നു നാശ<br/>സമ്പദം ഇനിയൊരിക്കൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ലോകവിദ്യയഭ്യസിച്ചും<br/>മോഹവസ്തുശേഖരിച്ചും<br/>കാലം കഴിക്കെന്നു വന്നാൽ<br/>നാഥൻ വരും നാളിൽ നിനക്കെന്തു</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ലോകവിധി കാര്യമാക്കി<br/>ദൈവവിധി വിസ്മരിച്ചാൽ<br/>ലോകം വിറയ്ക്കുന്ന മഹാ<br/>നാളിൽ നിനക്കാവലോടെ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>മാനുജപ്രസാദം നോക്കി<br/>ദൈവപ്രസാദം വെടിഞ്ഞ<br/>സ്ഥാനമാനികളെയഗ്നി<br/>ന്യൂനീകരിക്കും സമയം</lines>
+    </verse>
+    <verse name="v9">
+      <lines>നാളിൽ നാളിൽ ഭേദമല്ലേ<br/>ലോകത്തിന്നു കാണുന്നുള്ളു?<br/>നീളവേ നിൻപുഷ്ടി നിലച്ചിടുമോ?<br/>നീയോർത്തുകാൺക</lines>
+    </verse>
+    <verse name="v10">
+      <lines>ഇഷ്ടകാലമത്രേയിതു<br/>രക്ഷപെടാനേനമല്ലോ<br/>കഷ്ടം വരുംമുൻ പരന്റെ<br/>ശ്രേഷ്ഠപദം ചേർന്നുകൊൾ നീ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>കാഹളനാദം ഞാൻ കേട്ടിടാറായ്</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാഹളനാദം ഞാൻ കേട്ടിടാറായ്<br/>കാന്തനോടൊത്തങ്ങു ചേർന്നിടാറായ്<br/>തങ്കത്തിരുമുഖം കണ്ടിടാറായ്<br/>തങ്കത്തെരു തന്നിൽ നിന്നിടാറായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പ്രത്യാശയാലുള്ളം തുള്ളിടുന്നു<br/>പ്രത്യക്ഷപ്പെട്ടീടുമെൻ രക്ഷൻ<br/>കൂടാരമാകുമെൻ വീട്ടിൽ നിന്നും<br/>പാടിപ്പറന്നിടും ഏഴയാം ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എൻപ്രിയരക്ഷകൻ കർത്താവിന്റെ<br/>പൊന്മുഖം കാണ്മതെന്താനന്ദമേ<br/>അന്നു ഞാൻ പാടുമെൻ വീണ്ടെടുപ്പിൻ<br/>ആനന്ദഗാനങ്ങൾ ഹല്ലേലുയ്യാ.</lines>
+    </verse>
+  </lyrics>
+</song>

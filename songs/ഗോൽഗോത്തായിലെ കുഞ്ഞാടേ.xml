@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:32">
+  <properties>
+    <titles>
+      <title>ഗോൽഗോത്തായിലെ കുഞ്ഞാടേ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഗോൽഗോത്തായിലെ കുഞ്ഞാടേ, അത്ഭുതമുള്ളോർ കുഞ്ഞാടേ<br/>പാപശാന്തി നീയത്രേ ഗോൽഗോത്തായിലെ കുഞ്ഞാടേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഗോൽഗോത്തായിലെ മൃത്യുവേ അത്ഭുതമുള്ളോർ മൃത്യുവേ<br/>ജീവവാതിൽ നീ അത്രേ ഗോൽഗോത്തായിലെ മൃത്യുവേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഗോൽഗോത്തായിലെ രക്തമേ അത്ഭുതമുള്ളോർ രക്തമേ<br/>എൻവിശുദ്ധി നീ അത്രേ ഗോൽഗോത്തായിലെ രക്തമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഗോൽഗോത്തായിലെ നീതിയേ അത്ഭുതമുള്ളോർ നീതിയേ<br/>എൻപ്രശംസ നീ അത്രേ ഗോൽഗോത്തായിലെ നീതിയേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഗോൽഗോത്തായിലെ താഴ്മയേ അത്ഭുതമുള്ളോർ താഴ്മയേ<br/>എൻഉയർച്ച നീ അത്രേ ഗോൽഗോത്തായിലെ താഴ്മയേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഗോൽഗോത്തായിലെ സ്നേഹമേ അത്ഭുതമുള്ളോർ സ്നേഹമേ<br/>എൻകിരീടം നീ അത്രേ ഗോൽഗോത്തായിലെ സ്നേഹമേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഗോൽഗോത്തായിലെ ജയമേ അത്ഭുതമുള്ളോർ ജയമേ<br/>എന്റെ ശക്തി നീ അത്രേ ഗോൽഗോത്തായിലെ ജയമേ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഗോൽഗോത്തായിലെ കുഞ്ഞാടേ അത്ഭുതമുള്ളോർ കുഞ്ഞാടേ<br/>എൻസംഗീതം നീ അത്രേ ഗോൽഗോത്തായിലെ കുഞ്ഞാടേ.</lines>
+    </verse>
+  </lyrics>
+</song>

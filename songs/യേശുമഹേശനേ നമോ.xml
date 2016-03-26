@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>യേശുമഹേശനേ നമോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുമഹേശനേ നമോ<br/>ക്ലേശ വിനാശനേ നമോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കരുണാസാഗരാ ദേവകുമാരാ<br/>പാരിതിൽ വന്ന മഹേശാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഗത്ശമനയിൽ ഹൃദയം തകർന്നു<br/>രക്തം വിയർത്ത ദേവേശാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകത്തിൻ പാപം പരിഹരിപ്പാനായ്<br/>ക്രൂശു ചുമന്ന സർവ്വേശാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മരിച്ചുയിർത്തെഴുന്ന ജീവന്റെ നാഥാ<br/>പരമോന്നത ശ്രീശാ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>അഗതികൾക്കാശ്രയമാം ജഗദീശാ<br/>അനുപമസ്നേഹസ്വരൂപാ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ധരണിമേൽ വീണ്ടുംവന്നു സഹസ്രം<br/>വർഷങ്ങൾ വാഴും നരേശാ.</lines>
+    </verse>
+  </lyrics>
+</song>

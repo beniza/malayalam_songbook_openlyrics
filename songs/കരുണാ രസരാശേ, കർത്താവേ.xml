@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:40">
+  <properties>
+    <titles>
+      <title>കരുണാ രസരാശേ, കർത്താവേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുണാ രസരാശേ, കർത്താവേ<br/>കരളലിയേണം പ്രഭോ<br/>യേശുമഹേശാ, ശാശ്വത നാഥാ<br/>ആശിഷമാരി നൽകേണം ദേവാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തിരുമൊഴിയാലീ ജഗദഖിലം<br/>നീ രചിച്ച ദേവാ! പരമേശാ!<br/>തിരുസവിധേ സ്തുതിഗാനം പാടും<br/>അടിയങ്ങളെ നീ അനുഗ്രഹിക്കു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തിരുവചനം ഇന്നാഴമായ് നൽകി<br/>ഉള്ളങ്ങളെ നീ ഉണർത്തണമേ<br/>ആയിരമായിരം പാപികൾ മനമിന്ന്<br/>ഒരുക്കണമേ അങ്ങേ സ്വീകരിപ്പാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

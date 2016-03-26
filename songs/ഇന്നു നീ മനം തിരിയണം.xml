@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>ഇന്നു നീ മനം തിരിയണം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v5 v6 v7 v8 v7 v9 v7 v10 v7</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇന്നു നീ മനം തിരിയണം,<br/>നിൻ വഴികളെ വെടിയണം<br/>പിന്നെയെന്നു നീ പറഞ്ഞു തള്ളുകിൽ<br/>നന്നല്ലായതു പേയിൻ തന്ത്രമാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹൃദയവാതിൽ തുറക്കണം,<br/>ദുർന്നയങ്ങളെ വെറുക്കണം<br/>മാ ദയവൊടു ജീവദായകൻ<br/>വാതിലിൽ മുട്ടി വിളിക്കുന്നു സഖേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാളെയെന്നതസാദ്ധ്യമാം<br/>നരകം നിന്റെ സമ്പാദ്യമാം<br/>വേളയിതുതാനെന്നറിഞ്ഞു നീ<br/>വേഗം ക്രിസ്തുവിന്നരികിൽ വാ സഖേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്ത്യകാലമടുത്തുപോയ്<br/>ക്രിസ്തുരാജൻ വരുവാറായ്<br/>എന്തിനിയും നിന്നന്തമെന്നു നീ<br/>ചിന്തിച്ചു മനംതിരിയുക സഖേ! M.E.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>0149. യേശുവിൻ ലാവണ്യമാം വിളികേൾ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>യേശുവിൻ ലാവണ്യമാം വിളികേൾ<br/>താൻ വിളിച്ചാൽ ഇന്നു നിന്നെ<br/>തേജസ്സിൽ നിന്നെന്തു തെറ്റുന്നു നീ<br/>ദൂരവേ ദൂരവേ നീ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>താൻ വിളിച്ചാൽ ഇന്നു നിന്നെ<br/>യേശുവിൻ നാമത്തെ<br/>ബോധിച്ചുകൊൾ മനമേ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഖേദിപ്പോർക്കാശ്വാസം ഏകുമവൻ<br/>താൻ വിളിച്ചാൽ ഇന്നു നിന്നെ<br/>ഭാരത്താൽ വന്നാലും ആശ്വാസമാം<br/>ചേർക്കുന്നു എന്നും നിന്നെ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>കാത്തിരിക്കുന്നവൻ വേഗം വാ നീ<br/>കാക്കുന്നിതാ കാക്കുന്നിതാ<br/>പാപിയേ! നീ വന്നു കുമ്പിട്ടുകൊൾ<br/>വന്നുകൊൾ വൈകിടൊല്ല</lines>
+    </verse>
+    <verse name="v10">
+      <lines>യേശുവിൻ പക്ഷവാദം ചെവിക്കൊൾ<br/>ഇന്നു നീ കേൾ, ഇന്നു നീ കേൾ<br/>വിശ്വസിക്കുല്ലാസമേകുമവൻ<br/>വേഗത്തിൽ അങ്ങു ചെല്ലും</lines>
+    </verse>
+  </lyrics>
+</song>

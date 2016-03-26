@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:49">
+  <properties>
+    <titles>
+      <title>തിരുവദനം ശോഭിപ്പിച്ചെൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>തിരുവദനം ശോഭിപ്പിച്ചെൻ ഇരുളകലെ പോക്കിടുവാൻ<br/>കരുണാവാരിധേ! ദൈവമേ നമിച്ചിടുന്നേ<br/>നിരുകരവും കൂപ്പിത്തൊഴുന്നേൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പരിമളതൈലത്താൽ നിന്റെ ശിരമഭിഷേകം ചെയ്തൊരു<br/>മരിയയിലത്യന്തം കാരുണ്യം ചൊരിഞ്ഞ നാഥാ!<br/>വരമരുളിടേണമിവന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അരിവരരിൻ സൈന്യം കണ്ടു<br/>പരവശനായ്ത്തീരാതെ ഞാൻ<br/>ഇരുപുറവും നിന്നെക്കാണുവാൻ ഹൃദയകൺകൾ<br/>ഉരുകൃപയാൽ തുറക്കേണമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പരമഗുരോ! നിൻ നാമത്തെക്കരുതിയെനിക്കുണ്ടാകുന്ന<br/>കരുമനകൾ നിത്യം സഹിപ്പാനരുൾക ദേവാ!<br/>കുരിശിൽ മരിച്ചുള്ളോരീശനേ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇരവുകഴിഞ്ഞതിമോഹനമാമരുണനുദിച്ചിടും പൊഴുതും<br/>തരണി മറഞ്ഞിടും നേരവും ഭവൽസ്മരണം<br/>വരണമെനിക്കുള്ളിൽ സ്വൈരമായ്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>അര നിമിഷം നിന്നെ വിട്ടാലരികിലെനിക്കാരുള്ളയ്യോ!<br/>മരിമകനേ, നിൻ സുഗന്ധമാം ശ്വാസവായുവെൻ<br/>കരളിനുറപ്പേകുന്നെപ്പോഴും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>മരണദിനത്തോളം നിന്റെ ചരണയുഗം സേവിച്ചാത്മ<br/>ശരണമതായ് നിന്നെ പ്രാപിച്ചു നിന്നിൽ ലയിപ്പാ-<br/>നരുളണമേ ദിവ്യാശിസ്സുകൾ.</lines>
+    </verse>
+  </lyrics>
+</song>

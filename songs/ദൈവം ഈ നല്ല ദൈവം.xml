@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:54">
+  <properties>
+    <titles>
+      <title>ദൈവം ഈ നല്ല ദൈവം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവം ഈ നല്ല ദൈവം ജീവിതകാലമെല്ലാം<br/>കൺമണിപോലെയെന്നെ കാത്തു നടത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കണ്ണീരിൻ പാതകളെത്രയിന്നെ-<br/>ന്നെണ്ണിക്കുറിക്കുവാനാവുകില്ല<br/>എങ്കിലും കൈവിടാതെന്നെ ദൈവം<br/>സങ്കടം തീർത്തു നടത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സംഹാരദൂതന്റെ വാളിൽ നിന്നും<br/>ശത്രു തൻഅഗ്നി ശരത്തിൽനിന്നും<br/>മാമക പ്രാണനെ കാത്തു ദൈവം<br/>മാറാതെ മുറ്റും നടത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തീക്കനൽ പാറയിൽനിന്നുപോലും<br/>തക്കസമയത്തു വെള്ളമേകും<br/>അന്നന്നു വേണ്ടതാം മന്ന തന്നും<br/>മന്നിതിലെന്നെ പുലർത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വാഗ്ദത്ത നാട്ടിൽ ചെന്നെത്തുവോളം<br/>വിശ്രമമില്ലാതെ വേല ചെയ്തു<br/>വിശ്വാസം കാത്തു നല്ലോട്ടമോടി<br/>വിജയകിരീടങ്ങൾ നേടിടും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

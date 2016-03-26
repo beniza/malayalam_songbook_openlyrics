@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>വന്നിടുക യേശു പാദേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്നിടുക യേശു പാദേ<br/>തന്നിടും താൻ നിത്യജീവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഏകമോക്ഷവാതിൽ ലോകരക്ഷകനേശുവത്രേ<br/>വഴിയും സത്യവും ജീവനുമവനേ<br/>വരുമോ നീയിന്നവൻ ചാരേ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പുല്ലിൻ പൂക്കൾ പോലെയല്ലോ നിന്നുടെ ജീവിതമേ<br/>വാടിക്കൊഴിയും മരണം വരുമ്പോൾ<br/>നേടിയതെല്ലാം ആർക്കാകും?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകം ഒടുവിൽ നിന്നെ ശോകക്കടലിൽ തള്ളിടുമേ<br/>ജീവിത നൗകയിലവന്നിടമേകി പോവുക<br/>ജീവവഴിയിൽ നീ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇത്ര വലിയ രക്ഷ ഇന്നു ത്യജിച്ചു പോകുകയോ?<br/>ഇനിയും സമയം ലഭിച്ചിടുമെന്നോ?<br/>ഇതു നിൻ രക്ഷാ ദിനമല്ലോ.</lines>
+    </verse>
+  </lyrics>
+</song>

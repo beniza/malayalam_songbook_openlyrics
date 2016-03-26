@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:47">
+  <properties>
+    <titles>
+      <title>നീയല്ലോ ഞങ്ങൾക്കുള്ള ദിവ്യസമ്പത്തേശുവേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നീയല്ലോ ഞങ്ങൾക്കുള്ള ദിവ്യസമ്പത്തേശുവേ<br/>നീയല്ലാതില്ല ഭൂവിൽ ആഗ്രഹിപ്പാനാരുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീയല്ലോ ഞങ്ങൾക്കായി മന്നിടത്തിൽ വന്നതും<br/>നീചരാം ഞങ്ങളുടെ പാപമെല്ലാമേറ്റതും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാൽവറി മലമുകളേറി നീ ഞങ്ങൾക്കായ്<br/>കാൽകരം ചേർന്നു തൂങ്ങി മരിച്ചുയിരേകിയ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്നന്നു ഞങ്ങൾക്കുള്ളതെല്ലാം തന്നു പോറ്റുന്നോൻ<br/>ഇന്നുമെന്നും കൂടെയുണ്ടെന്നുള്ള വാക്കു തന്നവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശത്രുവിന്നഗ്നിയസ്ത്രം ശക്തിയോടെതിർക്കുന്ന<br/>മാത്രയിൽ ജയം തന്നു കാത്തുസൂക്ഷിച്ചിടുന്ന</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ജനകനുടെ വലമമർന്നു നീ ഞങ്ങൾക്കായ്<br/>ദിനംപ്രതി പക്ഷവാദം ചെയ്തു ജീവിച്ചിടുന്ന</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ലോകത്തിൽ ഞങ്ങൾക്കുള്ളതെല്ലാം നഷ്ടമാകിലും<br/>ലോകക്കാർ നിത്യം ദുഷിച്ചിടിലും പൊന്നേശുവേ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>നിത്യജീവമൊഴികൾ നിന്നിലുണ്ട്പരനേ<br/>നിന്നെ വിട്ടടിയങ്ങൾ എങ്ങുപോയി വസിക്കും!</lines>
+    </verse>
+  </lyrics>
+</song>

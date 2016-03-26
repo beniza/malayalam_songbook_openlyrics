@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>ഏറെയാമോ നാളിനിയും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഏറെയാമോ നാളിനിയും യേശുവെ കാണുവാൻ ഹാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദുരിതമെഴുമീ ധരയിൽ വന്നോ!<br/>കുരിശിലുയരും എനിക്കായ് തന്നോ! ആ ആ ആ<br/>പ്രേമനിധിയെ കാണുവതെന്നിനി?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നെയോർത്തു കരഞ്ഞ കണ്ണിൽ<br/>മിന്നും സ്നേഹപ്രഭയെ വിണ്ണിൽ ആ ആ ആ<br/>ചെന്നു നേരിൽ കാണുവതെന്നിനി?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിശ്വസിപ്പോർ വീതമായി<br/>വിശ്വമേകും വിനകൾ തീർക്കും ആ ആ ആ<br/>വീട്ടിൽ ചെന്നു ചേരുവതെന്നിനി?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പിരിഞ്ഞുപോയ പ്രിയരെ കണ്ടു<br/>പരമനാട്ടിൽ കുതുകം കൊണ്ടുആ ആ ആ<br/>പുതിയ ഗീതം പാടുവതെന്നിനി?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇന്നു ഞാനെൻ ഹൃദയക്കണ്ണാൽ<br/>എന്നും കാണും തൻ മുഖമെന്നാൽ ആ ആ ആ<br/>മുഖാമുഖമായ് കാണുവതെന്നിനി?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:17">
+  <properties>
+    <titles>
+      <title>ഞാൻ വരുന്നു ക്രൂശിങ്കൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഞാൻ വരുന്നു ക്രൂശിങ്കൽ സാധു ക്ഷീണൻ കുരുടൻ<br/>സർവ്വവും എനിക്കെച്ചിൽ പൂർണ്ണരക്ഷ കാണും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശരണമെൻ കർത്താവേ! വാഴ്ത്തപ്പെട്ട കുഞ്ഞാടേ!<br/>താഴ്മയായ് കുമ്പിടുന്നു രക്ഷിക്കയെന്നെയിപ്പോൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാഞ്ഛിച്ചു നിന്നെയെത്ര ദോഷം വാണെന്നിൽ എത്ര?<br/>ഇമ്പമായ് ചൊല്ലുന്നേശു ഞാൻ കഴുകിടും നിന്നെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മുറ്റും ഞാൻ തരുന്നിതാ ഭൂനിക്ഷേപം മുഴുവൻ<br/>ദേഹം ദേഹി സമസ്തം എന്നേക്കും നിന്റേതു ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വാഗ്ദത്തം എന്നാശ്രയം രക്തം ഉപയോഗിച്ചു<br/>പൂഴിയിൽ താഴ്ത്തുന്നെന്നെ യേശുവോടു ക്രൂശിച്ചു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>യേശുവെന്നാത്മത്തെ നിറയ്ക്കുന്നു പൂർത്തിയായ്<br/>സുഖമുണ്ടുപൂർണ്ണമായ് മഹത്വം കുഞ്ഞാട്ടിന്നു</lines>
+    </verse>
+    <verse name="v7">
+      <lines>എന്നാശ്രയം യേശുവിൽ വാഴ്ത്തപ്പെട്ട കുഞ്ഞാട്ടിൽ<br/>താഴ്മയായ് കുമ്പിടുന്നു രക്ഷിക്കുന്നിപ്പോളേശു.</lines>
+    </verse>
+  </lyrics>
+</song>

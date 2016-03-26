@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>കൃപാനിധേ എന്നേശുവേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കൃപാനിധേ എന്നേശുവേ<br/>സ്നേഹത്തിൽ സമ്പന്നനേ<br/>വീണു വണങ്ങി ഉള്ളം ഉരുകി ഞാൻ<br/>കേഴും മൊഴി കേൾക്കണേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിത്യമെനിക്കായ് പക്ഷവാദം<br/>ചെയ്യുന്ന ദൈവാത്മജാ<br/>നിത്യപിതാവിൻ മുൻ കുറ്റം തുലച്ചെന്നെ<br/>മുറ്റും നിറുത്തേണമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ബന്ധുമിത്രാദി ജനങ്ങൾ സ്നേഹ-<br/>പാത്രങ്ങളെത്രയോ പേർ<br/>ശത്രുവിന്നമ്പേറ്റു മൃത്യുവശഗരായ്<br/>തീരുന്നു രക്ഷിക്കണേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൂരിരുൾ വൻകടലിൽ താണു<br/>പോകുന്നീലോകം സ്വയം<br/>രക്ഷിപ്പാനാളില്ല നീ താൻ ഉദിക്കേണം<br/>നീതിപ്രഭാപൂർണ്ണനായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

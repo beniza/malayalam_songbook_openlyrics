@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>ക്രൂശുമെടുത്തിനി ഞാനെൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രൂശുമെടുത്തിനി ഞാനെൻ യേശുവെ പിൻചെൽകയാം<br/>പാരിൽ പരദേശിയായ് ഞാൻ മോക്ഷവീട്ടിൽ പോകയാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജീവനെൻപേർക്കായ് വെടിഞ്ഞ നാഥനെ ഞാൻ പിഞ്ചെല്ലും<br/>എല്ലാരും കൈവിട്ടാലും കൃപയാൽ ഞാൻ പിൻചെല്ലും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മാനം ധനം ലോകജ്ഞാനം സ്ഥാനം സുഖമിതെല്ലാം<br/>ലാഭമല്ലെനിക്കിനി വൻ ചേതമെന്നറിഞ്ഞു ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദുഷ്ടരെന്നെപ്പകച്ചാലും കഷ്ടമെന്തു വന്നാലും<br/>നഷ്ടമെത്ര നേരിട്ടാലും ഇഷ്ടമായ് ഞാൻ പിഞ്ചെല്ലും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ക്ലേശം വരും നേരമെല്ലാം ക്രൂശിലെൻ പ്രശംസയാം<br/>യേശു കൂടെയുണ്ടെന്നാകിൽ തുമ്പമെല്ലാം ഇമ്പമാം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിത്യരക്ഷ ദാനം ചെയ്ത ദിവ്യ സ്നേഹമോർക്കുകിൽ<br/>ഏതു കഷ്ടത്തേയും താണ്ടി അന്ത്യത്തോളം പോയിടാം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ദൈവത്തിൻ പരിശുദ്ധാത്മാവെന്നിൽ വാസം ചെയ്കയാൽ<br/>ക്ലേശമെന്തിനവനെന്നെ ഭദ്രമായി കാത്തിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

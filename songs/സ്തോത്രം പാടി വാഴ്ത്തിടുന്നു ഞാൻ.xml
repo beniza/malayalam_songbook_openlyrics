@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:31">
+  <properties>
+    <titles>
+      <title>സ്തോത്രം പാടി വാഴ്ത്തിടുന്നു ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രം പാടി വാഴ്ത്തിടുന്നു ഞാൻ<br/>പുത്രനെ തന്ന ദേവാ<br/>പാത്രനല്ലേനെങ്കിലും<br/>സുപാത്രമാക്കി തീർത്തതാൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്തോത്രം പാടി വാഴ്ത്തിപാടി<br/>ആരാധിച്ചിടുന്നു ഞാൻ...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വ്യർത്ഥ പിതൃപാരമ്പര്യത്തിൽ<br/>അർത്ഥമെന്യേ ജീവിച്ചെൻ<br/>സ്വന്ത പുത്രരക്തം ചിന്തി<br/>സ്വന്തമാക്കിയത്ഭുതം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്ധകാരത്തിൽനിന്നും എന്നെ<br/>അത്ഭുതപ്രകാശത്തിൽ<br/>ആക്കിതീർത്ത സ്നേഹം ഓർത്ത്<br/>ആത്മാവിലാരാധിപ്പൂ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തെറ്റിപ്പോയ് ഞാൻ ആടിനെപ്പോലെ<br/>തേടിവന്നു മാ സ്നേഹം<br/>തോളിലേന്തി സ്വർഗ്ഗവീട്ടിൽ<br/>താതാ കൂടെ വാണിടാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

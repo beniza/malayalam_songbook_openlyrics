@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:50">
+  <properties>
+    <titles>
+      <title>ഓ ഓ ഓ എനിക്കാനന്ദമാനന്ദം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഓ ഓ ഓ എനിക്കാനന്ദമാനന്ദം<br/>ശ്രീയേശു എന്നെ രക്ഷിച്ചല്ലോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഫറവോന്നടിമയായ് പാർത്തവനാം ഞാൻ<br/>ഭാരം ചുമന്നയ്യോ വലഞ്ഞെത്ര കാലം<br/>കുഞ്ഞാട്ടിൻ നിണത്താൽ ഞാനിന്നു വിമുക്തൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തുടർന്നെന്നെ പിടിപ്പാൻ അരിഗണമടുത്തു<br/>മുന്നോട്ടു പോകരുതെന്നവർ തടുത്തു<br/>ദൈവം ചെങ്കടലും പിളർന്നെന്നെ കാത്തു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരുവിലെൻ യാത്രയ്ക്കിന്നവനെല്ലാം<br/>തന്നനുദിനവും പുലർത്തിടുന്നെന്നെ<br/>എന്നാളും പാടി സ്തുതിക്കും ഞാൻ തന്നെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തിരുപ്പദ സേവ ചെയ്തെന്റെ നേരം<br/>തീരണമെന്നാണെനിക്കുള്ളിൽ ഭാരം<br/>പിന്നെന്റെ നാഥന്നരികിൽ ഞാൻ ചേരും.</lines>
+    </verse>
+  </lyrics>
+</song>

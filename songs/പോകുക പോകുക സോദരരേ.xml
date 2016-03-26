@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>പോകുക പോകുക സോദരരേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പോകുക പോകുക സോദരരേ!<br/>നാം പോകുക യുദ്ധം ചെയ്‌വതിന്നായ്<br/>പോകുക ക്രൂശിൻ പടയാളികളായ്<br/>പടപൊരുതിടാൻ പോയിടാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വചനം വാളായ് കൈകളിലേന്തി<br/>സത്യം നല്ലൊരു പരിചയുമായ്<br/>കവചമതായി നീതി ധരിച്ചും<br/>വിശ്വാസത്തിൻ ശിരസ്ത്രവുമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തേടുക നേടുക നാടുകൾ നീളെ<br/>രക്ഷയിലേക്കിന്നാളുകളെ<br/>വീടുകൾ മേടുകൾ കാടുകൾ<br/>കയറി വേലിക്കരികിലുമുള്ളവരെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പകലൊളിമാറും നാളു വരുന്നു<br/>ഇരുളുപരത്തും നാളുകളാം<br/>പരമേശന്റെ വാളു ധരിച്ചു<br/>പൊരുതുക മരണത്തോളം നാം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>യേശുവിൻനാമം വിജയിക്കട്ടെ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവിൻനാമം വിജയിക്കട്ടെ<br/>സാത്താന്യ കോട്ടകൾ തകർന്നിടട്ടെ<br/>സുവിശേഷത്തിൻ കൊടി ഉയരട്ടെ<br/>നാമധേയ സംഘങ്ങൾ ഉണർന്നിടട്ടെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പോകുകു നാം പോർവീരരായ്<br/>രക്ഷകനേശുവിൻ പ്രിയജനമേ!<br/>രക്ഷാദൂതിൻ പടഹവുമായ്<br/>ഉണർവ്വോടു മുന്നോട്ടു പോകുക നാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വിധിയുടെ വിശാല താഴ്വരയിൽ<br/>ബഹുസഹസ്രം പേർ സമൂഹമായ്<br/>വിനാശഗർത്തം പൂകിടുവാനായ്<br/>വഞ്ചിതരായ് പ്രയാണം ചെയ്തിടുമ്പോൾ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്തിമ ദുർഘടസമയമിതിൽ<br/>അധർമ്മമൂർത്തി വരും മുമ്പ്<br/>ആത്മികമാം ദൈവരാജ്യത്തിന്നായ്<br/>ആത്മബലത്താലടരാടുക നാം.</lines>
+    </verse>
+  </lyrics>
+</song>

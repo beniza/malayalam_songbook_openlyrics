@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:01">
+  <properties>
+    <titles>
+      <title>ദിവ്യനിലയെ ദിഗന്തവലയെ ദേവാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദിവ്യനിലയെ ദിഗന്തവലയെ ദേവാ!<br/>ഭവ്യമെഴും നിൻകരുണാരസമെൻ നിലയെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദാസർക്കേകിന്നിലയെ ദീനജനശിലയെ<br/>ദാനമരുൾകേശുനാഥാ! തിരുകാരുണ്യമെൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സാധുജനങ്ങളിൻ ഖേദമൊഴിക്കും നാഥാ!<br/>സാദമകന്നെന്നും നിന്നോടണവാൻ തുണചെയ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നീതിമാനായ നിൻ ദിവ്യമരണത്തിനാൽ<br/>നീതി നൽകി പാലിച്ച നിൻകൃപയെന്നഭയം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാപമില്ലാത്ത നിൻ ജീവനെ നൽകി പരി<br/>പാവനമാം രക്തത്താലെൻ ദുരിതം നീക്കിയ.</lines>
+    </verse>
+  </lyrics>
+</song>

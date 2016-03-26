@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:04">
+  <properties>
+    <titles>
+      <title>എനിക്കായൊരുത്തമ സമ്പത്ത്</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എനിക്കായൊരുത്തമ സമ്പത്ത്<br/>സ്വർഗ്ഗരാജ്യത്തിലൊരുക്കുന്നതാൽ<br/>ഇനി ലോകത്തെ സ്നേഹിച്ചിടുവാൻ<br/>ഒരുകാലത്തും പോകയില്ല ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്റെ ആയുസ്സിൻ ദിനമൊക്കെയും<br/>നിന്നെമാത്രം ഞാനിനി സേവിക്കും<br/>എന്റെ പ്രാണനായകനേശുവേ<br/>നിന്റെ സ്നേഹം നീ എനിക്കേകിടണേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഏഴയാകുന്ന എന്നെ സ്നേഹിച്ച<br/>നിന്റെ സ്നേഹം എത്രയോ ആശ്ചര്യം<br/>എന്റെ പാപശാപങ്ങൾ നീക്കി നിൻ<br/>തിരു ജീവനാൽ എന്നെ നിറച്ചല്ലോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്റെ ദേഹവും തിരു ആലയമായ്<br/>നിന്റെ ആത്മാവേ എനിക്കേകിയതാൽ<br/>തിരുനാമത്തിൻ മഹത്വത്തിനായ്<br/>ഇനി ജീവിപ്പാൻ കൃപ നൽകുക</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പ്രിയൻ തേജസ്സിൽ വെളിപ്പെടും നാളിൽ<br/>ഞാനും തേജസ്സിൻ മുമ്പിൽ നിൽക്കുവാൻ<br/>എന്റെ ദേഹവും ദേഹി ആത്മാവും<br/>സമ്പൂർണ്ണമായ് സമർപ്പിക്കുന്നേൻ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>മനമേ പുകഴ്ത്തിടു നീ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മനമേ പുകഴ്ത്തിടു നീ<br/>മഹോന്നതൻ തൻ മഹിമ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മരക്കുരിശതിൽ മരിപ്പാനായ് നര ജന്മമെടുത്തു<br/>വന്ന തൻ നാമം മനോഹരം ആഹാ!<br/>തൻ നാമം മനോഹരം<br/>മഹാത്ഭുതം തൻ പ്രേമം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ബഹു വിപത്തുകളെഴും ഭൂവിൽ<br/>സ്നേഹക്കൈകൾ നീട്ടിയെന്നെ<br/>താങ്ങും തൻ നാമം മനോഹരം ആഹാ!<br/>തൻ നാമം മനോഹരം<br/>മഹാത്ഭുതം തൻ പ്രേമം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പല കുറവുകൾ വന്നാലും<br/>എന്നെ തള്ളാതെ കൃപയാൽ<br/>കാക്കും തൻ നാമം മനോഹരം ആഹാ!<br/>തൻ നാമം മനോഹരം<br/>മഹാത്ഭുതം തൻ പ്രേമം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഒരു നിമിഷവും തളരാതെ<br/>തിരു മാർവ്വിൽ വിശ്രാമം<br/>തേടൂ, തൻ നാമം മനോഹരം ആഹാ!<br/>തൻ നാമം മനോഹരം<br/>മഹാത്ഭുതം തൻ പ്രേമം.</lines>
+    </verse>
+  </lyrics>
+</song>

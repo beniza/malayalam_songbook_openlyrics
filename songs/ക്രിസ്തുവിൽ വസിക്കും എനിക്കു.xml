@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:02">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തുവിൽ വസിക്കും എനിക്കു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തുവിൽ വസിക്കും എനിക്കു<br/>എപ്പോഴും സന്തോഷമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്തെല്ലാം കഷ്ടം വന്നാലും<br/>ഏതെല്ലാം നഷ്ടം വന്നാലും<br/>ആരെല്ലാം പഴിച്ചെന്നാലും<br/>ഞാൻ ഭയപ്പെട്ടു പോകയില്ല</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശത്രുക്കൾ ചുറ്റും നിന്നാലും<br/>മിത്രങ്ങൾ ഹസിച്ചെന്നാലും<br/>ഗാത്രമെല്ലാം ക്ഷയിച്ചാലും<br/>ഞാൻ ഭയപ്പെട്ടു പോകയില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സൂര്യൻ ഇരുണ്ടുപോയാലും<br/>താരകങ്ങൾ താഴെ വീണാലും<br/>ഭൂതലം വെന്തഴിഞ്ഞാലും<br/>ഞാൻ ഭയപ്പെട്ടു പോകയില്ല</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മണ്ണിലെൻ വാസം തീരുമ്പോൾ<br/>വിണ്ണിലെൻ വീട്ടിൽ ചേരുമ്പോൾ<br/>നിന്ദകൾ തീർന്നു പാടും ഞാൻ<br/>എൻകണ്ണുനീർ തോർന്നു വാഴും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

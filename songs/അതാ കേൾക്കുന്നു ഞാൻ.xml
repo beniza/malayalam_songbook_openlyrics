@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:32">
+  <properties>
+    <titles>
+      <title>അതാ കേൾക്കുന്നു ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അതാ കേൾക്കുന്നു ഞാൻ<br/>ഗതസമന തോട്ടത്തിലെ<br/>പാപിയെനിക്കായ് നൊന്തലറിടുന്ന<br/>പ്രിയന്റെ ശബ്ദമതേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദേഹമെല്ലാം തകർന്നു<br/>ശോകം നിറഞ്ഞവനായ്<br/>ദേവാധിദേവാ! നിൻസുതൻ<br/>എനിക്കായ് പാടുകൾ പെട്ടിടുന്നേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അപ്പാ ഈ പാനപാത്രം<br/>നീക്കുക സാദ്ധ്യമെങ്കിൽ<br/>എന്നിഷ്ടമല്ല നിന്നിഷ്ടമാകട്ടെ<br/>എന്നവൻ തീർത്തുരച്ചു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പ്രാണവേദനയിലായ്<br/>പാരം വിയർത്തവനായ്<br/>എൻപ്രാണനായകൻ ഉള്ളം തകർന്നിതാ<br/>യാചന ചെയ്തിടന്നേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദുസ്സഹ വേദനയാൽ<br/>മന്നവനേശു താനും<br/>മൂന്നുരു ഊഴിയിൽ വീണു പ്രാർത്ഥിച്ചല്ലോ<br/>പാപി എൻരക്ഷയ്ക്കായി</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്നേഹത്തിൻ ഇമ്പവാക്കാൽ<br/>ആശ്വാസമേകുമവൻ<br/>കഷ്ടസമയത്തിൽ ആശ്വാസം കാണാതെ<br/>വിങ്ങി വിലപിക്കുന്നേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>എന്നെയും തന്നെപ്പോലെ<br/>മാറ്റും ഈ മാ സ്നേഹത്തെ<br/>എണ്ണിയെണ്ണി ഞാൻ ഉള്ളം നിറഞ്ഞല്ലാ<br/>നാളും പുകഴ്ത്തിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>ചേരുമുയിർപ്പിൻ പ്രഭാതേ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ചേരുമുയിർപ്പിൻ പ്രഭാതേ ദേഹം ദേഹികൾ തമ്മിൽ<br/>ഖേദം രോഗം മൃത്യുവില്ല ഹാ! മേലിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദേഹമൽപ്പനേരം മാത്രം മണ്ണിലുറങ്ങിടേണം<br/>കാഹളം ധ്വനിക്കുവോളം വിശ്രാമം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കല്ലറകളന്നു നൽകും സർവ്വമൃത്യരെയും ഹാ!<br/>താതൻ മാതാ മക്കൾ വീണ്ടും ചേർന്നിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദേഹദേഹികൾ ചേർന്നൊന്നായ് ക്രിസ്തൻ സ്വന്തഛായയിൽ<br/>തേജസ്സോടുണർന്നു വാഴും തൃപ്തരായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

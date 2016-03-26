@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>എൻ മനമേ വാഴ്ത്തുക നാഥനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ മനമേ വാഴ്ത്തുക നാഥനെ അവനെന്നും നല്ലവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യിസ്രായേലിൻ സ്തുതികളിൽ വസിച്ചവൻ താനേഴയായ്<br/>കാൽവറിയിൽ ക്രൂശിലെൻ ശാപമായി തീർന്നതാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>താഴ്ചയിൽ എന്നെ ഓർത്തതാം തൻ ദയയെന്തത്ഭുതം<br/>വീഴാതെന്നെ താങ്ങിടും പൊൻകരങ്ങളെന്നാശ്രയം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നാൽപ്പതാണ്ടും മരുവിൽ തൻജനത്തെ നന്നായ് പോറ്റിയ<br/>നല്ലിടയനെന്നെയും നാൾകൾതോറും നടത്തിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സങ്കടത്താൽ തളരുമ്പോൾ സങ്കേതം അവൻ നെഞ്ചിലാം<br/>പൊൻകരങ്ങൾ താങ്ങിയെൻ കണ്ണുനീർ തുടച്ചിടും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മന്നിലൊരു മൺപാത്രമായ് മണ്മറഞ്ഞുപോകും ഞാൻ<br/>വിണ്ണിലൊരു പൊൻതാരമായ് മിന്നിടും തൻ തേജസ്സിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

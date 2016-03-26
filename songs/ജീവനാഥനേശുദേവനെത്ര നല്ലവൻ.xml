@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:59">
+  <properties>
+    <titles>
+      <title>ജീവനാഥനേശുദേവനെത്ര നല്ലവൻ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജീവനാഥനേശുദേവനെത്ര നല്ലവൻ!<br/>അവനെ രുചിച്ചറിഞ്ഞിടുന്ന മനുജൻ ഭാഗ്യവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നാകലോകേ നിന്നുമാഗമിച്ചീ ഭൂവിയാഗമായ് താൻ നരർക്കായ്<br/>ആരിതു വിശ്വസിച്ചാശ്രയിച്ചിടുമോ ആയവൻ ഭാഗ്യവാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആശ്രയിച്ചിടുന്ന ദാസർക്കനുദിനമാശ്വാസദായകൻ താൻ<br/>ആരുമിതുവരെ ലജ്ജിതരല്ലവൻ ചാരേയണഞ്ഞതിനാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തന്റെ വചനങ്ങൾ പാതയും ദീപമായ് കണ്ടു സഞ്ചാരം ചെയ്താൽ<br/>അന്ത്യംവരെയുമൊരന്ധതയുമെന്യേ സന്തോഷത്തോടെ പോകാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മുമ്പേ തൻരാജ്യവും നീതിയുമന്വേഷിക്കുമ്പോളതോടുകൂടെ<br/>സമ്പത്തെന്താവശ്യമുണ്ടെന്നറിഞ്ഞു താനൻപോടന്നന്നു നൽകും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സംഭ്രമമുണ്ടാക്കും സംഭവങ്ങൾ പാരിൽ സന്തതം കേട്ടിടുമ്പോൾ<br/>തൻപദത്തെയവലംബമായ് കാണുകിൽ തുമ്പങ്ങൾ തീർന്നുപോകും.</lines>
+    </verse>
+  </lyrics>
+</song>

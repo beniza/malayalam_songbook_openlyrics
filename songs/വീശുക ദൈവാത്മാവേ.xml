@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:40">
+  <properties>
+    <titles>
+      <title>വീശുക ദൈവാത്മാവേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വീശുക ദൈവാത്മാവേ!<br/>സ്വർഗ്ഗീയമാം ആവിയെ വീശണമേ<br/>യേശുവിൻ രക്തത്താൽ ദാസന്മാർ-<br/>ക്കവകാശമായ് തീർന്നവനേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദൈവത്തിൻ തോട്ടത്തിൻമേൽ<br/>വീശിടുക ലാവണ്യനാദമോടെ<br/>ജീവന്റെ വൃക്ഷങ്ങൾ പൂത്തുകായ്ക്കുവാൻ<br/>ദൈവത്തിൻ പുകഴ്ചയ്ക്കായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്നേഹത്തിൻ പാലകനേ!<br/>നിൻ കാറ്റിനാൽ സ്നേഹാഗ്നി ജ്വലിപ്പിക്ക<br/>ഇന്നു നിൻ ശിഷ്യരിൽ യേശു-<br/>നാമത്തിൻ മഹത്വം കണ്ടിടുവാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കാറ്റിന്റെ ചിറകിന്മേൽ സുഗന്ധങ്ങൾ<br/>നാട്ടിൽ പരന്നിടുമ്പോൾ<br/>പാട്ടിലും വാക്കിലും ജീവവാസന<br/>പൊങ്ങുവാൻ നൽകേണമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിശ്വസ്തകാര്യസ്ഥൻ നീ എന്നേക്കും<br/>നല്ലാശ്വാസപ്രദനും നീ<br/>ശിഷ്യരിൽ മഹത്വത്തിൻ രാജാവിന്റെ<br/>ഇഷ്ടം തികയ്ക്കേണമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സാത്താന്റെ വ്യാജങ്ങളെ അനേകർ<br/>കുഞ്ഞാടിനാൽ ജയിക്കുവാൻ<br/>നാട്ടിലും വീട്ടിലും ദാസരെ<br/>സത്യസാക്ഷികൾ ആക്കിടുക</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ചാവിന്റെ പുത്രൻമാരെ നിൻശ്വാസത്താൽ<br/>ജീവിപ്പിച്ചുണർത്തുവാൻ<br/>ദൈവത്തിൻ രാജ്യവും നീതീയും<br/>സത്യസേവയും തേടിടുവാൻ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>വീശുക ഭൂമിയെങ്ങും വരണ്ടതാം<br/>ക്ലേശപ്രദേശത്തിലും<br/>നാശത്തിൻ പാശങ്ങളാകെ നീങ്ങി<br/>ദൈവാശിസ്സുവാഴും വരെ</lines>
+    </verse>
+  </lyrics>
+</song>

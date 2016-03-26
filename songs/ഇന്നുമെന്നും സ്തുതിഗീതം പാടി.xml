@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>ഇന്നുമെന്നും സ്തുതിഗീതം പാടി</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇന്നുമെന്നും സ്തുതിഗീതം പാടി<br/>ഞാനെൻ യേശുവെ വാഴ്ത്തിടുമേ<br/>തിരുനാമം സൗരഭ്യം തൂകുന്ന തൈലം<br/>തരുമെനിക്കാനന്ദം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആനന്ദമായ് പരമാനന്ദമായ് സ്തുതി<br/>ഗാനങ്ങൾ പാടി പുകഴ്ത്തിടും ഞാൻ<br/>വൻകൃപയാലെന്നെ എന്നും പുലർത്തുന്ന<br/>നാഥനെ വാഴ്ത്തിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ചിലനേരം തിരുകരത്താൽ താൻ<br/>ബാല ശിക്ഷകൾ തന്നിടിലും<br/>തക്കനേരം തങ്കകൈകളിലേന്തി<br/>സാന്ത്വനപ്പെടുത്തും താൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരുവാസം തരുമൊരു ക്ലേശം<br/>എത്ര കഠിനമായ് വന്നാലും<br/>തിരുനെഞ്ചിൽ ചാരും വേളയിലെൻ മന<br/>ക്ലേശമകന്നിടുമെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അതിവേഗം മമ പ്രിയൻ വന്നു<br/>വിണ്ണിൽ ചേർത്തിടും നിർണ്ണയമായ്<br/>പിന്നെയെന്നും പിരിയാതാനന്ദത്തോടെ<br/>മരുവും തന്നന്തികേ ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

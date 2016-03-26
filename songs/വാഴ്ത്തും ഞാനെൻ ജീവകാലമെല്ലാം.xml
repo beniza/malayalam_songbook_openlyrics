@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:27">
+  <properties>
+    <titles>
+      <title>വാഴ്ത്തും ഞാനെൻ ജീവകാലമെല്ലാം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഴ്ത്തും ഞാനെൻ ജീവകാലമെല്ലാം<br/>എന്റെ ജീവനെ വീണ്ടെടുത്ത നാഥനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹല്ലേലുയ്യാ ഗീതം പാടി മോദമായ്<br/>അല്ലലെല്ലാം തീർത്ത നാഥനെ ദിനം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ചൂടെഴുന്ന ശോധനവേളയിൽ<br/>കൂടെയുണ്ട് കൂട്ടിൻ വല്ലഭൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശത്രുവിൻ ശരങ്ങളേറ്റിടാതെ തൻ<br/>ശക്തിയേറും കാവലുണ്ടെനിക്കു താൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വീശിടുന്നീശാനമൂലൻ കാറ്റിലും<br/>ശക്തിയേകിടുന്നു തന്റെ തേൻമൊഴി</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ക്ഷീണനായി ക്ഷോണിയിൽ തളരുമ്പോൾ<br/>ആണിയേറ്റ പാണിയാൽ താൻ താങ്ങുന്നു</lines>
+    </verse>
+    <verse name="v7">
+      <lines>വേഗം വന്നിടാമെന്നുള്ള വാഗ്ദത്തം<br/>കാത്തു പാരിൽ പാർത്തിടുന്നു നാളെല്ലാം.</lines>
+    </verse>
+  </lyrics>
+</song>

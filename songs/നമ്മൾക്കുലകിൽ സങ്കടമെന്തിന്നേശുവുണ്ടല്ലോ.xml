@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:55">
+  <properties>
+    <titles>
+      <title>നമ്മൾക്കുലകിൽ സങ്കടമെന്തിന്നേശുവുണ്ടല്ലോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നമ്മൾക്കുലകിൽ സങ്കടമെന്തിന്നേശുവുണ്ടല്ലോ<br/>ആരിലുമുന്നതനായൊരു മന്നവനേശുവുണ്ടല്ലോ! യേശുവുണ്ടല്ലോ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആപത്തിൽ കൂട്ടുനിൽപ്പാൻ താപത്തിൽ പാട്ടുനൽകാൻ<br/>ഭാരങ്ങൾ ഏറ്റുകൊൾവാൻ യേശുവുണ്ടല്ലോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കല്യാണവീടതിൽ വീഞ്ഞില്ലാതെ വന്നനേരം<br/>വെള്ളം വീഞ്ഞായ് കൊടുത്തോരേശുവുണ്ടല്ലോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിശക്കുന്ന പുരുഷാരം വിലപിക്കും വിധവയീ<br/>വകക്കാർക്കും മതിയായോരേശുവുണ്ടല്ലോ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലാസർ തൻ മരണത്തിൽ ക്ലേശിച്ച ഭവനസ്ഥർ<br/>ആശ്വസിച്ചതിൻ മൂലമേശുവുണ്ടല്ലോ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പാപത്തിൻ കൂലി തന്റെ ദേഹത്തിലേറ്റു നമ്മെ<br/>നാശത്തിൽ നിന്നു മോചിച്ചേശുവുണ്ടല്ലോ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>മതിമാനാം നേതാവായ് മൃതിവെന്ന ജേതാവായ്<br/>പുതുജീവദാതാവായ് യേശുവുണ്ടല്ലോ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:46">
+  <properties>
+    <titles>
+      <title>മധുരതരം തിരുവേദം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മധുരതരം തിരുവേദം<br/>മാനസമോദവികാസം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തരുമിതു നിത്യം പരിചയിച്ചീടിൽ<br/>നിരവധി നന്മകളുണ്ടും<br/>പരമധനമിതിൽ കണ്ടാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാനൊളി നീങ്ങിയിരുളുമന്നേരം<br/>ഭാനുവിൻ ദീപ്തിപോൽ നിന്നു<br/>ഭാസ്സരുളിടുമിതെന്നും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ബഹുവിധകഷ്ടമാം കയ്പുകൾ മൂലം<br/>മധുരമശേഷവും പോകേ<br/>മധുവിതു നൽകിടും ചാലെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിസ്വത നിന്നെ നികൃതനാക്കുമ്പോൾ<br/>രത്നവ്യാപാരിത തന്നെ<br/>പ്രത്നധനിയാക്കും നിന്നെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>അജ്ഞനുജ്ഞാനം അന്ധനു നയനം<br/>നൽകീടുമീശ്വര വചനം പുൽകിടുന്നു വിജ്ഞരിതിനെ.</lines>
+    </verse>
+  </lyrics>
+</song>

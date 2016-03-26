@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:10">
+  <properties>
+    <titles>
+      <title>ആരുമില്ല നീയൊഴികെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നീറി നീറി ഖേദങ്ങൾ മൂലം എരിയുന്ന മാനസം<br/>നിന്തിരുമാറിൽ ചാരുമ്പോഴല്ലാതാശ്വസിക്കുമോ<br/>ആശ്വസിക്കുമോ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എളിയവർ നിൻമക്കൾക്കീ ലോകമേതും<br/>അനുകൂലമല്ലല്ലോ നാഥാ!<br/>വലിയവനാം നീയനുകൂലമാണെൻ<br/>ബലവും മഹിമയും നീ താൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പ്രിയരെന്നു കരുതുന്ന സഹജരെന്നാലും<br/>പ്രിയലേശമില്ലാതെയാകും<br/>പ്രിയനെ നിൻസ്നേഹം കുറയാതെ എന്നിൽ<br/>നിയതം തുടരുന്നു മന്നിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഗിരികളിൽ കൺകളുയർത്തി ഞാനോതും<br/>എവിടെയാണെന്റെ സഹായം?<br/>വരുമെൻ സഹായമുലകമാകാശ<br/>മിവയുളവാക്കിയ നിന്നാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മരുവിൽ തൻപ്രിയനോടു ചാരിവരും സഭയാം<br/>തരുണീമണി ഭാഗ്യവതി തന്നെ<br/>മരുഭൂമിവാസം തരുമൊരു ക്ലേശം<br/>അറിയുന്നേയില്ലവൾ ലേശം.</lines>
+    </verse>
+  </lyrics>
+</song>

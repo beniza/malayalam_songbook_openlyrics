@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>നിമിഷങ്ങൾ നിമിഷങ്ങൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിമിഷങ്ങൾ നിമിഷങ്ങൾ ജീവിതനിമിഷങ്ങൾ<br/>ഒഴുകുന്നു തിരികെ വരാതെവണ്ണം<br/>കനകക്കിനാവുകൾ മനതാരിൽ കണ്ടു നീ<br/>മതിമറന്നീശനെ മറന്നിടല്ലെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മനസ്സിന്റെ മണിയറ വാതിൽ തുറന്നു<br/>കരുണപ്രകാശമെ വഴിതെളിക്കൂ<br/>കനിവാർന്ന രക്ഷകൻ കരവല്ലരികൾ നീട്ടി<br/>വിരിവാർന്ന കൃപയാൽ അണയ്ക്കും നിന്നെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇരുളിന്റെ വഴിത്താരിൽ സ്നേഹത്തിൻദീപം<br/>തിരുക്കൈകളാൽ തെളിയിച്ച ദേവൻ<br/>പുതുസൃഷ്ടിയാക്കിടും കളങ്കങ്ങൾ പോക്കിടും<br/>കുരിശിന്റെ നിഴലിൽ നയിക്കും നിന്നെ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:50">
+  <properties>
+    <titles>
+      <title>സഹോദരരേ, പുകഴ്ത്തിടാം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സഹോദരരേ, പുകഴ്ത്തിടാം<br/>സദാ പരനേശുവിൻ കൃപയെ<br/>മഹോന്നതനാമവൻ നമുക്കായ്<br/>മരിച്ചുയിരെ ധരിക്കുകയായ്<br/>മഹാത്ഭുതമീ മഹാദയയെ<br/>മറക്കാനാവതോ പ്രിയരെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭയങ്കരമായ വൻനരകാവ-<br/>കാശികളായിടും നമ്മിൽ<br/>പ്രിയം കലരാൻ മുഖാന്തരമായ<br/>തൻ ദയയെന്തു നിസ്തുല്യം<br/>ജയം തരുവാൻ ബലം തരുവാൻ<br/>ഉപാധിയുമീ മഹാദയയാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിജാജ്ഞകളെയനാദരിച്ച<br/>ജനാവലിയാകുമീ നമ്മെ<br/>നിരാകരിക്കാതെ വൻദയയാൽ<br/>പുലർത്തുകയായവൻ ചെമ്മെ<br/>നിരാമയരായ് വിമോചിതരായ്<br/>വിശുദ്ധവംശമയ് നമ്മൾ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സഹായകനായ് ദിനംതോറും<br/>സമീപമവൻ നമുക്കുണ്ട്<br/>മനം കലങ്ങാതിരുന്നിടാം<br/>ധനം കുറഞ്ഞാലുമീ ഭൂവിൽ<br/>സമാധാനം സദാമോദം<br/>നമുക്കുണ്ടായതും കൃപയാൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

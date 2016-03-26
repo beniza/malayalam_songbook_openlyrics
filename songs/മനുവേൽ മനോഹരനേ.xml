@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:01">
+  <properties>
+    <titles>
+      <title>മനുവേൽ മനോഹരനേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മനുവേൽ മനോഹരനേ! നിന്മുഖമതിരമണീയം<br/>തിരുമുഖശോഭയിൽ ഞാനനുദിന മാനന്ദിച്ചിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പ്രതികൂലമേറുമീ ഭൂമിയിതിലെ ഖേദം പോമകലെ<br/>നിൻമുഖകാന്തി യെന്മേൽ നീ ചിന്തും<br/>നിമിഷങ്ങൾ നാഥാ<br/>ലജ്ജിക്കയില്ല നിന്മുഖം നോക്കി<br/>ഭൂവിലിന്നും വാസം ചെയ്‌വോർ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദുഷ്ടർ തൻതുപ്പൽ കൊണ്ടേറ്റംമലിനം ആകാൻ നിൻവദനം<br/>വിട്ടുകൊടുത്ത തിഷ്ടമായെന്നിൽ അതുമൂലമല്ലേ!<br/>അമ്മുഖം തന്നെ മിന്നിയിന്നെന്നെ<br/>യിന്നും എന്നും പോറ്റും നന്നേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകത്തിൻ മോടികൾ ആകർഷകമായ്<br/>തീരാതെന്നകമേ<br/>സുന്ദരൻ നീനിൻ മന്ദിരമാക്കി അനിശവും വാഴ്ക<br/>കീർത്തിക്കും നിന്റെ നിസ്തുല്യനാമം<br/>എന്നും സ്തോത്രം സ്തോത്രം പാടി.</lines>
+    </verse>
+  </lyrics>
+</song>

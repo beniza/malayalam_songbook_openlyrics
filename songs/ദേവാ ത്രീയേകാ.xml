@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:06">
+  <properties>
+    <titles>
+      <title>ദേവാ! ത്രീയേകാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദേവാ! ത്രീയേകാ നീ കൃപ ചെയ്തതിനാൽ<br/>നിൻ പാദാശ്രിതനായി വീണു വണങ്ങുന്നേൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിൻ പ്രിയസുതനെ ക്രൂശിന്മേൽ തകർത്തെൻ<br/>കടമഖിലവും തീർത്തല്ലോ<br/>സങ്കടം സകലവും തീർന്നു പ്രത്യാശയി<br/>ലെൻമനമാശ്വസിക്കുന്നല്ലോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മറ്റൊരുവനുമിതു ചെയ്തില്ല കനിവുറ്റവരിതുപോൽ മറ്റില്ല<br/>മാനവ പാതകമേറ്റു മരിച്ചതുമന്നിലിതെന്നിയെ മറ്റില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മനസ്സലിവഗതയിൽ കാണിച്ചു മമ മലിനതയാകവെ മായിച്ചു<br/>മാറിലണച്ചു നിൻമഹിമയെഴുന്നൊരു<br/>മന്ദിരേ ചേർത്തെന്നെ മാനിച്ചു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പരിശുദ്ധൻ പരിശുദ്ധനെന്നും ചൊല്ലി<br/>തിരുമുമ്പിൽ ദൂതർ വീഴുന്നെങ്കിൽ<br/>പാപത്തിൽ ജീവിച്ചൊരെന്നെയോർത്തതിൻ<br/>നന്ദി ഞാനെങ്ങനെ കാണിക്കും!</lines>
+    </verse>
+  </lyrics>
+</song>

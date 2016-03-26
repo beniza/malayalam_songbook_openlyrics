@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>പ്രാർത്ഥനയ്ക്കുത്തരം തന്നതിനാൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പ്രാർത്ഥനയ്ക്കുത്തരം തന്നതിനാൽ<br/>നന്ദി ഞാൻ ചൊല്ലിടുന്നു -നാഥാ<br/>നന്ദി ഞാൻ ചൊല്ലിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഉലകം ചമയ്ക്കുന്നതിനും മുന്നെ<br/>ഉള്ളം കൈയിൽ എന്നെ വരച്ചതിനാൽ<br/>എന്നാത്മനാഥാ എൻ ജീവകാലം<br/>നന്ദി ഞാൻ ചൊല്ലിടുന്നു -നാഥാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കണ്ണീരിൽ നിന്നെന്റെ കൺകളേയും<br/>വീഴ്ചയിൽ നിന്നെന്റെ കാൽകളേയും<br/>കാത്തൊരു നാഥാ, കാരുണ്യ നാഥാ<br/>നന്ദി ഞാൻ ചൊല്ലിടുന്നു -നാഥാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്യനാമെന്നെ നിൻ സൂനുവാക്കി<br/>നിന്ദ്യനാമെന്നെ നീ ധന്യനാക്കി<br/>എൻ ജീവനാഥാ വിൺലോക -നാഥാ<br/>നന്ദി ഞാൻ ചൊല്ലിടുന്നു നാഥാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രോഗങ്ങൾ മാറ്റി നൽ സൗഖ്യമേകി<br/>രോദനം മാറ്റി സംഗീതമേകി<br/>രാജാധിരാജാ കർത്താധികർത്താ<br/>നന്ദി ഞാൻ ചൊല്ലിടുന്നു -നാഥാ.</lines>
+    </verse>
+  </lyrics>
+</song>

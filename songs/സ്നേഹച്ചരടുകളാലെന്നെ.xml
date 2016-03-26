@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:56">
+  <properties>
+    <titles>
+      <title>സ്നേഹച്ചരടുകളാലെന്നെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്നേഹച്ചരടുകളാലെന്നെ<br/>യേശു ചേർത്തു ബന്ധിച്ചു<br/>തൻ കുരിശോടെന്നെയൊന്നിച്ചു<br/>ഞാനെല്ലാം തന്നിലർപ്പിച്ചു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തിന്മയേറും വഴികളിൽ ഞാൻ നടന്നകന്നല്ലോ<br/>എൻ കാൽകൾ ഇടറിവീണല്ലോ<br/>തേടിവന്നു ജീവൻ തന്നു കണ്ടെടുത്തല്ലോ<br/>എന്നെത്താൻ വീണ്ടെടുത്തല്ലോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പന്നി തിന്നും തവിടുപോലും ഉലകം തന്നില്ല<br/>തുണയ്ക്കായാരും വന്നില്ല ദൈവമല്ലാ-<br/>തിത്രനല്ലോരാരുമേയില്ല<br/>സഹായം നൽകുവോരില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തന്റെ ദിവ്യസന്നിധാനം തരും സമാധാനം<br/>മറ്റെല്ലാം ഭീതിയിൻ സ്ഥാനം<br/>അളവുമില്ല അതിരുമില്ല അന്തവുമില്ലാ<br/>സന്തോഷം ക്രിസ്തുവിലുണ്ട്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഉലകമേ നീയുർച്ച നൽകിയുപചരിക്കേണ്ട<br/>എന്നെ നീ ആകർഷിക്കേണ്ട<br/>കുരിശെടുത്തെൻ ഗുരുവിൻ പിമ്പേ<br/>പോകണമല്ലാതെനിക്കിന്നാശ വേറില്ല</lines>
+    </verse>
+    <verse name="v6">
+      <lines>അവന്നടിമയനുഭവിക്കും സ്വാതന്ത്ര്യംപോലെ<br/>വേറില്ല സ്വാതന്ത്ര്യമേതും അന്ത്യശ്വാസം<br/>പോംവരെത്തൻ വേലചെയ്യും ഞാൻ<br/>തൃപ്പാദസേവ ചെയ്യും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

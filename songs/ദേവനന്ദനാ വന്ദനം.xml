@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>ദേവനന്ദനാ! വന്ദനം!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദേവനന്ദനാ! വന്ദനം! ജീവനാഥനാം<br/>ദേവനന്ദനാ! വന്ദനം!<br/>ദേവനന്ദനേ! പിതാവിൻ വലഭാഗത്തിൽ<br/>മേവിക്കൊണ്ടനുദിനം ദിവ്യസ്തുതികളേൽക്കും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കന്യാനന്ദനാ! വന്ദനം! ഭൂതലേ വന്ന<br/>ഉന്നതാധിപാ! വന്ദനം!<br/>മന്നിൽ ദുരിതം പൂണ്ടുഴന്നു പരിതാപപ്പെടുന്ന<br/>മനുജരെക്കനിഞ്ഞു വീണ്ടുകൊണ്ടൊരു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഘോരസർപ്പമാം സാത്താന്റെ ശിരസ്സു<br/>ചതച്ചൊരു നാഥനേ! വന്ദനം!<br/>ക്രൂരവേദനയേറ്റു കുരിശിൽ മരിച്ചുയിർത്തു<br/>പാരം ബഹുമാനം പൂണ്ടാരോഹണമായോനേ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കരുണ നിറഞ്ഞ കർത്താവേ അശുദ്ധി<br/>നീക്കാൻ ഉറവ തുറന്ന ഭർത്താവേ!<br/>ദുരിതമൊഴിച്ചെങ്ങളെ അരികിൽ വിളിച്ചു കൃപാ<br/>വരങ്ങൾ തന്നിടുവാൻ നിൻകരളലിഞ്ഞിടണമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വേദകാരണകർത്തനേ! സർവ്വലോകങ്ങൾ<br/>ക്കാദികാരണാ വന്ദനം!<br/>ദൂതർക്കും മനുജരിൻ ജാതിക്കുമധിപനായ<br/>നീതിയോടു ഭരണം ചെയ്തരുളുന്നവനാം.</lines>
+    </verse>
+  </lyrics>
+</song>

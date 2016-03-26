@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:37">
+  <properties>
+    <titles>
+      <title>വാഴ്ത്തിടുന്നു നാഥാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഴ്ത്തിടുന്നു നാഥാ<br/>വാഴ്ത്തിടുന്നു ദേവാ<br/>വാഴ്ത്തിടുന്നു ഭൂവാനങ്ങൾ<br/>സൃഷ്ടിച്ച ദൈവാത്മജാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആദിയനാദിയും നീ<br/>അൽഫഒമേഗയും നീ<br/>ആയിരം പതിനായിരങ്ങളിൽ<br/>സർവ്വാംഗസുന്ദരൻ നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉന്നതദേവൻ നീ<br/>വന്ദ്യമഹോന്നതൻ നീ<br/>ലോകത്തിൻ പാപം ചുമെന്നൊഴിപ്പാൻ<br/>വന്നൊരു കുഞ്ഞാടു നീ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സ്വന്തനിണം ക്രൂശിൽ<br/>ചിന്തി മുഴുവൻ നീ<br/>നൊന്തുനിൻ പ്രാണൻ വെടിഞ്ഞു-<br/>യിർത്തു വാഴുമാചാര്യൻ നീ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഏകമദ്ധ്യസ്ഥൻ നീ<br/>ഏവർക്കും രക്ഷകൻ നീ<br/>ഇന്നലെ ഇന്നുമെന്നും മാറാത്ത<br/>വല്ലഭ ദേവൻ നീ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്തോത്രം ഹല്ലേലുയ്യ<br/>മാമഹത്വം സ്തുതിയും<br/>സാദരം സർവ്വവും അർപ്പിച്ചു നാഥാ<br/>പാദം കുമ്പിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

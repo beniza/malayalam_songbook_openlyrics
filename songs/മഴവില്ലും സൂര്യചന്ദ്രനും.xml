@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>മഴവില്ലും സൂര്യചന്ദ്രനും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മഴവില്ലും സൂര്യചന്ദ്രനും<br/>വിണ്ണിലെ പൊന്നിൻ താരകളും<br/>യേശുവിൻ കൃപകളെ വർണ്ണിക്കുമ്പോൾ<br/>പാടും... .ഞാനും... അത്യുച്ചത്തിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വൻ കൃപയേകും നായകൻ<br/>കണ്ണുനീർ മായ്ക്കും നായകൻ<br/>എന്നെ ശാന്തമാം മേച്ചിലിൽ<br/>നിത്യം നടത്തും എൻ നായകൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാരുണ്യമേകും നായകൻ<br/>ആശ്വസിപ്പിച്ചീടും നായകൻ<br/>എന്നെ ചേർത്തിടും ചേലോടെ കാത്തു-<br/>രക്ഷിക്കും എൻ നായകൻ</lines>
+    </verse>
+  </lyrics>
+</song>

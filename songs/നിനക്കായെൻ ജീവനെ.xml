@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>നിനക്കായെൻ ജീവനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിനക്കായെൻ ജീവനെ മരക്കുരിശിൽ<br/>വെടിഞ്ഞെൻ മകനേ!<br/>ദിനവും ഇതിനെ മറന്നു ഭൂവി നീ<br/>വസിപ്പതെന്തു കൺമണിയേ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വെടിഞ്ഞു ഞാനെന്റെ പരമമോദങ്ങളഖിലവും<br/>നിന്നെക്കരുതി നിന്റെ<br/>കഠിനപാപത്തെ ചുമന്നൊഴിപ്പതി-<br/>ന്നടിമവേഷം ഞാനെടുത്തു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരമതാതന്റെ തിരുമുമ്പാകെ നിൻ<br/>ദുരിതഭാരത്തെ ചുമന്നു കൊണ്ടു<br/>പരവശനായി തളർന്നെൻ വിയർപ്പു<br/>ചോരത്തുള്ളി പോലൊഴുകി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പെരിയൊരു കുരിശെടുത്തു കൊണ്ടു ഞാൻ<br/>കയറി കാൽവറി മുകളിൽഉടൻ<br/>കരുത്തെഴുന്നവർ പിടിച്ചിഴച്ചെന്നെ<br/>കിടത്തി വൻകുരിശതിന്മേൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വലിച്ചു കാൽകരം പഴുതിണയാക്കി<br/>പിടിച്ചിരുമ്പാണി ചെലുത്തി ഒട്ടും<br/>അലിവില്ലാതടിച്ചിറക്കിയേ രക്തം<br/>തെറിക്കുന്നെന്റെ കണ്മണിയേ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പരമദാഹവും വിവശതയും കൊണ്ടധികം<br/>തളർന്ന എന്റെ നാവ്<br/>വരണ്ടു വെള്ളത്തിന്നിരന്ന നേരത്തും<br/>തരുന്നതെന്തു നീയോർക്ക</lines>
+    </verse>
+    <verse name="v7">
+      <lines>കരുണയില്ലാത്ത പടയാളിയൊരു<br/>പെരിയകുന്തമങ്ങെടുത്തുകുത്തി<br/>തുറന്നെൻ ചങ്കിനെയതിൽ നിന്നൊഴുകി<br/>ജലവും രക്തവുമുടനെ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഒരിക്കലും എന്റെ പരമസ്നേഹത്തെ<br/>മറക്കാമോ നിനക്കോർത്താൽനിന്മേൽ<br/>കരളലിഞ്ഞു ഞാനിവ സകലവും<br/>സഹിച്ചെൻ ജീവനെ വെടിഞ്ഞു.</lines>
+    </verse>
+  </lyrics>
+</song>

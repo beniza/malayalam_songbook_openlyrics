@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:14">
+  <properties>
+    <titles>
+      <title>ആപത്തുവേളകളിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആപത്തുവേളകളിൽ ആനന്ദവേളകളിൽ<br/>അകലാത്ത എൻ യേശുവേ<br/>അങ്ങയുടെ പാദം കുമ്പിടുന്നേ ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കുശവന്റെ കയ്യിൽ കളിമണ്ണുപോൽ<br/>തന്നിടുന്നു എന്നെ തൃക്കരങ്ങളിൽ<br/>മെനഞ്ഞീടണമേ വാർത്തെടുക്കണേ<br/>ദിവ്യഹിതംപോലെ ഏഴയാമെന്നെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കഷ്ടതയുടെ കയ്പുനീരിൻ പാത്രവും അങ്ങ്<br/>എൻ കരങ്ങളിൽകുടിപ്പാൻ തന്നാൽ<br/>ചോദ്യം ചെയ്യാതെ വാങ്ങി പാനം ചെയ്യുവാൻ<br/>തിരുകൃപ എന്നിൽ പകരണമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്റെ ഹിതംപോലെ നടത്തരുതേ<br/>തിരുഹിതംപോലെ നയിക്കണമേ<br/>ജീവിതപാതയിൽ പതറിടാതെ<br/>സ്വർഗ്ഗഭവനത്തിലെത്തുവോളവും</lines>
+    </verse>
+  </lyrics>
+</song>

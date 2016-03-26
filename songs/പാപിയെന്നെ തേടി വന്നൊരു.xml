@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:07">
+  <properties>
+    <titles>
+      <title>പാപിയെന്നെ തേടി വന്നൊരു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാപിയെന്നെ തേടി വന്നൊരു<br/>പ്രാണനാഥനേശു രക്ഷകാ<br/>പാപശാപ ശിക്ഷയഖിലം<br/>ക്രൂശിലെൻ പേർക്കായ് സഹിച്ചു നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്നെ ഞാൻ അറിയുന്നില്ല<br/>എന്നുരച്ച പാപിയാമെന്റെ<br/>അന്ധകാര ജീവിതത്തിൽ നീ<br/>പൊൻതിരി നാളമായ് ഉദിച്ചു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അനുദിനം നിന്റെ കാരുണ്യം<br/>അനുഭവിച്ചാസ്വദിച്ചീടാൻ<br/>അടിയനേകണേ നിൻകൃപ<br/>അതുമതി ഈ ധരണിയിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വീണ്ടും ഞാൻ വന്നിടുമെന്നരുൾ<br/>ചെയ്തു വാനിൽ മറഞ്ഞവനെ<br/>ഉണർന്നെതിരേറ്റു നിൽക്കുവാൻ<br/>വിണ്മയാ നീ തുണക്കേണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

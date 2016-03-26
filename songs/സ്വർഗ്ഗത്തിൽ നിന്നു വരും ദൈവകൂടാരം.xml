@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>സ്വർഗ്ഗത്തിൽ നിന്നു വരും ദൈവകൂടാരം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്വർഗ്ഗത്തിൽ നിന്നു വരും ദൈവകൂടാരം<br/>പുതുവാന ഭൂമിയതിൽ പുതുശാലേം നഗരം<br/>ഞാനവിടെ പാടിടും സ്തോത്രഗീതങ്ങൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>രത്നങ്ങൾ വൈഡൂര്യക്കല്ലുകൾ കൊണ്ട്<br/>നിർമ്മിതമാണീ നഗരം<br/>പുത്തനെരൂശലേം ജ്യോതിർമയം<br/>മോഹനം ഈ പൊൻനഗരം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കുഞ്ഞാട്ടിൻ ശോഭയതാൽ മിന്നിടും നാട്ടിൽ<br/>ജീവനദിക്കിരുകരയും ജീവതരുവുണ്ട്<br/>പുതുകനികൾ ഏകിടും പുതുമാസം തോറും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദൈവം താൻ ദൈവമായ് കണ്ണീർ തുടയ്ക്കും<br/>കഷ്ടതയും മുറവിളിയും മൃത്യുവുമില്ലവിടെ<br/>പാപമവിടില്ലല്ലോ സാത്താനില്ലല്ലോ.</lines>
+    </verse>
+  </lyrics>
+</song>

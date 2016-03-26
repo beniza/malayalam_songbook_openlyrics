@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>ഭൂപതിമാർ മുടിമണേ! വാഴ്ക നീ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഭൂപതിമാർ മുടിമണേ! വാഴ്ക നീ<br/>പാരിൽ പെരുത്തപാപം നീങ്ങുവാനിഹ<br/>യാഗമായൊരു നാഥൻ നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സാധുവാമിവൻ പുതുജീവനിൽ കടക്കയാൽ<br/>സാദരം ഭവൽ സ്തുതിചെയ്യുമേ<br/>ജയം പാടുമേ സതതം പ്രഭോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻതിരു കൃപയോർത്താൽ ബന്ധുത ലഭിക്കിലും<br/>അന്തമറ്റതിദോഷം ചെയ്തവൻ<br/>ഫലം കൊയ്തവൻ കഠിനൻ വിഭോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നീതിയിൻ വിധിക്കുമുൻ ഭീതനായ് ഭവിക്കവേ<br/>പാതകനിവൻ ബഹുഭാഗ്യമാർന്നതി<br/>യോഗ്യനായ്ത്തിരുനീതിയാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രാജനായ് വാഴ്ക നിൻ നീതിയാൽ ഭരിക്ക നീ<br/>രാജിതമഹസ്സെഴും നാഥനേ! തവ<br/>ദാസനെ ഭരമേൽക്ക നീ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിൻതിരു പ്രഭാവമിന്നെന്തു ഞാനുരയ്ക്കുന്നു!<br/>നിൻതിരു മുന്നരചർ വീഴുമേ സ്തുതി<br/>പാടുമേ മടിയെന്നിയേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>കാഴ്ചകളോടു തിരുവാഴ്ചയിലവർ വന്നു<br/>വീഴ്ച കൂടാതെ വണങ്ങിടുമേ<br/>മുഴങ്ങിടുമേ സ്തുതിഗാനവും</lines>
+    </verse>
+    <verse name="v8">
+      <lines>പാതകന്മാർ തിരുമുൻ വേദനയോടുഴറി<br/>ഖേദമോടുടൻ വിറച്ചിടുമേ<br/>ഒളിച്ചിടുമേ തരമാകുകിൽ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>തീയൊടു മെഴുകുപോലാമവർ നീയോ നിത്യ<br/>സ്ഥായിയായ് പരം വസിച്ചിടുമേ<br/>ഭരിച്ചിടുമേ യുഗകാലമായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

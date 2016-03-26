@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>യേശു രാജാ രാജാ വാഴ്ക</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു രാജാ രാജാ വാഴ്ക<br/>വാഴ്ക നിരന്തരം വാഴ്ക!<br/>വാഴ്ക ജ്ഞാനും ധനവും ബലവും<br/>മഹിമയുമണിഞ്ഞു നീ വാഴ്ക!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭൂരാജാക്കൾക്കധിപതിയാം നീ<br/>നീചരാം ഞങ്ങളെ സ്നേഹിച്ചു<br/>പാപം പോക്കി ദേവന്നു ഞങ്ങളെ<br/>രാജപുരോഹിത ഗണമാക്കി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീ അറുക്കപ്പെട്ടു നിൻ നിണംകൊണ്ടു<br/>സകലഗോത്രത്തിൽ നിന്നും<br/>ഭാഷയിൽ വംശത്തിൽ ജാതിയിൽ നിന്നും<br/>ഞങ്ങളെ വിലയ്ക്കു നീ വാങ്ങി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആദ്യനും അന്ത്യനും ജീവനുള്ളവനും<br/>അൽഫ ഒമേഗയും നീയേ<br/>മരിച്ചവനെങ്കിലും മരണത്തെ ജയിച്ചു നീ<br/>ജീവിക്കുന്നെന്നും ഞങ്ങൾക്കായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഹല്ലേലുയ്യാ രക്ഷയും മഹത്വവും<br/>ശക്തിയും ക്രിസ്തുവിനെന്നും<br/>ഹല്ലേലുയ്യാ ഹല്ലേലുയ്യാ<br/>ഹല്ലേലുയ്യാ ആമേൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

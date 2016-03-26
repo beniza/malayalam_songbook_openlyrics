@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>കരുണാകരാ! ദൈവമേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുണാകരാ! ദൈവമേ!<br/>വരമേകണേയീക്ഷണം<br/>തിരുവേദവാക്കേവരും<br/>ശരിയായ് ഗ്രഹിച്ചിടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മധുപോലെയല്ലേതിലും രസമേറുമീ ഭോജനം<br/>സുധതന്നെയാം പൊന്നിലും<br/>വിലകൂടുമാസാധനം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തിരുവാക്യമാരുള്ളിലോർത്തതു<br/>നല്ലപോൽ കാത്തിടുന്നവനെപ്പോഴും<br/>ദിവ്യമാമൊളിപൂണ്ടഹോ! നിന്നിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ബഹുദൂരമാം യാത്രയിൽ പിശകാതെ യീദാസരേ<br/>വഴികാട്ടുവാൻ നിൻ വചസ്സുതകും പടിക്കേകണം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രിപുസഞ്ചയം പോരിനായിളകുന്നിതാ; ശാന്തിയും<br/>ഭയവും കലർന്നുള്ളതാം<br/>പ്രതിവാദമോതുവതിന്നു നീ.</lines>
+    </verse>
+  </lyrics>
+</song>

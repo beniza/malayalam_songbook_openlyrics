@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>മമ കാന്തനെ ഒന്നു കാണുവാൻ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മമ കാന്തനെ ഒന്നു കാണുവാൻ<br/>മനം വെമ്പിടുന്നേ പ്രിയാ<br/>എന്റെ ഖേദം തീർത്തെന്നെ<br/>ചേർത്തിടുവാൻ എന്നു വന്നിടും നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്നോടൊന്നിച്ചുള്ള വാസമോർ-<br/>ക്കുമ്പോൾ ഉള്ളം തുള്ളുന്നേ...<br/>എന്റെ ആത്മനാഥനെ കണ്ടു<br/>നിർവൃതി പൂകിടുവതെന്നോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മണ്മറഞ്ഞ ശുദ്ധരും ശേഷം<br/>സിദ്ധരും ഒത്തുചേരുന്നാ...<br/>പൊൻപുലരി നാളിനായി കാത്തിടുന്നു<br/>ഞാൻ എന്നു വന്നിടും നീ.</lines>
+    </verse>
+  </lyrics>
+</song>

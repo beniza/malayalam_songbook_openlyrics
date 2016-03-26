@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:01">
+  <properties>
+    <titles>
+      <title>മനമേ വാഴ്ത്തുക! നാഥനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മനമേ വാഴ്ത്തുക! നാഥനെ<br/>തന്നുപകാരമോർത്തു നീ<br/>അനുദിനം ഭക്തി നിറഞ്ഞകമേ!<br/>ആത്മനാഥനെ വണങ്ങി</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്നഘങ്ങൾ ക്ഷമിച്ചിടുന്നു<br/>നിൻവിനകൾ അകറ്റിടുന്നു<br/>നന്മയും കരുണയും നിരന്തരം താൻ<br/>നിരവധിയായ് നിന്നിൽ പകർന്നിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മനം കലങ്ങി തളർന്നിടുമ്പോൾ<br/>മനസ്സലിയും ദൈവമവൻ<br/>അരികിൽ വരും നിനക്കഭയം തരും<br/>അളവില്ലാകൃപകൾ അവനരുളും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തിരുവദനം ദർശിക്കുകിൽ<br/>ഒരുകുറവും വരികയില്ല<br/>മരണം വരും വരെ കരുണയെഴും<br/>കരതലത്തിൽ നിന്നെ കരുതിടും താൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നല്ലവനാം ദൈവമെന്ന്<br/>എല്ലാനാളും രുചിച്ചറിവിൻ<br/>വല്ലഭനെ സ്തുതി ചെയ്തിടുവിൻ<br/>ഹല്ലേലുയ്യ സ്തോത്രം പാടിടുവിൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

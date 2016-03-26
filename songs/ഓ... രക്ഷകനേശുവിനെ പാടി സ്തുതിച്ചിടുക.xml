@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>ഓ... രക്ഷകനേശുവിനെ പാടി സ്തുതിച്ചിടുക</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഓ... രക്ഷകനേശുവിനെ പാടി സ്തുതിച്ചിടുക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപിയെത്തേടി പാരിതിൽ വന്നു<br/>പാടുസഹിച്ചു പരൻ<br/>പാപികൾക്കായ് മരിച്ചു<br/>മൂന്നാം ദിനമുയിർത്തു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മന്നവനേശു വൻമഹിമ വിട്ടു<br/>മന്നിതിൽ വന്നെനിക്കായ്<br/>വേദനയേറ്റധികം യാഗമായ്ത്തീർന്നെനിക്കായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപിയാമെന്നെ വീണ്ടെടുത്തോനും<br/>തൻമകനാക്കിയോനും<br/>പാവനനേശുവല്ലോ പാരിതിൻ നാഥനവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാരിതിൽ പലതാം കഷ്ടതയേറുകിൽ<br/>തെല്ലുമേ ഭയംവേണ്ട<br/>രക്ഷകനേശുവുണ്ട് സന്തതം താങ്ങിടുവാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വേഗം വരാമെന്നുരച്ച നാഥൻ<br/>വേഗം വന്നിടുമല്ലോ<br/>താമസമധികമില്ല നാഥനവൻ വരുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

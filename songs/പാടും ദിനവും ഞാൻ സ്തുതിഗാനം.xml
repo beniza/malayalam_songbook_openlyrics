@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:07">
+  <properties>
+    <titles>
+      <title>പാടും ദിനവും ഞാൻ സ്തുതിഗാനം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാടും ദിനവും ഞാൻ സ്തുതിഗാനം<br/>പരമതാതൻ തൻസുതദാനം<br/>പാപികൾക്കായ് നൽകിയതിനെ<br/>പറഞ്ഞുതീർക്കാൻ സാദ്ധ്യമതാമോ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിത്യസ്വത്തിനുടയവനെന്നാൽ<br/>നരർ നിമിത്തം ദരിദ്രനായ് തീർന്ന<br/>കൃപ നിനച്ചാൽ ഞാനുമതിന്നായ്<br/>പകരമെന്താണേകുവതിന്നാൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വൈരികൾക്കായ് സൂനുവെകൊല്ലാ<br/>നനുവദിക്കും താതനിലുള്ള<br/>സ്നേഹമെന്റെ ആയുസ്സിലെല്ലാം<br/>വിവരിച്ചാലും തീരുകയില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തൃപ്പദത്തിൽ ചുംബനം ചെയ്തും<br/>ബാഷ്പവർഷം കാൽകളിൽ പെയ്തും<br/>ഇടവിടാതെ കീർത്തനം ചെയ്തും<br/>കടമതീർത്താലും ബദലാമോ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അത്യഗാധം തൻനിനവെല്ലാം<br/>അതിശയം തൻകൃത്യമതെല്ലാം<br/>അപ്രമേയം തന്നുടെ സ്നേഹം<br/>അവർണ്ണനീയമാണിവയെല്ലാം.</lines>
+    </verse>
+  </lyrics>
+</song>

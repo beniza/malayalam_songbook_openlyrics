@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:31">
+  <properties>
+    <titles>
+      <title>സ്വർഗ്ഗപിതാവെ അങ്ങയെ ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്വർഗ്ഗപിതാവെ അങ്ങയെ ഞാൻ<br/>ആരാധിക്കുന്നു സ്തുതിക്കുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജീവനും എന്റെ സർവ്വസ്വവും നിൻ<br/>മുമ്പിലണച്ചു കുമ്പിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യേശുവേ നാഥാ അങ്ങയെ ഞാൻ<br/>ആരാധിക്കുന്നു സ്തുതിക്കുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാവനാത്മാവേ അങ്ങയെ ഞാൻ<br/>ആരാധിക്കുന്നു സ്തുതിക്കുന്നു</lines>
+    </verse>
+  </lyrics>
+</song>

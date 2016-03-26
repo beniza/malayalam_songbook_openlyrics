@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:07">
+  <properties>
+    <titles>
+      <title>വല്ലഭനേശു എൻ കൂടെയുണ്ടല്ലോ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വല്ലഭനേശു എൻ കൂടെയുണ്ടല്ലോ<br/>നല്ലവനായെന്നും അരികിലുണ്ട്<br/>ഉന്നതങ്ങളിൽ അധിവസിക്കും താതൻ<br/>എന്നും എന്റെ അരികിലുണ്ട് (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകാന്ത്യം വരെയും കൈവിടാത്തവൻ<br/>സകലവും നന്മയ്ക്കായ് ചെയ്തിടുന്നോൻ<br/>ഉന്നതങ്ങളിൽ അധിവസിക്കും താതൻ<br/>എന്നും എന്റെ അരികിലുണ്ട് (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തൻ മക്കൾക്കായ് വീടൊരുക്കുന്നോൻ<br/>വീണ്ടുംവരുമെന്ന് അരുളിച്ചെയ്തോൻ<br/>ഉന്നതങ്ങളിൽ അധിവസിക്കും താതൻ<br/>എന്നും എന്റെ അരികിലുണ്ട് (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരണത്തിൻനിഴൽ താഴ്വരയതിലും<br/>എൻകൂടെയുണ്ടെന്നുര ചെയ്തവൻ<br/>ഉന്നതങ്ങളിൽ അധിവസിക്കും താതൻ<br/>എന്നും എന്റെ അരികിലുണ്ട് (2)</lines>
+    </verse>
+  </lyrics>
+</song>

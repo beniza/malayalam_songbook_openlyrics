@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:47">
+  <properties>
+    <titles>
+      <title>കർത്താവിനെ നാം സ്തുതിക്ക ഹേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2 v9 v2 v10 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്താവിനെ നാം സ്തുതിക്ക ഹേ! ദൈവമക്കളേ<br/>സന്തോഷത്തിൽ നാം അർപ്പിക്ക സ്തോത്രത്തിൻ ബലിയെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നാം സ്തോത്രം സ്തോത്രം സ്തോത്രം കഴിക്ക<br/>സ്തോത്രം സ്തോത്രം നാം സ്തോത്രം കഴിക്ക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വിശുദ്ധ സ്നേഹബന്ധത്താൽ ഒരേ ശരീരമായ്<br/>നാം ചേർക്കപ്പെട്ടതാകയാൽ ചേരുവിൻ സ്തുതിക്കായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പിതാവു ഏകജാതനെ നമുക്കു തന്നല്ലോ<br/>ഹാ! സ്നേഹത്തിൻ അഗാധമേ നിന്നെ ആരായാമോ?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നാം പ്രിയപ്പെട്ട മക്കളായ് വിളിച്ചപേക്ഷിപ്പാൻ<br/>തൻ ആത്മാവെ അച്ചാരമായ് നമുക്കു നൽകി താൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഒരേദൻ തോട്ടം പോലിതാ തൻ വചനങ്ങളാം<br/>വിശിഷ്ടഫലം സർവ്വദാ ഇഷ്ടംപോൽ ഭക്ഷിക്കാം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഈ ലോകത്തിൻ ചിന്താകുലം ദൈവാശ്രിതർക്കില്ല<br/>തൻ പൈതങ്ങളിൻ ആവശ്യം താൻ കരുതും സദാ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>കർത്താവിൻ നാമം നിമിത്തം അനേക കഷ്ടവും<br/>നേരിടുമ്പോഴും ധന്യർ നാം ഇല്ലൊരു നഷ്ടവും</lines>
+    </verse>
+    <verse name="v9">
+      <lines>ഈ വിതയ്ക്കുന്ന കാലം നാം ചിലപ്പോൾ കരയും<br/>പിതാവോ കണ്ണുനീരെല്ലാം തുടച്ചുകളയും</lines>
+    </verse>
+    <verse name="v10">
+      <lines>തൻനിത്യരാജ്യം നൽകുവാൻ പിതാവിനിഷ്ടമായ്<br/>തൻമുഖത്തിൻ മുമ്പാകെ താൻ നിർത്തും തൻസ്തുതിക്കായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

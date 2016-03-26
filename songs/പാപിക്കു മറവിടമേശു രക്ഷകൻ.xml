@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>പാപിക്കു മറവിടമേശു രക്ഷകൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാപിക്കു മറവിടമേശു രക്ഷകൻ<br/>പാരിതിൽ വന്നു ജീവൻ തന്നവൻ<br/>പരമോന്നതൻ കുരിശോളവും<br/>തന്നെത്താഴ്ത്തിയെന്നെയോർത്തവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഉലകത്തിൻ പാപത്തെ നീക്കുവാൻ<br/>ഉടലെടുത്തൂഴിയിൽ വന്നവൻ<br/>ഉയിർ തന്നവൻ മൂന്നാം ദിനം<br/>ഉയിർത്തെഴുന്നു വാനിൽ ചെന്നവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നുമുള്ളവൻ സർവ്വവല്ലഭൻ<br/>മണ്ണും വിണ്ണുമെല്ലാമുണ്ടാക്കിയോൻ<br/>ഉന്നതാധിപൻ ഹീന പാപിയാ-<br/>മെന്നെത്തേടിവന്നതത്ഭുതം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വഴി സത്യം ജീവനുമായവൻ<br/>വഴി പിശകാതെ നടത്തിടും<br/>പൊഴിയും സദാ കൃപ മാരിപോൽ തേൻ<br/>മൊഴികൾ തൂകി താങ്ങിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാപഭാരം പേറി വലഞ്ഞിനി<br/>ശാപത്തീയിൽ വീണെരിയാതെ നാം<br/>കൃപയേറിടും ക്രിസ്തുവേശുവിൻ<br/>കുരിശിൽ വിശ്രാമം നേടിടാം.</lines>
+    </verse>
+  </lyrics>
+</song>

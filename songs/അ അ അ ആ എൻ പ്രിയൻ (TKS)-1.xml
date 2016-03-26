@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:09">
+  <properties>
+    <titles>
+      <title>അ അ അ ആ എൻ പ്രിയൻ</title>
+	  <title lang="ml" translit="en">a a a aa en priyan</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>TKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അ അ അ ആ എൻ പ്രിയൻ<br/>ഒ ഒ ഒ ഓ നല്ലവൻ!</lines>
+    </verse>
+    <verse name="v1" lang="ml" translit="en">
+      <lines>Aa Aa Aa Aa en priyan<br/>O O O O nallavan!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഈ വിധം സ്നേഹിതൻ പാരിലാർ<br/>വീണ്ടെടുത്താനെന്നെത്തൻ ചോരയാൽ</lines>
+    </verse>
+    <verse name="v2" lang="ml" translit="en">
+      <lines>Ee vidham snehithan paarilaar<br/>Veendaduthennaythan chorayaal</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൈവിടുകയില്ലവനല്ലലിൽ <br/>വീഴുകിൽത്തൻ ശാശ്വത കൈകളിൽ</lines>
+    </verse>
+    <verse name="v3" lang="ml" translit="en">
+      <lines>Kaividukaeillavanallalil<br/>Veezhukilthan shaswatha kaikalil</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചൂടെഴുന്ന ശോധനവേളയിൽ കൂടെ വന്നു ചേരുമച്ചൂളയിൽ</lines>
+    </verse>
+    <verse name="v4" lang="ml" translit="en">
+      <lines>Choodezhunna shodhanavelayil<br/>Koode vannu cherumachchoolayil</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കൂട്ടിനുണ്ട് കൂടെന്നുമിദ്ധരേ വീട്ടിലെത്തി വിശ്രമിക്കും വരെ</lines>
+    </verse>
+    <verse name="v5" lang="ml" translit="en">
+      <lines>Koottinudu koodennumiddhare<br/>Veettileththi visramikkum vare</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നശ്വരമല്ലാത്തൊരു ദേഹവും ഇശ്ശരീരം മാറ്റിത്താൻ തന്നിടും</lines>
+    </verse>
+    <verse name="v6" lang="ml" translit="en">
+      <lines>Naswvaramallaaththoru dehavum<br/>Esareeram maatiththaan thannidum</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഹല്ലേലുയ്യാ പാടിടും മോദമായ് നല്ലവനാം എൻപ്രിയൻ മൂലമായ്</lines>
+    </verse>
+    <verse name="v7" lang="ml" translit="en">
+      <lines>Halleluyyaa paadidum modamaay<br/>Nallavanaam enpriyan moolamaay</lines>
+    </verse>
+  </lyrics>
+</song>

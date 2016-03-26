@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:11">
+  <properties>
+    <titles>
+      <title>അനുഗ്രഹത്തിന്നധിപതിയേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അനുഗ്രഹത്തിന്നധിപതിയേ!<br/>അനന്തകൃപ പെരും നദിയേ!<br/>അനുദിനം നിൻപദം ഗതിയേ!<br/>അടിയനു നിൻ കൃപ മതിയേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വൻവിനകൾ വന്നിടുകിൽ<br/>വലയുകയില്ലെൻ ഹൃദയം<br/>വല്ലഭൻ നീയെന്നഭയം<br/>വന്നിടുമോ പിന്നെഭയം?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തന്നുയിരെ പാപികൾക്കായ്<br/>തന്നവനാം നീയിനിയും<br/>തള്ളിടുമോ ഏഴയെന്നെ<br/>തീരുമോ നിൻ സ്നേഹമെന്നിൽ?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തിരുക്കരങ്ങൾ തരുന്ന നല്ല<br/>ശിക്ഷയിൽ ഞാൻ പതറുകില്ല<br/>മക്കളെങ്കിൽ ശാസനകൾ<br/>സ്നേഹത്തിൻ പ്രകാശനങ്ങൾ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാരിടമാം പാഴ്മണലിൽ<br/>പാർത്തിടും ഞാൻ നിൻതണലിൽ<br/>മരണദിനം വരുമളവിൽ<br/>മറഞ്ഞിടും നിൻ മാർവ്വിടത്തിൽ</lines>
+    </verse>
+  </lyrics>
+</song>

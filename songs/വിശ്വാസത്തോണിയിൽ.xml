@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:00">
+  <properties>
+    <titles>
+      <title>വിശ്വാസത്തോണിയിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വിശ്വാസത്തോണിയിൽ<br/>അക്കരെക്ക് പോകും നാം<br/>ഹല്ലേലുയ്യാ എന്നും പാടാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹല്ലേലുയ്യാ ഹല്ലേലുയ്യാ<br/>ഹല്ലേലുയ്യാ ഏറ്റുപാടാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അല്ലൽ പരന്നാലും<br/>അലമാല വന്നാലും<br/>ഉല്ലാസത്തോടെന്നും പാടാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കാറ്റങ്ങടിക്കുമ്പോൾ<br/>ഊറ്റമായലറുമ്പോൾ<br/>കൂട്ടിനായുണ്ടേശു നാഥൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തീരത്തണയുവാൻ<br/>തീരാമോദം പൂകുവാൻ<br/>തീരെയില്ല നാളുകളിനി</lines>
+    </verse>
+    <verse name="v6">
+      <lines>അന്ത്യം വരെയെന്നും<br/>ചുക്കാൻ പിടിക്കുവാൻ<br/>അമരത്തെന്നേശുവുണ്ട്.</lines>
+    </verse>
+  </lyrics>
+</song>

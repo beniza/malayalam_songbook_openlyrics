@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>ഭൂവാസികളെ യഹോവയ്ക്കാർപ്പിടുവിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അവൻ നല്ലവനല്ലോ ദയയെന്നുമുള്ളത്<br/>അവൻ വല്ലഭനല്ലോ ദയയെന്നുമുള്ളത്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യഹോവ തന്നെ ദൈവമെന്നറിവിൻ<br/>അവൻ നമ്മെ മെനഞ്ഞുവല്ലോ<br/>അവൻ നമുക്കുള്ളവൻ നാം അവന്നുള്ളവൻ<br/>അവനെ വാഴ്ത്തിടുവിൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യഹോവ തന്നെ വിശ്വസ്തനെന്നറിവിൻ<br/>അവൻ നല്ല ഇടയൻ തന്റെ ആടുകൾ നാം<br/>അവനെ വാഴ്ത്തിടുവിൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

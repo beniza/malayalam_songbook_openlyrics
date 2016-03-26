@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:39">
+  <properties>
+    <titles>
+      <title>കൃപ മനോഹരം ചെവിക്കിമ്പസ്വരം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കൃപ മനോഹരം ചെവിക്കിമ്പസ്വരം<br/>പ്രതിധ്വനിയാൽ മുഴങ്ങും സ്വർല്ലോകം ഭൂമിയും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൃപയാൽ രക്ഷ ഇതെൻ ആശ്രയം<br/>യേശു സർവ്വ നരർക്കായ് മരിച്ചാനെനിക്കും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവഗ്രന്ഥത്തിലെൻ നാമമെഴുതിയേ<br/>ശ്രീദേവാട്ടിൻകുട്ടി താനെൻ മുഴു ദുഃഖമേറ്റേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൃപയാലെൻ പാദം ചേർന്നല്ലോ സ്വർപ്പഥം<br/>പുതുനിറവെന്നും സിദ്ധം യേശുവിൽ ചേർന്നതാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പ്രാർത്ഥിപ്പാനെന്നുള്ളം കൃപയാൽ പഠിച്ചേ<br/>കാത്തു കൃപയിന്നാളോളം എന്നെ കൈവിട്ടില്ലേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആ കൃപ ഊതട്ടെ എന്നിൽ ദൈവബലം<br/>ഏൽപ്പിക്കുന്നെൻ ബലമാകെ, നിനക്കെന്നായുസ്സും.</lines>
+    </verse>
+  </lyrics>
+</song>

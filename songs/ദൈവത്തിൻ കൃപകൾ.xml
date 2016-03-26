@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:39">
+  <properties>
+    <titles>
+      <title>ദൈവത്തിൻ കൃപകൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവത്തിൻ കൃപകൾ ഓർത്ത് ധ്യാനിക്കുമ്പോൾ<br/>നന്ദിയാൽ എന്നുള്ളമെന്നും തുടിച്ചിടുന്നു (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മരുയാത്രയിലാശ്രയ സ്ഥാനമവൻ<br/>ഇരുൾ പാതയിലൊളിമിന്നും ദീപമവൻ<br/>എന്നെന്നും കാത്തിടും നല്ലവൻ നായകൻ<br/>കൂട്ടിനായുണ്ടെന്നും മനമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആധികൾ വ്യാധികൾ വരും വേളകളിൽ<br/>ആശ്രയിച്ചിടുവാനൊരു പാറയവൻ<br/>എന്നെന്നും കാത്തിടും നല്ലവൻ നായകൻ<br/>കൂട്ടിനായുണ്ടെന്നു മനമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എനിക്കായ് വിണ്ണിൽ വാസസ്ഥലമൊരുക്കി<br/>എന്നെ ചേർത്തിടുവാൻ വേഗം വരുന്ന പ്രിയൻ<br/>എന്നെന്നും കാത്തിടും നല്ലവൻ നായകൻ<br/>കൂട്ടിനായുണ്ടെന്നും മനമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

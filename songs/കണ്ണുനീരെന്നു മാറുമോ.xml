@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>കണ്ണുനീരെന്നു മാറുമോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കണ്ണുനീരെന്നു മാറുമോ<br/>വേദനകൾ എന്നു തീരുമോ<br/>കഷ്ടപ്പാടിൻ കാലങ്ങളിൽ<br/>രക്ഷിപ്പാനായ് നീ വരണേ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇഹത്തിൽ ഒന്നും ഇല്ലായേ<br/>നേടിയതെല്ലാം മിഥ്യയേ<br/>പരദേശിയാണുലകിൽ<br/>ഇവിടെന്നും അന്യനല്ലോ (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരനേ വിശ്രാമ നാട്ടിൽ ഞാൻ<br/>എത്തുവാൻ വെമ്പൽകൊള്ളുന്നേ<br/>ലേശം താമസം വയ്ക്കല്ലേ<br/>നിൽപ്പാൻ ശക്തി തെല്ലും ഇല്ലായേ (2)</lines>
+    </verse>
+  </lyrics>
+</song>

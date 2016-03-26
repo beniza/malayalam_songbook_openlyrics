@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:12">
+  <properties>
+    <titles>
+      <title>എൻ രക്ഷകനേശു</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ രക്ഷകനേശു നാഥനെന്നും ജീവിക്കുന്നു<br/>എന്നെ കൈവിടാതെ കാത്തു നിത്യം പാലിക്കുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഞാൻ പാടി സ്തുതിച്ചിടുമേ എൻരക്ഷകനേശുവിനെ<br/>എൻജീവിത കാലമെല്ലാം ഞാൻ പാടി പുകഴ്ത്തിടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇരുളിൻ പാതയിൽ ഇടറും നേരത്തിൽ തുണയായ് വന്നിടും താൻ<br/>കരം പിടിച്ചു വഴി നടത്തും കരുണയിന്നുറവിടം താൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരുവിൻ താപത്താൽ പെരുകും ദാഹത്താൽ ക്ഷീണിതനായിടുമ്പോൾ<br/>ദാഹജലം പകർന്നു തരും ജീവജലവും അവൻ താൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കുരിശിൽ ആണിയാൽ തുളച്ച പാണിയാൽ അവനെന്നെ താങ്ങിടുമേ<br/>ആപത്തിലും രോഗത്തിലും അവനെനിക്കാശ്രയമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കരയും കണ്ണുകൾ തുവരും നാളിനി അധികം വിദൂരമല്ല<br/>കാന്തൻ മുഖം കാണ്മതിനായ് താമസമേറെയില്ല.</lines>
+    </verse>
+  </lyrics>
+</song>

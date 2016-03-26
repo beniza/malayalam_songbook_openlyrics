@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>സ്തുതി ധനം മഹിമ സകലവും നിനക്കേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതി ധനം മഹിമ സകലവും നിനക്കേ<br/>സ്തുതികളിൽ വസിക്കും പരിശുദ്ധപരനേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സുരപുരിയിൽ നിൻ ജനകൻ തന്നരികിൽ<br/>പരിചൊടുല്ലസിച്ചു വസിച്ചിരുന്നവൻ നീ<br/>നരകുല വിനകൾ പരിഹരിച്ചിടുവാൻ<br/>ധരണിയിൽ നരനായ് അവതരിച്ചവൻ നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉലകിതിലിതുപോൽ മലിനത ലേശം<br/>കലരാതൊരുവനെ കാൺമതില്ലനിശം<br/>അതിഗുണമിയലും രമണീയനാം നിൻ<br/>പദതളിരിണകൾ വണങ്ങി ഞാൻ സ്തുതിക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അടിമുടി മുഴുവൻ മുറിവുകളേറ്റു<br/>കഠിനമാം വ്യഥയാൽ തകർന്നു നിൻ ഹൃദയം<br/>നിണമെല്ലാം ചൊരിഞ്ഞെൻ കലുഷതയകറ്റി<br/>നിതമിതു മനസ്സിൽ നിനച്ചു ഞാൻ സ്തുതിക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഗിരിമുകളിൽ വൻ കുരിശിൽ വച്ചുറക്കെ<br/>കരഞ്ഞു നിന്നുയിർ നീ വെടിഞ്ഞുവെന്നാലും<br/>മരണത്തെ ജയിച്ചു, ഉയിർത്തെഴുന്നേറ്റു<br/>പരമതിൽ വാഴും പരമരക്ഷകൻ നീ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പരമതിലുമീ ധരയിതിലും നിൻ<br/>പരിശുദ്ധനാമം പരമപ്രധാനം<br/>അഖിലരും വണങ്ങും തവ തിരുമുമ്പിൽ<br/>അടിപണിയുന്നു വിനയമോടടിയൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:52">
+  <properties>
+    <titles>
+      <title>സീയോൻ സഞ്ചാരിയായി</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സീയോൻ സഞ്ചാരിയായി<br/>യേശുവിൽ ചാരി ഞാൻ<br/>പോകുന്നു കുരിശിന്റെ പാതയിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മോക്ഷയാത്രയാണിത് ഞാൻ നടപ്പത്<br/>കാഴ്ചയാലെയല്ല വിശ്വാസത്താലെയാം<br/>വീഴ്ചകൾ താഴ്ചകൾ വന്നിടും വേളയിൽ<br/>രക്ഷകൻ കൈകളിൽ താങ്ങിടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകമേതും യോഗ്യം അല്ലെനിക്കതാൽ<br/>ശോകമില്ല ഭാഗ്യം ഉണ്ടു ക്രിസ്തുവിൽ<br/>നാഥനു മുൾമുടി നൽകിയ ലോകമേ<br/>നീ തരും പേരെനിക്കെന്തിനായ്?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സാക്ഷികൾ സമൂഹം എന്റെ ചുറ്റിലും<br/>നിൽക്കുന്നായിരങ്ങൾ ആകയാലെ ഞാൻ<br/>ഭാരവും പാപവും വിട്ടു ഞാനോടുമ<br/>ന്നേരവും യേശുവെ നോക്കിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്നെ നേടുന്ന സന്തോഷമോർത്തതാൽ<br/>നിന്ദകൾ സഹിച്ചു മരിച്ച നാഥനെ<br/>ധ്യാനിച്ചും മാനിച്ചും സേവിച്ചും പോകയിൽ<br/>ക്ഷീണമെന്തെന്നറികില്ല ഞാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ബാലശിക്ഷ നൽകുമെന്നപ്പനെങ്കിലും<br/>ചേലെഴും തൻ സ്നേഹം കുറഞ്ഞുപോയിടാ<br/>നന്മയേ തൻകരം നൽകുമെന്നീശനിൽ<br/>എന്മനം വിശ്രമം നേടിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:06">
+  <properties>
+    <titles>
+      <title>എന്നെ കരുതുന്ന വിധങ്ങളോർത്താൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നെ കരുതുന്ന വിധങ്ങളോർത്താൽ<br/>നന്ദിയാലുള്ളം നിറഞ്ഞിടുന്നേ<br/>എന്നെ നടത്തുന്ന വഴികളോർത്താൽ<br/>ആനന്ദത്തിൻ അശ്രു പൊഴിഞ്ഞിടുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുവേ രക്ഷകാ നിന്നെ ഞാൻ സ്നേഹിക്കും<br/>ആയുസ്സിൻ നാളെല്ലാം നന്ദിയാൽ പാടിടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപക്കുഴിയിൽ ഞാൻ താണിടാതെൻ<br/>പാദം ഉറപ്പുള്ള പാറമേൽ നിർത്തി<br/>പാടാൻ പുതുഗീതം നാവിൽ തന്നു<br/>പാടും സ്തുതികൾ എന്നേശുവിന്ന്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉള്ളം കലങ്ങിടും വേളയിലെൻ<br/>ഉള്ളിൽ വന്നേശു ചൊല്ലിടുന്നു<br/>തെല്ലും ഭയം വേണ്ടാഎൻമകനേ<br/>എല്ലാനാളും ഞാൻ കൂടെയുണ്ട്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഓരോ ദിവസവും വേണ്ടതെല്ലാം<br/>വേണ്ടുംപോൽ നാഥൻ നൽകിടുന്നു<br/>തിന്നു തൃപ്തനായി തീർന്നശേഷം<br/>നന്ദിയാൽ സ്തോത്രം പാടുമെന്നും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ക്ഷീണനായി ഞാൻ തീർന്നിടുമ്പോൾ<br/>ക്ഷണം യേശു എന്നരികിൽ വരും<br/>ക്ഷോണി തന്നിൽ ഞാൻ തളർന്നിടാതെ<br/>ക്ഷേമമാകും എന്നേശു നാഥൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ദേഹം ക്ഷയിച്ചാലും യേശുവെ നിൻ<br/>സ്നേഹം ഘോഷിക്കും ലോകമെങ്ങും<br/>കാണ്മാൻ കൊതിക്കുന്നേ നിൻമുഖം ഞാൻ<br/>കാന്താ വേഗം നീ വന്നിടണേ.</lines>
+    </verse>
+  </lyrics>
+</song>

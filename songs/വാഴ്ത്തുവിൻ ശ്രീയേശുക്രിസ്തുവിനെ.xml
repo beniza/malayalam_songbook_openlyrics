@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>വാഴ്ത്തുവിൻ ശ്രീയേശുക്രിസ്തുവിനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഴ്ത്തുവിൻ ശ്രീയേശുക്രിസ്തുവിനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദൈവത്തിൻ പുത്രനവൻ<br/>വേദത്തിൻ സാരമവൻ<br/>വാനവർ രാപ്പകൽ വീണു<br/>വണങ്ങുന്നോരുന്നത ദേവനവൻ<br/>ഹല്ലെലുയ്യ പാടി വാഴ്ത്തിടുവിൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപത്തിൻ ഭാരത്താൽ നാം<br/>പാരം വലഞ്ഞ നേരം<br/>ഘോര കുരിശതിൽ ചോര<br/>ചൊരിഞ്ഞവൻ വീണ്ടെടുത്തല്ലോ നമ്മെ<br/>ഹല്ലെലുയ്യ പാടി വാഴ്ത്തിടുവിൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇത്ര നല്ല രക്ഷകനെയെത്രയാരാധിച്ചാലും<br/>ഭക്തരിന്നാഗ്രഹം തീരുകില്ലൽപ്പവു<br/>മെത്രയോ നിസ്തുലൻ താൻ!<br/>ഹല്ലെലുയ്യ പാടി വാഴ്ത്തിടുവിൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കർത്താധി കർത്താവു താൻ രാജാധിരാജാവു താൻ<br/>വിണ്ണിലും മന്നിലും സർവ്വാധികാരവും<br/>പ്രാപിച്ച നായകൻ താൻ<br/>ഹല്ലെലുയ്യ പാടി വാഴ്ത്തിടുവിൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ക്രിസ്തുവിൻ തൃപ്പാദത്തിൽ ഭക്തിയോടെപ്പൊഴുമേ<br/>സ്തോത്രവും സ്തുതിയും മാനം മഹത്വവും<br/>അർപ്പിച്ചു കുമ്പിടുവിൻ<br/>ഹല്ലെലുയ്യ പാടി വാഴ്ത്തിടുവിൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

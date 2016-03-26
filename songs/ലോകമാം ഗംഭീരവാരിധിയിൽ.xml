@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:54">
+  <properties>
+    <titles>
+      <title>ലോകമാം ഗംഭീരവാരിധിയിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ലോകമാം ഗംഭീരവാരിധിയിൽ<br/>വിശ്വാസക്കപ്പലിലോടിയിട്ട്<br/>നിത്യവീടൊന്നുണ്ടവിടെയെത്തി<br/>കർത്തനോടുകൂടെ വിശ്രമിക്കും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യാത്ര ചെയ്യും ഞാൻ ക്രൂശെ നോക്കി<br/>യൂദ്ധം ചെയ്യും ഞാനേശുവിന്നായ്<br/>ജീവൻ വച്ചിടും രക്ഷകനായ്<br/>അന്ത്യശ്വാസം വരെയും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാലം കഴിയുന്നു നാൾകൾ പോയി<br/>കർത്താവിൻ വരവു സമീപമായ്<br/>മഹത്വനാമത്തെകീർത്തിപ്പാനായ്<br/>ശക്തീകരിക്ക നിൻ ആത്മാവിനാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഞെരുക്കത്തിൻ അപ്പം ഞാൻ തിന്നെന്നാലും<br/>കഷ്ടത്തിൻ കണ്ണുനീർ കുടിച്ചെന്നാലും<br/>ദേഹിദുഃഖത്താൽ ക്ഷയിച്ചെന്നാലും<br/>എല്ലാം പ്രതികൂലമായെന്നാലും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലോകം ത്യജിച്ചതാം സിദ്ധൻമാരും<br/>നിർമ്മല ജ്യോതിസ്സാം ദൂതൻമാരും<br/>രക്തസാക്ഷികളാം സ്നേഹിതരും<br/>സ്വാഗതം ചെയ്യും മഹൽസദസ്സിൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വീണ്ടെടുപ്പിൻ ഗാനം പാടി വാഴ്ത്തി<br/>രക്ഷകനേശുവെ കുമ്പിടും ഞാൻ<br/>കഷ്ടത തുഷ്ടിയായ് ആസ്വദിക്കും<br/>സാധുക്കൾ മക്കൾക്കീ ഭാഗ്യം ലഭ്യം.</lines>
+    </verse>
+  </lyrics>
+</song>

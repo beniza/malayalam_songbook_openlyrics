@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:55">
+  <properties>
+    <titles>
+      <title>വിശ്വാസ ജീവിതപ്പടകിൽ ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വിശ്വാസ ജീവിതപ്പടകിൽ ഞാൻ<br/>സീയോൻ നഗരിയിൽ പോകുന്നു ഞാൻ<br/>വിശ്വാസനായകനേശുവെ നോക്കി<br/>വിശ്രമദേശത്തു പോകുന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അലകൾ പടകിൽ അടിച്ചെന്നാൽ<br/>അല്ലലൊരൽപ്പവുമില്ലെനിക്ക്<br/>ആഴിയുമൂഴിയും നിർമ്മിച്ച നാഥൻ<br/>അഭയമായെന്നരികിലുണ്ട്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാനാ പരീക്ഷകൾ വേദനകൾ<br/>നന്നായെനിക്കിന്നുണ്ടായിടിലും<br/>നാഥനെയുള്ളത്തിൽ ധ്യാനിച്ചു എൻ<br/>ക്ഷീണം മറന്നങ്ങു പോകുന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരണനിഴലിൻ താഴ്വരയിൽ<br/>ശരണമായെനിക്കേശുവുണ്ട്<br/>കരളലിഞ്ഞു എൻകൈകൾ പിടിച്ചു<br/>കരുതി നടത്തുമെന്നന്ത്യം വരെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിണ്ണിലെൻ വീട്ടിൽ ഞാൻ ചെന്നു ചേരും<br/>കണ്ണുനീരൊക്കെയുമന്നു തീരും<br/>എണ്ണിയാൽ തീരാത്ത തൻ കൃപകൾ<br/>വർണ്ണിച്ചു പാദത്തിൽ വീണിടും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

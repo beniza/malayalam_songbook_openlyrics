@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:51">
+  <properties>
+    <titles>
+      <title>എൻമനം പുതുഗീതം പാടി വാഴ്ത്തിപ്പുകഴ്ത്തിടുമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻമനം പുതുഗീതം പാടി വാഴ്ത്തിപ്പുകഴ്ത്തിടുമേ<br/>മന്നവനേശുവിനെ നിത്യജീവനെനിക്കരുളാനവൻ തിരു<br/>ജീവനെത്തന്നല്ലോ എനിക്കവൻ തൻജീവനെത്തന്നല്ലോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സന്തതം തന്നുപകാരങ്ങളെന്നന്തരംഗമോർത്തു പാടിടുമേ<br/>അന്തമില്ലാ കൃപ പകർന്നെൻ ബന്ധനമഴിച്ചവൻ വീണ്ടെടുത്തു<br/>സ്വന്തമാക്കി ദൈവപൈതലാക്കി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകം തരാത്ത സമാധാനവും ശോകം കലരാത്തൊരാനന്ദവും<br/>അനുദിനവും അരുളിയെന്നെ അനുഗ്രഹിക്കുന്നവനത്ഭുതമായ്<br/>അനുഗമിക്കുന്നു ഞാനിന്നവനെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാരിടമിതിൽ പല ശോധനകൾ നേരിടുകിലും ഭയമില്ലെനിക്കു<br/>ചാരിടും ഞാനെൻപെഴും തൻ മാറിടമതിലഭയം തിരയും<br/>മാറിടുമെൻ മനഃക്ലേശമെല്ലാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നല്ല പോരാട്ടം പോരാടിടും ഞാൻ മുമ്പിലുള്ളോട്ടം തികച്ചിടും ഞാൻ<br/>വിശ്വാസത്തെ കാത്തിടുമെന്നാശ്വാസനാട്ടിൽ ഞാനെത്തിടുമേ<br/>ദർശിക്കുമേശുവിൻ പൊൻമുഖം ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:18">
+  <properties>
+    <titles>
+      <title>മരിസുതനാം മനുവേലാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മരിസുതനാം മനുവേലാ!<br/>മഹിയിലെനിക്കനുകൂലാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മരണദിനം വരെ മാമക സഖി നീ<br/>ശരണമിനിയും നിൻപാദം<br/>തരണമെനിക്കതുമോദം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മരുഭൂവാസമേ ജീവിതമോർക്കിൽ<br/>തിരുമുഖകാന്തിയൊന്നല്ലാ-<br/>തൊരുസുഖമിന്നെനിക്കില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കരുമനകൾ തരും കണ്ണുനീർ കണങ്ങൾ<br/>കരുണയെഴും തവ കരങ്ങൾ<br/>കരുതുകിൽ തൂമുത്തു ഗണങ്ങൾ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആകുലസിന്ധുവിൽ താഴുകിലന്നു<br/>സ്വീകരിക്കന്തികേ വന്നു<br/>ശ്രീകരമാം കരം തന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

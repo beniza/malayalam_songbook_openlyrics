@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>സ്തുതിപ്പിൻ സ്തുതിപ്പിൻ അനുദിനം സ്തുതിപ്പിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതിപ്പിൻ സ്തുതിപ്പിൻ അനുദിനം സ്തുതിപ്പിൻ<br/>യേശുദേവനെ സ്തുതിച്ചിടുവിൻ<br/>സർവ്വവല്ലഭനാമവനുന്നതനാം<br/>നമ്മെ വീണ്ടെടുത്തോനവനാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആ... ആനന്ദമായ് സ്തുതി പാടിടുവിൻ<br/>ജീവനാഥനെ പുകഴ്ത്തിടുവിൻ<br/>സത്യദൈവമവൻ നിത്യജീവനവൻ<br/>സ്വർഗ്ഗവാതിലും വഴിയുമവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തിരുക്കരതലത്തിൽ നമ്മെ വരച്ചുവല്ലോ<br/>പരനാദിയിൽ മുന്നറിവിൽ<br/>ഒരു നാളുമതാലവൻ തള്ളിടുമോ<br/>നമ്മെ പേർചൊല്ലി വിളിച്ചുവല്ലോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഒരു ജനനി തൻ കുഞ്ഞിനെ മറന്നിടിലും<br/>അവൻ മറക്കുകില്ലൊരിക്കലുമേ<br/>സ്വന്തജീവനെയും തന്നു സ്നേഹിച്ചവൻ<br/>നമ്മെ കാത്തിടുമന്ത്യം വരെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ക്ഷാമം പെരുകിടിലും ഭൂമി കുലുങ്ങിടിലും<br/>ജനം ആകുലരായിടിലും<br/>ദൈവപൈതങ്ങൾ നാം തെല്ലും ഭയന്നിടുമോ<br/>തുണ വല്ലഭനേശുവല്ലോ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മേഘവാഹനത്തിൽ സ്വർഗ്ഗദൂതരുമായ്<br/>മദ്ധ്യവാനിലവൻ വരും നാൾ<br/>തിരുസന്നിധിയിൽ നമ്മെ ചേർത്തണയ്ക്കും<br/>സർവ്വതുമ്പവും പരിഹരിക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

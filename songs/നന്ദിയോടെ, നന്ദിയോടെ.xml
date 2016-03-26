@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>നന്ദിയോടെ, നന്ദിയോടെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നന്ദിയോടെ, നന്ദിയോടെ<br/>നാഥാ നിന്നെ നമിക്കുന്നു<br/>നന്ദിയോടെ, നന്ദിയോടെ<br/>നന്മകൾ വാഴ്ത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>താഴ്ചയിലെന്നെ നീ ഓർത്തതിനാൽ<br/>താണു നരാകൃതി പൂണ്ടതിനാൽ<br/>നീചനാമെന്നെയും നീ<br/>സൂനുവായ് തീർത്തതിനാൽ (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിത്യത മുഴവുനും പാടിയാലും<br/>എത്തിപ്പോകാത്തതാം നന്മകളാൽ<br/>എന്നെ നിറച്ചവൻ നീ<br/>എന്നെ നയിപ്പവൻ നീ (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ജീവൻ വെടിഞ്ഞെന്നെ വീണ്ടനാഥാ<br/>ജീവിക്കുന്നിന്നു നീ ഉന്നതത്തിൽ<br/>ജീവിത നാൾകളെല്ലാം<br/>നീ മതിയീ മരുവിൽ. (2)</lines>
+    </verse>
+  </lyrics>
+</song>

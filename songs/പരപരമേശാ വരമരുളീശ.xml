@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:11">
+  <properties>
+    <titles>
+      <title>പരപരമേശാ വരമരുളീശ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരപരമേശാ വരമരുളീശ നീയത്രേയെൻ രക്ഷാസ്ഥാനം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്നെക്കാണും ജനങ്ങൾക്കു പിന്നെ ദുഃഖമൊന്നുമില്ല</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിന്റെ എല്ലാ നടത്തിപ്പും എന്റെ ഭാഗ്യനിറവല്ലോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആദിയിങ്കൽ കയ്പാകിലും അന്ത്യമോ മധുരമത്രേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കാർമേഘത്തിനുള്ളിലീ ഞാൻ മിന്നും സൂര്യ ശോഭകാണും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സന്ധ്യയിങ്കൽ വിലാപവും സന്തോഷമുഷസ്സിങ്കലും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നിന്നോടൊന്നിച്ചുള്ള വാസം എന്റെ കണ്ണീർ തുടച്ചിടും</lines>
+    </verse>
+    <verse name="v8">
+      <lines>നിന്റെ മുഖശോഭ മൂലം എന്റെ ദുഃഖം തീർന്നുപോകും.</lines>
+    </verse>
+  </lyrics>
+</song>

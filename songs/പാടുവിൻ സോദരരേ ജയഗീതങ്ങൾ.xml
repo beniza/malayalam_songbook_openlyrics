@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>പാടുവിൻ സോദരരേ! ജയഗീതങ്ങൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>v1. പാടുവിൻ സോദരരേ! ജയഗീതങ്ങൾ<br/>ഊതിടുവിൻ വെള്ളിക്കാഹളങ്ങൾ<br/>വീഴട്ടെ വൈരികൾ താഴട്ടവർ ഭുജം<br/>വാഴട്ടെ യൂദയിൻ ബാലസിംഹം മുദാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യൂദാഗോത്രത്തിലെ വീരനാം കേസരി<br/>മുമ്പിൽ നടക്കുന്നു ചന്തമോടെ<br/>ദൈവമവരുടെ മദ്ധ്യേ കൂടാരത്തിൽ<br/>ആത്മാവു മീതെ കൊടുക്കുന്നിതു തണൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മേഘം കൊടുക്കുന്ന സ്വർഗ്ഗീയദീപ്തിയാൽ ശോഭിതരാമിവരന്ധതയിൽ<br/>സീയോൻപുരിയതിലെത്തുവാൻ സാദരം<br/>ദീപമിതു വചസ്സത്രേ മഹാത്ഭുതം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഗംഭീരനാദം മുഴക്കിടുവിനതിഗാംഭീര്യമോടെ<br/>നടന്നിടുവിൻ സംഭ്രമിക്കേണ്ടരി സംഘം വിറച്ചിടും<br/>വിഭ്രമം പൂണ്ടവർ താഴ്ത്തും തലകളെ.</lines>
+    </verse>
+  </lyrics>
+</song>

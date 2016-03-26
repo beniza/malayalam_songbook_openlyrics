@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:36">
+  <properties>
+    <titles>
+      <title>എത്രയോ ശ്രേഷ്ഠനായവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എത്രയോ ശ്രേഷ്ഠനായവൻ<br/>ക്രിസ്തുതാനെന്നുറച്ചു പാടുവിൻ<br/>നിത്യനാശം നീക്കിഭാഗ്യം<br/>മർത്യനേകുവാൻ കഴിഞ്ഞ ശക്തനാമവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശ്രേഷ്ഠരാം മനുജരൊക്കെ മണ്മറഞ്ഞുപോം<br/>മൃത്യുവെ ജയിച്ചുയിർത്തതേശുമാത്രമാം<br/>നിത്യരാജൻ നിസ്തുലാഭൻ<br/>ക്രിസ്തുനാഥനെത്രയെത്ര ശ്രേഷ്ഠനാം മഹാൻ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഏകനായ് അതിശയങ്ങൾ ചെയ്തിടുന്നവൻ<br/>ഏവനും വണങ്ങിടേണം തന്റെ പാദത്തിൽ<br/>ഏതു നാവും ഏറ്റുചൊല്ലും<br/>യേശുക്രിസ്തു കർത്തനെന്നു ദൈവമഹിമയ്ക്കായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തുല്യമായ് ഇല്ല മറ്റുനാമമൊന്നുമേ<br/>തെല്ലുമേയലസരായിടാതെ തൻജനം<br/>നല്ലനാമം കിസ്തുനാമം<br/>ചൊല്ലണം തൻവല്ലഭത്വം ഭൂവിലറിയട്ടെ.</lines>
+    </verse>
+  </lyrics>
+</song>

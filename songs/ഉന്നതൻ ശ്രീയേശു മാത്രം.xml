@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:04">
+  <properties>
+    <titles>
+      <title>ഉന്നതൻ ശ്രീയേശു മാത്രം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉന്നതൻ ശ്രീയേശു മാത്രം എന്നും വന്ദിതൻ സ്തുതിക്കുപാത്രം<br/>എണ്ണമറ്റ മനുഗോത്രം വിണ്ണിൽ ചേർന്നു പാടും സ്തോത്രം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഓ രക്ഷിതരാം ദൈവജനമേ നമ്മൾ രക്ഷയുടെ പാത്രമെടുത്തു<br/>ദിവ്യരക്ഷകനേശുവിനെ എക്ഷണവും പാടിസ്തുതിക്കാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവൻ തന്ന സ്നേഹിതനായ് സർവ്വശ്രേഷ്ഠനാം പുരോഹിതനായ്<br/>ജീവനായകൻ നമുക്കായ് ജീവിക്കുന്നത്യുന്നതനായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിത്യജീവ ജലപാനം യേശുക്രിസ്തുനാഥൻ തന്ന ദാനം<br/>ദിവ്യനാമ സ്തുതി ഗാനം നമ്മൾ നാവിൽ നിറയേണം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്തുതികൾ നടുവിൽ വാഴും തന്റെയരികളിൻ തല താഴും<br/>പാപികളെല്ലാരും കേഴും പാദമതിൽ വന്നു വീഴും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:00">
+  <properties>
+    <titles>
+      <title>നന്ദിയാലെൻ മനം പാടിടും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നന്ദിയാലെൻ മനം പാടിടും<br/>മന്നവൻ യേശുവെ വാഴ്ത്തിടും<br/>എന്നെയും തേടിവന്നെത്തിയ<br/>ഉന്നതന്റെ സ്നേഹമെന്നുമോർത്തിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വഴിയേതെന്നറിയാതോടുമ്പോൾ<br/>വരികെന്നരികെ എന്നുരച്ച നാഥനാം<br/>വല്ലഭന്റെ നാദമെന്റെ മുന്നിലഭയമായന്ന്<br/>വന്നരികിൽ എന്തുമോദമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൂരിരുളേറിടുന്ന പാതയിൽ<br/>കൂടെയുണ്ടെന്ന വാക്കു തന്ന നല്ല രക്ഷകൻ<br/>ഇന്നലെയുമിന്നുമെന്നുമന്യനല്ല<br/>എന്റെ യേശു ചൊന്ന വാക്കെനിക്കു പിൻബലം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മന്നിലേറിടുന്ന ഭാരം തീർന്നിടും<br/>കണ്ണുനീരുമാകവേയവൻ തുടച്ചുനീക്കിടും<br/>ഹല്ലേലുയ്യാ പാടിടും തന്നരികിൽ ചേർത്തിടും<br/>എല്ലാനാളും പാടി ആർത്തിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

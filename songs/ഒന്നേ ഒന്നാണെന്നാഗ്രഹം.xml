@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>ഒന്നേ ഒന്നാണെന്നാഗ്രഹം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഒന്നേ ഒന്നാണെന്നാഗ്രഹം<br/>വല്ലഭദേവാ നിന്നെക്കാണാൻ<br/>നിന്നുടെ മന്ദിരെയെൻ ധ്യാനമായ്<br/>എന്നും നിൻ ഗേഹെ ഞാൻ പാർക്കണം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എൻപാത തന്നിൽ നീയെൻ ദീപം<br/>എൻകൂടെയെന്നും നീയേ തോഴൻ<br/>ഭീതിയിൻ ഹേതുവായേതുമേയില്ലെൻ<br/>ജീവനും ശക്തിയും നീ താൻ യഹോവെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിന്മുഖം തേടാൻ നീയോതിയെ<br/>എന്മനം തേടും നിൻ ജ്യോതിയെ<br/>നിന്മുഖം കാണ്മവർ ശോഭിതരെന്നും<br/>ഖിന്നതയായവർ കാണ്മതേയില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നാത്മദാഹം നിന്നോടെന്നും<br/>എന്നാത്മ നാഥാ താതാ ദേവാ<br/>ആത്മാവാം നിന്നെയെന്നാത്മാവു കാണു-<br/>ന്നാത്മസ്വരൂപാ നീയെന്നുള്ളിൽ തന്നെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എങ്ങും നിറഞ്ഞോനെല്ലാം ചമച്ചുന്നതൻ<br/>തന്നെ ഞാൻ കാണ്മതോ<br/>ജീവനും തന്നതാം സ്നേഹം വിരിഞ്ഞു<br/>കാൽവറി കണ്ടോരാരൂപമായെന്നും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സർവ്വാധിനാഥൻ തേജോരൂപൻ<br/>സർവ്വേശപുത്രൻ ഭൂമൗ വാഴും<br/>സർവ്വസമ്പൂർണ്ണനെ തന്മക്കൾ കാണും<br/>സർവ്വസമ്മോദം തൻകൂടെന്നും വാഴും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>ആർ പോയിടും കർത്താവിന്നായിട്ടെങ്ങും?</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആർ പോയിടും കർത്താവിന്നായിട്ടെങ്ങും?<br/>ആഘോഷിക്കുവാൻ രക്ഷാ സന്ദേശത്തെ<br/>എത്രായിരം ജനം നശിക്കുന്നിന്നും<br/>കാണാതെ ലേശമിപ്രകാശത്തെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആകാശം ഭൂമിയിവയെൻ<br/>ആജ്ഞയ്ക്കധീനമാകയാൽ<br/>ലോകമെങ്ങും പോയ് സുവിശേഷം<br/>ചൊൽവിൻ ഞാനുണ്ടു കൂടെയെന്നും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പോയിടുവിൻ കർത്താവെ മാത്രം നോക്കി<br/>തൻ ശക്തിയിൽ ഭൂപര്യന്തങ്ങളിൽ<br/>മാ കൂരിരുൾ പ്രദേശം ലക്ഷ്യമാക്കി<br/>ക്രൂശിൻ സുവാർത്താഘോഷം കേൾപ്പിൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കാണുന്നുവോ വിസ്താരമേറും വാതിൽ<br/>എല്ലാടവും വേലയ്ക്കായ് ലോകത്തിൽ<br/>വിശുദ്ധരേ പ്രവേശിപ്പിൻ ക്ഷണത്തിൽ!<br/>യത്നിക്കുവിൻ ക്രിസ്തേശു നാമത്തിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്വാർത്ഥം വെടിഞ്ഞദ്ധ്വാനിപ്പിനത്യന്തം<br/>കഷ്ടങ്ങളും സഹിച്ചു സാനന്ദം<br/>പ്രത്യാശയിൽ വിതയ്ക്കുകിൽ നിരന്തം<br/>കൊയ്യും മഹാ കൊയ്ത്തൊന്നു നാമന്ത്യം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഹാ! ഭക്തരേ! സംയുക്തമാക്കി<br/>സർവ്വശക്തികളും പ്രയോഗിപ്പിൻ മുദാ<br/>ഘോഷിക്കുവിൻ ജയത്തിൻ ഹല്ലേലുയ്യാ<br/>ദൈവത്തിനും കുഞ്ഞാട്ടിന്നും സദാ.</lines>
+    </verse>
+  </lyrics>
+</song>

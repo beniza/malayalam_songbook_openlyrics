@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:09">
+  <properties>
+    <titles>
+      <title>കുഞ്ഞാട്ടിൻ രക്തത്തിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കുഞ്ഞാട്ടിൻ രക്തത്തിൽ വെളുപ്പിച്ചുള്ളങ്കികൾധരിച്ചു<br/>യോർദ്ദാന്നക്കരെക്കൂടി നാം വാഴും പിരിയാതാനന്ദം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യോർദ്ദാന്നക്കരെ നാം (3)<br/>കൂടും വേർപെടാതെ (3)<br/>യോർദ്ദാന്നക്കരെ നാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വിശ്വാസത്താൽ ഞാൻ കാണുന്നു സ്വർഗ്ഗീയഗേഹമിപ്പോഴേ<br/>ദൈവം തുടയ്ക്കും നിൻകണ്ണീരെന്നുള്ള പാട്ടും കേൾക്കുന്നേൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സന്തോഷമേറും യോഗമേ! ഇമ്പമേറും സല്ലാപമേ!<br/>പൊൻവാതിൽ തുറക്കുമ്പൊഴുതെന്താനന്ദം എന്നാത്മാവേ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കർത്താവേ! വഴി കാണിക്ക പൂർണ്ണാനന്ദം ഞാൻ പ്രാപിപ്പാൻ<br/>കണ്ണീർ തുടയ്ക്കും സ്നേഹം ഞാൻ വാഴ്ത്തിക്കൊണ്ടെന്നും പാടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

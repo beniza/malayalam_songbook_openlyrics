@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:51">
+  <properties>
+    <titles>
+      <title>പുഷ്പം നിറഞ്ഞോർ താഴ്വരയിൽകൂടി</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പുഷ്പം നിറഞ്ഞോർ താഴ്വരയിൽകൂടി ഞാൻ<br/>രക്ഷകനോടുകൂടെ യാത്ര ചെയ്യുമേ<br/>താൻ നടത്തുന്നിടത്തെല്ലാം ഞാൻ പിഞ്ചെല്ലുമേ<br/>താൻ നൽകും കിരീടം പ്രാപിക്കുവോളം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുവിനെ പിഞ്ചെല്ലും ഞാനെന്നും<br/>ലേശം പേടിക്കാതെ എല്ലാടത്തുമേ<br/>യേശുവിനെ പിഞ്ചെല്ലും ഞാനെന്നും<br/>ലേശം പേടിക്കാതെ എങ്ങും പിഞ്ചെല്ലും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വൻ കാറ്റടിക്കും താഴ്വരയിൽകൂടി ഞാൻ<br/>എൻ രക്ഷകനോടുകൂടെ യാത്ര ചെയ്യും<br/>എന്നെ താൻ നടത്തുന്നതിനാൽ ഭയപ്പെടാ<br/>അനർത്ഥങ്ങൾ നേരിട്ടാലും പേടിക്കാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>താഴ്വരയിലോ പർവ്വത്തിൻ മേലെയോ<br/>രക്ഷകനെ ചേർന്നു ഞാനും യാത്ര ചെയ്യും<br/>താൻ നടന്ന പാതയിൽ നടത്തും താനെന്നെ<br/>ദൈവപർവ്വതങ്ങളിലെത്തുംവരെ.</lines>
+    </verse>
+  </lyrics>
+</song>

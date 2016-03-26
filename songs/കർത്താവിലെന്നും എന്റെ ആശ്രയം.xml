@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>കർത്താവിലെന്നും എന്റെ ആശ്രയം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്താവിലെന്നും എന്റെ ആശ്രയം<br/>കർത്തൃസേവയൊന്നേയെന്റെ ആഗ്രഹം<br/>കഷ്ടമോ നഷ്ടമോ എന്തു വന്നിടിലും<br/>കർത്താവിൻ പാദം ചേർന്നു ചൊല്ലും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആർത്തുപാടി ഞാൻ ആനന്ദത്തോടെ<br/>കീർത്തനം ചെയ്തെന്നും വാഴ്ത്തുമേശുവെ<br/>ഇത്രനൽ രക്ഷകൻ വേറെയില്ലൂഴിയിൽ<br/>ഹല്ലേലുയ്യാ പാടും ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തൻ സ്വന്തജീവൻ തന്ന രക്ഷകൻ<br/>തള്ളുകില്ലയേതു ദുഃഖനാളിലും<br/>തൻതിരു കൈകളാൽ താങ്ങി നടത്തിടും<br/>തൻ സ്നേഹം ചൊൽവാൻ പോരാ വാക്കുകൾ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിശ്വാസത്താൽ ഞാൻ യാത്ര ചെയ്യുമെൻ<br/>വീട്ടിലെത്തുവോളം ക്രൂശിൻ പാതയിൽ<br/>വൻതിരപോലോരോ ക്ലേശങ്ങൾ വന്നാലും<br/>വല്ലഭൻ ചൊല്ലിൽ എല്ലാം മാറിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻ സ്വന്തബന്ധു മിത്രരേവരും<br/>എന്നെ കൈവിട്ടാലും ഖേദമെന്തിനാം?<br/>കൈവിടില്ലെന്ന തൻ വാഗ്ദത്തമുണ്ടതിൽ<br/>ആശ്രയിച്ചെന്നും ആശ്വസിക്കും ഞാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വിശ്വാസം കാത്തു ഓട്ടം ഓടിയെൻ<br/>ആയുസ്സെല്ലാം നല്ലപോർ നടത്തും ഞാൻ<br/>പിന്നെയെൻ യേശുവിൻ പാദമണഞ്ഞു ഞാൻ<br/>എന്നാളും സ്തോത്രഗീതം പാടിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>പ്രിയൻ വരും നാളിനിയധികമില്ല</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പ്രിയൻ വരും നാളിനിയധികമില്ല<br/>സീയോൻ പുരം നമുക്കിനിയകലമല്ല</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഓട്ടം തികച്ചു നാമക്കരെ നാട്ടിൽ<br/>ഒട്ടും കണ്ണുനീരില്ലാത്ത വീട്ടിൽ<br/>ഒരു നാളിൽ നാമണഞ്ഞിടുമ്പോൾ<br/>ഓടിപ്പോയിടും വിനകളെല്ലാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവന്നായിന്നു നിന്ദകൾ സഹിച്ചും<br/>അപമാനങ്ങൾ അനുഭവിച്ചും<br/>അവൻ വേലയിൽ തുടർന്നിടുന്നു<br/>അന്നുതരും താൻ പ്രതിഫലങ്ങൾ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇരുളാണിന്നു പാരിതിലെങ്ങും<br/>ഇവിടില്ലൊരു സമാധാനവും<br/>പരനേശുവിൻ വരവെന്നിയേ<br/>പാരിൽ നമുക്കു വേറാശയില്ല</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്ത്യനാളുകളാണിതെന്നറിഞ്ഞ്<br/>ആദ്യസ്നേഹത്തിൽ നമുക്കിനിയും<br/>തിരുനാമത്തിൻ മഹിമകൾക്കായ്<br/>തീരാം താൻ പാരിൽ തരും നാളുകൾ.</lines>
+    </verse>
+  </lyrics>
+</song>

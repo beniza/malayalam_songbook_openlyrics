@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:13">
+  <properties>
+    <titles>
+      <title>എന്നെ കരുതുവാൻ കാക്കുവാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നെ കരുതുവാൻ കാക്കുവാൻ<br/>പാലിപ്പാനേശു<br/>എന്നും മതിയായവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വരും ആപത്തിൽ നൽതുണ താൻ<br/>പെരുംതാപത്തിൽ നൽതണൽ താൻ<br/>ഇരുൾമൂടുമെൻ ജീവിതപാതയിലും<br/>തരും വെളിച്ചവും അഭയവും താൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മർത്യരാരിലും ഞാൻ സഹായം<br/>തെല്ലും തേടുകില്ല നിശ്ചയം<br/>ജീവനാഥനെന്നാവശ്യങ്ങളറിഞ്ഞു<br/>ജീവനാളെല്ലാം നടത്തിടുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്റെ ഭാരങ്ങൾ തൻചുമലിൽ<br/>വച്ചു ഞാനിന്നു വിശ്രമിക്കും<br/>ദുഃഖവേളയിലും പുതുഗീതങ്ങൾ<br/>ഞാൻ പാടിയാനന്ദിച്ചാശ്വസിക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഒരു സൈന്യമെനിക്കെതിരേ<br/>വരുമെന്നാലും ഞാൻ ഭ്രമിക്കാ<br/>തിരുചിറകുകളാലവൻ മറയ്ക്കുമതാലൊരു<br/>ദോഷവും എനിക്കു വരാ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വിണ്ണിൽ വാസസ്ഥലമൊരുക്കി<br/>വരും പ്രാണപ്രിയൻ വിരവിൽ<br/>അന്നു ഞാനവൻ മാറിൽ മറഞ്ഞിടുമേ<br/>കണ്ണീർ പൂർണ്ണമായ് തോർന്നിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

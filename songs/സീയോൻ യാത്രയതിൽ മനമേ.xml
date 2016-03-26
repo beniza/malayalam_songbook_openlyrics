@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:15">
+  <properties>
+    <titles>
+      <title>സീയോൻ യാത്രയതിൽ മനമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അബ്രഹാമിൻ ദൈവം ഇസഹാക്കിൻ ദൈവം<br/>യാക്കോബിൻ ദൈവമെന്നും കൂടെയുള്ളതാൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകത്തിൻ ദൃഷ്ടിയിൽ ഞാൻ<br/>ഒരു ഭോഷനായ് തോന്നിയാലും<br/>ദൈവത്തിൻ ദൃഷ്ടിയിൽ ഞാൻ<br/>എന്നും ശ്രേഷ്ഠനായ് മാറിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഒന്നിനെക്കുറിച്ചിനിയും<br/>എനിക്കാകുല ചിന്തയില്ല<br/>ജീവമന്നാ തന്നവൻ<br/>എന്നെ ക്ഷേമമായ് പാലിക്കുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മനുഷ്യനിലാശ്രയമോ<br/>ഇനി വേണ്ടനിശ്ചയമായ്<br/>ദൈവത്തിലാശ്രയമോ<br/>അതൊന്നാണെനിക്കഭയം.</lines>
+    </verse>
+  </lyrics>
+</song>

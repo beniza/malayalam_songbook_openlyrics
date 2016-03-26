@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:05">
+  <properties>
+    <titles>
+      <title>അന്യോന്യം സ്നേഹിക്കുവിൻ നിങ്ങൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അന്യോന്യം സ്നേഹിക്കുവിൻ നിങ്ങൾ<br/>അന്യോന്യം സ്നേഹിക്കുവിൻ<br/>സ്നേഹിച്ചു ജീവൻ തന്നവൻ നാഥൻ<br/>സ്നേഹമായോതുന്നിതാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അന്യർ തൻ ദുഃഖത്തിൽപങ്കു ചേർന്നിടണം<br/>ആർദ്രത കാട്ടിടണം<br/>ഉള്ളതിൽ പങ്കു നാം അഗതികൾക്കായ്<br/>അറിഞ്ഞു നല്കിടേണം മടിച്ചിടാതെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദൈവത്തിൻ നൽസ്നേഹം<br/>ഉള്ളിലുള്ളാരുമേ ആരോടും കോപിക്കില്ല<br/>എല്ലാം സഹിക്കുവാൻ ക്ഷമിച്ചിടുവാൻ<br/>ക്രിസ്തേശു നമ്മോടോതിയല്ലോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അയല്ക്കാരെ നമ്മൾ സ്നേഹിക്കാതെങ്ങനെ<br/>ദൈവത്തെ സ്നേഹിച്ചിടും?<br/>ക്രിസ്തുവിൻ താഴ്മ നാം ധരിച്ചിടണം<br/>എളിയവരെയാദരിച്ചിടണം.</lines>
+    </verse>
+  </lyrics>
+</song>

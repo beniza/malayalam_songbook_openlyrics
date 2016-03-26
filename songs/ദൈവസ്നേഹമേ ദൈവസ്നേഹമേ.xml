@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>ദൈവസ്നേഹമേ ദൈവസ്നേഹമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവസ്നേഹമേ ദൈവസ്നേഹമേ<br/>അതിനുള്ളകലമുയരമാഴമപ്രമേയമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപക്കുഴിയിലാണ്ടു പോയ നരനു മോചനം<br/>പ്രാപിപ്പതിനിതിന്റെയാഴമാണു കാരണം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അനുസരിച്ചിടാതെയാജ്ഞയവഗണിച്ചതാം<br/>മനുജനോടു കരുണ കാണിച്ചതിനു കാരണം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കുരിശിലേക ജാതനെ തകർത്തു വൈരികൾ<br/>ക്കനിശവും വിമോചനം വരുത്തിവയ്ക്കയോ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അഴുകിനാറും ശവസമാനരായ പാപികൾ<br/>ക്കഴകു നൽകിയഴിവില്ലാത്ത സ്ഥിതിയിലാക്കിടും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്വർഗ്ഗമതിലുള്ളനുഗ്രഹങ്ങളാഗ്രഹിക്കുവാൻ<br/>യോഗ്യരല്ലയെങ്കിലും നരർക്കതേകിയ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>അരിഗണത്തെയരികണച്ചു സുതജനങ്ങളായ്<br/>പരിഗണിച്ചു പരിചരിക്കു മകമഴിഞ്ഞതാം.</lines>
+    </verse>
+  </lyrics>
+</song>

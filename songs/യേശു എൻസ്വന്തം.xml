@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>യേശു എൻസ്വന്തം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു എൻസ്വന്തം<br/>ഞാനവൻ വകയാം<br/>ഇന്നുമെന്നുമേ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജീവിതകാലമെല്ലാം<br/>നൽതുണയെനിക്കവനാം<br/>ഭൂവിലില്ലൊരു ക്ലേശമതാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തരുന്നവൻ പുതുകൃപകൾ<br/>മരുവിലെൻ യാത്രയ്ക്കായി<br/>തീരുകില്ല നിത്യംതരും താൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്മനമാനന്ദിക്കുന്നവനി-<br/>ലനുദിനം തൻ<br/>നന്മകളെന്റെ കീർത്തനമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കർത്താവൊരുക്കിടുന്ന<br/>നിത്യമാം ഭവനമതിൽ<br/>പാർത്തിടും മൃത്യുവെന്നിയെ ഞാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ദൈവത്തിൻ പൈതലാം<br/>ഞാൻ എത്രയത്യാനന്ദമായ്<br/>മേവിടുന്നു പ്രത്യാശയോടെ.</lines>
+    </verse>
+  </lyrics>
+</song>

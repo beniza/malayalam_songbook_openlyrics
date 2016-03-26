@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:44">
+  <properties>
+    <titles>
+      <title>കുരിശെടുത്തെൻ യേശുവിനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കുരിശെടുത്തെൻ യേശുവിനെ<br/>അനുഗമിക്കും ഞാനന്ത്യംവരെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭാരങ്ങൾ നേരിടുമ്പോൾ കരങ്ങളാൽ താങ്ങിടുന്നു<br/>മരണത്തിൻ താഴ്വരയതിലുമെന്നെ<br/>പിരിയാത്ത മാധുര്യ നല്ല സഖിതാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവനെന്നെയറിഞ്ഞിടുന്നു അവനിയിൽ കരുതിടുന്നു<br/>ആവശ്യഭാരങ്ങളണഞ്ഞിടുമ്പോൾ<br/>അവലംബമായെനിക്കവൻ മാത്രമാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മാറിടും മനുജരെല്ലാം മറന്നിടും സ്നേഹിതരും<br/>മാറ്റമില്ലാത്തവനെൻ മനുവേൽ മഹിമയിൽ വാഴുന്നുയിന്നുമെനിക്കായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തീരണം പാരിലെൻനാൾ തിരുപ്പാദസേവയതാൽ<br/>ചേരും ഞാനൊടുവിലെൻ പ്രിയന്നരികിൽ<br/>അരുമയോടവനെന്നെ മാറോടണയ്ക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

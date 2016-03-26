@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>വല്ലഭനാം മശിഹാ വരുമല്ലോ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വല്ലഭനാം മശിഹാ വരുമല്ലോ<br/>അല്ലലെല്ലാം അശേഷം തീരുമല്ലോ<br/>ഹല്ലേലുയ്യാ വാഴ്ത്തിപ്പാടാം<br/>തുല്യമില്ലാ നാമം വാഴ്ത്താം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആമോദമായി ആഘോഷമായി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രോഗം ശോകം ദുഃഖം ഭാരം എല്ലാം മാറുന്ന<br/>നല്ല ദിനം നോക്കി നോക്കി<br/>വസിച്ചിടുന്നേ ആശയാൽ വസിച്ചിടുന്നേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഓരോ ഓരോ ദിനങ്ങളും കഴിഞ്ഞിടുമ്പോൾ<br/>കർത്തൻ വരുന്ന നാളതും അടുത്തിടുന്നേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മഹാരാജൻ വാണിടുന്ന ദിനങ്ങളോർത്താൽ<br/>മരുഭൂവിൻ വാസമേതും നിസ്സാരമെന്ന്<br/>എണ്ണുന്നേ നിസ്സാരമെന്ന്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഈ ലോകത്തിൻ ചിന്താകുലം ലേശമില്ലാതെ<br/>പ്രത്യാശയാൽ ആനന്ദത്താൽ നിറഞ്ഞിടുന്നേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>വേഗം വരാമെന്നുരച്ച അരുമനാഥൻ<br/>മേഘത്തേരിൽ മാലാഖ<br/>മാരകമ്പടിയായ് വരുമേ അരുമനാഥൻ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഗംഭീരനാദം കാഹളം ദൂതശബ്ദവും<br/>കേട്ടിടുമ്പോൾ നൊടിയിടെ ഞാനും പറക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

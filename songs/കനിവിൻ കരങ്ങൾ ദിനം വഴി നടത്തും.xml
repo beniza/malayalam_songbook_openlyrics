@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:04">
+  <properties>
+    <titles>
+      <title>കനിവിൻ കരങ്ങൾ ദിനം വഴി നടത്തും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കനിവിൻ കരങ്ങൾ ദിനം വഴി നടത്തും<br/>നിന്നെ അന്ത്യത്തോളമെന്നും ഭയം വേണ്ടിനിയും<br/>കർത്തൻ കാവലുണ്ട് മരുഭൂയാത്ര കടന്നിടുവാൻ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പകലിൻ മേഘസ്തംഭമായ്<br/>രാത്രിയിൽ അഗ്നിത്തൂണുകളായ്<br/>ദാഹജലത്തിനു പിളർന്ന പാറയും<br/>ജീവമന്ന ഭക്ഷണമായ്<br/>തന്ന യഹോവയെ വാഴ്ത്തിടുവിൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവിതം എന്ന തോണിയിൽ<br/>തീർന്നിടാത്ത വൻഭാരങ്ങളും<br/>ഓളവും തിരമാലകളും<br/>ആഞ്ഞടിക്കുമ്പോൾ എന്തുചെയ്യും?<br/>ഭയപ്പെടേണ്ട അരികിൽ അവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

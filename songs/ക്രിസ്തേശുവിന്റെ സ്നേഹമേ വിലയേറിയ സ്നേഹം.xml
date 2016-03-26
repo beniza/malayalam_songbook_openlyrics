@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:35">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തേശുവിന്റെ സ്നേഹമേ വിലയേറിയ സ്നേഹം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2 v9 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തേശുവിന്റെ സ്നേഹമേ വിലയേറിയ സ്നേഹം<br/>വർണ്ണിപ്പാനെന്നാൽ പാടില്ല വിലയേറിയ സ്നേഹം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വിലയേറിയ സ്നേഹമെൻ യേശുവിൻ സ്നേഹം<br/>വിലയേറിയ സ്നേഹമെൻ രക്ഷകന്റെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവനെനിക്കായ് വെടിഞ്ഞ വിലയേറിയ സ്നേഹം<br/>കാൽവറിയിൽ ഞാൻ കാണുന്നു വിലയേറിയ സ്നേഹം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപവിഷമൊഴിച്ചു താൻ വിലയേറിയ സ്നേഹം<br/>ശാപമെന്നിൽ നിന്നകറ്റി വിലയേറിയ സ്നേഹം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മരണഭീതി നീക്കിയ വിലയേറിയ സ്നേഹം<br/>ശരണമെനിക്കേകിയ വിലയേറിയ സ്നേഹം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഈ ലോകമവസാനിക്കും വിലയേറിയ സ്നേഹം<br/>നശിക്കുകയില്ലൊരിക്കലും വിലയേറിയ സ്നേഹം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>വേറെയില്ലെനിക്കാശ്രയം വിലയേറിയ സ്നേഹം<br/>മാറാത്ത മഹത് സങ്കേതം വിലയേറിയ സ്നേഹം</lines>
+    </verse>
+    <verse name="v8">
+      <lines>കഷ്ടതയിലെൻ സന്തോഷം വിലയേറിയ സ്നേഹം<br/>എന്നുമെനിക്കു പ്രശംസ വിലയേറിയ സ്നേഹം</lines>
+    </verse>
+    <verse name="v9">
+      <lines>ഈ സ്നേഹമെൻ സംഗീതമാം വിലയേറിയ സ്നേഹം<br/>നിത്യതയിലും പാടും ഞാൻ വിലയേറിയ സ്നേഹം.</lines>
+    </verse>
+  </lyrics>
+</song>

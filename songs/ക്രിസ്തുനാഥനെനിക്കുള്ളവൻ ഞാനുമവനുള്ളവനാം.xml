@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:47">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തുനാഥനെനിക്കുള്ളവൻ ഞാനുമവനുള്ളവനാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തുനാഥനെനിക്കുള്ളവൻ ഞാനുമവനുള്ളവനാം<br/>തൻ നിത്യമാം ദയനിമിത്തം മിത്രമാക്കിത്തീർത്തു<br/>തന്നോടൊത്തുവാസം ചെയ്തിടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പ്രാർത്ഥന ചെവിക്കൊള്ളുവാൻ പ്രാപ്തനാണെനിക്കുള്ളവൻ<br/>ഞാനെപ്പൊഴുതപേക്ഷ ചെയ്താലപ്പൊഴേയുപേക്ഷ കൂടാ<br/>തുത്തരം തരുന്ന പ്രിയൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തൻമൊഴികൾ കേൾക്കുകയാലെൻ മനം കുളിർക്കുകയാം<br/>തൻ കൺമണിപോൽ കാത്തിടുന്നു നന്മയിൽ നടത്തിടുന്നു<br/>കന്മഷമകറ്റിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വീണ്ടെടുത്തു തൻ ചോരയാൽ വിണ്ണിലെത്തും നാൾവരെയും<br/>വീഴ്ചയെന്യേ സൂക്ഷിച്ചെന്നെ തൻ മഹിമാസന്നിധിയിൽ<br/>നിർത്തുവാൻ കഴിവുള്ളവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

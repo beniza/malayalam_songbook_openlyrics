@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:12">
+  <properties>
+    <titles>
+      <title>അന്ധകാരത്താലെല്ലാ കണ്ണും</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അന്ധകാരത്താലെല്ലാ കണ്ണും മങ്ങുമ്പോൾ<br/>മങ്ങിടാത്ത കണ്ണെനിക്കൊന്നുണ്ടു സ്വർഗ്ഗത്തിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എൻമൊഴി കേൾപ്പാൻ ഭൂവിൽ കാതില്ലെങ്കിലും<br/>ചെമ്മയായ് തുറന്ന കാതൊന്നുണ്ടു സ്വർഗ്ഗത്തിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മാനുഷികമാം കൈകൾ താണുപോകുമ്പോൾ<br/>ക്ഷീണിക്കാത്ത കൈയെനിക്കൊന്നുണ്ടു സ്വർഗ്ഗത്തിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഭൂമയർക്കുള്ള സ്നേഹം നീങ്ങിപ്പോകുമ്പോൾ<br/>ക്ഷാമമേശിടാത്ത സ്നേഹമുണ്ടു സ്വർഗ്ഗത്തിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഉള്ളിലാകുല ചിന്തയുള്ള മർത്യരേ!<br/>വല്ലഭന്റെ കൺകളുണ്ടിക്കല്ലുപാതയിൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>തൻ കരുണയോ പൂർണ്ണമാണു സാന്ത്വനം<br/>ചെയ്‌വതിന്നു നാഥനടുത്തുണ്ടു നിർണ്ണയം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>പ്രാർത്ഥനയ്ക്കവൻ മുമ്പിൽ സ്തോത്രമോടു നാം<br/>എത്തിയെന്നും തന്റെ വാക്കിലാശ്രയിക്കുവിൻ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>വിശ്വസിക്കുവാൻ യോഗ്യനായ നാഥനെ<br/>വിശ്വസിച്ചുമനുസരിച്ചും നാൾ കഴിക്കുവിൻ</lines>
+    </verse>
+  </lyrics>
+</song>

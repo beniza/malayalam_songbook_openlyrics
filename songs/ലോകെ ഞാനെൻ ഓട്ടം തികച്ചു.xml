@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>ലോകെ ഞാനെൻ ഓട്ടം തികച്ചു</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ലോകെ ഞാനെൻ ഓട്ടം തികച്ചു<br/>സ്വർഗ്ഗഗേഹെ വിരുതിനായി<br/>പറന്നീടും ഞാൻ മറുരൂപമായ്<br/>പരനേശുരാജൻ സന്നിധൗ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദൂതസംഘമാകവെ എന്നെ എതിരേൽക്കുവാൻ<br/>സദാ സന്നദ്ധരായ് നിന്നിടുന്നേ<br/>ശുഭ്രവസ്ത്രധാരിയായ് എന്റെ പ്രിയന്റെ മുമ്പിൽ<br/>ഹല്ലേലുയ്യാ പാടിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഏറെനാളായ് കാണ്മാൻ ആശയായ്<br/>കാത്തിരുന്ന എന്റെ പ്രിയനെ<br/>തേജസ്സോടെ ഞാൻ കാണുന്ന നേരം<br/>തിരുമാർവ്വോടണഞ്ഞിടുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നീതിമാന്മാരായ സിദ്ധൻമാർ<br/>ജീവനും വെറുത്ത വീരൻമാർ<br/>വീണകളേന്തി ഗാനം പാടുമ്പോൾ<br/>ഞാനും ചേർന്നു പാടിടുമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>താതൻപേർക്കായ് സേവ ചെയ്തതാൽ<br/>താതനെന്നെ മാനിക്കുവാനായ്<br/>തരുമോരോ ബഹുമാനങ്ങൾ<br/>വിളങ്ങീടും കിരീടങ്ങളായ്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കൈകളാൽ തീർക്കപ്പെടാത്തതാം<br/>പുതുശാലേം നഗരമതിൽ<br/>സദാകാലം ഞാൻ മണവാട്ടിയായ്<br/>പരനോടുകൂടെ വാഴുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

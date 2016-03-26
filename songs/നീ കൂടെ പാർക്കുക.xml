@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>നീ കൂടെ പാർക്കുക</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2 v9 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നീ കൂടെ പാർക്കുക എൻയേശു രാജനേ!<br/>നിൻ ദിവ്യപ്രതിമ എന്നിൽ തികയ്ക്കുകേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീ കൂടെ പാർത്തിടേണം നിത്യം കാത്തിടേണം<br/>എപ്പോഴും നിറയ്ക്കേണം നിൻ ആത്മാവാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീ കൂടെ പാർക്കുക സാത്താൻ പരീക്ഷിക്കിൽ<br/>ഒരാപത്തും ഇല്ലാ നിൻ സന്നിധാനത്തിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നീ കൂടെ പാർക്കുക ഈ ലോകമദ്ധ്യത്തിൽ<br/>നീ പ്രാപ്തൻ രക്ഷകാ കാപ്പാൻ നിൻ സത്യത്തിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നീ കൂടെ പാർക്കുക എന്നാൽ കഷട്ത്തിലും<br/>ഞാൻ ക്ഷീണത വിനാ നിൻ സ്നേഹം പുകഴ്ത്തും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നീ കൂടെ പാർക്കുക വിശ്വാസസാക്ഷിക്കായ്<br/>എപ്പോഴും ധൈര്യം താതാ ജ്ഞാനത്തിന്റെ വായ്</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നീ കൂടെ പാർക്കുക എന്നിൽ ഒരറിവും<br/>ഇല്ല നിന്നിലല്ലാതില്ലൊരു കഴിവും</lines>
+    </verse>
+    <verse name="v8">
+      <lines>നീ കൂടെ പാർക്കുക വിട്ടാലും ഏവരും<br/>നീ എന്നെ കൈവിടാതെന്നേക്കും സ്നേഹിക്കും</lines>
+    </verse>
+    <verse name="v9">
+      <lines>നീ കൂടെ പാർക്കുക വന്നാലും മരണം<br/>എൻജീവനായക! നീ അന്നും ശരണം.</lines>
+    </verse>
+  </lyrics>
+</song>

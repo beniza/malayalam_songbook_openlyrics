@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>യേശുവേ നിൻപാദം കുമ്പിടുന്നേൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവേ നിൻപാദം കുമ്പിടുന്നേൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിസ്തുല സ്നേഹത്താലേ<br/>ക്രിസ്തുവെ എന്നേയും നീ<br/>നിൻമകനാക്കുവാൻ തിന്മകൾ നീക്കുവാൻ<br/>വിൺമഹിമ വെടിഞ്ഞോ!<br/>ഹാലേലുയ്യാ ആമേൻ ഹാ! ഹാലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്നേഹത്തിന്നാഴി തന്നിൽ<br/>മുങ്ങി ഞാനിന്നു മന്നിൽ<br/>ആമയം മാറിയും ആനന്ദമേറിയും<br/>വാഴുന്നു ഭീതിയെന്യേ<br/>ഹാലേലുയ്യാ ആമേൻ ഹാ! ഹാലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നുമീ ഞാനിനിയും നിന്നുടെ സ്വന്തമത്രേ<br/>ഒന്നുമേ ശക്തമല്ലീ ബന്ധം മാറ്റുവാൻ<br/>എന്തൊരു ഭാഗ്യമിത്!<br/>ഹാലേലുയ്യാ ആമേൻ ഹാ! ഹാലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഭൂതലം വെന്തുരുകും താരകങ്ങൾ മറയും<br/>അന്നുമെന്നേശുവിന്നൻപിൻ കരങ്ങളിൽ<br/>സാധു ഞാൻ വിശ്രമിക്കും<br/>ഹാലേലുയ്യാ ആമേൻ ഹാ! ഹാലേലുയ്യാ.</lines>
+    </verse>
+  </lyrics>
+</song>

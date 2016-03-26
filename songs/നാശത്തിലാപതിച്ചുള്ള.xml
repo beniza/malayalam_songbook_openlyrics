@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>നാശത്തിലാപതിച്ചുള്ള</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നാശത്തിലാപതിച്ചുള്ള<br/>മർത്യരെ വീണ്ടെടുക്കുവാൻ<br/>വ്യഗ്രത പൂണ്ടു നീ ഓടുക സോദരാ<br/>പ്രാണനാഥനിപ്പോൾ വന്നിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വാ! വാ! ഓടി വാ സോദരാ<br/>ഹാ! ഹാ! കാലം കഴിയാറായ്<br/>ആർക്കും പ്രവർത്തിക്കാൻ സാദ്ധ്യമല്ലാ രാത്രി<br/>എത്രയും വേഗമണഞ്ഞിടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൊയ്യുവാൻ ഏറെയുണ്ടല്ലോ<br/>കൊയ്ത്തുകാർ ഏറ്റം ന്യൂനവും<br/>വേലക്കാരെ അയച്ചിടുവാൻ കെഞ്ചുക<br/>കൊയ്ത്തിന്റെ നാഥനെപ്പോഴും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഭീരുത്വം എല്ലാം പോകട്ടെ<br/>ലജ്ജയും വിട്ടുമാറട്ടെ<br/>എങ്ങും എവിടെയും നാഥനെഘോഷിപ്പാൻ<br/>ഉൾക്കരുത്തോടെ നാം പോയിടാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ക്രിസ്തുവിൻ സത്യശിഷ്യനായ്<br/>തീരുവാൻ നീ ഒരുക്കമോ?<br/>നിൻകുരിശേന്തിയവനെപ്പിൻചെല്ലുക<br/>ലോകത്തെ മുറ്റും വെടിഞ്ഞു നീ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ലോകത്തീന്നന്ത്യനാൾവരെ<br/>നിന്നോടുകൂടെയുണ്ടവൻ<br/>വാഗ്ദത്തം ചെയ്തവൻ വിശ്വസ്തനാകയാൽ<br/>സേവ ചെയ്തിടുക ധീരനായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

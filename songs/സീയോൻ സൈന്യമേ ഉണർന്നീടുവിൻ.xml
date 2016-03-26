@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>സീയോൻ സൈന്യമേ ഉണർന്നീടുവിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സീയോൻ സൈന്യമേ ഉണർന്നീടുവിൻ<br/>പൊരുതു നീ ജയമെടുത്തു<br/>വിരുതു പ്രാപിക്ക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കേൾക്കാറായ് തൻ കാഹളധ്വനി<br/>നാം പോകാറായ് ഈ പാർത്തലം വിട്ടു<br/>തേജസ്സേറും പുരേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സർവ്വായുധങ്ങൾ ധരിച്ചിടുക<br/>ദുഷ്ടനോടെതിർത്തു നിന്നു<br/>വിജയം നേടുവാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രിസ്തേശുവിന്നായ് കഷ്ടം സഹിച്ചോർ<br/>നിത്യനിത്യയുങ്ങൾ വാഴും<br/>സ്വർഗ്ഗ സീയോനിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പ്രത്യാശ എന്നിൽ വർദ്ധിച്ചീടുന്നേ<br/>അങ്ങുചെന്നു കാണുവാനെൻ<br/>പ്രിയൻ പൊന്മുഖം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആനന്ദമേ, നിത്യാനന്ദമേ<br/>കാന്തനോടു വാഴും കാലം<br/>എത്ര ആനന്ദം.</lines>
+    </verse>
+  </lyrics>
+</song>

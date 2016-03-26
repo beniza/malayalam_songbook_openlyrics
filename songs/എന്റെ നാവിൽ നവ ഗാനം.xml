@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:05">
+  <properties>
+    <titles>
+      <title>എന്റെ നാവിൽ നവ ഗാനം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ നാവിൽ നവ ഗാനം<br/>എന്റെ നാഥൻ തരുന്നല്ലോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആമോദാലെന്നുമേ അവനെ ഞാൻ പാടുമേ<br/>ഉയിരുള്ള നാൾ വരെയും ഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നെ തേടി മന്നിൽ വന്നു സ്വന്തജീവൻ തന്നവൻ<br/>ഒന്നിനാലുമേഴയെന്നെ കൈവിടാത്തവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപച്ചേറ്റിലാണ്ടിരുന്നയെന്നെ വീണ്ടെടുത്തല്ലോ<br/>പാപമെല്ലാം പോക്കിയെന്നെ ശുദ്ധി ചെയ്തല്ലോ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇല്ല ഭീതിയെന്നിലിന്നുമെത്ര മോദമുള്ളത്തിൽ<br/>നല്ല നാഥനേശുവിന്റെ പാതെ വന്നതാൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഹല്ലെലുയ്യാ സ്തോത്രഗീതം പാടി വാഴ്ത്തുമേശുവേ<br/>എല്ലാക്കാലം നന്ദിയോടെ എന്റെ നാളെല്ലാം.</lines>
+    </verse>
+  </lyrics>
+</song>

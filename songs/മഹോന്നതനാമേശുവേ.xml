@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>മഹോന്നതനാമേശുവേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മഹോന്നതനാമേശുവേ!<br/>രാജാധിരാജാവേ<br/>സമ്പൂർണ്ണ ദൈവമനുഷ്യൻ<br/>നീ വാഴ്ക... യേശുവേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വിണ്ണിൽ പ്രധാനിയായ നീ<br/>വിരോധികൾക്കായി<br/>മന്നിലിറങ്ങി മരിച്ചു<br/>നീ വാഴ്ക... . യേശുവേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകം ജഡം പിശാചെന്ന<br/>ഘോരവൈരികളെ<br/>ജയിച്ചു ഹാ! കീഴടക്കി<br/>നീ വാഴ്ക... യേശുവേ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നീ ജയിച്ചപോൽ ഞങ്ങളും<br/>ജയിച്ചു വാഴുവാൻ<br/>ജയാളിയായി ജീവിക്കും<br/>നീ വാഴ്ക... യേശുവേ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മർത്യർ ഞങ്ങൾ അമർത്യരായ്<br/>നിത്യവും വാഴുവാൻ<br/>ജീവവാതിൽ തുറന്നതാൽ<br/>നീ വാഴ്ക... യേശുവേ!</lines>
+    </verse>
+  </lyrics>
+</song>

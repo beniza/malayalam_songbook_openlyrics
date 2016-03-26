@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>ഇവനാർ? മുഴങ്ങിക്കേട്ടു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇവനാർ? ഇവനാർ? മുഴങ്ങിക്കേട്ടു<br/>മാനവശബ്ദം<br/>ഗലീലനാട്ടിലുടനീളം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പച്ചവെള്ളത്തെ മുന്തിരിച്ചാറായ്<br/>മാറ്റി കാനാവിൽ<br/>അഞ്ചപ്പം കൊണ്ടയ്യായിരത്തെ<br/>അതിശയകരമായ് പോഷിപ്പിച്ചു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിശയുടെ നാലാം യാമത്തിൽ<br/>കടലിൻമിതേ നടന്നവനും<br/>കാറ്റും കടലുമവന്റെ വാക്കില-<br/>മർന്നു ശാന്തത വന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യായിറോസിൻ ഭവനത്തിൽ<br/>വിലാപഗീതം കേട്ടപ്പോൾ<br/>മരിച്ച ബാലികയോടവൻ<br/>ചൊല്ലി തലീഥാ കൂമി.. തലീഥാ കൂമി</lines>
+    </verse>
+  </lyrics>
+</song>

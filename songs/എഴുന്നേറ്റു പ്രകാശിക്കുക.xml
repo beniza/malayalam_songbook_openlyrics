@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>എഴുന്നേറ്റു പ്രകാശിക്കുക</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എഴുന്നേറ്റു പ്രകാശിക്കുക ദീപം തെളിച്ചിടുക<br/>യേശുവിൻ നാമത്തെ വാഴ്ത്തിടുക<br/>നാൾതോറും പാടി പുകഴ്ത്തിടുക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ക്രൂശുമെടുത്തിനി പോയിടാം<br/>ജീവമാർഗ്ഗമുരച്ചിടാം<br/>പുത്തൻവീഥിയൊരുക്കിടാം<br/>സുവിശേഷക്കൊടികൾ ഉയർത്തിടാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സത്യത്തിൻ പാത കാട്ടിടാം<br/>സ്നേഹസാമ്രാജ്യം ഒരുക്കിടാം<br/>നീതിസൂര്യന്റെ കീഴിൽ നാം<br/>ഉല്ലാസമോടെ വസിച്ചിടാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഹല്ലേലുയ്യാ ഗീതം മുഴക്കിടാം<br/>നാഥൻ യേശുവിൻ വരവിതാ<br/>വാനതിൽ വന്നിടും വല്ലഭൻ യേശുവെ<br/>നാമിന്നു പാടി പുകഴ്ത്തിടാം.</lines>
+    </verse>
+  </lyrics>
+</song>

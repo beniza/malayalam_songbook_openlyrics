@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:11">
+  <properties>
+    <titles>
+      <title>ഇതുവരെയെന്നെ കരുതിയ നാഥാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇതുവരെയെന്നെ കരുതിയ നാഥാ!<br/>ഇനിയെനിക്കെന്നും തവ കൃപ മതിയാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഗുരുവരനാം നീ കരുതുകിൽ പിന്നെ<br/>കുറവൊരു ചെറുതും വരികില്ല പരനേ!<br/>അരികളിൻ നടുവിൽ വിരുന്നൊരുക്കും നീ<br/>പരിമളതൈലം പകരുമെൻ ശിരസ്സിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരിചിതർ പലരും പരിഹസിച്ചെന്നാൽ<br/>പരിചിൽ നീ കൃപയാൽ പരിചരിച്ചെന്നെ<br/>തിരുച്ചിറകടിയിൽ മറച്ചിരുൾ തീരും<br/>വരെയെനിക്കരുളുമരുമയൊടഭയം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കരുണയിൻ കരത്തിൻ കരുതലില്ലാത്ത<br/>ഒരു നിമിഷവുമീ മരുവിലില്ലെനിക്കു<br/>ഇരവിലെന്നൊളിയായ് പകലിലെൻ തണലായ്<br/>ഒരു പൊഴുതും നീ പിരിയുകയില്ല</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മരണത്തിൻ നിഴൽ താഴ്വരയതിലും ഞാൻ<br/>ശരണമറ്റവനായ് പരിതപിക്കാതെ<br/>വരുമെനിക്കരികിൽ വഴിപതറാതെ<br/>കരം പിടിച്ചെന്നെ നടത്തിടുവാൻ നീ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>തല ചരിച്ചിടുവാൻ സ്ഥലമൊരു ലവമീ<br/>യുലകിതിലില്ല മനുജകുമാരാ<br/>തല ചരിക്കും ഞാൻ തവ തിരുമാറിൽ<br/>നലമൊടു ലയിക്കും തവ മുഖപ്രഭയിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

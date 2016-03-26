@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:21">
+  <properties>
+    <titles>
+      <title>മനമേ ഉണർന്നു സ്തുതിക്ക</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മനമേ ഉണർന്നു സ്തുതിക്ക<br/>നിൻ ദൈവത്തെ നീ<br/>മനമേ ഉണർന്നു സ്തുതിക്ക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>രാത്രി കഴിഞ്ഞു ഇതാ<br/>മാ ത്രിയേകൻ ശക്തിയാൽ<br/>വാ തൃനാമത്തെ നന്നായ്<br/>വാഴ്ത്തിയുയർത്തുവാനായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവജന്തുക്കളെല്ലാം<br/>ദൈവമഹത്വത്തിന്നായ്<br/>ലാവണ്യ നാദമോടെ<br/>ആവോളം പുകഴ്ത്തുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്ധകാരത്തിൻ ഘോര-<br/>ബന്ധം പുത്രനാൽ നീക്കി<br/>തന്റെ മുഖപ്രകാശം<br/>നിന്മേൽ ഉദിപ്പിച്ചോനെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സകലദോഷങ്ങളെയും<br/>അകലെ മാറ്റി നിനക്കു<br/>പകൽതോറും പുതുകൃപ<br/>മകനാൽ ചൊരിയുന്നോനെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>അതികാലത്തു ജ്ഞാനത്തിൻ<br/>പടിവാതിൽക്കൽ ഉണർന്നും<br/>മടിക്കാതെ ജീവമാർഗ്ഗം<br/>പഠിച്ചും കൊള്ളുന്നോൻ ധന്യൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നിത്യതാതന്നു സ്തോത്രം<br/>മൃത്യുഹരന്നു സ്തോത്രം<br/>സത്യാത്മാവിന്നും സ്തോത്രം<br/>ആദ്യം ഇന്നുമെന്നേക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

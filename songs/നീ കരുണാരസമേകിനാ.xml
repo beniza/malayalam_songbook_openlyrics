@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>നീ കരുണാരസമേകിനാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നീ കരുണാരസമേകിനാ<br/>യതിനായിതാ വന്ദനം!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകമെല്ലാം പുകൾ പെരുകും<br/>ഏകനാഥനാം വിഭോ! ശരണം സദാ വന്ദനം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശോകമെഴും ലോകമിതിൻ<br/>മോഹം നീക്കിയെന്നിൽ നീ അയതിനായിതാ വന്ദനം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിൻസുതങ്കലെന്നെയഹോ!<br/>ധന്യനാക്കിവച്ചു നീ അയതിനായിതാ വന്ദനം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്തമില്ലാതുള്ള പിഴ<br/>ഹന്ത! മോചിച്ചന്നു നീ അയതിനായിതാ വന്ദനം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പാവനമാം രക്തമതിൽ<br/>പാപശുദ്ധി നൽകി നീ അയതിനായിതാ വന്ദനം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നിർമ്മലമായ് പ്രതിദിനവും<br/>നന്മയാൽ നിറച്ചിടുന്നതിനായിതാ വന്ദനം</lines>
+    </verse>
+    <verse name="v8">
+      <lines>നിൻവചനം മൂലമഹോ<br/>എൻവഴിക്കധീശനായ് നിലനിന്നതാൽ വന്ദനം</lines>
+    </verse>
+    <verse name="v9">
+      <lines>നിന്ദിതനാമെന്നരികിൽ<br/>നിന്നു കഷ്ടനാളിൽ നീയതിനായിതാ വന്ദനം.</lines>
+    </verse>
+  </lyrics>
+</song>

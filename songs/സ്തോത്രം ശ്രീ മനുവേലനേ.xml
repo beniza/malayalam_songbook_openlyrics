@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:37">
+  <properties>
+    <titles>
+      <title>സ്തോത്രം ശ്രീ മനുവേലനേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രം ശ്രീ മനുവേലനേ<br/>മമ ജീവനേ മഹേശനേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാർത്തലത്തിൽ പരിശ്രയമായ്<br/>പാരിൽ വന്ന നാഥനെ<br/>മമ ജീവനേ മഹേശനേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആദിപിതാവോതിയതാം<br/>ആദിവേദനാദമേ!<br/>മമ ജീവനേ മഹേശനേ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മാനവസമ്മാനിതനേ<br/>മാനനീയരൂപനേ<br/>മമ ജീവനേ മഹേശനേ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സാദരമാദൂതഗണം<br/>ഗീതം പാടിവാഴ്ത്തിടും<br/>മമ ജീവനേ മഹേശനേ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ജീവകൃപാ ജലം ചൊരിയും<br/>ജീവവർഷമേഘമേ<br/>മമ ജീവനേ മഹേശനേ!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>സ്വന്ത രക്തം ചിന്തിയെന്നെ<br/>ഹന്ത! വീണ്ടെടുത്തതാൽ<br/>മമ ജീവനേ മഹേശനേ!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>രാജസുതാ! പൂജിതനേ<br/>രാജരാജനേശുവേ<br/>മമ ജീവനേ മഹേശനേ!</lines>
+    </verse>
+    <verse name="v9">
+      <lines>താവകമാം നാമമഹോ<br/>ഭാവനീയമാം സദാ<br/>മമ ജീവനേ മഹേശനേ!</lines>
+    </verse>
+  </lyrics>
+</song>

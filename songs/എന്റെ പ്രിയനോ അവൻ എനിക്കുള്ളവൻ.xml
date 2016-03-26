@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:37">
+  <properties>
+    <titles>
+      <title>എന്റെ പ്രിയനോ അവൻ എനിക്കുള്ളവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ പ്രിയനോ അവൻ എനിക്കുള്ളവൻ<br/>അവൻ എന്നേക്കുമായെന്നെ വീണ്ടെടുത്തവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇത്രമഹൽ സ്നേഹമാരിലും ഞാൻ<br/>ഇദ്ധരയിലെങ്ങും കാണുന്നില്ല<br/>എന്നെ സ്വന്തമാക്കിടുവാൻ<br/>എൻപേർക്കായ് രക്തം ചൊരിഞ്ഞവൻ താൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകത്തിൻ സ്ഥാപനം മുതലെനിക്കായ്<br/>അറുക്കപ്പെട്ട ദൈവകുഞ്ഞാടവൻ<br/>പാപശാപം നീക്കിടുവാൻ<br/>പ്രിയൻ ശാപമായി ക്രൂശതിന്മേൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആയിരത്തിൽ പതിനായിരത്തിൽ<br/>സർവ്വാംഗ സുന്ദരനെൻപ്രിയൻ താൻ<br/>പ്രാണതുല്യം സ്നേഹിച്ചതാൽ<br/>തൻജീവൻ നൽകി മറുവിലയായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നന്ദിയാലെന്നുള്ളം നിറഞ്ഞിടുന്നേ<br/>സ്തോത്രങ്ങൾ പാടി ഞാൻ വാഴ്ത്തിടുമേ<br/>ജീവനുള്ള കാലമെല്ലാം ഹാ!<br/>നന്ദിയോടെ സ്തുതിച്ചിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

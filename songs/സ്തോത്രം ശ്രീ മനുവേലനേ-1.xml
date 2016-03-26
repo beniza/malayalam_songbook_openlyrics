@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:13">
+  <properties>
+    <titles>
+      <title>സ്തോത്രം ശ്രീ മനുവേലനേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രം ശ്രീ മനുവേലനേ,<br/>മമപ്രിയ യേശുനാഥാ<br/>വിൺമയനാം നീ മൺമയനായ്<br/>മമ കൊടുംപാപത്തെ നീക്കി</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആഴമുള്ള വൻകുഴിയിൽ<br/>കുഴചേറ്റിൽ വീണവൻ ഞാൻ<br/>താണിറങ്ങി കരകേറ്റി<br/>പാറയിൽ കാലുകൾ നിറുത്തി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നവഗാനം പാടിടുവാൻ<br/>ഗമനത്തെ സ്ഥിരമാക്കി<br/>ദേഹമിതാ സമർപ്പിക്കുന്നേ<br/>ലോകത്തിൻ മോഹങ്ങൾ വെടിഞ്ഞു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദാരുണമായ് അടിയേറ്റു<br/>മുറിവുകളാൽ നിണമണിഞ്ഞു<br/>നിന്ദകളാൽ മനംതകർന്നു<br/>കുരിശതിൽ നീ തലചായിച്ചു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഉടയുന്നേ മമഹൃദയം<br/>നിറയുന്നേ നയനങ്ങൾ<br/>വർണ്ണിക്കുവാൻ നിൻവ്യഥകൾ<br/>നീറുമെൻ മനസ്സിന്നാവില്ലേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്നേഹിക്കും സേവിക്കും<br/>വന്ദിക്കും കാലമെല്ലാം<br/>കീർത്തിക്കുമേ പാടിടുമേ<br/>നിസ്തുലസ്നേഹ ദയാപരനേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:15">
+  <properties>
+    <titles>
+      <title>അഴലേറും ജീവിത മരുവിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അഴലേറും ജീവിത മരുവിൽ<br/>നീ തളരുകയോ ഇനി സഹജ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്നെ വിളിച്ചവൻ ഉണ്മയുള്ളോൻ<br/>കണ്ണിൻമണിപോലെ കാത്തിടുമെ<br/>അന്ത്യംവരെ വഴുതാതെയവൻ<br/>താങ്ങി നടത്തിടും പൊൻകരത്താൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാർമുകിൽ ഏറേക്കരേറുകിലും<br/>കാണുന്നില്ലെ മഴവില്ലിതിന്മേൽ<br/>കരുതുക വേണ്ടതിൽ ഭീകരങ്ങൾ<br/>കെടുതികൾ തീർത്തവൻ തഴുകിടുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരുഭൂപ്രയാണത്തിൽ ചാരിടുവാൻ<br/>ഒരു നല്ലനായകൻ നിനക്കില്ലയോ?<br/>കരുതും നിനക്കവൻ വേണ്ടതെല്ലാം<br/>തളരാതെ യാത്ര തുടർന്നിടുക</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ചേലോടു തന്ത്രങ്ങൾ ഓതിടുവാൻ<br/>ചാരന്മാരുണ്ടധികം സഹജ!<br/>ചുടുചോര ചിന്തേണ്ടി വന്നിടിലും<br/>ചായല്ലേ ഈ ലോകതാങ്ങുകളിൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കയ്പുള്ള വെള്ളം കുടിച്ചിടിലും<br/>കൽപ്പന പോലെ നടന്നിടണം<br/>ഏൽപ്പിക്കയില്ലവൻ ശത്രുകൈയിൽ<br/>സ്വർപ്പുരം നീ അണയുംവരെയും</lines>
+    </verse>
+  </lyrics>
+</song>

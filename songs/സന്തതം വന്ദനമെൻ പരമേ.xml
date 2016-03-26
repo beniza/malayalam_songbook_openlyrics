@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>സന്തതം വന്ദനമെൻ പരമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സന്തതം വന്ദനമെൻ പരമേ<br/>ശനേയനുവാസരം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹന്ത! ജീവദയാനിധേ തവ<br/>സ്വന്ത സൂനുവിലെന്നുടെ<br/>ബന്ധുതയ്ക്കൊരു മാർഗ്ഗമേകിയ<br/>നിൻകൃപയ്ക്കഭിവന്ദനം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവലോകമതിങ്കൽ നിന്നതി<br/>ശാപമേറിയ ഭൂതലേ<br/>ജീവപൂർത്തിവരുത്തുവാൻ തവ<br/>ദിവ്യസൂനുവെ നൽകി നീ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപമേറ്റു വലഞ്ഞലഞ്ഞതി-<br/>ഭാരമാർന്നുഴലുമ്പോഴെൻ<br/>ശാപമാകെയൊഴിച്ച നിൻകൃപ<br/>ജീവനായ് വിലസുന്നിതാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിൻസുതങ്കലിരുന്ന വൻകൃപ<br/>എങ്കലേക്കു പകർന്നു നീ<br/>നിൻസഭാംഗനിലയ്ക്കെനിക്ക-<br/>വകാശമേകിയതോർത്തിതാ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ദേവരാജ്യമനന്തശക്തിയിലീ<br/>ജഗത്തിലുദിക്കവേ<br/>ജീവനായകസമ്മുഖം മമ<br/>കാണുവാൻ കൃപ ചെയ്യണേ.</lines>
+    </verse>
+  </lyrics>
+</song>

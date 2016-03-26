@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:10">
+  <properties>
+    <titles>
+      <title>എനിക്കേശുവുണ്ടീമരുവിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എനിക്കേശുവുണ്ടീമരുവിൽ<br/>എല്ലാമായെന്നുമെന്നരികിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഞാനാകുലനായിടുവാൻ<br/>മനമേയിനി കാര്യമില്ല<br/>ദിനവും നിനക്കവൻ മതിയാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കടുംശോധന വേളയിലും<br/>പാടിയെന്മനമാശ്വസിക്കും<br/>നേടും ഞാനതിലനുഗ്രഹങ്ങൾ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാരിലെന്നുടെ നാളുകളീ<br/>പരനേശുവെ സേവിച്ചു ഞാൻ<br/>കരഞ്ഞിന്നു വിതച്ചിടുന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഒന്നുമാത്രമെന്നാഗ്രഹമേ<br/>എന്നെ വീണ്ടെടുത്ത നാഥനെ<br/>മന്നിൽ എവിടെയും കീർത്തിക്കണം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നീറുമെന്നുടെ വേദനകൾ<br/>മാറും ഞാനങ്ങു ചെന്നിടുമ്പോൾ<br/>മാറിൽ ചേർത്തു കണ്ണീർ തുടയ്ക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

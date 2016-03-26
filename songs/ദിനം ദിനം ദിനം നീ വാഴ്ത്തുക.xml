@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:03">
+  <properties>
+    <titles>
+      <title>ദിനം ദിനം ദിനം നീ വാഴ്ത്തുക</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദിനം ദിനം ദിനം നീ വാഴ്ത്തുക<br/>യേശുവിൻ പൈതലേ നീ<br/>അനുദിനവും പാടി വാഴ്ത്തുക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കാൽവറി രക്തമേ യേശുവിൻ രക്തമേ<br/>കാൽവറിയിൽ യേശുതാൻ സ്വന്തരക്തം ചിന്തിനിൻ<br/>പാപത്തെ ശാപത്തെ നീക്കി തന്റെ രക്തത്താൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രോഗം ശിലിച്ചവൻ പാപം വഹിച്ചവൻ<br/>കാൽവറി മലമുകൾ കൈകാൽകൾ വിരിച്ചവൻ<br/>രക്ഷിക്കും യേശുവിൻ പാദത്തിൽ സമർപ്പിക്ക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നേശു സന്നിധി എനിക്കെത്രയാശ്വാസം<br/>ക്ലേശമെല്ലാം മാറ്റിടും രോഗമെല്ലാം നീക്കിടും<br/>വിശ്വാസത്താൽ നിന്നെ യേശുവിൽ സമർപ്പിക്ക</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഞാൻ നിത്യം ചാരിടും എന്നേശു മാർവ്വതിൽ<br/>നല്ലവൻ വല്ലഭൻ എന്നേശു എത്ര നല്ലവൻ<br/>എന്നേശു പൊന്നേശു എനിക്കെത്ര നല്ലവൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആത്മാവിൻ ജീവിതം ആനന്ദ ജീവിതം<br/>ആത്മാവിൽ നിറയുക ആനന്ദനദിയിതു<br/>പാനം ചെയ്തിടുക യേശു വേഗം വന്നിടും</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>പ്രാർത്ഥന കേൾക്കുന്ന ദൈവമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പ്രാർത്ഥന കേൾക്കുന്ന ദൈവമേ<br/>കേൾക്കണേ ദാസരിൻ വാക്കുകൾ<br/>ആശ്രയമായ് നീ മാത്രമേ<br/>സാധുക്കളിൻ പ്രത്യാശയെ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്തോത്രമോടാവശ്യങ്ങളിപ്പോൾ<br/>അടിയങ്ങളോതിടുന്നേശുവേ<br/>എത്രയും താഴ്മയോടേകമായ്<br/>നിൻതിരുസന്നിധൗ മോദമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഒന്നിലുമേ മനം തളരാതെ<br/>കർത്താവേ നിന്നിൽ ഞാനാശ്രയിപ്പാൻ<br/>നിൻകൃപയേഴകൾക്കേകുക<br/>വൻകൃപ സാഗരമേശുവേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മാനവർക്കസാദ്ധ്യമെങ്കിലും<br/>സർവ്വവും നാഥനു സാദ്ധ്യമല്ലോ<br/>ആകുലഭാരങ്ങളാകവെ നീക്കി<br/>നിവർത്തിക്ക നിൻഹിതംപോൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പുത്രിനിൽ വിശ്വസിച്ചപേക്ഷിക്കിൽ<br/>ഉത്തരം നിശ്ചയം ചൊല്ലിയതാൽ<br/>കാത്തിരിക്കുന്നിതാ കാണുവാൻ<br/>ദൈവകരുതലിൻ വൻ മഹത്വം.</lines>
+    </verse>
+  </lyrics>
+</song>

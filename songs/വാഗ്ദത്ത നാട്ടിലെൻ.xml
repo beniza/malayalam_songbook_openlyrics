@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:50">
+  <properties>
+    <titles>
+      <title>വാഗ്ദത്ത നാട്ടിലെൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഗ്ദത്ത നാട്ടിലെൻ<br/>വിശ്രമമാം<br/>വാഗ്ദത്തം ചെയ്തവൻ<br/>വിശ്വസ്തനാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എങ്ങു ഞാൻ പോകുന്നെന്നറിയാതെ<br/>തൻവിളി കേട്ടു പോകുന്നു ഞാൻ<br/>ഇങ്ങിനിയേതു ഖേദം വന്നാലും<br/>പിന്തിരികില്ല പോകുന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വിട്ടു ഞാൻ പോന്നതൊന്നുമേയോർത്തി-<br/>ന്നൊട്ടും മടങ്ങിപ്പോകയില്ല<br/>ഉത്തമമായ നിത്യനിക്ഷേപ-<br/>മുന്നത നാട്ടിലുണ്ടെനിക്കായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപത്തിന്നിമ്പഭോഗം വേണ്ടാ ഞാൻ<br/>പാടുപെടാമെന്നേശുവിന്നായ്<br/>മിസ്രയിം സമ്പത്തേതിലുമെന്റെ<br/>ക്രിസ്തുവിൻ നിന്ദയെത്ര നന്നാം!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഒന്നിലുമേ മനം തളരാതീ<br/>മന്നിൽ ഞാൻ യാത്ര ചെയ്തിടുന്നു<br/>അന്നന്നു വേണ്ടും മന്നയുണ്ടെന്നും<br/>അന്തികത്തിൽ എൻനാഥനുണ്ട്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ചെങ്കടൽ യോർദ്ദാൻ വറ്റിപ്പോമെല്ലാം<br/>വൻയെരിഹോ മതിൽ തകരും<br/>വിശ്വാസയാത്രയെ വിലക്കാൻ ഈ<br/>വിശ്വത്തിലൊന്നും ശക്തമല്ല</lines>
+    </verse>
+    <verse name="v7">
+      <lines>കണ്ണുനീർ തോരും നിന്ദകൾ തീരും<br/>വിണ്ണിലെൻ വീട്ടിൽ ചെന്നുചേരും<br/>എണ്ണിക്കൂടാത്ത ശുദ്ധരൊത്തു<br/>സന്നിധിയിൽ ഞാൻ വാഴമെന്നും.</lines>
+    </verse>
+  </lyrics>
+</song>

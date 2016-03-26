@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:15">
+  <properties>
+    <titles>
+      <title>കരുതുന്നവൻ ഞാനല്ലയോ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുതുന്നവൻ ഞാനല്ലയോ<br/>കലങ്ങുന്നതെന്തിനു നീ<br/>കണ്ണുനീരിന്റെ താഴ്വരയിൽ<br/>കൈവിടുകയില്ല ഞാൻ നിന്നെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്റെ മഹത്വം കാണുക നീ<br/>എന്റെ കയ്യിൽ തരിക നിന്നെ<br/>എന്റെ ശക്തി ഞാൻ നിന്നിൽ പകർന്നു<br/>എന്നും നടത്തിടും കൃപയാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എല്ലാവരും നിന്നെ മറന്നാൽ<br/>ഞാൻ നിന്നെ മറന്നിടുമോ<br/>എന്റെ കരത്തിൽ നിന്നെ വഹിച്ചു<br/>എന്നും നടത്തിടും ധരയിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അബ്രഹാമിന്റെ ദൈവമല്ലയോ<br/>അത്ഭുതം ഞാൻ ചെയ്കയില്ലയോ<br/>ചെങ്കടലിലും വഴി തുറപ്പാൻ<br/>ഞാനിന്നു ശക്തനല്ലയോ.</lines>
+    </verse>
+  </lyrics>
+</song>

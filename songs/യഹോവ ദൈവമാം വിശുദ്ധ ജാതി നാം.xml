@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:02">
+  <properties>
+    <titles>
+      <title>യഹോവ ദൈവമാം വിശുദ്ധ ജാതി നാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യഹോവ ദൈവമാം വിശുദ്ധ ജാതി നാം<br/>അവനവകാശമാം ജനം നാം<br/>പരദേശികൾ നാം ഭാഗ്യശാലികൾ<br/>ഇതുപോലൊരു ജാതിയുണ്ടോ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആപത്തിൽ നമ്മുടെ ദിവ്യസങ്കേതവും<br/>ബലവും ദൈവം ഒരുവനത്രേ<br/>ആകയാൽ പാരിടം ആകെയിളകിലും<br/>നാമിനി ഭയപ്പെടുകയില്ല</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവനീതലത്തിൽ അപമാനം നമു-<br/>ക്കവകാശമെന്നോർത്തിടണം<br/>അവന്നായ് കഷ്ടതയേൽക്കുകിൽ തേജസ്സിൽ<br/>അനന്തയുഗം വാണിടും നാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിര നിര നിരയായ് അണിനിരന്നിടുവിൻ<br/>കുരിശിൻ പടയാളികളെ<br/>ജയ ജയ ജയ കാഹളമൂതിടുവിൻ<br/>ജയവീരനാം യേശുവിന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

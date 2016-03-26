@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:37">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തു നിസ്തുല്യൻ സകലരിലും സുദൃഢം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തു നിസ്തുല്യൻ സകലരിലും സുദൃഢം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാരിടത്തിന്നധികാരി സർവ്വ<br/>പാപവിഷഭയഹാരിതന്റെ<br/>പാദാശ്രിതർക്കുപകാരി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാനാപരീക്ഷയിൻ നേരംഅവൻ<br/>നാൾതോറും തീർക്കുമെൻ ഭാരംതിരു<br/>നാമമെനിക്കൊരു ഹാരം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കുരുടർക്കു കാഴ്ചയെ കൊടുത്തു പാപ<br/>ക്കരുമനകളവൻ തീർത്തുതന്റെ<br/>കരുണയിലെന്നെയുമോർത്തു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇക്ഷിതിയിൽ മനുവർഗ്ഗമെല്ലാം<br/>മോക്ഷമണയുന്ന മാർഗ്ഗം എന്റെ<br/>രക്ഷാപുരുഷനെൻ ഭാഗ്യം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മുറ്റുമവനിയിലെല്ലാം പാർത്താൽ<br/>മറ്റൊരു മാർഗ്ഗവുമില്ലപാരിൽ<br/>മറ്റൊരു രക്ഷകനില്ല.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:13">
+  <properties>
+    <titles>
+      <title>മനമേ ചഞ്ചലമെന്തിനായ്?</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മനമേ ചഞ്ചലമെന്തിനായ്?<br/>കരുതാൻ വല്ലഭനില്ലയോ<br/>ജയവീരനായ് ആ ആ ആ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നാളെയ നിനച്ചു നടുങ്ങേണ്ട ദുഃഖ-<br/>വേളകൾ വരുമെന്നു കലങ്ങേണ്ടാ<br/>കാലമെല്ലാമുള്ള മനുവേലൻ<br/>കരുതാതെ കൈവിടുമോ? ആ ആ ആ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാനിലെ പറവകൾ പുലരുന്നു നന്നായ്<br/>വയലിലെ താമര വളരുന്നു<br/>വാനവനായകൻ നമുക്കേതും<br/>നൽകാതെ മറന്നിടുമോ? ആ ആ ആ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൈവിടുകയില്ലിനിയൊരുനാളുമെന്നു<br/>വാക്കു പറഞ്ഞവൻ മാറിടുമോ?<br/>വാനവും ഭൂമിയും പോയാലും<br/>വാഗ്ദത്തം സുസ്ഥിരമാം ആ ആ ആ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മുന്നമേ ദൈവത്തിൻ രാജ്യവും നാം അതി-<br/>നുന്നത നീതിയും തേടിടണം<br/>തന്നിടും നായകൻ അതിനോടെ<br/>അന്നന്നുവേണ്ടതെല്ലാം ആ ആ ആ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിൻവഴി ദേവനെ ഭരമേൽപ്പിക്കുക<br/>നിർണ്ണയമവനതു നിറവേറ്റും<br/>ഭാരം യഹോവയിൽ വച്ചിടുകിൽ<br/>നാൾതോറും പുലർത്തുമവൻ ആ ആ ആ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>വരുവാൻ കാലമടുത്തല്ലോ അവൻ<br/>ഒരുക്കിയ വീട്ടിൽ നാം ചേർന്നിടുവാൻ<br/>ഒരുനാളുമിനി പിരിയാതെ<br/>മരുവും നാം ആനന്ദമായ് ആ ആ ആ.</lines>
+    </verse>
+  </lyrics>
+</song>

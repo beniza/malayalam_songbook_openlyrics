@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:31">
+  <properties>
+    <titles>
+      <title>ഓ ദൈവമേ രാജാധിരാജദേവാ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഓ ദൈവമേ രാജാധിരാജദേവാ<br/>ആദിയന്തം ഇല്ല മഹേശനേ<br/>സർവ്വലോകം അങ്ങയെ വന്ദിക്കുന്നേ<br/>സാധു ഞാനും വീണു വണങ്ങുന്നേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അത്യുച്ചത്തിൽ പാടും ഞാൻ കർത്താവേ<br/>അങ്ങെത്രയോ മഹോന്നതൻ!(2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സൈന്യങ്ങളിൽ നായകനങ്ങല്ലയോ<br/>ധന്യനായ ഏകാധിപതിയും<br/>ഇമ്മാനുവേൽ വീരനാം ദൈവവും നീ<br/>അന്യമില്ലേതും തവ നാമംപോൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അത്യഗാധം ആഴിയനന്തവാനം<br/>താരാജാലം കാനന പർവ്വതം<br/>മാരിവില്ലും താരും തളിരുമെല്ലാം<br/>നിൻമഹത്വം ഘോഷിക്കും സന്തതം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഏഴയെന്നെ ഇത്രമേൽ സ്നേഹിക്കുവാൻ<br/>എൻ ദൈവമേ എന്തുള്ളു നീചൻ ഞാൻ<br/>നിൻരുധിരം തന്നെന്നെ വീണ്ടെടുപ്പാൻ<br/>ക്രൂശിലോളം നീ നിന്നെ താഴ്ത്തിയോ.</lines>
+    </verse>
+  </lyrics>
+</song>

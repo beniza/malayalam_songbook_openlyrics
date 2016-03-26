@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:35">
+  <properties>
+    <titles>
+      <title>മഹാത്ഭുതം മഹോന്നതം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മഹാത്ഭുതം മഹോന്നതം<br/>മാ പാപിയെന്നെ നീ<br/>മാറോടണച്ച സ്നേഹമേ<br/>മാറാത്ത സ്നേഹമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അനാഥനല്ല ഞാനിനി<br/>നിൻപ്രിയ സൂനുവാം<br/>അനാദിയന്ത സ്നേഹത്താൽ<br/>വിനാശം പോക്കി നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കണ്ണീരിൻ താഴ്വരയിലും<br/>വൻ കൂരിരുളിലും<br/>കാണും ഞാൻ നാഥാ നിൻ കൃപാ-<br/>കരങ്ങൾ സർവ്വദാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിൻ സന്നിധിയണയുമ്പോൾ<br/>നിൻപാദം ചേരുമ്പോൾ<br/>നിരന്തരം ഞാൻ പാടിടും<br/>നിസ്സീമമാം സ്നേഹം.</lines>
+    </verse>
+  </lyrics>
+</song>

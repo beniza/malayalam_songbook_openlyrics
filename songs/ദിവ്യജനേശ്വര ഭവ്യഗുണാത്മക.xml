@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:57">
+  <properties>
+    <titles>
+      <title>ദിവ്യജനേശ്വര! ഭവ്യഗുണാത്മക!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദിവ്യജനേശ്വര! ഭവ്യഗുണാത്മക!<br/>ഭാഗ്യാമൃതദായക! തിരുപ്പാദം ഗതിനായകാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദിവ്യജഡം വെടിഞ്ഞവ്യയലോകേ<br/>നിന്നുർവ്വിയിൽ വന്നപരാ! പരദേവവിഹിതാശര! പൂർവ്വോദിതമാത്മ നിർവ്യാജവാക്കത്ര<br/>നിർവ്വഹിപ്പാൻ വന്ന സർവ്വേശ്വരാ! സുന്ദര! ഹൃതഗർവ്വജനതേശ്വര!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദുഷ്ടസാത്താനടിപ്പെട്ടെത്രയും മഹാ<br/>കഷ്ടമനുഭവിച്ചേൻ അതാലേറ്റം പരിതപിച്ചേൻ<br/>ഇഷ്ടനാഥാ! തിരുവിഷ്ടമിയന്നെന്നെ കഷ്ടതയിൽനിന്നു മീട്ടതറിഞ്ഞുറച്ചേൻ കൃപ തൊട്ടന്നു നിശ്ചയിച്ചേൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മന്നാ! ഭവാന്നുയിരിമ്മൺമയന്നു നീ<br/>തന്നിടുമെന്നാകിലോ ബഹു ധന്യനായ് തീർന്നിടുവേൻ വിണ്ണവരെന്നാളുമന്യാദൃശസ്നേഹ<br/>നന്ദികലർന്നീശ! നിന്നെസ്തുതിക്കും വിധം<br/>ഞങ്ങളെന്നേക്കും വാഴ്ത്തും ദൃഢം.</lines>
+    </verse>
+  </lyrics>
+</song>

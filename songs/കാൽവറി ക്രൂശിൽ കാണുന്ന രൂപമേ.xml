@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>കാൽവറി ക്രൂശിൽ കാണുന്ന രൂപമേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാൽവറി ക്രൂശിൽ കാണുന്ന രൂപമേ!<br/>കന്മഷക്കൂരിരുൾ നീക്കും പൊൻദീപമേ!<br/>എന്തു കനിവോ! സ്വന്തനിണവും<br/>ചിന്തി മഹാമൃതിയേന്തിയതാമി</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നുടെ സഖിയായി മരുവിടാ<br/>നന്യരാൽ നിന്ദിതനായിത്തീരേണമോ?<br/>ആരും തുണയില്ലാതെ വലയാതഗ-<br/>തിയാമെന്നെ കരുതുക തന്നെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നന്മ ചെയ്തു നടന്ന പാദങ്ങളിൽ<br/>വൻ മുറിവേകിടുന്നാണികൾ മുനയാൽ<br/>എൻനടപ്പു നന്നാകുവതിന്നായൊന്നു-<br/>മില്ലേയന്യമാർഗ്ഗമിതെന്യേ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആണികൾ നിജപാണി യുഗങ്ങളെ<br/>ശോണിതപൂരിതമാക്കി കാണുന്നിതാ!<br/>എൻക്രിയകളിൻ വൻകലുഷത<br/>നീക്കുകയാണിതു നോക്കിയ ഹേതു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മുൾമുടിയതുമൂലം മുറിഞ്ഞിതാ!<br/>തൻമുഖത്തൂടൊഴുകുന്നു തങ്കനിണം<br/>എൻനിനവിലെ തിന്മയഖിലം<br/>ശിരസ്സിലേറ്റിടുവാൻ മനസ്സലിഞ്ഞോനേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മാ മരക്കുരിശ്ശായി ബലിപീഠം<br/>വാനവനീശ്വരനായി യാഗമൃഗം<br/>മരത്തിൽ തൂങ്ങുവോൻ ശപിക്കപ്പെട്ടവൻ<br/>ലിഖിതമിതീവിധമായി നിർവ്വാദം.</lines>
+    </verse>
+  </lyrics>
+</song>

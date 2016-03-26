@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:06">
+  <properties>
+    <titles>
+      <title>അനുദിനവും പാലകനായ്</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അനുദിനവും പാലകനായരികിലുണ്ടെന്നേശുപരൻ<br/>അവനിലത്രേ എന്നഭയം<br/>അവനെനിക്കായ് കരുതുന്നല്ലോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കഷ്ടതയിൽ കൈവിടാതെ<br/>തുഷ്ടിയേകി നടത്തുമെന്നെ<br/>കരുമനകൾ വരികിലേശു<br/>അഭയമേകും അനുദിനവും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വന്ദ്യനവൻ നിന്ദിതനായ്<br/>കഠിനപീഡയേറ്റധികം<br/>കുരിശിലേറി പാപികൾക്കായ്<br/>തിരുശരീരം യാഗമാക്ക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉലകത്തിൽ സൽ ഭരണ കർത്താ<br/>വായിടും ശ്രീ യേശു നാഥൻ<br/>സഹസ്രവർഷം തൻസവിധേ<br/>മരുവിടും നാം യെരുശലേമിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

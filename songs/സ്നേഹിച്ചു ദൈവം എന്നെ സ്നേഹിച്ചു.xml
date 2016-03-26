@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:35">
+  <properties>
+    <titles>
+      <title>സ്നേഹിച്ചു ദൈവം എന്നെ സ്നേഹിച്ചു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്നേഹിച്ചു ദൈവം എന്നെ സ്നേഹിച്ചു<br/>ദൈവം എന്നെ സ്നേഹിച്ചു<br/>ദൈവം തൻപുത്രനെയും<br/>നൽകി ബലിയാകുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആദ്യമവൻ സ്നേഹിച്ചെന്നെ<br/>ആദിയുഗങ്ങൾക്കു മുന്നേ<br/>ആകയാൽ തന്നെ സ്നേഹിച്ചു<br/>ഞാനും സന്തോഷ സമ്പൂർണ്ണനായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപിയായ് പാരിൽ പിറന്നു<br/>പാപവഴിയിൽ നടന്നു<br/>പാതകനായോരെന്നെയും ദൈവം<br/>സ്നേഹിച്ചതാണത്ഭുതം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മറ്റാരും തേടി വന്നില്ല<br/>മറ്റാരും ജീവൻ തന്നില്ല<br/>ഉറ്റസുഹൃത്തായൂഴിയിലിന്നെ<br/>ന്നേശുവൊരാൾ മാത്രമാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അഴലേറും വേളയിൽ തന്റെ<br/>കഴലിൽ ഞാനാശ്രയം തേടും<br/>ചുഴലിയിലാഴിത്തിരമേൽ നടന്നെ-<br/>ന്നരികിൽ വരും രക്ഷകൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

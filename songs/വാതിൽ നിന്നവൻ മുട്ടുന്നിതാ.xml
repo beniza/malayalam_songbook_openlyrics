@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>വാതിൽ നിന്നവൻ മുട്ടുന്നിതാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാതിൽ നിന്നവൻ മുട്ടുന്നിതാ<br/>സ്വർഗ്ഗീയ വിളി കേൾക്കൂ<br/>നിന്നോടു സ്നേഹത്തിൻ ബന്ധം പുലർത്താൻ<br/>ഹൃത്തിടെ വാതിൽ തുറക്കൂ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മരിച്ചവർ തന്നെ അറിയുന്നില്ല<br/>അറിഞ്ഞവർ തന്നെ മറക്കുകില്ല<br/>മരണവും ജീവനും അവൻ കൈയിലെ<br/>തിരഞ്ഞെടുക്കൂ അവൻ ജീവനെയും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാണാതെ പോയോരാടിനെപ്പോൽ<br/>പാപത്തിന്നാഴത്തിൽ വീണ നിന്നെ<br/>ബലമുള്ള കരംകൊണ്ടുവീണ്ടെടുപ്പാൻ<br/>കാന്തനാം യേശുവിൻ വിളി കേൾക്കൂ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കണ്ണുനീർ താഴ്വരയല്ലോ ഇത്<br/>കാണുന്നതൊക്കെയും മായയല്ലോ<br/>മാഞ്ഞിടാരാജ്യം നിനക്കായവൻ<br/>മാറിടാതേശു ഒരുക്കിടുന്നു. H.B</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>പരനേശുവേ കരുണാനിധേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരനേശുവേ കരുണാനിധേ!<br/>വരമേകുക ദമ്പതികൾ<br/>ക്കരുളണമേ കൃപയെ ദിനംപ്രതി<br/>മാരിപോൽ ദൈവജാതാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തവദാസരാമിവരൈക്യമത്യമോടെ<br/>വസിച്ചിടുവാനും<br/>അവസാനകാലമണഞ്ഞിടും വരെ<br/>പ്രീതിയിൽ മേവതിന്നും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരമാവിയാലിവരെ നിറയ്ക്ക<br/>മഹോന്നതനേ ദിനവും<br/>തിരുനാമകീർത്തി സദാ നിനച്ചു<br/>തങ്ങൾ വസിച്ചിടുവാനും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പരനേശു തൻ പ്രിയയായ്<br/>തിരുസഭയെ വരിച്ചായതിന്നായ്<br/>മരണം സഹിച്ചതുപോലീദാസൻ<br/>തൻപത്നിയെ ചേർത്തുകൊൾവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തവ ദാസിയാമിവളും അനുസരിച്ചിടണം<br/>നിത്യവും തൻ<br/>ധവനെ പുരാ സാറയും<br/>അബ്രാമിനെയെന്നപോൽ മോദമോടെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പല മാറ്റവും മറിവും നിറഞ്ഞ<br/>ലോകേയിവർ നിത്യവും നിൻ<br/>അലിവേറ്റമുള്ളവയാം ചിറകടി<br/>ചേർന്നു സുഖിപ്പതിന്നും.</lines>
+    </verse>
+  </lyrics>
+</song>

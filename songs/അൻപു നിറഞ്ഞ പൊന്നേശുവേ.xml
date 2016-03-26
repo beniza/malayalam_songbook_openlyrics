@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>അൻപു നിറഞ്ഞ പൊന്നേശുവേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അൻപു നിറഞ്ഞ പൊന്നേശുവേ!<br/>നിൻപദ സേവയെന്നാശയേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഉന്നതത്തിൽ നിന്നിറങ്ങി മന്നിതിൽ വന്ന<br/>നാഥാ! ഞാൻ- നിന്നടിമ നിൻമഹിമ<br/>ഒന്നുമാത്രമെനിക്കാശയാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവനറ്റ പാപിയെന്നിൽ ജീവൻ പകർന്ന<br/>യേശുവേ- നിന്നിലേറെ മന്നിൽ വേറെ<br/>സ്നേഹിക്കുന്നില്ല ഞാനാരെയും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അർദ്ധപ്രാണനായ് കിടന്നൊരെന്നെ നീ രക്ഷ-<br/>ചെയ്തതാൽ എന്നിലുള്ള നന്ദിയുള്ളം<br/>താങ്ങുവതെങ്ങനെയെൻ പ്രിയാ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇന്നു പാരിൽ കണ്ണുനീരിൽ നിൻ വചനം<br/>വിതയ്ക്കും ഞാൻ<br/>അന്നു നേരിൽ നിന്നരികിൽ<br/>വന്നു കതിരുകൾ കാണും ഞാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എൻ മനസ്സിൽ വന്നുവാഴും നന്മഹത്വ പ്രത്യാശയേ<br/>നീ വളർന്നും ഞാൻ കുറഞ്ഞും<br/>നിന്നിൽമറഞ്ഞു ഞാൻ മായണം</lines>
+    </verse>
+  </lyrics>
+</song>

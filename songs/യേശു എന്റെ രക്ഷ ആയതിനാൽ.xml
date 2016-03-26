@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:05">
+  <properties>
+    <titles>
+      <title>യേശു എന്റെ രക്ഷ ആയതിനാൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു എന്റെ രക്ഷ ആയതിനാൽ<br/>ഞാനെത്ര ഭാഗ്യവാൻ(2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മമ പാപങ്ങൾ തൻ നിണത്താൽ<br/>പരിശുദ്ധമായ് കഴകിയവൻ (2)<br/>ഇരുളേറുമെൻ ജീവിതത്തിൽ<br/>ദിവ്യതേജസ്സൊളി പകർന്നോൻ<br/>എന്റെ ഉള്ളത്തിൻ ധ്യാനവും താൻ<br/>എന്നും തീരാത്ത ഗാനവും താൻ (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മണ്ണിലെന്നെ മെനഞ്ഞവനാം<br/>വിണ്ണിൽ ജീവനും തന്നവനാം (2)<br/>തിരുനാമത്തെ വാഴ്ത്തിടും ഞാൻ<br/>നിത്യസ്നേഹത്തെ പുകഴ്ത്തിടും ഞാൻ<br/>എന്റെ ശോകത്തിലാനന്ദവും<br/>എന്നും രോഗത്തിലാശ്വാസവും (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്റെ ജീവിതകാലമെല്ലാം<br/>എന്നും മാറാത്ത സ്നേഹിതനാം (2)<br/>തിരുനാമത്തിലാശ്രയമായ്<br/>എന്നും ജീവിക്കും ഞാനവന്നായ്<br/>എന്തു ക്ലേശങ്ങൾ വന്നാലും അവൻ<br/>അന്ത്യം വരെ നടത്തും (2)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>രക്ഷക്രിസ്തേശുമൂലമല്ലാതെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>രക്ഷക്രിസ്തേശുമൂലമല്ലാതെ<br/>ലഭ്യമാകാ നിനക്കു സഹോദരാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മറ്റൊരു നാമവും രക്ഷയ്ക്കുള്ള നാമമായ്<br/>കിട്ടീട്ടില്ല നമുക്കു നിശ്ചയം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപം കലർന്ന നിന്റെ പുണ്യകർമ്മമൊക്കെയും<br/>പാപീ! രക്ഷാമാർഗ്ഗമോ? ചിന്തിക്ക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചത്ത പ്രവൃത്തികളും വെറും വേഷഭക്തിയും<br/>ജീവിപ്പിക്കാ നിശ്ചയം നിന്നെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പ്രശംസ തീർന്നുപോയ് കർമ്മം നൽകാ രക്ഷയെ<br/>യേശുവിന്റെ ദാനമല്ലയോ രക്ഷ?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വിശ്വസിക്കിക്ഷണം ക്രിസ്തുവിന്റെ നാമത്തിൽ<br/>ആശ്വാസം കണ്ടെത്തുമേ ഉടനെ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:48">
+  <properties>
+    <titles>
+      <title>എന്താനന്ദം യേശുമഹേശനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്താനന്ദം യേശുമഹേശനെ<br/>പിന്തുടരുന്നതു മനമേ!<br/>വൻതാപമതിൽ താൻ തണലേകും<br/>സന്തതമവൻ തുണയാകും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭാരമെഴുന്നീ പാരിടവാസം<br/>പാർക്കുകിലെന്തു പ്രയാസം<br/>ഭാരമശേഷം തന്നുടെ ശീർഷം<br/>തീർക്കുമതെന്താശ്വാസം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യുദ്ധവിപത്തും സത്യവിരുദ്ധവു<br/>മിദ്ധരയിൽ വളർന്നാലും<br/>മർത്യരെല്ലാരുമെതിർത്തുവെന്നാലും<br/>നൽകിടുമവൻ സങ്കേതം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഭീതിയകറ്റി കൂടെ നടത്തി<br/>പ്രീതി വളർത്തി ദിനവും<br/>ക്ഷീണിക്കും സമയം താങ്ങിടും<br/>സദയം കാണിക്കും നൽവഴിയഭയം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഒരു തുണയിതുപോലൊരുവനില്ലുലകിൽ<br/>കരുതുവതിന്നുമില്ലറികിൽ<br/>മരണമാം യോർദ്ദാൻ കരയിലുമരികിൽ<br/>ശരണമവൻ തരുമൊടുവിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

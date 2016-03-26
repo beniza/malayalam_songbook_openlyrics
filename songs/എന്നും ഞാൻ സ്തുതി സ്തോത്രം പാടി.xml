@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:08">
+  <properties>
+    <titles>
+      <title>എന്നും ഞാൻ സ്തുതി സ്തോത്രം പാടി</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നും ഞാൻ സ്തുതി സ്തോത്രം പാടി<br/>വന്ദനം ചെയ്തീടുമെ വല്ലഭനേശുവിനെ<br/>സ്വന്തജീവനെ കുരിശിൽ എനിക്കായ്<br/>തന്നതവൻ വൻകൃപയ്ക്കായ് അൻപിനാൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻഭാരത്താൽ ഞാൻ വലഞ്ഞു<br/>ശാപത്തിലാണ്ടുകിടന്നനേരം<br/>ചാരത്തവൻ വന്നണഞ്ഞു<br/>ചെന്നിണം ചൊരിഞ്ഞെന്നെ വീണ്ടെടുത്തു<br/>നന്ദിയോടെന്നും ഞാൻ പാടീടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആകുലത്തിൽ ദുഃഖവേളകളിൽ<br/>ആപത്തിലും ഉറ്റസ്നേഹിതനായ്<br/>ആശ്വാസത്തെ പകരുമെന്നിൽ<br/>യേശുനാഥൻ മരുയാത്രയിതിൽ<br/>വാഴ്ത്തിടും ഞാൻ തിരുനാമമെന്നും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വേഗം വരും വിണ്ണിൽ വീടൊരുക്കി<br/>വാനമേഘേ കർത്തൻ ദൂതരുമായ്<br/>വാനിലെന്നെച്ചേർത്തിടുവാൻ<br/>വിൺപുരിയിൽ സ്വന്തഭവനമതിൽ<br/>വാണിടും ഞാനെന്നും മോദമോടെ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:01">
+  <properties>
+    <titles>
+      <title>പർവ്വതഭൂമി ഭൂമണ്ഡലങ്ങൾ നിർമ്മിക്കും</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പർവ്വതഭൂമി ഭൂമണ്ഡലങ്ങൾ നിർമ്മിക്കും<br/>മുമ്പേ നീ ദൈവമത്രേ<br/>ആദിയില്ലാത്തേക ദൈവം നീ<br/>ശാശ്വതരൂപനേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇന്നലെ ഇന്നുമെന്നെന്നും നീ മാറ്റമില്ലാത്തവൻ<br/>നൽവരം നൽകുവാൻ വല്ലഭാ! എന്നിൽ കനിയണേ<br/>ആശ്വാസം നൽകിയെൻ പ്രാണനെ നീ<br/>തണുപ്പിക്കുകേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജ്ഞാനഹൃദയം ഞാൻ പ്രാപിക്കുവാൻ<br/>നാളുകളെണ്ണുവാൻ ശീലിപ്പിക്ക<br/>വൻദയയാൽ തൃപ്തനാക്കെന്നെ<br/>ഘോഷിപ്പാൻ നിൻനാമം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തേടുവാൻ നേടുവാൻ പാപികളെ<br/>നിൻസ്നേഹമെന്നിൽ പകർന്നിടണേ<br/>സ്നേഹത്തിൻ ത്യാഗത്തെ ക്രൂശിൻമേൽ<br/>കാണിക്ക നീ പ്രഭോ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നീതികിരീടം ഞാൻ പ്രാപിക്കുവാൻ<br/>പ്രത്യാശയെന്നിൽ ജ്വലിപ്പിക്കുകേ<br/>നീതിയിൽ നിൻമുഖം കാണുവാൻ<br/>തൃപ്തനായ് തീരുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

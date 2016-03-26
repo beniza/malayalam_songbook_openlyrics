@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>വാഴ്ത്തി പുകഴ്ത്തുമെന്നേശു നാഥനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജീവനാഥനേശുവെ എൻജീവകാലം വാഴ്ത്തും ഞാൻ<br/>ഹല്ലെലുയ്യ ഗീതം എന്നും പാടി സ്തുതിച്ചിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപം നിറഞ്ഞുള്ളതാകും പാതയിൽ<br/>ഞാനലഞ്ഞുലഞ്ഞു പോകവേ<br/>തേടിവന്നുവന്നെ നേടി ജീവമാർഗ്ഗേ<br/>ചേർത്ത നല്ലിടയൻ താൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ചത്ത നായ് സമമായൊരെന്നെയും<br/>രക്തം ചിന്തി വീണ്ടെടുത്തതാൽ<br/>ചിത്തം നന്ദിയാൽ നിറഞ്ഞു തൃപ്പാദത്തിൽ വീണു<br/>മുത്തം ചെയ്യും ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിത്യശിക്ഷാവിധി നീങ്ങി പൂർണ്ണമാം<br/>പ്രത്യാശയിലായെൻ ജീവിതം<br/>ക്രിസ്തു നായകിനിലായ നാൾ മുതൽ ഹാ!<br/>എത്ര ധന്യനായി ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇന്നു പാരിൽ പരദേശിയായി ഞാൻ<br/>പാർക്കുമെൻ രക്ഷകൻ സാക്ഷിയായി<br/>അന്നു ദിവ്യാനന്ദം പൂണ്ടുപ്രിയനൊത്തു വിണ്ണി<br/>ലെന്നും വാഴും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

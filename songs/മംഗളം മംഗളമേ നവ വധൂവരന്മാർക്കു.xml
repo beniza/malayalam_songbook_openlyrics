@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>മംഗളം മംഗളമേ നവ വധൂവരന്മാർക്കു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മംഗളം മംഗളമേ നവ വധൂവരന്മാർക്കു<br/>മംഗളം മംഗളം മംഗളമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജീവിതപ്പൊൻ ലതികയിൽ പുതിയൊരു<br/>പ്രേമത്തിൻ പൂവിടർന്നു<br/>പാരിലെങ്ങും പരമസന്തോഷത്തിൻ<br/>പരിമളം പരത്തിടട്ടെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആദിയിലാദാമിന്നു തുണയ്ക്കൊരു<br/>നാരിയെ കൊടുത്തവനാം<br/>ആദിനാഥനരുളണമിവർക്കും<br/>അനന്ത സൗഭാഗ്യമെല്ലാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മുന്നമേ തൻ ദൈവത്തിൻ രാജ്യവും<br/>നീതിയും തേടുകയാൽ<br/>മന്നിലെങ്ങുമിവരുടെ ജീവിതം<br/>മാതൃകയായിടട്ടെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മംഗളമേ ... ... ന്നും<br/>മംഗളമേ... ... ക്കും<br/>മംഗളം മേൽഭവിക്കേണമിരുവർക്കും<br/>ഭംഗമില്ലാതിനിയും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:41">
+  <properties>
+    <titles>
+      <title>എൻ രക്ഷകാ! എൻ ദൈവമേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ രക്ഷകാ! എൻ ദൈവമേ! നിന്നിലായ നാൾ ഭാഗ്യമേ<br/>എന്നുള്ളത്തിൻ സന്തോഷത്തെ എന്നും ഞാൻ കീർത്തിച്ചിടട്ടെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭാഗ്യനാൾ ഭാഗ്യനാൾ യേശു എൻ പാപം തീർത്തനാൾ<br/>കാത്തുപ്രാർത്ഥിക്കാറാക്കി താൻ ആർത്തുഘോഷിക്കാറാക്കി താൻ<br/>ഭാഗ്യനാൾ ഭാഗ്യനാൾ യേശു എൻ പാപം തീർത്തനാൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വൻക്രിയ എന്നിൽ നടന്നു കർത്തനെന്റെ ഞാനവന്റെ<br/>താൻ വിളിച്ചു ഞാൻ പിൻചെന്നു സ്വീകരിച്ചു തൻ ശബ്ദത്തെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സ്വസ്ഥമില്ലാത്ത മനമേ കർത്തനിൽ നീ ആശ്വസിക്ക<br/>ഉപേക്ഷിയാതെ അവനെ തൻ നന്മകൾ സ്വീകരിക്ക</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്വർപ്പൂരം ഈ കരാറിനു സാക്ഷി നിൽക്കുന്നെൻ മനമേ<br/>എന്നും എന്നിൽ പുതുക്കുന്നു നൽമുദ്ര നീ ശുദ്ധാത്മാവേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സൗഭാഗ്യം നൽകും ബാന്ധവം വാഴ്ത്തും ജീവകാലമെന്നും<br/>ക്രിസ്തേശുവിൽ എൻ ആനന്ദം പാടും ഞാൻ അന്ത്യകാലത്തും.</lines>
+    </verse>
+  </lyrics>
+</song>

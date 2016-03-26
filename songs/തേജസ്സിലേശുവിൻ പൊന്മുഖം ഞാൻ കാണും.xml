@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>തേജസ്സിലേശുവിൻ പൊന്മുഖം ഞാൻ കാണും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>തേജസ്സിലേശുവിൻ പൊന്മുഖം ഞാൻ കാണും<br/>കാലം ഏറ്റം ആസന്നമേ<br/>അതെന്നാശയേ അതെന്നാനന്ദമേ<br/>അതെൻ പ്രത്യാശയിൻ പ്രഭാതമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആനന്ദദായകനാം എൻ പ്രിയനെ കണ്ടിടുമ്പോൾ<br/>കണ്ണുനീരെല്ലാം നീങ്ങിടുമേ<br/>എന്റെ അല്ലലാകെയകന്നിടും<br/>എനിക്കാനന്ദമേ യുഗായുഗം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാഗ്ദത്തനാടതിലെ ശാശ്വതമാം വീട്ടിലെൻ<br/>സേവകർ ദൈവദൂതരല്ലോ ദൈവപൊൻമുഖം ദിനം കണ്ടിടും<br/>ശുദ്ധരോടൊന്നായ് ഞാൻ സ്തുതിച്ചിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഈ മണ്ണിലെന്റെ ക്ലേശമൽപ്പകാലം മാത്രം<br/>മാഞ്ഞുപോം അതു കിനാവുപോൽ<br/>നിത്യതേജസ്സിൽ ഘനമാണതിൻ<br/>ഫലമെൻ പ്രിയനന്നു നൽകിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഹാ! ഇത്ര ഭാഗ്യമെൻ ജീവിതത്തിനേകിയ<br/>പ്രാണപ്രിയനെൻ പ്രമോദമേ<br/>അവനെന്റെയുപനിധി കാത്തിടും<br/>വാനമേഘത്തിലെന്നെ ചേർത്തിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

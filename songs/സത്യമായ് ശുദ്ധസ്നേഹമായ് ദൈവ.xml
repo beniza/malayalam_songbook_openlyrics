@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:22">
+  <properties>
+    <titles>
+      <title>സത്യമായ് ശുദ്ധസ്നേഹമായ് ദൈവ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സത്യമായ് ശുദ്ധസ്നേഹമായ് ദൈവ<br/>ജ്ഞാനമായ് വാഴും കർത്താവേ!<br/>വന്ദ്യനാം നിത്യജീവമാർഗ്ഗമേ വന്ദനം ജയമംഗളം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കാൽകരങ്ങളിലാണിയേറ്റു നീ<br/>കാൽവറി ക്രൂശിൻ യാഗമായ്<br/>പാവനരക്തം ചിന്തി ഞങ്ങളെ<br/>വീണ്ടതാൽ ജയമംഗളം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്വന്തപുത്രനെയാദരിയാതെ<br/>സ്വന്തമായ് ഞങ്ങൾക്കേകിയ<br/>സ്വർഗ്ഗതാത! നീ സർവ്വവും<br/>തന്നിൽ തന്നതാൽ ജയമംഗളം!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സാക്ഷാൽ മുന്തിരിവള്ളിയാം നിന്നിൽ<br/>കൊമ്പുകളാക്കി ഞങ്ങളെ<br/>മെച്ചമാം ഫലം കായ്ക്കുവാൻ<br/>ചെത്തി സ്വച്ഛമാക്കയാൽ മംഗളം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കാരുണ്യമാർന്ന കൈകളിൽ<br/>വഹിച്ചാലംബഹീനരായോരെ<br/>വൻദുരിതങ്ങൾ നീക്കി-<br/>യൻപിനാൽ പോറ്റിടും നാഥാ മംഗളം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സാനന്ദം സ്തുതി കീർത്തനങ്ങളാൽ<br/>വാഴ്ത്തുവാനിന്നു ഞങ്ങളെ<br/>പ്രാപ്തരാക്കിയ ദേവനന്ദന<br/>വന്ദനം ജയമംഗളം.</lines>
+    </verse>
+  </lyrics>
+</song>

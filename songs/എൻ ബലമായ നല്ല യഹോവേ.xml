@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>എൻ ബലമായ നല്ല യഹോവേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ ബലമായ നല്ല യഹോവേ<br/>ഞാൻ നിന്നെ സ്നേഹിക്കുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യഹോവ എന്റെ ശൈലവും കോട്ടയും എന്റെ രക്ഷകനും<br/>എന്റെ ദൈവവും എന്നുടെ പാറയും<br/>എന്റെ പരിചയും ഗോപുരവും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്തുത്യനാം യാഹേ കേൾക്കേണമേ<br/>ശത്രുവിങ്കൽ നിന്നും വിടുവിക്കണേ<br/>മരണപാശങ്ങളാൽ ദുഃഖിതനാമി<br/>എന്നുടെ പ്രാണനെ കാത്തിടണേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കെരൂബിനെ വാഹനമാക്കിയവൻ<br/>കാറ്റിനെ ചിറകിന്മേൽ അണയുന്നവൻ<br/>ഉയരത്തിൽ നിന്നെന്നെ കൈനീട്ടി വിടുവിച്ചു<br/>പെരുവെള്ളത്തിൽ നിന്നും വലിച്ചെടുത്തു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ബലമുള്ള ശത്രുവിൻ കയ്യിൽനിന്നും<br/>വിടുവിച്ചു നടത്തിടും നല്ലിടയൻ<br/>പടയുടെ നേരേ പാഞ്ഞിടുവാൻ<br/>ബലം തരും എനിക്കവൻ നിശ്ചയമായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

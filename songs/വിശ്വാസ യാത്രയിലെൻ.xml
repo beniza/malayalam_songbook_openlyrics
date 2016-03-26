@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:07">
+  <properties>
+    <titles>
+      <title>വിശ്വാസ യാത്രയിലെൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വിശ്വാസ യാത്രയിലെൻ<br/>ആശ്വാസദായകനായ്<br/>യേശുയെന്നാശ്രയമാം<br/>ലേശവും ഭയമില്ലതാൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹൃദയം നുറുങ്ങിടുമ്പോൾ<br/>മനസ്സ് തകർന്നിടുമ്പോൾ<br/>ആശ്വാസം തന്നിടുവാൻ<br/>അരികിൽ വരുന്നവനാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അല്ലലിൻ അലകടലിൽ<br/>താഴുകിൽ താൻ മതിയാം<br/>കരം പിടിച്ചുയർത്തിടുവാൻ<br/>പരിഭ്രമമകറ്റിടുവാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അരി തരും വിനകളിലും<br/>ഇരുൾ നിര വഴികളിലും<br/>തുണയായ് വന്നിടും താൻ<br/>സുഖമായ് നടത്തീടും താൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഒരു നാളെൻ പ്രിയനെ<br/>നേരിൽ ഞാൻ കണ്ടിടുമേ<br/>തീരും സന്താപമെല്ലാം<br/>ചേരും ഞാൻ തന്നരികിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

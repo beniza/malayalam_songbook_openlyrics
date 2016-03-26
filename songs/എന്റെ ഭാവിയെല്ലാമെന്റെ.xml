@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:49">
+  <properties>
+    <titles>
+      <title>എന്റെ ഭാവിയെല്ലാമെന്റെ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ ഭാവിയെല്ലാമെന്റെ ദൈവമറിയുന്നുവെന്നു<br/>പൂർണ്ണസമാധാനമോടെ നാൾ മുഴുവൻ പാടിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മുന്നിലൊരു ചോടു വയ്പാൻ മാത്രമിട കാണുന്നു ഞാൻ<br/>ആയതു മതിയെനിക്കു ശേഷമെല്ലാം ദൈവഹിതം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകയിരുൾ നീങ്ങിടുമ്പോൾ സ്വർഗ്ഗമെന്മേൽ ശോഭിച്ചിടും<br/>എന്നെയനുഗമിക്കെന്ന നേർത്തസ്വരം കേട്ടിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അടുത്ത ചോടറിയാതെയിരിപ്പതെന്തനുഗ്രഹം<br/>തനിച്ചെന്നെ നടത്താതെ വലത്തു കൈ പിടിക്കും താൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തളർന്നോരെൻ മനമെന്നെ കനിഞ്ഞിതാ കടാക്ഷിക്കും<br/>പരമേശസുതൻ തന്നിൽ സമാശ്വസിച്ചിരുന്നിടും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കാഴ്ചയാൽ ഞാൻ നടക്കുകിൽ എനിക്കെന്തു പ്രശംസിപ്പാൻ<br/>വിശ്വാസത്താൽ നടകൊൾവാൻ കൃപ നൽകുമെൻ രക്ഷകൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>തനിച്ചു ഞാൻ വെളിച്ചത്തിൽ നടപ്പതിലനുഗ്രഹം<br/>ഇരുളിലെൻ മഹേശനോടൊരുമിച്ചു ചരിപ്പതാം</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ദിനം പ്രതി വരുന്നൊരു വിഷമത സഹിച്ചു ഞാൻ<br/>വിരുതിനായ് ദൈവസീയോൻ നഗരിയോണഞ്ഞിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

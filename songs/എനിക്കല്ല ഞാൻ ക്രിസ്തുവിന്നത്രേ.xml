@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>എനിക്കല്ല ഞാൻ ക്രിസ്തുവിന്നത്രേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എനിക്കല്ല ഞാൻ ക്രിസ്തുവിന്നത്രേ<br/>അവനായിതാ സമർപ്പിക്കുന്നേ<br/>അവൻ നടത്തിപ്പിൻ കാവൽ കൊണ്ടോരോ നിമിഷവും<br/>നടത്തുന്നെന്നെ വഴിയേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എല്ലാ പാപങ്ങളുമകറ്റി<br/>നീച പാപിയെന്നെ രക്ഷിപ്പാൻ<br/>തിരുരക്തത്തിൻ ശക്തിയാൽ തീർത്തിടും വെണ്മയായ്<br/>സ്വർഭാഗ്യം ചേരുവോളം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൺകൾ കാണട്ടെ നിൻമുഖത്തെ<br/>കേൾക്കട്ടെ നിൻ നൽവാക്യത്തെയും<br/>എൻ ചെവികൾ ശ്രവിക്കട്ടെ ഹൃദയം വഴങ്ങുന്നെൻ<br/>രക്ഷകാ നിൻ വകയായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഈ എൻ കൈകളെ സമർപ്പിക്കുന്നേ<br/>സേവയ്ക്കായി എൻ ജീവനെയും<br/>കാൽകൾ ഓടട്ടെ നിൻപാതെ ചേരട്ടെ എൻ ചിന്ത<br/>തിരുരാജ്യ വ്യാപ്തിക്കായി</lines>
+    </verse>
+  </lyrics>
+</song>

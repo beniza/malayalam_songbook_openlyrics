@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:44">
+  <properties>
+    <titles>
+      <title>എന്റെ ജീവിതം യേശുവിനായി</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ ജീവിതം യേശുവിനായി<br/>ഏകുന്നു ഏകുന്നു ഏകുന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എനിക്കവനേകിയ ആരോഗ്യവും<br/>എനിക്കവനേകിയ ആയുസെല്ലാം<br/>എനിക്കവനേകിയ നന്മയെല്ലാം<br/>ഏകുന്നു ഏകുന്നു തൻപാദത്തിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എനിക്കവനേകിയ ധനമഹിമ<br/>എനിക്കവനേകിയ മനസുഖവും<br/>എനിക്കവനേകിയ നന്മയെല്ലാം<br/>ഏകുന്നു ഏകുന്നു തൻപാദത്തിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എനിക്കവനേകിയ താലന്തുകൾ<br/>എനിക്കവനേകിയ കഴിവുകളും<br/>എനിക്കവനേകിയ നന്മയെല്ലാം<br/>ഏകുന്നു ഏകുന്നു തൻപാദത്തിൽ</lines>
+    </verse>
+  </lyrics>
+</song>

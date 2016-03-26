@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:21">
+  <properties>
+    <titles>
+      <title>അതിരാവിലെ തിരുസന്നിധി</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അതിരാവിലെ തിരുസന്നിധി<br/>അണയുന്നൊരു സമയേ<br/>അതിയായ് നിന്നെ സ്തുതിപ്പാൻ<br/>കൃപയരുൾക യേശുപരനേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>രജനീയതിലടിയാനെ നീ സുഖമായ് കാത്ത കൃപയ്ക്കായ്<br/>ഭജനീയ! നിൻതിരുനാമത്തിന്നനന്തം സ്തുതിമഹത്വം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എവിടെല്ലാമീ നിശയിൽ മൃതി നടന്നിട്ടുണ്ട് പരനേ!<br/>അതിൽ നിന്നെന്നെ പരിപാലിച്ച<br/>കൃപയ്ക്കായ് സ്തുതി നിനക്കേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നെടുവീർപ്പിട്ടു കരഞ്ഞിടുന്നു പല മർത്യരീ സമയേ<br/>അടിയന്നുള്ളിൽ കുതുകം തന്ന<br/>കൃപയ്ക്കായ് സ്തുതി നിനക്കേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കിടക്കയിൽ വച്ചരിയാം സാത്താനടുക്കാതിരിപ്പതിന്നെൻ<br/>അടുക്കൽ ദൂതഗണത്തെ കാവലണച്ച<br/>കൃപയനൽപ്പം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഉറക്കത്തിനു സുഖവും തന്നെൻ<br/>അരികേ നിന്നു കൃപയാൽ<br/>ഉറങ്ങാതെന്നെ ബലമായ് കാത്ത<br/>തിരുമേനിക്കു മഹത്വം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>അരുണൻ ഉദിച്ചുയർന്നിക്ഷിതി ദ്യുതിയാൽ വിളങ്ങിടുംപോൽ<br/>പരനേയെന്റെയകമേ വെളിവരുൾക<br/>തിരുകൃപയാൽ</lines>
+    </verse>
+  </lyrics>
+</song>

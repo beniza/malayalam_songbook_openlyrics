@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:27">
+  <properties>
+    <titles>
+      <title>അല്ലും പകലും കീർത്തനം പാടി</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അല്ലും പകലും കീർത്തനം പാടി<br/>വല്ലഭാ നിന്നെ ഞാൻ സ്തുതിച്ചിടും<br/>നന്മയേറും തിരുപ്പാദ തളിരിൽ<br/>നിത്യമഭയം അരുളിടുന്നതിനാൽ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കലങ്ങിമറിയും മാമക ഹൃദയം<br/>കടലിന്നലകൾ പോലനുനിമിഷം<br/>അലയുംനേരം കരങ്ങളാൽ താങ്ങും<br/>അൻപിനോടെന്നേശു മഹേശൻ (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്വർഗ്ഗ ഗേഹകലവറ തുറന്നെൻ<br/>സീയോൻ യാത്രയിൻ ക്ലേശങ്ങളകറ്റി<br/>ക്ഷീണം ലേശവും ഭവിച്ചിടാതനിശം<br/>ക്ഷേമമായവൻ പോറ്റിടുന്നെന്നെ (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കഠിനശോധന വരികിലും ചാരും<br/>കർത്തനേശുവിൻ അൻപെഴും മാർവ്വിൽ<br/>നേടും ഞാനതിൽ ആശ്വാസമെന്നും<br/>പാടും നൽസ്തുതി ഗീതങ്ങളെങ്ങും (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇത്ര നല്ലൊരു രക്ഷകുനുലകിൽ<br/>ഇല്ല മാനവർക്കായൊരു നാമം<br/>ശരണമവനിൽ മാത്രമായതിനാൽ<br/>മരുപ്രയാണം അതിശുഭകരമാം (2) R.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>T</lines>
+    </verse>
+  </lyrics>
+</song>

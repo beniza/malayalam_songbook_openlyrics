@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:06">
+  <properties>
+    <titles>
+      <title>അതിശയമായ് അനുഗ്രഹമായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അതിശയമായ് അനുഗ്രഹമായ്<br/>അവനെന്നോടുകൂടെയുണ്ട് (2)<br/>ആനന്ദമായ് ആശ്വാസമായ്<br/>അവനെന്നാളും കൂടെയുണ്ട് (4)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാരിലെന്നെ തേടിയീ പാപിയെന്നെ നേടി<br/>യേശുവിൻ സ്നേഹം (2)<br/>തന്നോടു ചേർത്തെന്നെയും... ഹോയ്<br/>തന്നോടു ചേർത്തെന്നെയും (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവനെന്റെ പ്രിയൻ ഞാനവൻ തോഴൻ<br/>ആകുലമകറ്റി മാറോടു ചേർത്തു (2)<br/>വീഴാതെന്നെ കാക്കുന്നു... ¬ഹോയ്<br/>വീഴാതെന്നെ കാക്കും (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അനുദിനവും ചാരെ അവനെന്റെ<br/>മിത്രം ഭാരങ്ങളേതും സാരമില്ലാതെ (2)<br/>ആനന്ദമായ് നടത്തും... ¬ഹോയ്<br/>ആനന്ദമായ് നടത്തും (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അല്ലലെല്ലാം തീരും ആത്മനാഥൻ വന്നാൽ<br/>ചേർന്നിടും ഞാനും പ്രിയന്റെ വീട്ടിൽ (2)<br/>കണ്ണീരില്ലാ വീട്ടിൽ... ഹോയ്<br/>കണ്ണീരില്ലാ വീട്ടിൽ (2)</lines>
+    </verse>
+  </lyrics>
+</song>

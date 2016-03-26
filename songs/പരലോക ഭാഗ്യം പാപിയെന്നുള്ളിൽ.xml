@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:36">
+  <properties>
+    <titles>
+      <title>പരലോക ഭാഗ്യം പാപിയെന്നുള്ളിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരലോക ഭാഗ്യം പാപിയെന്നുള്ളിൽ<br/>പകരുന്നൊരു ദേവനേ നിൻ<br/>പുകഴ്പാടി വാഴ്ത്തിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഒരു നാളുമെൻ നാവിൽ തിരുനാമം ചൊല്ലുവാൻ<br/>അണുപോലുമർഹതയില്ലാത്ത പാപി ഞാൻ<br/>തിരുനാമകീർത്തനം രക്ഷയിൻ പുതുഗാനം<br/>ഉരുമോദം പാടുന്നു സന്തോഷ സ്തുതി ഗാനം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആയുസ്സിന്നറുതിയിലക്കരെ നാട്ടിൽ ഞാ<br/>നാനന്ദക്കണ്ണുനീർ തൂകി നിൽക്കും നേരം<br/>അരികിൽ വരും നാഥൻ കണ്ണീർ തുടയ്ക്കും തൻ<br/>തിരുമെയ്യഴകിന്നൊളിയിൽ മുഴുകും ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൃപയുടെ പരിപാടി തീരുമ്പോഴോമന<br/>പ്പുലരി വിടരുമ്പോൾ നിത്യയുഗം തന്നിൽ<br/>അഴിയാത്ത, വാടാത്തോരവകാശം<br/>കർത്താവുമൊരുമിച്ചു പങ്കിട്ടു വാഴും ഞാനെന്നാളും.</lines>
+    </verse>
+  </lyrics>
+</song>

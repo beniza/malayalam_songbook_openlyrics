@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>പോകുക വേഗം നാം പോകുക സോദരാ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പോകുക വേഗം നാം പോകുക സോദരാ<br/>പോകുക കർത്തനായ് പോർ ചെയ്യുവാൻ<br/>ചേരുക വേഗം നാം പോയിടാം നാഥനായ്<br/>പോർക്കള ധീരരായ് പോർ പൊരുതീടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നോക്കുക ദൂരെ നാം കാണുന്നില്ലെ<br/>മുത്തുവിളഞ്ഞു കിടക്കും വയൽ<br/>കൊയ്ത്തിനായ് പോകുക ഒട്ടും മടിക്കാതെ<br/>ആർപ്പോടെ കറ്റ ചുമന്നുകൊണ്ടുവരാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാഥൻ വചനത്തെ വാളായിട്ടും<br/>വേദത്തിൻ സത്യം പരിചയുമായ്<br/>വിശ്വാസമെന്ന ശിരസ്ത്രം ധരിച്ചു നാം<br/>രക്ഷയ്ക്കായ് നീതികവചം ധരിച്ചും നാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വീടുകൾ മേടുകൾ കാടുകളും<br/>വേലിയ്ക്കരികിലും പോയിടുകാ<br/>തേടുക നാഥനായ് ആത്മാക്കളെ വേഗം<br/>നാളെ നമുക്കുള്ളതല്ലയെന്നോർക്കണം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നാഥന്റെ വേലകൾ ചെയ്തുകൊണ്ട്<br/>കാന്തൻ വരവിനായ് കാത്തിരിക്കാം<br/>കാഹളം കേൾക്കുമ്പോൾ ശുദ്ധരോടൊത്തു നാം<br/>നാഥന്റെ സന്നിധൗ ചേർന്നിടും നിശ്ചയം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>അനുഗമിക്കും ഞാനേശുവിനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അനുഗമിക്കും ഞാനേശുവിനെ<br/>അനുദിനം കുരിശെടുത്തു<br/>അവഗണിക്കും ഞാൻ ലോകസ്നേഹത്തെ<br/>അവൻ തന്ന ബലം ധരിച്ച്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്നേഹക്കൊടിക്കീഴിൽ ഞാനിരുന്നു<br/>സ്നേഹനാഥനെ സ്തുതിക്കും (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മമ പ്രിയരെന്നോടെതിർത്തീടിലും<br/>മനംനൊന്തു കലങ്ങീടിലും<br/>മനസുഖം തരും തൻ തിരുമൊഴികൾ<br/>മതിയെനിക്കാശ്വസിപ്പാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പല പരിശോധനകൾ സഹിച്ച്<br/>പഴിദുഷിനിന്ദ വഹിച്ച്<br/>അരുമരക്ഷകനെ അനുഗമിച്ചെൻ<br/>അവസരം ചെലവഴിക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വരുമൊരുനാളിലെന്നാത്മ<br/>പ്രിയന്നരികിലണഞ്ഞിടും ഞാൻ<br/>പുതുവുടലണിഞ്ഞു കുതുഹുലരായ്<br/>പുതുപുരിയിൽ വസിക്കൂ G.P.</lines>
+    </verse>
+  </lyrics>
+</song>

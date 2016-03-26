@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>മൽപ്രാണനായകനേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മൽപ്രാണനായകനേ<br/>മാ കൃപാ സിന്ധോ -മൽ<br/>സൽപ്രകാശമേ ദിവ്യ<br/>സുസ്നേഹമയാ വന്ദേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തങ്കമേനിയിലെന്റെ<br/>ലംഘനങ്ങളെയെല്ലാം<br/>ശങ്കയെന്യേ വഹിച്ചെൻ<br/>സങ്കടമകറ്റിയ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രാവും പകലുമെന്നെ<br/>മാർവ്വിൽ വഹിച്ചു തൻ പി-<br/>താവിൻ മുമ്പിലെനിക്കായ്<br/>മേവുന്നാചാര്യനാകും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പത്ഥ്യവചനം മൂലം<br/>മിത്ഥ്യബോധമകറ്റി<br/>സത്യമാർഗ്ഗത്തിലൂടെ<br/>നിത്യം നടത്തിടുന്ന</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിണ്ണിൽ ചേർത്തിടുവോളം<br/>മന്നിലെന്നെ നിൻ സ്വന്ത<br/>കണ്ണിൻ കൃഷ്ണമണിയെ-<br/>ന്നെണ്ണി സൂക്ഷിച്ചിടുന്ന</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വേഗമെന്നെയീ നാശ<br/>ലോകേ നിന്നുദ്ധരിപ്പാൻ<br/>മേഘവാഹനമേറി<br/>നാകെ നിന്നിറങ്ങിടും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>സങ്കടങ്ങളിലെല്ലാം<br/>പൊൻകരങ്ങളാൽ താങ്ങി<br/>സങ്കേതം നെഞ്ചിലേകി<br/>കൺകൾ തുടച്ചിടുന്ന</lines>
+    </verse>
+    <verse name="v8">
+      <lines>പാടും നിൻ കൃപയെക്കൊ-<br/>ണ്ടാടുമായുരന്തം ഞാൻ<br/>പാടും വീണയിൽ പ്രാണ<br/>നാഥനുത്തമ ഗീതം.</lines>
+    </verse>
+  </lyrics>
+</song>

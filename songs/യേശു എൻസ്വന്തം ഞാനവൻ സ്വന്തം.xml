@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:35">
+  <properties>
+    <titles>
+      <title>യേശു എൻസ്വന്തം ഞാനവൻ സ്വന്തം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു എൻസ്വന്തം ഞാനവൻ സ്വന്തം<br/>ആശ നൽകുന്നീ സ്നേഹബന്ധം<br/>നിത്യത തന്നിൽ പുത്രനിൽ നമ്മെ<br/>ദത്തെടുത്തോരു സ്നേഹബന്ധം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മർത്യകുലത്തെ രക്ഷിപ്പാൻ മന്നിൽ<br/>മർത്യനായ് വന്ന സ്നേഹബന്ധം<br/>പാപശാപങ്ങൾ തൻമേലേറ്റതാൽ<br/>പാപം നീക്കിയ സ്നേഹബന്ധം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപങ്ങൾ ക്രൂശിൽ നീക്കം ചെയ്തിടാൻ<br/>പാപയാഗമായ സ്നേഹബന്ധം<br/>പാതകരാകും മർത്യരെ സ്നേഹാൽ<br/>നീതികരിച്ച സ്നേഹബന്ധം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നമ്മിൽ വസിക്കും ആത്മാവിലൂടെ<br/>നമ്മിൽ പകർന്ന സ്നേഹബന്ധം<br/>നിത്യതയോളം മാറാതെ നിൽക്കും<br/>ക്രിസ്തുനാഥന്റെ സ്നേഹബന്ധം.</lines>
+    </verse>
+  </lyrics>
+</song>

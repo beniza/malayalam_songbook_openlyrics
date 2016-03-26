@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:56">
+  <properties>
+    <titles>
+      <title>ഇനിയെങ്ങനെയീ ഭൂവാസം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇനിയെങ്ങനെയീ ഭൂവാസം തുടർന്നിടുമതെന്തു പ്രയാസം?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഈ ലോകമാം കടൽ കാറ്റടിച്ച് കല്ലോലമാലികളാലിളകി<br/>വല്ലാതെയാവുകയാണതിനാൽ സ്വർല്ലോകനായക!<br/>നീ തുണയ്ക്ക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദുഷ്കാലമാകയാൽ നാളുകളെ തക്കത്തിലായുപയോഗിക്കുവാൻ<br/>സുഗ്രാഹ്യമാക്കണം നിൻ വചനം സ്വർഗ്ഗീയനായക!<br/>നീ തുണയ്ക്ക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദൈവജനങ്ങളിലും ചിലരിൽ നിർവ്യാജ സ്നേഹമകന്നു ഹൃദി<br/>ദ്രവ്യാഗ്രഹം, പകയെന്നാദി ദുർവ്യാധി പൂണ്ടവർ പിന്മാറി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്നേശു നായക! നീ വരണം<br/>ഏകാധികാരിയായ് ഭൂഭരണം<br/>എന്നേക്കുമായ് ഭരമേറ്റിടണം<br/>എല്ലാ വിലാപവും മാറ്റിടണം</lines>
+    </verse>
+  </lyrics>
+</song>

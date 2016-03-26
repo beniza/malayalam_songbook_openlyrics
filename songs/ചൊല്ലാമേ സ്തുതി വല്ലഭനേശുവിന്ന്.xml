@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:38">
+  <properties>
+    <titles>
+      <title>ചൊല്ലാമേ സ്തുതി വല്ലഭനേശുവിന്ന്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ചൊല്ലാമേ സ്തുതി വല്ലഭനേശുവിന്ന്<br/>വല്ലഭന്റെ നല്ല നാമമേറ്റു ചൊല്ലൂ നമ്മളിന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സർവ്വം ചമച്ചവൻ പുല്ലിൽക്കിടന്നു<br/>കീറത്തുണിത്തുണ്ടിൽ മാതാവിൻ ചാരേ<br/>ദൈവത്തിൻ സൂനുവെക്കണ്ടു വിദ്വാന്മാർ<br/>കാഴ്ചകളർപ്പിച്ചു തൻസ്തുതി ചെയ്തല്ലോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദ്വാദശപ്രായത്തിലേശു മഹേശൻ<br/>വേദവെളിവോടങ്ങാലയം പൂകി<br/>വേദത്തിൻ സാരത്തെ ജ്ഞാനത്തോടോതി<br/>വേദജ്ഞരാദരം കാട്ടിയേ തന്മുമ്പിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യേശുവിൻ സ്നാനം നടന്നോരു നേര<br/>ത്താകാശേ നിന്നീശ ശബ്ദമുതിർന്നു<br/>ഏവരും തൻ മൊഴി കേൾക്കുക യോഗ്യമാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നീതിയിൻ നേർവഴി പാപിയെക്കാട്ടാൻ<br/>പാപം വഹിച്ചേശു ക്രൂശിന്മേലേറി<br/>ശാപത്തിലാണ്ടോരിൻ വീണ്ടെടുപ്പായി<br/>ജീവനിൽ താനുയിർത്തുന്നതേ വാഴുന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പാപത്തിൻ ശിക്ഷ കൊടുപ്പോരു ദൈവം<br/>മോചനം തന്നതോ തൻ നിണം മൂലം<br/>ജീവൻ പകർന്ന തൻ ചോരയാലെന്നും<br/>ശുദ്ധി ലഭിച്ചവർ തൻ സ്തുതി ചെയ്യണം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>താതൻ തൻവാസസ്ഥലത്തു നമുക്കായ്<br/>വീടുകൾ തീർത്തിട്ടു വേഗം വരുന്നോ<br/>രേശുവിൻ മുന്നിലന്നേവരും വീഴും<br/>കർത്തൻ താനേശുവെന്നെല്ലാരും ചൊല്ലുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

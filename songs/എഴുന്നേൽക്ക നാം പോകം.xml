@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>എഴുന്നേൽക്ക നാം പോകം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എഴുന്നേൽക്ക നാം പോകം<br/>കുരിശിൻ സത്യസാക്ഷികളായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പടയ്ക്കു മുന്നേ ഒരുക്കമായ്<br/>പ്രാർത്ഥനയ്ക്കായ് ചേർന്നിടാം<br/>നമുക്ക് നമ്മുടെ പോരായ്മകളെ<br/>നികത്തി ശക്തിയെ പ്രാപിക്കാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാൽവറിയിലെ രണാങ്കണത്തിൽ<br/>വിജയത്തിൻകൊടി പാറിച്ചോൻ<br/>നമുക്ക് മുന്നേ നടകൊള്ളുന്നു<br/>അവന്റെ പിന്നിൽ നിരനിരയായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിമിഷംതോറും അനേകരാൽ<br/>വിനാശഗർത്തം നിറയുമ്പോൾ<br/>ആത്മഭാരത്തോടെ നാം<br/>അണിക്കുനേരെ പാഞ്ഞിടാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഭാരതനാട്ടിൽ സുവിശേഷം<br/>ധീരതയോടെ ഘോഷിപ്പാൻ<br/>കണ്ണുനീരിൽ കുതിർന്ന വിത്ത്<br/>മണ്ണെ നോക്കി എറിഞ്ഞീടാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പ്രതിഫലമേകാനായ് നാഥൻ<br/>മേഘേ വന്നിടും നേരത്ത്<br/>ലജ്ജിതരായ് തീരാതെ<br/>ഏറെ പ്രതിഫലം പ്രാപിപ്പാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

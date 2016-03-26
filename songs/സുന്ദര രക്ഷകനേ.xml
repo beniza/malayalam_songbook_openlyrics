@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>സുന്ദര രക്ഷകനേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സുന്ദര രക്ഷകനേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സുന്ദര രക്ഷകനേ!<br/>എനിക്കാനന്ദ കാരണനേ!<br/>ഇന്നലെയുമിന്നുമെന്നുമനന്യനേ!<br/>വന്ദനം വന്ദനമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രാജാധിരാജാവു നീ എന്നും<br/>കർത്താധികർത്താവു നീ<br/>ഉന്നതദേവാ! നീയെന്നെയും<br/>സ്നേഹിച്ചതത്ഭുതമത്ഭുതമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശാരോനിലെ റോസ നീ എനി-<br/>ക്കാരോമൽ സ്നേഹിതൻ നീ<br/>എന്മേൽ വിരിച്ച നിൻ സ്നേഹക്കൊടിക്കീഴി-<br/>ലെന്നുമെൻ വിശ്രാമമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആദിയുമന്തവും നീ പാപ-<br/>വ്യാധിക്കു വൈദ്യനും നീ<br/>നീതിയിൻ സൂര്യനും യൂദയിൻ സിംഹവും<br/>സർവ്വവും നീ പരനേ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മുന്നേയിരുന്നവൻ നീ മാറാ-<br/>തെന്നുമിരിപ്പവൻ നീ<br/>വന്നവൻ നീയേ, വരാനുള്ളവൻ നീയേ<br/>വന്ദിതവല്ലഭനേ!</lines>
+    </verse>
+  </lyrics>
+</song>

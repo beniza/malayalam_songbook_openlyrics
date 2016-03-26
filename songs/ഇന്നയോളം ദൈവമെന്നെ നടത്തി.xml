@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:06">
+  <properties>
+    <titles>
+      <title>ഇന്നയോളം ദൈവമെന്നെ നടത്തി</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇന്നയോളം ദൈവമെന്നെ നടത്തി<br/>ഇന്നയോളം ദൈവമെന്നെ പാലിച്ചു<br/>ഇന്നയോളം ധരേ കാത്തുസൂക്ഷിച്ചതാൽ<br/>നന്ദിയോടെ എന്നുമെന്നും വാഴ്ത്തും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഘോരമായ കാറ്റിനാൽ വലഞ്ഞപ്പോൾ<br/>ഭാരത്താലെൻ മാനസം തകർന്നപ്പോൾ<br/>സാരമില്ലെന്നോതി തന്റെ മാറിനോടണച്ചതാൽ<br/>നന്ദിയോടെ എന്നുമെന്നും വാഴ്ത്തും ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൂരിരുളിലായി ഞാൻ വലഞ്ഞപ്പോൾ<br/>വേദനകളാലെ ഞാൻ കരഞ്ഞപ്പോൾ<br/>തൻകരങ്ങളാലെ എന്നെ ആശ്വസിപ്പിക്കുന്നതാൽ<br/>നന്ദിയോടെ എന്നുമെന്നും വാഴ്ത്തും ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാരിലെന്റെ വാസം തീർന്നു വേഗത്തിൽ<br/>നേരിലെന്റെ പ്രിയനെ ഞാൻ കണ്ടിടും<br/>തീരുമേയെന്നാളിലെന്റെ സർവ്വദുഃഖഭാരവും<br/>നന്ദിയോടെ എന്നുമെന്നും വാഴ്ത്തും ഞാൻ</lines>
+    </verse>
+  </lyrics>
+</song>

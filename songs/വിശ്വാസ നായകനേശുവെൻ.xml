@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:07">
+  <properties>
+    <titles>
+      <title>വിശ്വാസ നായകനേശുവെൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വിശ്വാസ നായകനേശുവെൻ<br/>വിശ്വാസ യാത്രയിലാശ്രയം (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭാരം പ്രയാസങ്ങളേറിയാലും<br/>ഭാരപ്പെടാനില്ല കർത്താ വുണ്ട്<br/>ഭാരങ്ങളെല്ലാം വഹിക്കുന്നോൻ<br/>ഭാസുരമായ് വഴി നടത്തിടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആകുല ചിത്തനായ് തീർന്നിടുമ്പോൾ<br/>ആവശ്യ ഭാരത്താൽ നീറിടുമ്പോൾ<br/>ആവലോടെ തൻ പാദെ വീഴിൽ<br/>ആകുലങ്ങളാകെ തുലയ്ക്കുന്ന</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉള്ളം തകരുന്ന നേരത്തിലും<br/>ഉണ്ടെനിക്കാശ്വാസമായി നാഥൻ<br/>ഇണ്ടലെല്ലാമകറ്റിടുന്നോൻ<br/>വേണ്ടതെല്ലാമായി ഉണ്ടെനിക്ക്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മേദിനി വേദന ശോധനകൾ<br/>ശോഭനമാക്കുവാൻ ശക്തനവൻ<br/>വേദനയേറ്റ വേദനാഥൻ<br/>വേർപിരിയാതെന്റെ കൂടെയുണ്ട്.</lines>
+    </verse>
+  </lyrics>
+</song>

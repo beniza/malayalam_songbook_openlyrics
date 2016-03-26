@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:54">
+  <properties>
+    <titles>
+      <title>എന്നും സന്തോഷിക്കുമെൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നും സന്തോഷിക്കുമെൻ<br/>കർത്താധികർത്തനിൽ ഞാൻ<br/>എന്റെ പാപഭാരം നീങ്ങിയതുമൂലം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിത്യതയിലെന്നെ പരൻ കണ്ടുക്രൂശിൽ യാഗമായ്<br/>മൃത്യുവിന്റെ കൈകളിൽ നിന്നെന്നെ രക്ഷ ചെയ്തു താൻ<br/>രക്ഷിപ്പിൻ ഗീതങ്ങൾ ഉച്ചത്തിൽ പാടിടും<br/>പ്രതിദിനം തിരുവടി പണിഞ്ഞിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നുമെന്റെ പ്രശംസയെൻ രക്ഷകന്റെ ക്രൂശിലാം<br/>ലോകം തരും പുകഴ്ചകൾ ഖേദമാണെന്നെണ്ണും ഞാൻ<br/>ക്രൂശിന്റെ പാതയിൽ നാഥന്റെ കൂടെ ഞാൻ<br/>തിരുമൊഴി ശ്രവിച്ചെന്നും നടന്നിടുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സ്നേഹിതൻമാർ ദുഷിച്ചെന്നെ പകച്ചാലും ശാന്തനായ്<br/>സ്നേഹനാഥനേശുവിന്റെ മാറിടത്തിൽ ചാരും ഞാൻ<br/>ദുഃഖങ്ങൾ മാറിടും കണ്ണീരും തോർന്നിടും<br/>മനസ്സുഖമോടു ദിനം വസിച്ചിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മന്നിലെന്റെ വാസരങ്ങൾ തീരും വരെ നാഥന്റെ<br/>പൊന്നുപാദസേവ ചെയ്തു മോദമോടെ വാഴും ഞാൻ<br/>പിന്നെയെന്നേശുവിൻ സന്നിധി തന്നിൽ ഞാൻ<br/>ചെന്നു സ്തുതി ചെയ്തു നിത്യം വണങ്ങിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

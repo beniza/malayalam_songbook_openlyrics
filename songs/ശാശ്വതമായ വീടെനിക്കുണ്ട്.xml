@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:09">
+  <properties>
+    <titles>
+      <title>ശാശ്വതമായ വീടെനിക്കുണ്ട്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ശാശ്വതമായ വീടെനിക്കുണ്ട്<br/>സ്വർഗ്ഗനാടതിലുണ്ട്<br/>കർത്താവൊരുക്കുന്നുണ്ട്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപമന്നാട്ടിലില്ല ഒരു ശാപവുമവിടെയില്ല<br/>നിത്യസന്തോഷം ശിരസ്സിൽ വഹിക്കും<br/>ഭക്തജനങ്ങളുണ്ട് ഹല്ലേലുയ്യാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇരവുപകലെന്നില്ല അവിടിരുളൊരു ലേശമില്ല<br/>വിതറിടും വെളിച്ചം നീതിയിൻ സൂര്യൻ<br/>അതുമതിയാനന്ദമായ് ഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഭിന്നതയവിടെയില്ല കക്ഷിഭേദങ്ങളൊന്നുമില്ല<br/>ഒരു പിതൃസുതരായ് ഒരുമിച്ചു വാഴുന്ന<br/>അനുഗ്രഹഭവനമതാം ഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വഴക്കുകളൊന്നുമില്ല പണിമുടക്കുകൾ വരികയില്ല<br/>മനുഷ്യരിൽ ദരിദ്രർ ധനികരെന്നില്ല<br/>ഏകശരീരമവർ ഹല്ലേലുയ്യാ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കണ്ണീരവിടെയില്ല ഇനി മരണമുണ്ടാകയില്ല<br/>അരുമയോടേശുവിന്നരികിൽ നാം നിത്യം<br/>ഒരുമിച്ചു വാഴുകയാം ഹല്ലേലുയ്യാ!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>ദൈവത്തിൻ രാജ്യം ഭക്ഷണമോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവത്തിൻ രാജ്യം ഭക്ഷണമോ<br/>അല്ല നീതി സമാധാന സന്തോഷമേ<br/>സ്നേഹം നിറഞ്ഞ കൂട്ടമേ<br/>മഹിമ വിളങ്ങും പൊൻതളമേ<br/>ഏക ഇടയൻ ഒരു കൂട്ടമേ<br/>ഹാ എത്ര ആനന്ദമേ...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കക്ഷി വൈരാഗ്യങ്ങളൊന്നുമില്ല<br/>തർക്ക സൂത്രങ്ങളൊട്ടുമില്ല<br/>കൂട്ടം കൂട്ടം ചേർന്നുനിന്നു<br/>പാട്ടു പാടി പുകഴ്ത്തീടുമേ<br/>ഹാ എത്ര മോദം ആർ വർണ്ണിക്കും<br/>സ്വർഗ്ഗീയ ഭാഗ്യമിതു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വീഥിയിൻ മദ്ധ്യ കാണുന്നിതാ<br/>മഹാ ശുഭ്രമേറിയോരു ജല പ്രവാഹം<br/>തീരങ്ങളിൽ ഇരുവശവും<br/>ജീവവൃക്ഷം ലസിച്ചിടുന്നു<br/>മാസം തോറും പുതിയ<br/>ഫലം കായിച്ചു നിന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>രാത്രിയില്ലാത്ത ദേശമതു എന്നും<br/>പട്ടാപകൽ പോലെ പ്രകാശിച്ചിടും<br/>കുഞ്ഞാടുതന്നെ മന്ദിരമായ്<br/>തൻശോഭ തന്നെ വിളക്കുമായി<br/>പുതിയ യെരുശലേം ആകമാനം<br/>ശോഭയാൽ മിന്നിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

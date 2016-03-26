@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>എന്റെ പേർക്കു ജീവനെ വെടിഞ്ഞ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ പേർക്കു ജീവനെ വെടിഞ്ഞ യേശുവേ ഞാൻ<br/>നിന്റെ പേർക്കു ജീവിതം നയിക്കുമെന്നുമേ<br/>നീയെന്റെ സ്വന്തമേ! ഹാ എന്തു മോദമേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇന്നലേയുമിന്നുമെന്നും നീയനന്യനാം ഞാൻ<br/>നിന്നിലാശ്രയിക്കമൂലമെത്ര ധന്യനാം!<br/>എന്നോടു കൂടെ നീ നിന്നോടു കൂടെ ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാശലോകവാസമോ പ്രയാസഹേതുകം നിൻ<br/>ദാസനായിരിപ്പതോ സന്തോഷദായകം<br/>നീയെന്തരുളിടും ഞാനതു ചെയ്തിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിത്യജീവവാക്കുകൾ മൊഴിഞ്ഞു നീ പരാ ഹാ!<br/>നിന്നെവിട്ടെനിക്കു പോകുവാൻ കഴിഞ്ഞിടാ<br/>നിൻപാദ സേവയിൽ എൻ നാൾ കഴിച്ചിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

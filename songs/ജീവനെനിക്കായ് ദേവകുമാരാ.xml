@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>ജീവനെനിക്കായ് ദേവകുമാരാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജീവനെനിക്കായ് ദേവകുമാരാ!<br/>ദേവകുമാരാ! സർവ്വപാപവിദൂരാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്വർഗ്ഗമഹിമാസനവും നിസ്തുലപ്രഭാനിറവും<br/>അത്രയും വെടിഞ്ഞു ഭൂവിലവതരിച്ചോനേ!<br/>അവതരിച്ചോനേ! താഴ്മ സ്വയം വരിച്ചോനേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അഞ്ചുയവയപ്പവും മീൻ രണ്ടുമങ്ങെടുത്തു വാഴ്ത്തി<br/>അഞ്ചു സഹസ്രം ജനത്തെ പോഷിപ്പിച്ചോനേ!<br/>പോഷിപ്പിച്ചോനേ! ഹാ! സന്തോഷിപ്പിച്ചോനേ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൂരിരുൾ നിറഞ്ഞതാമിപ്പാരിനു പ്രകാശം നൽകി<br/>ഭൂരിസുഖമരുളും മൊഴി അരുളിചെയ്തോനേ!<br/>അരുളിചെയ്തോനേ! ജീവവഴി തെളിച്ചോനേ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാതകർ നടുവിൽ മഹാ പാതകനെപ്പോൽ കുരിശിൽ<br/>നീ തകർന്നു മൃതിയടഞ്ഞതോർക്കുന്നയ്യോ! ഞാൻ<br/>ഓർക്കുന്നയ്യോ! ഞാൻ അതെൻ<br/>പേർക്കെന്നറിഞ്ഞേൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>മംഗളം മംഗളമേ നവ്യ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മംഗളം മംഗളമേ നവ്യ<br/>വധുവരരിവർക്കിന്നുമെന്നേക്കും<br/>മംഗളം മംഗളമേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആദിയിലേദനിൽ നീ ഭവ്യ<br/>ദമ്പതികൾക്കാശിസ്സേകിയതുവിധം<br/>ആദിയിലേദനിൽ നീ നാഥാ<br/>അനുഗ്രഹം നൽകിടേണം സർവ്വ<br/>സൗഭാഗ്യത്തോടെന്നും വാഴുവാനായിവർ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവിതപ്പൂവല്ലിയിൽനല്ല<br/>കോമളമാം വർണ്ണപ്പൂക്കൾ ചൂടി<br/>ജീവിതപ്പൂവല്ലിയിൽ മോദമിയന്നു<br/>സൗരഭ്യം പകർന്നിവർ<br/>മേദിനിയിൽ ശുഭം പാർക്കുവാനായിദം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രിസ്തുവും തൻസഭയും എന്ന<br/>പോലിവരേകശരീരമായ് ചേർന്നു<br/>ക്രിസ്തുവും തൻസഭയും വാഴണം<br/>വേർപിരിയാതെയന്ത്യം വരെ<br/>വേദനയേറുന്ന നേരവും സ്നേഹമായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദൈവികരാജ്യത്തെയും അതിൻ<br/>നീതിയെയും മുമ്പേ തേടിയെന്നും<br/>ദൈവികരാജ്യത്തെയും പാരിലെങ്ങും<br/>നല്ല മാതൃക കാട്ടി<br/>സ്വർഗ്ഗീയപുരിനോക്കി യാത്ര<br/>ചെയ്‌വാൻ മുദാ.</lines>
+    </verse>
+  </lyrics>
+</song>

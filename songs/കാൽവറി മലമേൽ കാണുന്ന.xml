@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:53">
+  <properties>
+    <titles>
+      <title>കാൽവറി മലമേൽ കാണുന്ന</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാൽവറി മലമേൽ കാണുന്ന അൻപിൻ സ്വരൂപനാം യേശുവേ<br/>നിന്മരണം കൊണ്ടെന്റെ പാപബന്ധനം നീ നീക്കിയല്ലോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഓർത്തുപാടി സ്തുതിക്കുന്നേ നാഥനേ നിൻ സ്നേഹത്തെ<br/>നിൻകൃപകളോർത്തെന്നും വാഴ്ത്തി വണങ്ങിടുന്നേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കഷ്ടതകൾ ജീവിതത്തിൽ ആഞ്ഞടിക്കും നേരത്തിൽ<br/>തുഷ്ടിയരുളും നാഥൻ എന്നെ ആശ്വസിപ്പിച്ചിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പൂർണ്ണമായ് സമർപ്പിക്കുന്നേ നാഥനേ എൻജീവിതത്തെ<br/>നിൻ വചനത്താലെന്നെ എന്നും ആശീർവ്വദിച്ചിടണമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കാത്തുകൺകൾ കൊതിക്കുന്നേ നാഥനേ നിൻ വരവിന്നായ്<br/>എന്നു വന്നു ചേർത്തിടും നീ എന്നെ സ്വർഗ്ഗരാജ്യേ വസിച്ചിടുവാൻ</lines>
+    </verse>
+  </lyrics>
+</song>

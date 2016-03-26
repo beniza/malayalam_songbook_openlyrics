@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>വേഗം വന്നിടും യേശു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വേഗം വന്നിടും യേശു ജീവനായകൻ<br/>വീണ്ടെടുപ്പിൻ ഗാനം പാടി ആർത്തുഘോഷിപ്പിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദുഷ്ടലോകം ക്രൂശിലേറ്റിക്കൊന്നുവെങ്കിലും<br/>പുഷ്ടമോദം പൂണ്ടുയിർത്തു മൂന്നാം നാളതിൽ<br/>വീണ്ടെടുപ്പിൻ വേലപൂർത്തി ചെയ്തതോർത്തു ഹാ!<br/>വീണ്ടെടുപ്പിൻ ഗാനം പാടി ആർത്തുഘോഷിപ്പിൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാട്ടമേശിടാത്ത നിത്യനാട്ടിലുന്നതൻ<br/>വീണ്ടെടുക്കപ്പെട്ട ദൈവമക്കൾക്കായിതാ<br/>വീടൊരുക്കി വീണ്ടുംവന്നു ചേർക്കും നിശ്ചയം<br/>വീണ്ടെടുപ്പിൻ ഗാനം പാടി ആർത്തുഘോഷിപ്പിൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശോകം, രോഗം, യുദ്ധം, മൃത്യു, ക്ഷാമം കാരണം<br/>ലോകമിന്നു ഭീതിപൂണ്ടുഞെട്ടിടുന്നിതാ<br/>ലോകനാഥൻ ചൊന്ന വചനമോർത്തു നിത്യവും<br/>വീണ്ടെടുപ്പിൻ ഗാനം പാടി ആർത്തുഘോഷിപ്പിൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അത്തിവൃക്ഷം നവ്യനാമ്പുമിട്ടു വേനലായ്<br/>അന്ത്യനാളിൻ ലക്ഷണങ്ങൾ വ്യാപരിക്കായ്<br/>മന്ദതയകന്നുണർന്നു ദിവ്യശക്തിയിൽ<br/>വീണ്ടെടുപ്പിൻ ഗാനം പാടി ആർത്തുഘോഷിപ്പിൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

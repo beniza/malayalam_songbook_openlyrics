@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:32">
+  <properties>
+    <titles>
+      <title>ഇമ്മാനുവേൽ തൻ ചങ്കതിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇമ്മാനുവേൽ തൻ ചങ്കതിൽ നിന്നൊഴുകും രക്തം<br/>പാപക്കറ നീങ്ങുമതിൽ മുങ്ങി തീർന്നാൽ ആരും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എൻപേർക്കേശു മരിച്ചെന്നു ഞാൻ വിശ്വസിക്കുന്നു<br/>പാപം എന്നിൽ നിന്നു നീക്കാൻ യേശു രക്തം ചിന്തി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കള്ളൻ ക്രൂശിൽ പാപശാന്തി കണ്ടീയുറവയിൽ<br/>അവനെപ്പോൽ ഞാനും ദോഷി കണ്ടേൻ പ്രതിശാന്തി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കുഞ്ഞാട്ടിൻ വിലയേറിയ രുധിരത്തിൻ ശക്തി<br/>വീണ്ടുകൊള്ളും ദൈവസഭ ആകെ വിശേഷമായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തൻ മുറിവിൻ രക്തനീർ ഞാൻ കണ്ടന്നുമുതൽ തൻ<br/>വീണ്ടെടുപ്പിൻ സ്നേഹം താനെൻ ചിന്ത ഇന്നുമെന്നും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വിക്കുള്ള എന്റെ ഈ നാവുശവക്കുഴിക്കുള്ളിൽ<br/>മൗനം എന്നാൽ എന്നാത്മാവു പാടും ഉന്നതത്തിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

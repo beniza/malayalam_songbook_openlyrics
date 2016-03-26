@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:54">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തുവിൻ പോർ വീരരേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തുവിൻ പോർ വീരരേ<br/>രക്ഷയിൻ കാഹളം മുഴക്കിടുക<br/>യഹൂദയിൻ രാജരാജനവൻ<br/>നമുക്കായ് മുന്നിലുണ്ട് പോകുക നാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചെന്നായ്ക്കൾ നടുവിൽ ആടിനെപോൽ<br/>നിങ്ങളെ ഞാനിന്നു അയച്ചിടുന്നു<br/>എന്നുര ചെയ്തവൻ കൂടെയുണ്ട്<br/>യിസ്രായേലിൻ പരിപാലകൻ താൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്വന്തക്കാർ ബന്ധുക്കൾ മാറിടിലും<br/>വാക്കുകൾ മാറാത്ത വല്ലഭനായ്<br/>നമുക്കഭയമായ് ചാരെയുണ്ട്<br/>ഭയപ്പെടാതെ പോകുക നാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മന്നിലെ യാത്ര നാം തുടർന്നിടുമ്പോൾ<br/>മരുവിലെ ക്ലേശങ്ങളേറിടുമ്പോൾ<br/>മറച്ചിടും അവൻ തന്റെ ചിറകടിയിൽ<br/>മറഞ്ഞിടും തൻ തിരുമാർവ്വിടത്തിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്വർഗ്ഗസീയോനിൻ സഞ്ചാരികളേ<br/>സന്തോഷഗീതങ്ങൾ പാടിടുവിൻ<br/>വിളിച്ചവൻ നടത്തും ജയോത്സവമായ്<br/>സ്വർഗ്ഗകനാനിൽ നാം ചേരും വരെ.</lines>
+    </verse>
+  </lyrics>
+</song>

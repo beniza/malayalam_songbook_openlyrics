@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>പരമ കരുണാരസരാശേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരമ കരുണാരസരാശേ!<br/>ഓ! പരമകരുണാരസരാശേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാരിതിൽ പാതകിയാമെനിക്കായി നീ<br/>പരമ ഭവനമതിനെ വെടിഞ്ഞ<br/>കരുണയൊരു പൊഴുതറിവതിന്നിടരുവതിന്നരുളിന<br/>കരണമതു തവ ചരണമാം മമ<br/>ശരണമാം ഭവ തരണമാമയി!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാഥാ നിന്നാവിയെൻ നാവിൽ വന്നാകയാൽ<br/>നവമാ യുദിക്കുംസ്തുതികൾധ്വനിക്കും<br/>നലമൊടഹമുര ചെയ്തിടുംമമ ചെയ്തിടും നിൻകൃപാ<br/>കലിതസുഖമിഹമരുവിടും സ്തവമുരുവിടും<br/>ദയ പെരുകിടുന്നൊരു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശാപമീഭൂവിൽനിന്നാകവേ നീങ്ങുവാൻ<br/>സകലാധിപ വാനൊളിയാൽ നിറവാൻ<br/>സകല മനുജരിലമിതമാം സുഖമുയരുവാൻ സാദരം<br/>പകരുകരു ളതിസുലഭമാ<br/>യതിവിപുലമായ് ബഹുസഫലമാമയി!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:16">
+  <properties>
+    <titles>
+      <title>കണ്ണുനീരിൽ കൈവിടാത്ത</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കണ്ണുനീരിൽ കൈവിടാത്ത കർത്താവുണ്ട്<br/>ഉള്ളുരുകി കരയുമ്പോൾ താൻ കൂടെയുണ്ട്<br/>അമ്മ തന്റെ കുഞ്ഞിനെ മറന്നിടിലും<br/>ഞാൻ മറക്കാ എന്നുരച്ച കർത്താവുണ്ട്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നെഞ്ചുരുകും നേരമവൻ തഞ്ചം തരും<br/>അഞ്ചിടാതെ നെഞ്ചിലെന്നെ ചേർത്തണയ്ക്കും<br/>ചഞ്ചലമില്ലേശുവെന്റെ നല്ലിടയൻ<br/>വഞ്ചനയോ തെല്ലുമില്ല തന്റെ നാവിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉറ്റവരൊറ്റിക്കൊടുത്താൽ ഖേദമില്ല<br/>ഉറ്റു സ്നേഹിക്കുന്ന നാഥൻ കൂടെയുണ്ട്<br/>മാറ്റമില്ല തന്റെ സ്നേഹം നിസ്തുല്യമേ<br/>മറ്റു സ്നേഹം മാറിപ്പോകും മർത്യസ്നേഹം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അൽപ്പനാളീ ഭൂമിയിലെൻ ജീവിതത്തിൽ<br/>അൽപ്പമല്ലാ ശോധനകൾ നേരിടുകിൽ<br/>അൽപ്പവും തളരുകില്ല ഭീതിയില്ല<br/>ചിൽപുരുഷൻ മാറ്റുമെല്ലാം നന്മയ്ക്കായി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കർത്തൃനാമത്തിൽ സഹിക്കും കഷ്ടതകൾ<br/>കർത്തനു പ്രസാദമുള്ളതെന്നറിഞ്ഞ്<br/>സ്തോത്രഗീതം പാടി നിത്യം പാർത്തിടും ഞാൻ<br/>കർത്തൃപാദസേവ ചെയ്തീ പാരിടത്തിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

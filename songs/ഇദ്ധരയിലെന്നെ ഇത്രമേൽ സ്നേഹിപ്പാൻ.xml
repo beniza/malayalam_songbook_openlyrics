@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>ഇദ്ധരയിലെന്നെ ഇത്രമേൽ സ്നേഹിപ്പാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇദ്ധരയിലെന്നെ ഇത്രമേൽ സ്നേഹിപ്പാൻ<br/>എന്തുള്ളു ഞാനപ്പനേ!നിന്റെ<br/>ഉദ്ധാരണത്തെ ഞാൻ ഓർത്തു ദിനംപ്രതി സന്തോഷിക്കുന്നത്യന്തം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പുത്രന്റെ സ്നേഹത്തെ ക്രൂശിൻമേൽ കാണുമ്പോൾ<br/>ശത്രുഭയം തീരുന്നു എന്നെ<br/>മിത്രമാക്കിടുവാൻ കാണിച്ച നിൻകൃപ<br/>എത്ര മനോഹരമേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശത്രുവാമെന്നെ നിൻപുത്രനാക്കിടുവാൻ<br/>പുത്രനെ തന്നല്ലോ നീ ദേവാ<br/>ഇത്ര മഹാസ്നേഹം ഇദ്ധരയിലൊരു<br/>മർത്യനുമില്ല ദൃഢം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നീചനരനാമീയേഴയെ സ്നേഹിച്ചീ<br/>നീചലോകത്തിൽ വന്നു യേശു<br/>നീചമരണം മരിപ്പതിന്നായ് തന്നെ<br/>നീചന്മാർക്കേൽപ്പിച്ചല്ലോ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കൂട്ടം വെറുത്തു കുലവും വെറുത്തെന്നെ<br/>കൂട്ടുകാരും വെറുത്തു എന്നാൽ<br/>കൂട്ടായിത്തീർന്നെന്റെ സ്വർഗ്ഗീയ<br/>സ്നേഹിതൻ കഷ്ടകാലത്തും വിടാ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മാതാപിതാക്കന്മാരെന്നെ വെടിഞ്ഞാലും<br/>സന്താപമില്ലെനിക്കു എന്റെ<br/>മാതാപിതാവെക്കാൾ അൻപു തിങ്ങിടുന്നോ-<br/>രേശുവുണ്ട് എനിക്കു</lines>
+    </verse>
+    <verse name="v7">
+      <lines>മുമ്പിലും പിമ്പിലും കാവലായ് നിന്നു നീ<br/>മുമ്പിൽ നടക്കേണമേ നിന്റെ<br/>ഇമ്പമുള്ള രാജ്യേ വന്നു ചേരും<br/>വരെ അമ്പോടു കാക്കേണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

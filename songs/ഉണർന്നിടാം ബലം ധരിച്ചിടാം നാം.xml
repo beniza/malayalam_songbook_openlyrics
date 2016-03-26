@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>ഉണർന്നിടാം ബലം ധരിച്ചിടാം നാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉണർന്നിടാം ബലം ധരിച്ചിടാം നാം<br/>ഉത്സുകരായ് ഉന്നതനേശുവിനെ ഉലകിലുയർത്തിടാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭിന്നതവെടിഞ്ഞിടാം ജഡസ്വഭാവം നീക്കിടാം<br/>ആത്മാവിലൈക്യത പൂണ്ട്പുതുഗാനങ്ങളാലപിക്കാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ചൂരച്ചെടിചുവട്ടിൽ നാം തളർന്നുറങ്ങുകയോ<br/>ചോരചൊരിഞ്ഞവനായി നാം വീറോടെ വേല ചെയ്യാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നമ്മുടെ പ്രതിയോഗി അവനലറി വരുന്നുണ്ട്<br/>നിർമ്മലമാനസരായി നാം ഉണർന്നൊരുങ്ങിടാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിദ്രയിലാണ്ടവരേ വേഗം ഉണർന്നേഴുന്നേൽപ്പിൻ<br/>നീതിയിൻ സൂര്യനുദിപ്പാൻ ഇനി നേരം ഏറെയില്ല.</lines>
+    </verse>
+  </lyrics>
+</song>

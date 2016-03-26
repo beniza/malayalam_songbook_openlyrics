@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:09">
+  <properties>
+    <titles>
+      <title>പ്രാണപ്രിയാ! എന്നു വരും?</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പ്രാണപ്രിയാ! എന്നു വരും?<br/>എപ്പോൾ വരും?<br/>ഒന്നു കാണ്മാൻ<br/>എന്നിനി സാധിക്കും?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എത്രയായി പോയിട്ടു നാഥാ!<br/>താമസമന്തേ മടങ്ങാൻ?<br/>നീ വരാതെ എന്നാധികൾ<br/>തീരുകില്ലീയുലകിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്നേഹം കുറയുന്നു തമ്മിൽ<br/>സ്വയസ്നേഹികളെങ്ങും പെരുകി<br/>നിൻജനമിന്നാകുലരായ്<br/>തീരുന്നു പാരിൽ നാഥാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്ഷാമം പെരുകുന്നു മന്നിൽ<br/>യുദ്ധഭീതികളങ്ങുമിങ്ങോളം<br/>ഭൂകമ്പങ്ങൾ ദുർവ്യാധിയും<br/>ഏറിവരുന്നു ദിനം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കഷ്ടതയാണോ നിന്നിഷ്ടം<br/>അതിൻപൂർണ്ണത നിൻഹിതം മാത്രം<br/>മന്നിതിൽ നിൻ സേവയെന്യേ<br/>അന്യമായൊന്നുമില്ല</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കണ്ണുനീരിൽ കുതിർക്കുന്ന<br/>വീത്തെറിഞ്ഞെങ്ങോളം നാഥാ<br/>നന്മണികൾ കാണ്മതിന്നായ്<br/>പിൻമഴ തന്നിടണേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നിൻ വരവോളമീ മന്നിൽ<br/>നീ തരും നാളെല്ലാം നിന്നിൽ<br/>ആശ്രയിച്ചും ആശ്വസിച്ചും<br/>നിൻവേല ചെയ്യും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

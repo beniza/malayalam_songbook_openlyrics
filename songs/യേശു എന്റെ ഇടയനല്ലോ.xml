@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>യേശു എന്റെ ഇടയനല്ലോ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു എന്റെ ഇടയനല്ലോ!<br/>യേശു എന്റെ അധിപനല്ലോ!<br/>യേശു എന്നെ കാത്തിടുന്നു<br/>യേശു എന്നെ പുലർത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൂരിരുളിൻ താഴ്വരയിൽ<br/>കൂട്ടിനെന്റെ കൂടെയുണ്ട്<br/>ചൂടെഴുന്ന ശോധനയിൽ<br/>ചൂളയിലും യേശുവുണ്ട്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആഴിയിലും വഴിയൊരുക്കം<br/>ആപത്തിലും തുണ നിൽക്കും<br/>ആവശ്യങ്ങൾ അറിഞ്ഞുയെന്റെ<br/>ആകുലങ്ങൾ പരിഹരിക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആധിയിലും വ്യാധിയിലും<br/>ഗീതങ്ങൾ പാടിടും ഞാൻ<br/>വ്യഥയേറെ വളരുകിലും<br/>ദൈവകൃപ മതിയെനിക്കു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഓളമെന്റെ ജീവിതമാം<br/>തോണിയിൽ വന്നടിച്ചാലും<br/>പേടിയില്ല യേശുയെന്റെ<br/>പാലകനായുള്ളതിനാൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

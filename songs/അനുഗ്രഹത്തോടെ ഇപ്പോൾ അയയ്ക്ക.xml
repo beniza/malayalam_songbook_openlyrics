@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>അനുഗ്രഹത്തോടെ ഇപ്പോൾ അയയ്ക്ക</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3 v6 v3 v7 v3 v8 v3 v9 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അനുഗ്രഹത്തോടെ ഇപ്പോൾ അയയ്ക്ക<br/>അടിയാരെ യഹോവായേ!<br/>മനസ്സലിവുടയ മഹോന്നതപരനേ!<br/>വന്ദനം നിനക്കാമേൻ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>0293. ദേവനന്ദനനേ നിൻ പാദം വന്ദേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദേവനന്ദനനേ നിൻ പാദം വന്ദേ!<br/>ജീവനായക! ദേവ! വന്ദേ! ദേവ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വാഴ്ത്തിടുന്നെന്നും നിൻകൃപകൾക്കായ്<br/>പുകഴ്ത്തിടുന്നേ സ്തുതി ഗീതങ്ങളാലേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്നുടെ പേർക്കായ് ക്രൂശിൽ മരിച്ചു<br/>നിന്നുയിർപ്പിൻ നിറവെന്നിൽ നിറച്ചു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിസ്വനാമെന്നെ ധനികനാക്കിടാൻ<br/>നിസ്വനായ്ത്തീർന്ന മഹേശാ! വന്ദേ!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>രാജാധിരാജാ! പ്രേമസ്വരൂപാ!<br/>പൂജിത ഭാസ്സെഴുന്ന നാഥാ വന്ദേ!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ദൈവവിരോധം എന്നിൽ നിന്നൊഴിപ്പാൻ<br/>ദൈവ കോപാഗ്നിയിൽ നീ ദഹിച്ചല്ലോ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>തിരുസന്നിധാനം എന്തഭിരാമം!<br/>തൃപ്പദസേവയതെന്നഭിമാനം.</lines>
+    </verse>
+  </lyrics>
+</song>

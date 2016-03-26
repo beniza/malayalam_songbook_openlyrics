@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:55">
+  <properties>
+    <titles>
+      <title>ഇടയൻ നല്ലിടയൻ യഹോവ നല്ലിടയൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇടയൻ നല്ലിടയൻ യഹോവ നല്ലിടയൻ<br/>ആടിനെ തേടുന്ന ആടലകറ്റുന്ന യാഹെനിക്കിടയനല്ലോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പച്ചപ്പുൽപ്പുറങ്ങളിൽ കിടത്തുന്നവൻ സ്വച്ഛജലനിധി കാട്ടുന്നവൻ<br/>മരണത്തിൻ കൂരിരുൾ താഴ്വരയതിലും നൽശരണമങ്ങേകുന്നവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൂടുവെടിഞ്ഞതാമാടിനെ തേടി വൻപാടുകളേറ്റവനാം<br/>നേടിയെടുത്തു തൻ വീടുവരെ തോളിലേറ്റി നടപ്പവനാം. G.K.</lines>
+    </verse>
+  </lyrics>
+</song>

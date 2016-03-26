@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:12">
+  <properties>
+    <titles>
+      <title>ഉയർത്തിടും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉയർത്തിടും ഞാൻ എന്റെ കൺകൾ<br/>തുണയരുളും വൻഗിരിയിൽ<br/>എൻസഹായം വാനം ഭൂമി<br/>അഖിലം വാഴും യഹോവയിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യിസ്രായേലിൻ കാവൽക്കാരൻ നിദ്രാഭാരം തൂങ്ങുന്നില്ല<br/>യഹോവയെൻ പാലകൻ താൻ ഇല്ലെനിക്കു ഖേദമൊട്ടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശത്രുഭയം നീക്കിയെന്നെ മാത്രതോറും കാത്തിടുന്നു<br/>നീതിയിൻ സൽപാതകളിൽ നിത്യവും നടത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശോഭയേറും സ്വർപ്പുരിയിൻ തീരമതിൽ ചേർത്തിടുന്നു<br/>ശോഭിതപുരത്തിൻ വാതിൽ എൻമുമ്പിൽ ഞാൻ കണ്ടിടുന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വാനസേന ഗാനം പാടി വാണിടുന്നു സ്വർഗ്ഗസീയോൻ<br/>ധ്യാനിച്ചിടും നേരമെന്റെ മാനസം മോദിച്ചിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

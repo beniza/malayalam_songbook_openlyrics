@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:45">
+  <properties>
+    <titles>
+      <title>വാനവും ഭൂമിയുമാകവേ നീങ്ങിടും</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാനവും ഭൂമിയുമാകവേ നീങ്ങിടും<br/>വാനവൻ തന്റെ വാക്കുകളോ<br/>ന്യൂനതയെന്നിയെ സംസ്ഥിതി ചെയ്തിടും<br/>നൂനമതൊന്നു താൻ നിത്യധനം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സുസ്ഥിരമായൊരു വസ്തുവുമില്ലയീ<br/>പൃത്ഥ്വിയിലെങ്ങും മർത്യനഹോ<br/>ക്രിസ്തുവിലുണ്ടു സമസ്ത സൗഭാഗ്യവും<br/>അസ്ഥിരമല്ലിതു നിശ്ചയമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വെള്ളിയും പൊന്നുമമൂല്യനിക്ഷേപവും<br/>ഉള്ളിൽ വിശ്രാന്തി നൽകിടുമോ?<br/>ഭള്ളിവയിൽ വളർത്തുന്നതു മൗഢ്യമാം<br/>തെല്ലിടയ്ക്കുള്ളിവ സ്വപ്നസമം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ജീവനും ഭാഗ്യവുമക്ഷയ തേജസ്സും<br/>ഏവനും ദാനമായ് ലഭിക്കും<br/>കാൽവറി ക്രൂശിൽ മരിച്ച ക്രിസ്തേശുവിൻ<br/>പാവന നാമത്തിൽ വിശ്വസിക്കിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

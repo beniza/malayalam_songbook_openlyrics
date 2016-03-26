@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>പ്രതിഫലം തന്നിടുവാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പ്രതിഫലം തന്നിടുവാൻ<br/>യേശുരാജൻ വന്നിടുവാൻ<br/>അധികമില്ലിനിയും നാളുകൾ നമ്മുടെ<br/>ആധികൾ തീർന്നിടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദൈവിക ഭവനമതിൽ<br/>പുതുവീടുകളൊരുക്കിയവൻ<br/>വരും മേഘമതിൽ നമ്മെ ചേർത്തിടുവാൻ<br/>നടുവാനിൽ ദൂതരുമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തൻതിരുനാമത്തിനായ്<br/>മന്നിൽ നിന്ദകൾ സഹിച്ചവരെ<br/>തിരുസന്നിധൗ ചേർത്തു തൻകൈകളാലവരുടെ<br/>കണ്ണുനീർ തുടച്ചിടുവാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സ്വന്തജനത്തിനെല്ലാം<br/>പലപീഡകൾ ചെയ്തവരെ<br/>വന്നു ബന്ധിതരാക്കിയധർമ്മികളാ-<br/>മവർക്കന്തം വരുത്തിടുവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിണ്ണിലുള്ളതുപോലെ<br/>ഇനി മണ്ണിലും ദൈവഹിതം<br/>പരിപൂർണ്ണമായ് ദൈവികരാജ്യമിപ്പാരിലും<br/>സ്ഥാപിതമാക്കിടുവാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കാലമെല്ലാം കഴിയും ഇന്നു കാണ്മതെല്ലാമഴിയും<br/>പിന്നെപ്പുതുയുഗം വിരിയും തിരികെ വരാതെ<br/>നാം നിത്യതയിൽ മറയും.</lines>
+    </verse>
+  </lyrics>
+</song>

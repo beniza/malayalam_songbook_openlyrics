@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:15">
+  <properties>
+    <titles>
+      <title>ഉണ്ടെനിക്കായൊരു മോക്ഷവീട്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉണ്ടെനിക്കായൊരു മോക്ഷവീട്<br/>ഇണ്ടലകന്നു ഞാൻ വാഴുമങ്ങ്<br/>ദൈവമുണ്ട് അങ്ങു പുത്രനുണ്ട്<br/>ആത്മാവുണ്ട് ദൈവദൂതരുണ്ട്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൂടാരമാകുന്ന എൻഭവനം<br/>വിട്ടകന്നാലെനിക്കേറെ ഭാഗ്യം<br/>കൈകളാൽ തീർക്കാത്ത മോക്ഷവീട്ടിൽ<br/>വേഗമായിട്ടങ്ങു ചെന്നുചേരും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കർത്തനേശു തന്റെ പൊൻകരത്താൽ ചേർത്തിടുമായതിലെന്നെയന്ന്<br/>ഒട്ടുനാൾ കണ്ണുനീർപെട്ടതെല്ലാം<br/>പെട്ടെന്നു നീങ്ങിടുമേ തിട്ടമായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പോകാമെനിക്കെന്റെ രക്ഷകന്റെ<br/>രാജ്യമതിനുള്ളിൽ വാസം ചെയ്യാം<br/>രോഗം ദുഃഖം പീഡയൊന്നുമില്ല<br/>ദാഹം വിശപ്പുമങ്ങൊട്ടുമില്ല</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഈ വിധമായുള്ള വീട്ടിനുള്ളിൽ<br/>പാർക്കുവാനെന്നുള്ളം വാഞ്ഛിക്കുന്നു<br/>എന്നു ഞാൻ ചെന്നങ്ങു ചേരുമതിൽ പിന്നീടെനിക്കാപത്തൊന്നുമില്ല</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നൊടിനേരത്തേക്കുള്ള ലഘുസങ്കടം<br/>അനവധി തേജസ്സിൻ ഭാഗ്യം തന്നെ<br/>കണ്ണിനു കാണുന്നതൊന്നുമില്ല<br/>കാണപ്പെടാത്തൊരു ഭാഗ്യം തന്നെ</lines>
+    </verse>
+  </lyrics>
+</song>

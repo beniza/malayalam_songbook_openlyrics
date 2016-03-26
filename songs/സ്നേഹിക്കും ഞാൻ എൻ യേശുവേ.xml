@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:41">
+  <properties>
+    <titles>
+      <title>സ്നേഹിക്കും ഞാൻ എൻ യേശുവേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്നേഹിക്കും ഞാൻ എൻ യേശുവേ!<br/>സ്നേഹിച്ചു നീയെന്നെ മുന്നേ<br/>സേവിക്കും നിന്നെ നാളെന്നും<br/>ഘോഷിക്കും നിൻകൃപകളെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്നേഹിതർ മാറിപ്പോകുമ്പോൾ<br/>സോദരർ തള്ളിടുമ്പോഴും<br/>സാദരം നിൻകൃപകളാൽ<br/>സ്വീകരിച്ചാശ്വസിപ്പിപ്പോൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഞാനുമെന്റെ കുടുംബവും<br/>കർത്തനെ സേവിച്ചിടുമേ<br/>തൻകൃപയിൽ ദിനംതോറും<br/>ആശ്രയിച്ചാശ്വസിക്കുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിന്ദ, പഴി, പരിഹാസം,<br/>ഭിന്നാഭിപ്രായ ഖിന്നത<br/>മന്നിതിലെന്തു വന്നാലും<br/>നിൻകൃപയാൽ നിറയ്ക്കണേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നാൾതോറും ഭാരം ചുമക്കുന്ന<br/>നല്ലിടയനാമേശുവേ!<br/>നിന്നിൽ ദിനംതോറും ചാരി<br/>മന്നിലെൻ നാൾകൾ തീരണം.</lines>
+    </verse>
+  </lyrics>
+</song>

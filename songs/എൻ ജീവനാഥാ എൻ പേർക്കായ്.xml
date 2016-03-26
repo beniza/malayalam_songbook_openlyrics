@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:32">
+  <properties>
+    <titles>
+      <title>എൻ ജീവനാഥാ എൻ പേർക്കായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ ജീവനാഥാ എൻ പേർക്കായ് ക്രൂശിൽ മരിച്ചു നീ<br/>എൻ പാപം പോക്കാൻ യാഗമായ് രക്തം ചൊരിഞ്ഞു നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വന്ദിക്കുന്നു നിൻ പാദത്തിൽ<br/>നന്ദിയോടിന്നും രക്ഷകാ<br/>ആരാധിച്ചിടുന്നു എൻ ആത്മാവിൽ മോദമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്വർഗ്ഗത്തിൽ സത്യകൂടാരം സ്ഥാപിച്ച നായകാ<br/>മൺപാത്രമായ എന്നിൻ നിൻ സ്നേഹം പകർന്നല്ലോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിൻ മാർവ്വിൽ എന്നെ ചേർത്തതാൽ ഞാൻ എത്ര ഭാഗ്യവാൻ<br/>നിത്യമാം ജീവൻ തന്നതാൽ പാടിടും എന്നും ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻ ദേഹം ദേഹി ആത്മാവും നിൻ സന്നിധാനത്തിൽ<br/>വീണു വണങ്ങി യാഗമായ് സർവ്വവും നൽകുന്നേൻ. P.T.</lines>
+    </verse>
+  </lyrics>
+</song>

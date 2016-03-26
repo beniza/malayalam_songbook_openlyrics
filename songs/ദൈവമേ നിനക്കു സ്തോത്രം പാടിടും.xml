@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>ദൈവമേ നിനക്കു സ്തോത്രം പാടിടും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവമേ നിനക്കു സ്തോത്രം പാടിടും<br/>ഒരായിരം സ്തുതികൾ ഞാൻ കരേറ്റിടും<br/>സന്താപകാലത്തും സന്തോഷകാലത്തും<br/>എപ്പോഴും എന്റെ നാവു നിന്നെ വാഴ്ത്തുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്നെയറിഞ്ഞിടാതെ പോയ പാതയിൽ<br/>നീയെന്നെ തേടിവന്ന സ്നേഹമോർക്കുമ്പോൾ<br/>എൻനാവതെങ്ങനെ മിണ്ടാതിരുന്നിടും<br/>സ്തോത്രയാഗമെന്നുമർപ്പിച്ചിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നെയനുദിനം നയിച്ചിടേണമേ<br/>വീഴാതെയന്നു നിന്നടുക്കലെത്തിടാൻ<br/>ആലംബമായിടും ആത്മാവെ തന്നതാൽ<br/>സ്തോത്രയാഗമെന്നുമർപ്പിച്ചിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപച്ചെളിയിൽ നിന്നു വീണ്ടെടുത്തെന്നെ<br/>പാറയാം ക്രിസ്തനിൽ സ്ഥിരപ്പെടുത്തി നീ<br/>എൻ നാവിൽ തന്നു നീ നവ്യസങ്കീർത്തനം<br/>സ്തോത്രയാഗമെന്നുമർപ്പിച്ചിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻ കണ്ണുനീരെല്ലാം തുടച്ചിടുന്നു നീ<br/>കൺമണിപോലെ നിത്യം കാത്തിടുന്നെന്നെ<br/>വൻ കൃപയോർക്കുമ്പോൾ എന്നുള്ളം തുള്ളുന്നേ<br/>സ്തോത്രയാഗമെന്നുമർപ്പിച്ചിടും ഞാൻ</lines>
+    </verse>
+  </lyrics>
+</song>

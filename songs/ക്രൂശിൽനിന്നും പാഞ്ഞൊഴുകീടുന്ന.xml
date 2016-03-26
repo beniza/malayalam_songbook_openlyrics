@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:41">
+  <properties>
+    <titles>
+      <title>ക്രൂശിൽനിന്നും പാഞ്ഞൊഴുകീടുന്ന</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രൂശിൽനിന്നും പാഞ്ഞൊഴുകീടുന്ന<br/>ദൈവസ്നേഹത്തിൻ വൻകൃപയെ<br/>ഒഴുകിയൊഴുകി അടിയനിൽ പെരുകേണമേ<br/>സ്നേഹസാഗരമായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്നേഹമാം ദൈവമെ നീയെന്നിൽ<br/>അനുദിനവും വളരേണമേ ഞാനോ കുറയേണമേ! (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിത്യസ്നേഹം എന്നെയും തേടി വന്നു<br/>നിത്യമാം സൗഭാഗ്യം തന്നുവല്ലൊ<br/>ഹീനനെന്നെ മെനഞ്ഞല്ലൊ<br/>കർത്താവിനായ് മാനപാത്രമായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകത്തിൽ ഞാൻ ദരിദ്രനായിടിലും<br/>നിൻസ്നേഹം മതിയെനിക്കാശ്വാസമായ്<br/>ദൈവസ്നേഹം എന്നെയും ആത്മാവിനാൽ<br/>സമ്പന്നനാക്കിയല്ലോ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മായാലോകെ പ്രശംസിച്ചിടുവാൻ<br/>യാതൊന്നുമില്ലല്ലോ പ്രാണനാഥാ<br/>ദൈവസ്നേഹം ഒന്നെയെൻ<br/>പ്രശംസയേ എന്റെ ആനന്ദമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

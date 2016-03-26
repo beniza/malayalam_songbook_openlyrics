@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:45">
+  <properties>
+    <titles>
+      <title>സ്നേഹിച്ചിടും ഞാൻ എന്നാത്മനാഥനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്നേഹിച്ചിടും ഞാൻ എന്നാത്മനാഥനെ<br/>കാൽവറി ക്രൂശിൽ ജീവനും തന്നു<br/>സ്നേഹിച്ചതെന്നെ നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്വർഗ്ഗത്തിൽ രാജാവു നീ ഭൂവിൽ<br/>പുൽക്കൂട്ടിൽ ജാതനായി കാടുകൾ മേടുകളിൽ<br/>എന്നെ തേടി നടന്നവൻ നീ കൈകാൽ വിരിച്ചാ<br/>കാൽവറി ക്രൂശിൽ കണ്ടെത്തിയെന്നെ നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നെ വിളിച്ചവൻ നീ എന്നും വിശ്വസ്തനായകനാം<br/>നീതിയിൻ പാതകളിൽ എന്നെ നേരെ നടത്തിടും നീ<br/>കൂരിരുൾ വഴിയിൽ ശത്രുക്കൾ നടുവിൽ കൈവിടുകില്ല നീ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിൻസ്നേഹക്കൊടിക്കീഴിൽ മാറും എന്നാകുലങ്ങളെല്ലാം<br/>നിൻമുഖതേജസ്സിനാൽ മായും എന്നാലസ്യങ്ങളെല്ലാം<br/>ഇന്നലേയുമിന്നും എന്നുമനന്യാം<br/>നിൻമാർവ്വിൽ ചാരും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

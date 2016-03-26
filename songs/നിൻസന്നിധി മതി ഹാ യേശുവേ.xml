@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:11">
+  <properties>
+    <titles>
+      <title>നിൻസന്നിധി മതി ഹാ! യേശുവേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിൻസന്നിധി മതി ഹാ! യേശുവേ!<br/>നിൻപ്രസാദം മതി ഈ എനിക്കു<br/>വൻ ദുഃഖങ്ങളിലും നിൻ സന്നിധി മതി<br/>നിൻസന്നിധി മതി ഇന്നും എന്നും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭൂമിയിളകിലും മാ സമുദ്രം<br/>കോപിക്കിലും ഭയം ഇല്ലെനിക്കു<br/>അന്നു നിൻകൈ മതി നിൻ സന്നിധി മതി<br/>നിൻസന്നിധി മതി ഇന്നും എന്നും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകത്തിലേകനായ് തീരുകിലും<br/>രോഗത്താൽ ബാധിതനായിടിലും<br/>തൃക്കണ്ണെൻമേൽ മതി നിൻ സന്നിധി മതി<br/>നിൻ സന്നിധി മതി ഇന്നും എന്നും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആയിരമായിരം വൈരികളാൽ<br/>ആവൃതനാകിലും ഞാൻ ഭ്രമിക്കാ<br/>നീയെൻപക്ഷം മതി നിൻ സന്നിധി മതി<br/>നിൻസന്നിധി മതി ഇന്നും എന്നും.</lines>
+    </verse>
+  </lyrics>
+</song>

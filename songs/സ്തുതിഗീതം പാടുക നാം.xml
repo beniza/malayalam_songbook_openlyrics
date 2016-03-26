@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>സ്തുതിഗീതം പാടുക നാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതിഗീതം പാടുക നാം<br/>ഉയർത്തുക ജയനാമം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്തുതിക്കു യോഗ്യനവൻ<br/>സർവ്വശക്തൻ യഹോവയവൻ<br/>നമ്മെ സ്നേഹിച്ചു നമ്മെ വീണ്ടെടുത്തു<br/>സ്വന്തജനമായ് തീർത്തതിനാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രോഗിക്കു വൈദ്യനവൻ<br/>സർവ്വശക്തൻ യഹോവയവൻ<br/>സൗഖ്യം നൽകി താൻ ശക്തിയേകിടും<br/>എന്നും ആശ്വാസം പകരുമവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സേനകളിൻ നായകൻ<br/>സർവ്വശക്തൻ യഹോവയവൻ<br/>അവൻ മുമ്പിലും അവൻ പിമ്പിലും<br/>നമ്മെ ജയത്തോടെ നടത്തിടുമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രാജാധിരാജനവൻ<br/>സർവ്വശക്തൻ യഹോവയവൻ<br/>സ്തുതിസ്തോത്രവും എല്ലാ പുകഴ്ചയും<br/>അവനെന്നെന്നും ആമേൻ</lines>
+    </verse>
+  </lyrics>
+</song>

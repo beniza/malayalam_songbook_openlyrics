@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>യേശു നല്ലവൻ അവൻ വല്ലഭൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു നല്ലവൻ അവൻ വല്ലഭൻ<br/>അവൻ ദയയോ എന്നുമുള്ളത്<br/>പെരുവെള്ളത്തിൻ ഇരച്ചിൽ പോലെ<br/>സ്തുതിച്ചിടുക അവന്റെ നാമം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹാലേലുയ്യ, ഹാലേലുയ്യ<br/>മഹത്വവും ജ്ഞാനവും<br/>സ്തോത്രവും ബഹുമാനം ശക്തിയും ബലവും<br/>എൻയേശുവിനു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഞാൻ യഹോവയ്ക്കായ് കാത്തുകാത്തല്ലോ<br/>അവൻ എങ്കലേക്കു ചാഞ്ഞു കേട്ടല്ലോ<br/>നാശകരമായ കുഴിയിൽനിന്നും<br/>കുഴഞ്ഞ ചേറ്റിൽ നിന്നും കയറ്റി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എൻ കാലുകളെ പാറമേൽ നിർത്തി<br/>എൻ ഗമനത്തെ സുസ്ഥിരമാക്കി<br/>പുതിയൊരു പാട്ടെനിക്കു തന്നു<br/>എൻ ദൈവത്തിനു സ്തുതിതന്നെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്റെ കർത്താവേ! എന്റെ യഹോവേ!<br/>നീയൊഴികെ എനിക്കൊരു നന്മയുമില്ല<br/>ഭൂമിയിലുള്ള വിശുദ്ധന്മാരോ<br/>അവർ എനിക്കു ശ്രേഷ്ഠന്മാർ തന്നേ.</lines>
+    </verse>
+  </lyrics>
+</song>

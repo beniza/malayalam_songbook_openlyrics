@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:17">
+  <properties>
+    <titles>
+      <title>ഈ ദൈവം എന്നുമെൻ ദൈവം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഈ ദൈവം എന്നുമെൻ ദൈവം<br/>ജീവാന്ത്യത്തോളം വഴി നടത്തും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശാശ്വതഭുജങ്ങൾ കീഴിലുണ്ട്<br/>യേശു എപ്പോഴും കൂടെയുണ്ട്<br/>കരങ്ങളിൽ വഹിക്കും കണ്ണുനീർ തുടയ്ക്കും<br/>കരുതിയെന്നെ നടത്തും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉള്ളം തകർന്നു നീറിടുമ്പോൾ<br/>ഉറ്റവരകന്നു മാറിടുമ്പോൾ<br/>ഉണ്ടെനിക്കരികിൽ ഉന്നതനേശു<br/>ഉത്തമ നൽസഖിയായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഏറിവരും ദുഃഖഭാരങ്ങളോ<br/>ഏകനായ് തീരും നേരങ്ങളോ<br/>എന്തു വന്നാലും മന്നിലെന്നാളും<br/>എനിക്കിനീം യേശുവുണ്ട്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആനന്ദമായൊരു ജീവിതമാം<br/>ആവതല്ലെനിക്കതു വർണ്ണിക്കുവാൻ<br/>ആർത്തു ഞാൻ പാടും കീർത്തനം ചെയ്യും<br/>ആയുസ്സിൻ നാൾകളെല്ലാം.</lines>
+    </verse>
+  </lyrics>
+</song>

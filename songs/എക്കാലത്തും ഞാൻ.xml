@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:58">
+  <properties>
+    <titles>
+      <title>എക്കാലത്തും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എക്കാലത്തും ഞാൻ പുകഴ്ത്തുമെന്നരുമരക്ഷകനേശു ദേവാ!<br/>പാപവിഹീനനായ് പാരിടത്തിൽ വന്നു<br/>പാപഹാരിയായ്ത്തീർന്നവനേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഉന്നതത്തിൽ നിന്നീ മന്നിൽ മന്നവൻ നീ വന്നെനിക്കായ്<br/>ചെഞ്ചോര ചിന്തി വീണ്ടെടുത്തൻപിൽ<br/>നിൻചാരെ ചേർത്തെന്നെ മാർവ്വണച്ചു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അല്ലലെന്നിൽ തെല്ലുമില്ലീയല്ലിലും നിൻ ചൊല്ലെനിക്ക്<br/>ഉല്ലാസം നൽകിയെൻ വല്ലായ്മ നീക്കും നല്ലവനേയാത്മ വല്ലഭനേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സ്നേഹദീപം കത്തിക്കുവാൻ സ്നേഹം തായെൻ ജീവനാഥാ!<br/>സ്നേഹമേയെൻ പ്രേമസംഗീതസാഗരമേ!<br/>സത്യത്തിൻ മോഹന സൗന്ദര്യമേ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്നെനിക്കായ് വന്നവനേ! എന്നു നിന്നെ വന്നു കാണും?<br/>അന്നാൾവരെയ്ക്കെന്റെ ജീവിതത്തോണി<br/>ക്കാലംബം നീയല്ലാതാരുമില്ല.</lines>
+    </verse>
+  </lyrics>
+</song>

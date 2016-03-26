@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:08">
+  <properties>
+    <titles>
+      <title>എൻ ആത്മാവേ നീ ദുഃഖത്താൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2 v9 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ ആത്മാവേ നീ ദുഃഖത്താൽ വിഷാദിക്കുന്നതെന്തിന്നായ്<br/>വന്നിടും വീണ്ടെടുപ്പിൻ നാൾ കാത്തിടുക കർത്താവിന്നായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീ കാത്തിരിക്ക കർത്താവിന്നായ് നീ കാത്തിരിക്ക കർത്താവിന്നായ്<br/>കർത്താവിന്നായ് എപ്പോഴും കാത്തിരിക്ക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻസ്നേഹപ്രയത്നം എല്ലാം വൃഥാവിൽ എന്നു തോന്നിയാൽ<br/>നീ ഓർത്തുകൊൾ തൻ വാഗ്ദത്തം കണ്ടിടും നീയും കൊയ്ത്തിൻനാൾ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കർത്താവോടകന്നോടിയാൽ നിൻഓട്ടം എല്ലാം ആലസ്യം<br/>തന്നോടുകൂടെ നടന്നാൽ എല്ലായദ്ധ്വാനം മാധുര്യം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിൻ കണ്ണുനീരിൻ പ്രാർത്ഥന താൻ കേൾക്കാതിരിക്കുന്നുവോ<br/>വിശ്വാസത്തിൻ സുശോധന ഇതെന്നു മറന്നുപോയോ?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഈ ഹീനദേഹത്തിങ്കൽ നീ ഞെരുങ്ങിടുന്നോ ക്ഷീണത്താൽ<br/>നിൻരാജൻ വരവിങ്കൽ ഈ മൺപാത്രം മിന്നും തേജസ്സാൽ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നീ സ്നേഹിക്കുന്നനേകരും കർത്താവിൽ ഉറങ്ങിടുമ്പോൾ<br/>ഉയിർക്കും അവർ ഏവരും എന്നോർത്തു ആശ്വസിച്ചുകൊൾ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>നിൻഭക്തിയിങ്കൽ ക്ഷീണിപ്പാൻ പരീക്ഷ പെരുകുന്നുവോ?<br/>നിൻശക്തി ആവർത്തിക്കുവാൻ ഒർ ദിവ്യവഴിയുണ്ടല്ലോ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>വീണിടും നല്ലവീരന്മാർ യുവാക്കളും വിലപിക്കും<br/>കർത്താവെ കാത്തിരിക്കുന്നോർ തൻ നിത്യശക്തി പ്രാപിക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

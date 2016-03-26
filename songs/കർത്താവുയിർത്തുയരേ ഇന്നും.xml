@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:07">
+  <properties>
+    <titles>
+      <title>കർത്താവുയിർത്തുയരേ ഇന്നും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്താവുയിർത്തുയരേ ഇന്നും<br/>നമുക്കായി ജീവിക്കുന്നു<br/>ആകയാൽ ജയഗീതങ്ങൾ പാടി<br/>കീർത്തിക്കാം തൻമഹത്വം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വല്ലഭനായ് വാഴുന്നവൻ<br/>എല്ലാധികാരവുമുള്ളവനായ്<br/>നല്ലവനിത്രയുമുന്നതനവനെ<br/>നമുക്കിന്നനുഗമിക്കാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മൃത്യുവിനാൽ മാറിടുന്ന<br/>മർത്യനിൽ ചാരിടുന്നവരൊടുവിൽ<br/>വിലപിതരാമെന്നാൽ ചാരുന്നു നാം<br/>വലിയവൻ ക്രിസ്തുവിൽ ഹാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിളിച്ചു നമ്മെ വേർതിരിച്ച<br/>വിമലന്റെ സൽഗുണം ഘോഷിച്ചു നാം<br/>പാർത്തിടാം പാരിതിലനുദിനവും<br/>പരമമോദിതരായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഹല്ലേലുയ്യാ ഹല്ലേലുയ്യാ<br/>ഹല്ലേലുയ്യാ ജയം ഹല്ലേലുയ്യാ!<br/>മന്നവനേശു മഹോന്നതനെന്നും<br/>മഹത്വം ഹല്ലേലുയ്യാ!</lines>
+    </verse>
+  </lyrics>
+</song>

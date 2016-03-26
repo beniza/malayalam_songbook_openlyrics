@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:56">
+  <properties>
+    <titles>
+      <title>അൻപിൻ ദൈവമെന്നെ നടത്തുന്ന</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അൻപിൻ ദൈവമെന്നെ നടത്തുന്ന വഴികൾ അത്ഭുതമേ<br/>അവൻ കൃപകളെന്നിൽ ചൊരിയുന്നതോ അനൽപ്പമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അഖില ചരാചര രചയിതാവാം<br/>അഖിലജഗത്തിനുമുടയവൻ താൻ<br/>അവനെന്റെ താതനായ് തീർന്നതിനാൽ<br/>അവനിൽ ഞാനെത്രയോ സമ്പന്നനാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അറിയുന്നവനെന്റെ ആവശ്യങ്ങൾ<br/>അടിയനറിയുന്നതിലുപരി<br/>ആവശ്യനേരത്ത് അവൻ തുണയായ്<br/>അതിശയമായെന്നെ പുലർത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അണഞ്ഞിടും ഒടുവിൽ ഞാനവന്നരികിൽ<br/>അകതാരിലാകെ എന്നാശയത്<br/>അവിടെയാണെന്നുടെ സ്വന്തഗൃഹം<br/>അനവരതം അതിൽ അധിവസിക്കും</lines>
+    </verse>
+  </lyrics>
+</song>

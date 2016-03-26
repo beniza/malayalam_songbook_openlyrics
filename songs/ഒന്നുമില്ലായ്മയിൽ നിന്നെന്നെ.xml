@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:56">
+  <properties>
+    <titles>
+      <title>ഒന്നുമില്ലായ്മയിൽ നിന്നെന്നെ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഒന്നുമില്ലായ്മയിൽ നിന്നെന്നെ<br/>നിന്നുടെ ഛായയിൽ സൃഷ്ടിച്ചു<br/>നിത്യമായ് സ്നേഹിച്ചെന്നെ നിന്റെ<br/>പുത്രനെ തന്നു രക്ഷിച്ചു നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിൻമഹാ കൃപയ്ക്കായ്<br/>നിന്നെ ഞാൻ സ്തുതിച്ചിടുമെന്നും (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഈ ലോകത്തിൽ വന്നേശു എന്റെ,<br/>മാലൊഴിപ്പാൻ സഹിച്ചു, ബഹു<br/>പീഡകൾ സങ്കടങ്ങൾ പങ്ക-<br/>പ്പാടുകൾ നീചമരണവും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മോചനം, വീണ്ടും ജനനവും,<br/>നീചപാപിയെന്നിൽ വസിപ്പാൻ<br/>നിന്നാത്മവിന്റെ ദാനവും, നീ<br/>തന്നു സ്വർഗാനുഗ്രഹങ്ങളും.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്നവസ്ത്രാദി നന്മകളെ<br/>എണ്ണമില്ലാതെന്മേൽ ചൊരിഞ്ഞു<br/>തിന്മകൾ സർവ്വത്തിൽ നിന്നെന്നെ<br/>കണ്മണി പോലെ കാത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നാശമില്ലാത്തവകാശവും<br/>യേശുവിൻ ഭാഗ്യസന്നിധിയിൽ<br/>നീതിയിൻ വാടാമുടികളും<br/>തൻമക്കൾക്കു സ്വർഗ്ഗേ ലഭിക്കും</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തുവിൻ ഇമ്പഗാനമെന്നുമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തുവിൻ ഇമ്പഗാനമെന്നുമേ<br/>എന്നുടെ ജീവവാക്യമെന്നുമേ<br/>തന്നുടെ ജീവമൊഴിയെന്നുമേ<br/>എന്നുടെ ജീവന്നാധാരമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഞാൻ പിന്തുടർന്നിടും ഞാൻ പിൻഗമിച്ചിടും<br/>എന്നുടെ ജീവിതയാത്രയിൽ<br/>ഈ മരുവിൻ ചൂടതേൽക്കുമ്പോൾ<br/>തൻചിറകെനിക്കു വിശ്രമം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്രിസ്തുവിൻ ദിവ്യയിഷ്ടമെന്നുമേ<br/>എന്നുടെ ജീവിതത്തിൻ ആശയേ<br/>നാളെന്നും ക്രൂശെടുത്തു ഞാൻ<br/>താതനിഷ്ടം നിറവേറ്റുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രിസ്തുവിൻ നിന്ദ ഞാൻ വഹിക്കുമേ<br/>എന്നുടെ ഭൂഷണം അതെന്നുമേ<br/>നാളെന്നും അതെണ്ണും എൻനിക്ഷേപമായ്<br/>തേജസ്സായെനിക്കു ലഭ്യമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ക്രിസ്തുവിൻ ശബ്ദം ഞാൻ ശ്രവിക്കുമേ<br/>എന്നുടെ പാതയെയതെന്നുമേ<br/>നാളെന്നും അതിൽ നടന്നു ഞാൻ<br/>തേജസ്സിൻ തീരത്തെത്തുമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ക്രിസ്തുവിൻ മുഖം ഞാൻ ദർശിക്കുമേ<br/>ഈ ഘോരമാം സമുദ്രത്തിൻ നടുവിലായ്<br/>അനന്തത വിദൂരവേ ഞാൻ കാണുമ്പോൾ<br/>ആ പൊൻമുഖം പ്രത്യാശയിൻ ഉറവിടം</lines>
+    </verse>
+  </lyrics>
+</song>

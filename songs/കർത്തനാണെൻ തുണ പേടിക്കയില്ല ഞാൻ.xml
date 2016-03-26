@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:53">
+  <properties>
+    <titles>
+      <title>കർത്തനാണെൻ തുണ പേടിക്കയില്ല ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>v1. കർത്തനാണെൻ തുണ പേടിക്കയില്ല ഞാൻ<br/>മർത്യനിന്നെന്നോടു എന്തു ചെയ്യും?<br/>ധൈര്യമായീവിധം ഓതി ഞാൻ ജീവിതം<br/>ചെയ്തിടും ഭൂവിതിൽ ഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വൈരിയിൻ ആളുകൾ പെരുകുമീ നാളുകൾ<br/>ധൈര്യം തരുന്നതെന്നേശുനാഥൻ<br/>എളിയവനാകിലും ധനികനല്ലായ്കിലും<br/>കരുതുന്നെന്നെയവൻ ഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അലറുന്ന സിംഹമായ് ഒളിചിന്നും ദൂതനായ്<br/>അരി വന്നു നേരിടും നേരമെല്ലാം<br/>അലയാതെ നിന്നിടാൻ ബലമെനിക്കേകുവാൻ<br/>അരികിലുണ്ടേശു താൻ ഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇത്ര വലിയവൻ മിത്രമായുള്ളപ്പോൾ<br/>ഇദ്ധര തന്നിൽ ഞാൻ ഭീതനാമോ<br/>കർത്താധീകർത്തനായ് രാജാധിരാജനായ്<br/>ശക്തനുമാണവൻ ഹല്ലേലുയ്യാ.</lines>
+    </verse>
+  </lyrics>
+</song>

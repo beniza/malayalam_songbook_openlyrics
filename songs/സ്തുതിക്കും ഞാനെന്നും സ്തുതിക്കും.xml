@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:27">
+  <properties>
+    <titles>
+      <title>സ്തുതിക്കും ഞാനെന്നും സ്തുതിക്കും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതിക്കും ഞാനെന്നും സ്തുതിക്കും<br/>യേശുദേവനെ സ്തുതിക്കും<br/>പുകഴ്ത്തും ഞാനെന്നും പുകഴ്ത്തും<br/>ദേവദേവനെ പുകഴ്ത്തും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപമാം ചേറ്റിൽ നിന്നുയർത്തി<br/>പാറയാം ക്രിസ്തുവിൽ നിറുത്തി<br/>പാടുവാൻ പുതിയൊരു പാട്ടും<br/>നൽകിയ നാഥനെ സ്തുതിക്കും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മരുവിലും അവൻ വഴി നടത്തും<br/>കരുണയിൻ കരങ്ങളാൽ കാക്കും<br/>കരുമനകളിലും നൽതുണയായ്<br/>വരുമതാൽ തീരുമെൻ ഭാരം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാരിലെൻ ജീവിതകാലം പരൻവേല<br/>ചെയ്തു ഞാൻ തീർക്കും<br/>ഒടുവിലെൻ വീട്ടിൽ ചെന്നണയും<br/>പ്രിയന്റെ മാറിൽ ഞാൻ മറയും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:07">
+  <properties>
+    <titles>
+      <title>എൻ നാഥനേ! നീ മാത്രമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ നാഥനേ! നീ മാത്രമേ<br/>എന്നാത്മാവിൻ സംഗീതമേ എൻനാഥനേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീർത്തോടു തേടി ഓടുന്ന മാൻപോൽ<br/>എൻ പ്രാണനാഥാ! നിന്നോടു ചേരുവാൻ<br/>എൻ പ്രാണൻ വാഞ്ഛിച്ചു പാർത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻ നാമമെന്നും മോഹനം തന്നെ<br/>നിൻ സ്നേഹമെത്രയോ മാധുര്യമാം!<br/>നിൻ യാഗവേദിയെൻ വിശ്രമസ്ഥാനമാം<br/>നിൻ പാദസെവയെന്നാനന്ദമാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇന്നലേയിന്നുമെന്നും അനന്യനാം<br/>നിന്നിലീ സാധു ഞാൻ ധന്യനല്ലോ<br/>എന്നോടുകൂടെ നീ നിന്നോടുകൂടെ ഞാൻ<br/>എന്നും പിരിയാത്ത ജീവിതമാം.</lines>
+    </verse>
+  </lyrics>
+</song>

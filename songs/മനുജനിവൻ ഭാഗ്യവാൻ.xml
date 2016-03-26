@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:49">
+  <properties>
+    <titles>
+      <title>മനുജനിവൻ ഭാഗ്യവാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മനുജനിവൻ ഭാഗ്യവാൻ<br/>മനുജനിവൻ ഭാഗ്യവാൻ<br/>വിനയാം ദുഷ്ടരിന്നാലോ-<br/>ചനയിൽ നടക്കാതുള്ള</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തിരിഞ്ഞു പാപികളുടെ<br/>വഴിയിൽ നിന്നിടാതെയും<br/>പരിഹാസികളിൻ പീഠ-<br/>ത്തിരുന്നിടാതെയുമുള്ള</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തനതിഷ്ടം ദേവവാക്കിൽ<br/>ദിനവും വച്ചതിൽ നിന്നു<br/>മനസ്സിലെല്ലാനേരവും<br/>നിനച്ചു ധ്യാനം ചെയ്യുന്ന</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആറ്റരികത്തു നട്ടു-<br/>വാട്ടം ഇലയ്ക്കില്ലാതെ<br/>ഏറ്റകാലത്തു കനി-<br/>കായ്ക്കും വൃക്ഷത്തോടൊത്ത</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ചെയ്യുന്നതെല്ലാമവൻ<br/>മെയ്യായ് സാധിക്കും ദുഷ്ട<br/>കയ്യർ പാറ്റിക്കളയും<br/>തീയിൽ പതിർപോൽ തന്നെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നല്ലോർ വഴിയെ സർവ്വ-<br/>വല്ലഭനറിയുന്നു<br/>വല്ലാത്ത ദുഷ്ടർ വഴി<br/>എല്ലാം നശിച്ചുപോകും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>അതിനാൽ ദുഷ്ടന്മാർ<br/>ന്യായവിധിയിങ്കലും പാപികൾ<br/>എഴുന്നേറ്റിടാ നീതിയു-<br/>ള്ളവരിൻ സഭയിങ്കലും</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ക്രിസ്തുനാമമേ ജയം<br/>ക്രിസ്തുനാമമേ ജയം<br/>ക്രിസ്തേശുനാമത്തിന്നു<br/>എന്നും ജയം ജയമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>മനുവേലാ വന്ദനം മന്നിലേകനായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മനുവേലാ വന്ദനം മന്നിലേകനായ്<br/>മനുജാതിക്കായി വന്നതാമുന്നതാധിപാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജ്ഞാനം ധനവും മാനവും സ്വീകരിക്കുവാൻ<br/>വാനം ഭൂമിയാകെയും യോഗ്യനാം ഭവാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സങ്കടമേറെ ഏറ്റു നീ എൻ കടങ്ങളെ<br/>വൻ കുരിശേറി വീട്ടി നീ ശങ്കയെന്നിയെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിന്ദിതനായ് നിസ്സാരനായ് നിസ്സഹായനായ്<br/>വന്ദിതനാം നീ നിന്നതിന്നോർത്തു നന്ദിയായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>താഴ്ചയിലെന്നെയോർത്തതാൽ ക്രൂശിലോളവും<br/>താഴ്ത്തുകയായ് നീ നിന്നെയെന്നോർത്തു നന്ദിയായ്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കുപ്പയിൽ നിന്നുയർത്തി നീ ശ്രേഷ്ഠരാം നരർ<br/>ക്കൊപ്പമിരുത്തിയെന്നെയെന്തത്ഭുതം പരാ!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഈയുപകാരം ചെയ്യുവാൻ യോഗ്യനല്ല ഞാൻ<br/>നീ കൃപകാട്ടി നായകാ ജീവദായകാ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>നിന്നുടെ പാദം തന്നിൽ ഞാൻ വീണു വന്ദനം<br/>ചെയ്തിടുമല്ലാതെന്തു ഞാൻ തന്നിടുന്നു ഹാ!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:59">
+  <properties>
+    <titles>
+      <title>തേനിലും മധുരമേശുവിൻ നാമം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>തേനിലും മധുരമേശുവിൻ നാമം<br/>ദിവ്യമധുരാമമേ അതു<br/>തേടുകിലുലകിലേവനും സദൃഢം<br/>നേടും നിത്യാനന്ദത്തെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാതയിലെന്നും നല്ലൊരു<br/>ദീപവുമാപത്തിലഭയവുമേ എന്റെ<br/>വ്യാധിയിലൗഷധമാധിയിലാനന്ദം<br/>സകലവുമെനിക്കവനാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകസുഖങ്ങൾ സ്വപ്നസമാന-<br/>മാകെയകന്നൊഴിയും സർവ്വ<br/>ശോകവും തീർക്കുമേശുവിൻ<br/>നാമം ശാശ്വതം ശാശ്വതമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മാനവരൂപമണിഞ്ഞവനുലകിൽ<br/>താണവനായെങ്കിലും സർവ്വ<br/>മാനവർ വാനവരഖിലരുമൊരുപോൽ<br/>തൻപദം കുമ്പിടുമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലാഭമെന്നുലകം കരുതുവതഖിലം<br/>ചേതമെന്നെണ്ണുന്നു ഞാൻ എന്റെ<br/>ലാഭമിനിയുമെന്നേശുവിൻ തൃപ്പദം<br/>ചേർന്നിടും ഞാനൊടുവിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

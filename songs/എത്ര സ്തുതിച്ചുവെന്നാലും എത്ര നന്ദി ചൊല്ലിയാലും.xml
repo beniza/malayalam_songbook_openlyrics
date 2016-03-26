@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>എത്ര സ്തുതിച്ചുവെന്നാലും എത്ര നന്ദി ചൊല്ലിയാലും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എത്ര സ്തുതിച്ചുവെന്നാലും എത്ര നന്ദി ചൊല്ലിയാലും<br/>കർത്താവു ചെയ്ത നന്മയ്ക്കു പ്രത്യുപകാരമാകുമോ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മൃത്യുവിൻ ഹസ്തത്തിൽ നിന്നും ശത്രുവിൻ അസ്ത്രത്തിൽ നിന്നും<br/>ഭൃത്യനാമെന്റെ പ്രാണനെ കാത്ത തൻ ദയയത്ഭുതം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കഷ്ടനഷ്ടങ്ങൾ വന്നാലും ദുഷ്ടലോകം പകച്ചാലും<br/>കർത്താവിൽ ഞാൻ സന്തോഷിക്കും കഷ്ടങ്ങളിൽ പ്രശംസിക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചിത്തം കലങ്ങുമന്നേരം കർത്തനെയുള്ളിൽ ധ്യാനിച്ചു<br/>ദുഃഖം മറന്നു പാടും ഞാൻ ഉച്ചത്തിൽ സ്തോത്രഗീതങ്ങൾ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തീരാ വിഷാദങ്ങൾ തീർന്നു തോരാത്ത കണ്ണുനീർ തോർന്നു<br/>കർത്താവിൻ പാദം ചേർന്നു ഞാൻ നിത്യയുഗങ്ങൾ വാണിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:47">
+  <properties>
+    <titles>
+      <title>ശൂലമിയാൾ മമ മാതാവേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ശൂലമിയാൾ മമ മാതാവേ!<br/>സാലേം നായകൻ നമ്മൾ പിതാവേ!<br/>നാമെല്ലാവരും തൻ മഹിമാവെതന്നെ<br/>വാഴ്ത്തുവാൻ ചായ്ക്കുക നാവേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകമതിൻ തുടസ്സത്തിനു മുമ്പേ<br/>നാഥാ ഞങ്ങളെയോർത്തനിന്നൻപേ<br/>അന്ത്യയുഗം വരെയുമായതിൻ പിൻപേ<br/>ഞങ്ങളറിയുന്നതുള്ളാശയിൻ കൂമ്പേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവനെഴുന്നൊരു നിൻ വചനത്താൽ<br/>നീ ജനിപ്പിച്ചടിയാരെ സുഗണത്താൽ<br/>പാപഭയമകന്നു നിൻ മരണത്താൽ<br/>ജീവനിൽ കടന്നിവർ നിൻ സുകൃതത്താൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഞങ്ങളീഭൂമിയിൽ വാഴുമെന്നാളും<br/>നിന്നുടെ മഹത്വത്തിന്നായ് ശ്രമമാളും<br/>ഭൗമികസുഖം നേടിടുന്നതെക്കാളും<br/>നിന്നെയോർത്താനന്ദിക്കുമുയിർപോകുമ്പോഴും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അപകട ദിവസങ്ങൾ അണവൊരു തരുണം<br/>ആകുലമകന്നു നിന്നത്ഭുത ചരണം<br/>സേവ ചെയ്‌വതിന്നരുൾ താവക ഭരണം<br/>കുറവെന്നിൽ നിന്നു നീക്കാൻ മാർഗ്ഗമായ് വരണം.</lines>
+    </verse>
+  </lyrics>
+</song>

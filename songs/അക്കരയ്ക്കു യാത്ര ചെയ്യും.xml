@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:12">
+  <properties>
+    <titles>
+      <title>അക്കരയ്ക്കു യാത്ര ചെയ്യും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അക്കരയ്ക്കു യാത്ര ചെയ്യും<br/>സീയോൻ സഞ്ചാരീ!<br/>ഓളങ്ങൾ കണ്ടു നീ ഭയപ്പെടേണ്ട<br/>കാറ്റിനെയും കടലിനെയും<br/>നിയന്ത്രിപ്പാൻ കഴിവുള്ളോൻ പടകിലുണ്ട്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വിശ്വാസമാം പടകിൽ യാത്ര ചെയ്യുമ്പോൾ<br/>തണ്ടു വലിച്ചു നീ വലഞ്ഞിടുമ്പോൾ<br/>ഭയപ്പെടേണ്ട കർത്തൻ കൂടെയുണ്ട്<br/>അടുപ്പിക്കും സ്വർഗ്ഗീയ തുറമുഖത്ത്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്റെ ദേശം ഇവിടെയല്ല<br/>ഇവിടെ ഞാൻ പരദേശവാസിയാണല്ലോ<br/>അക്കരെയാണ് എന്റെ ശാശ്വതനാട്<br/>അവിടെനിക്കൊരുക്കുന്ന ഭവനമുണ്ട്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കുഞ്ഞാടതിൻ വിളക്കാണേ<br/>ഇരുളൊരു ലേശവുമവിടെയില്ല<br/>തരുമെനിക്ക് കിരീടമൊന്ന്<br/>ധരിപ്പിക്കും അവൻ എന്നെ ഉത്സവവസ്ത്രം.</lines>
+    </verse>
+  </lyrics>
+</song>

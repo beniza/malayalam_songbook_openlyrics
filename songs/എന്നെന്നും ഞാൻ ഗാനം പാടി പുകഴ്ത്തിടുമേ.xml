@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:58">
+  <properties>
+    <titles>
+      <title>എന്നെന്നും ഞാൻ ഗാനം പാടി പുകഴ്ത്തിടുമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആനന്ദമായ് ഗാനം പാടാം<br/>ദിനംതോറും ഹല്ലേലുയ്യാ ഗീതം പാടാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അനുഗ്രഹമനവധി അനുഭവിപ്പാൻ<br/>ആത്മീയ ധനമവനെനിക്കു നൽകി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തിരഞ്ഞെടുത്തവനെന്നെ തിരുഹിതത്താൽ<br/>കരുണയിൻ കരുതലെൻപരമഭാഗ്യം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആത്മമുദ്രയാൽ ഞാൻ തൻസ്വന്തമായ്<br/>അനന്തജീവൻ എന്നവകാശമായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അനുദിനമാവശ്യ ഭാരങ്ങളിൽ<br/>അരുമനാഥനെന്നരികിലുണ്ട്.</lines>
+    </verse>
+  </lyrics>
+</song>

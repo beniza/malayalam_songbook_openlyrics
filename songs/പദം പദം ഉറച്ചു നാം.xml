@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>പദം പദം ഉറച്ചു നാം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പദം പദം ഉറച്ചു നാം ക്രൂശുമേന്തി പോകണം<br/>ജീവനെങ്കിൽ ജീവൻ വച്ചു ഭാരതം നേടിടണം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപതന്ത്ര്യ ബദ്ധരാം ഭാരതീയ സോദരരേ!<br/>പാപഭാരം നീക്കിടും യേശുവിങ്കൽ ഓടി വാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പോരുവിൻ യുവാക്കളേ! ചേരുവിൻ ഭ്രാതാക്കളേ!<br/>ക്രിസ്തുനാഥൻ പോരിന്നായ് ഓടി ഓടി കൂടുവിൻ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സ്വാതന്ത്യമാർക്കും ലഭ്യമാം ക്രിസ്തുവിന്റെ ക്രൂശതിൽ<br/>സ്വതന്ത്രമിന്നു ഘോഷിക്കാം ഭാരതത്തിലെങ്ങുമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ജീവനെ ത്യജിച്ചതാം രക്തസാക്ഷി സംഘത്തിൽ<br/>ആയുധത്തെയേന്തി നാമായോധനം ചെയ്തിടണം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പീഡകൾ നടുവിലും പാലനം ചെയ്തിടുമേ<br/>പാവനാത്മദായകൻ പാരിലേശു നായകൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>സ്നേഹത്തിന്നിരിപ്പിടം ത്യാഗത്തിൻ വിളനിലം<br/>രക്ഷയിൻ സങ്കേതവും യേശുരാജൻ തന്നെയാം.</lines>
+    </verse>
+  </lyrics>
+</song>

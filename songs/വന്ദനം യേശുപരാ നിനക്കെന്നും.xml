@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>വന്ദനം യേശുപരാ! നിനക്കെന്നും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്ദനം യേശുപരാ! നിനക്കെന്നും<br/>വന്ദനം യേശുപരാ!<br/>വന്ദനം ചെയ്യുന്നു നിന്നടിയാർ തിരു<br/>നാമത്തിന്നാദരാവായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇന്നു നിൻ സന്നിധിയിൽ അടിയാർക്കു<br/>വന്നു ചേരുവതിന്നായ്<br/>തന്ന നിന്നുന്നതമാം കൃപയ്ക്കഭി<br/>വന്ദനം ചെയ്തിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻ രുധിരമതിനാൽ പ്രതിഷ്ഠിച്ച<br/>ജീവപുതുവഴിയായ്<br/>നിന്നടിയാർക്കു പിതാവിൻ സന്നിധൗ<br/>വന്നിടാമെ സതതം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇത്രമഹത്വമുള്ള പദവിയെ<br/>ഇപ്പുഴുക്കൾക്കരുളാൻ<br/>പാത്രതയേതുമില്ല നിന്റെ കൃപ-<br/>യെത്ര വിചിത്രമഹോ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വാനദൂതഗണങ്ങൾ മനോഹര<br/>ഗാനങ്ങളാൽ സതതം<br/>ഊനമെന്യേ പുകഴ്ത്തി സ്തുതിക്കുന്ന<br/>വാനവനേ നിനക്കു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മന്നരിൽ മന്നവൻ നീ<br/>മനുകുലത്തിന്നു രക്ഷാകരൻ നീ<br/>മിന്നും പ്രഭാവമുള്ളോൻ പിതാവിന്നു<br/>സന്നിഭൻ നീയല്ലയോ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നീയൊഴികെ ഞങ്ങൾക്കു സുരലോകെ<br/>യാരുള്ളു ജീവനാഥാ!<br/>നീയൊഴികെയിഹത്തിൽ മറ്റാരുമി-<br/>ല്ലാഗ്രഹിപ്പാൻ പരനേ!</lines>
+    </verse>
+  </lyrics>
+</song>

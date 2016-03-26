@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:09">
+  <properties>
+    <titles>
+      <title>ജയം ജയം യേശുവിന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജയം ജയം യേശുവിന്നു ദിവ്യരക്ഷകൻ ഇതാ!<br/>ചാവിൻ കല്ലറയിൽനിന്നു ഉയിർത്തു ഹല്ലേലുയ്യാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജയം ജയം ഹല്ലേലുയ്യാ വാഴ്ക ജീവനായക!<br/>ജയം ജയം ഹല്ലേലുയ്യാ വാഴ് ജീവദായക!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ചത്ത കർമ്മങ്ങളിൽ നിന്നു യേശു നമ്മെ രക്ഷിച്ചു<br/>നമ്മിൽ ജീവിക്കുന്നതിന്നു തന്നെത്താൻ പ്രതിഷ്ഠിച്ചു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മൃത്യുവിൻ ഭയങ്കരങ്ങൾ നീങ്ങി തൻ ഉയിർപ്പിനാൽ<br/>നിത്യജീവന്റെ ഇമ്പങ്ങൾ വന്നു സുവിശേഷത്താൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മണ്മയമാം ഈ ശരീരം ആത്മമയമാകുവാൻ<br/>കാഹളം ധ്വനിക്കുന്നേരം കൽപ്പിച്ചിടും രക്ഷകൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നെടുവീർപ്പും കണ്ണുനീരും ദുഃഖവും വിലാപവും<br/>നൊടിനേരംകൊണ്ടുതീരും പിന്നെയില്ലോർ ശാപവും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ജീവനുള്ള രക്ഷിതാവിൻ കൂടെ നാമും ജീവിക്കും<br/>എന്നെന്നേക്കും തൻപിതാവിൻ രാജ്യത്തിൽ ആനന്ദിക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

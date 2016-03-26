@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>ഇതുപോൽ നല്ലൊരു രക്ഷകൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇതുപോൽ നല്ലൊരു രക്ഷകൻ<br/>ശ്രീയേശുവല്ലാതില്ല മന്നിലും വിണ്ണിലുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപികളാകും മാനവർക്കായ്<br/>പരലോകം വിട്ടു ധരയിൽ വന്നു<br/>പരിശുദ്ധൻ ക്രൂശിൽ നിണം ചൊരിഞ്ഞു<br/>പാപിക്കു മോക്ഷത്തിൻ വഴി തുറന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മരണത്തിൻ ഭീതി പൂണ്ടിനിയും<br/>ശരണമറ്റാരും വലഞ്ഞിടാതെ<br/>മരണം സഹിച്ചു ജയം വരിച്ച<br/>പരമരക്ഷകനിലാശ്രയിക്ക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സത്യമായ് തന്നിൽ വിശ്വസിച്ചാൽ<br/>നിത്യശിക്ഷാവിധി നീങ്ങിടുമേ<br/>രക്ഷകനെയിന്നു തിരസ്കരിച്ചാൽ<br/>രക്ഷയ്ക്കായ് വേറില്ല വഴിയുലകിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മുൾമൂടി നൽകി നിന്ദിച്ചയീ<br/>മന്നിതിൽ മന്നനായ് വന്നിടുമേ<br/>പൊന്മുടി ചൂടി വന്ദിതനായ്<br/>മന്നിടം നന്നായ് ഭരിച്ചിടും താൻ. G.P.</lines>
+    </verse>
+  </lyrics>
+</song>

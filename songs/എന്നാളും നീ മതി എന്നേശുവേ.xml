@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:00">
+  <properties>
+    <titles>
+      <title>എന്നാളും നീ മതി എന്നേശുവേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നാളും നീ മതി എന്നേശുവേ<br/>പാരിലെൻ ജീവിതത്തിൽ<br/>എന്നെന്നും നിൻകൃപമാത്രം<br/>മതി ആശ്രയമായുലകിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കഷ്ടങ്ങളേറിടും ഈ മരുയാത്രയിൽ<br/>നിൻതുണമാത്രം മതി<br/>നാൾതോറും ആശ്വാസമേകി നടത്തിടും<br/>വല്ലഭനെന്നും മതി... വല്ലഭനെന്നും മതി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകം തരും പഴിനിന്ദദുഷികളാൽ<br/>ക്ഷീണിതനായിടുമ്പോൾ<br/>ഇമ്പം പകർന്നെന്നെ മാറോടു ചേർക്കും നിൻ<br/>അൻപെനിക്കെന്നും മതി... അൻപെനിക്കെന്നും മതി.</lines>
+    </verse>
+  </lyrics>
+</song>

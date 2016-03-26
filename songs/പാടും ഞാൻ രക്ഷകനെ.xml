@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:53">
+  <properties>
+    <titles>
+      <title>പാടും ഞാൻ രക്ഷകനെ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാടും ഞാൻ രക്ഷകനെ എന്റെ ജീവനാളെല്ലാം<br/>ഘോഷിക്കും തന്റെ ദിവ്യ നാമമെന്നും നാടെല്ലാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സത്യമാം പാതവിട്ടു നിത്യനാശമാർഗ്ഗത്തിൽ<br/>എത്തിയോരെൻകരം പിടിച്ചു മുക്തിയേകി നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പന്തിയിൽ ഭോജ്യത്തിനായ് ആശിച്ചൊരു നേരത്ത്<br/>വന്നെന്റെ കൈകളിൽ നീ ജീവമന്നവച്ചതാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആഴമുള്ളൊരു ചേറ്റിൽ ആണ്ടുപോയ എന്നെ നീ<br/>വേഗത്തിൽ ചാരത്തെത്തി കോരിയെടുത്തതിനാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാരിൽ ഞാനന്യദേശിയായിപ്പാർക്കുമ്പോൾ വരും<br/>പോരിൽ വൻ ജയമേകിക്കാത്തുപാലിക്കുന്നതാൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

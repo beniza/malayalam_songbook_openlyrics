@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:27">
+  <properties>
+    <titles>
+      <title>കർത്താവിൻ ജനമേ കൈത്താളത്തോടെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്താവിൻ ജനമേ കൈത്താളത്തോടെ<br/>കർത്താവിനെ സ്തുതിപ്പിൻ<br/>കർത്താവു ചെയ്ത നന്മകളോർത്തു<br/>കീർത്തനം പാടിടുവിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കർത്താവു രക്ഷകൻ നമ്മുടെ ദൈവം<br/>അത്യുന്നതൻ രാജൻ<br/>പാർത്തിടാം തന്റെ മറവിലെന്നും<br/>ശക്തനാം ദൈവമവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രാത്രിയിൻ ഭയമൊ പകൽ പറക്കും<br/>അസ്ത്രമോ പേടിക്കേണ്ട<br/>ബാധകളൊന്നും ബാധിക്കയില്ല<br/>നമ്മുടെ കൂടാരത്തിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഏലിയാവിൻ ദൈവം നമ്മുടെ ദൈവം<br/>പാലിക്കും അത്ഭുതമായ്<br/>എലീശായിൻ ദൈവം നമ്മോടുകൂടെ<br/>ഹല്ലെലുയ്യാ പാടിടാം.</lines>
+    </verse>
+  </lyrics>
+</song>

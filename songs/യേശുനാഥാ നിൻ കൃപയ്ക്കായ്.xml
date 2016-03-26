@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>യേശുനാഥാ നിൻ കൃപയ്ക്കായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുനാഥാ നിൻ കൃപയ്ക്കായ്<br/>സ്തോത്രമെന്നേക്കും<br/>ഈശനെ നിൻ നാമമെന്റെ ക്ലേശമകറ്റും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നാശമയനായൊരെന്നിൽ ജീവനരുളാൻ വൻ<br/>ക്രൂശിനെ സഹിച്ചപമാനം വഹിച്ചൊരു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാവനമാം നീതിയിൽ ഞാനെന്നുമിരിപ്പാൻ നിന്റെ<br/>ജീവനിലൊരംശമെനിക്കേകിയതിനാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിൻഹൃദയം തന്നിലെന്നെ മുൻകുറിച്ചൊരു<br/>വൻകരുണയ്ക്കിന്നുമിവന്നർഹതയില്ലേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തൻജഡ ശരീര മരണം നിമിത്തം നീ നിൻ<br/>പിതാവോടെന്നെ നിരപ്പിച്ചതുമൂലം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എത്രകാലം നിൻ കൃപയെവ്യർത്ഥമാക്കി ഞാ-<br/>നത്രനാളുമന്ധകാരം തന്നിലിരുന്നേൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ജീവലതയായ നിന്നിൽ ഞാൻ നിലനിൽപ്പാൻ നിന്റെ<br/>ജീവരസമെന്നിലെന്നുംതന്നുപാലിക്ക</lines>
+    </verse>
+    <verse name="v8">
+      <lines>വിശ്രമദേശത്തിലീഞാനെത്തുംവരെക്കും നിന്റെ<br/>വിശ്രുതകൃപകളെന്നെ പിന്തുടരേണം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>എന്റെ യേശു വാനിൽ വന്നിടും വേഗം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ യേശു വാനിൽ വന്നിടും വേഗം<br/>എന്റെ ക്ലേശമെല്ലാം തീർന്നിടും മോദം<br/>വീട്ടിൽ ചേരാറായ് എന്റെ ഓട്ടം തീരാറായ് (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നേരോടെ ന്യായം വിധിക്കുമെന്നേശുവിൻ<br/>സന്നിധൗ നിന്നിടും ഞാൻ<br/>തേജസ്സിൻ കിരീടം നാഥനെന്നെയണിയിച്ചിടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നല്ലപോർ പൊരുതുമെന്നോട്ടം തികച്ചിടും<br/>വിശ്വാസം കാത്തിടും ഞാൻ<br/>നീതിയിൻ കിരീടം നാഥനെന്നെയണിയിച്ചിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രിസ്തുവാം അടിസ്ഥാനത്തിൻ മീതെ പണിയും ഞാൻ<br/>പൊൻ വെള്ളിക്കല്ലുകളാൽ വെന്തുപോകില്ല അതിൻ വെണ്മയേറിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

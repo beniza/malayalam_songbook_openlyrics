@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>ദൈവമാം യഹോവയെ! ജീവന്നുറവായോനേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2 v9 v2 v10 v2 v11 v2 v12 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവമാം യഹോവയെ! ജീവന്നുറവായോനേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിനക്കെന്റെ വന്ദനം! നിനക്കെന്നും മഹത്വം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആദ്യം അന്തവും ഇല്ലാ ഭാഗ്യവാനായ് വാഴുന്ന</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിത്യം ശ്രേഷ്ഠദൂതന്മാർ സ്തോത്രം ചെയ്യും നാഥൻ ആർ?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സർവ്വസൃഷ്ടിക്കും സദാ സർവ്വവുമാം വല്ലഭാ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പുത്രൻ ക്രൂശിൻ രക്തത്താൽ ശുദ്ധം ചെയ്യുന്നതിനാൽ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നിന്നെ സ്നേഹിപ്പതിന്നായ് എന്നിൽ തന്ന കൃപയ്ക്കായ്</lines>
+    </verse>
+    <verse name="v8">
+      <lines>താണിടുന്ന ഹൃദയേ വാണിടുന്നെൻ രാജാവേ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>അന്യർസേവ വ്യർത്ഥമേ ധന്യർ നിന്റെ ഭക്തരേ</lines>
+    </verse>
+    <verse name="v10">
+      <lines>നിന്നെപ്പോലെ ദൈവം ആർ? ഒന്നുമില്ലില്ലന്യന്മാർ</lines>
+    </verse>
+    <verse name="v11">
+      <lines>എൻ പ്രകാശമായോനേ! തൻ സന്തോഷം തന്നോനേ!</lines>
+    </verse>
+    <verse name="v12">
+      <lines>തൻതൃനാമ രഹസ്യം താതപുത്രൻ ആത്മാവാം.</lines>
+    </verse>
+  </lyrics>
+</song>

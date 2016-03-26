@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:49">
+  <properties>
+    <titles>
+      <title>മൃത്യുവിനെ ജയിച്ച</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മൃത്യുവിനെ ജയിച്ച<br/>കർത്തനേശു ക്രിസ്തുവിനെ സ്തുതിപ്പിൻ<br/>ആദ്യനുമന്ത്യനുമാം<br/>മഹാരാജനേശുവിനെ സ്തുതിപ്പിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വേദത്തിൻ കാതലിവൻ<br/>മനുകുലമോക്ഷത്തിൽ പാതയും താൻ<br/>ഖേദം സഹിച്ചുകൊണ്ടു<br/>നരകുലവ്യാധികറ്റിയോനാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപം ചുമന്നു ശാപ<br/>മേറ്റു കുരിശേറി മരിച്ചതിനാൽ<br/>പാപികൾക്കായിരുന്ന<br/>ദൈവകോപമാകെയൊഴിഞ്ഞഴിഞ്ഞു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ജീവനില്ലാതിരുന്ന<br/>ഉലകത്തിൽ ജീവൻ പകർന്നിടുവാൻ<br/>ചാവിൻ വിഷം രുചിച്ച<br/>കുഞ്ഞാടിവനേതും മടികൂടാതെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മല്ലൻ പിശാചിനുടെ<br/>ശിരസ്സിനെ തല്ലിത്തകർത്തു ക്രൂശിൽ<br/>ഉല്ലാസമോടു ജയം<br/>കൊണ്ടാടിയ വല്ലഭനല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ശത്രുത്വം ക്രൂശിൽ നീക്കി<br/>ദൈവത്തോടു ശത്രക്കളായവരെ<br/>എത്രമേൽ യോജിപ്പിച്ചു<br/>താതനോടു ക്രൂശിലെ രക്തം മൂലം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>തൻതിരു താതനുടെ<br/>വലഭാഗേ ഏറി വസിച്ചിടുന്നോൻ<br/>വീണ്ടുംവരുന്നവനാം<br/>മനുവേലനേശുവിനെ സ്തുതിപ്പിൻ</lines>
+    </verse>
+  </lyrics>
+</song>

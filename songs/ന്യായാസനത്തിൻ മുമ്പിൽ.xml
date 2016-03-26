@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:05">
+  <properties>
+    <titles>
+      <title>ന്യായാസനത്തിൻ മുമ്പിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v3 v5 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ന്യായാസനത്തിൻ മുമ്പിൽ ഒരുനാളിൽ നിന്നിടുമ്പോൾ<br/>അവനവൻ ചെയ്തതിൻ തക്കവണ്ണം ലഭിക്കും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നല്ലതോ തീയതോ എന്താകിലും<br/>ഈ ശരീരത്തിൽ നാം ചെയ്തതിൻ<br/>തക്കവണ്ണം പ്രാപിക്കേണ്ടതിൻ ക്രിസ്തുവിൻ<br/>മുമ്പാകെ വെളിപ്പെടും നാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിന്നോടുകാര്യം തീർക്കുന്ന നാളിൽ<br/>ബലപ്പെട്ടിരിക്കുമോ നിന്റെ കൈകൾ (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പൊന്നു, വെള്ളി വിലയറിയതാം<br/>കല്ലു, മരം, വൈക്കോൽ എന്നിവയാൽ<br/>നീ പണിയും പ്രവൃത്തികളെല്ലാം<br/>തീ തന്നെ ശോധന ചെയ്തിടുമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വെന്തുപോകാത്ത പ്രവൃത്തികൾക്കു<br/>നിശ്ചയമായും ഫലം ലഭിക്കും<br/>വിതയ്ക്കുന്നതു തന്നെ നീ കൊയ്തിടും<br/>ശോധന ചെയ്യുക ഇന്നുതന്നെ.</lines>
+    </verse>
+  </lyrics>
+</song>

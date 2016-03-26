@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>സ്തുതിപ്പിൻ സ്തുതിപ്പിൻ എന്നും സ്തുതിച്ചിടുവിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതിപ്പിൻ സ്തുതിപ്പിൻ എന്നും സ്തുതിച്ചിടുവിൻ<br/>യേശു രാജാധിരാജാവിനെ<br/>ഈ പാർത്തലത്തിൻ സൃഷ്ടി കർത്തനവൻ<br/>എന്റെ ഉള്ളത്തിൽ വന്നതിനാൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആ ആനന്ദമേ പരമാനന്ദമേ<br/>ഇതു സ്വർഗ്ഗീയ സന്തോഷമേ<br/>ഈ പാർത്തലത്തിൽ സൃഷ്ടി കർത്തനവൻ<br/>എന്റെ ഉള്ളത്തിൽ വന്നതിനാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവൻ വരുന്ന നാളിൽ എന്റെ കരം പിടിച്ച്<br/>തന്റെ മാറോടണച്ചീടുമേ ആ സമൂഹമതിൽ<br/>അന്നു കർത്തനായ്<br/>ആർത്തുഘോഷിക്കും സന്തോഷത്താൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എൻ പാപങ്ങളെ മുറ്റും കഴുകീടുവാൻ<br/>തൻജീവനെ നൽകിയവൻ വീണ്ടും വന്നീടുമേ<br/>മേഘവാഹനത്തിൽ<br/>കോടാകോടി തൻ ദൂതരുമായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കൺകൾ കൊതിച്ചിടുന്നേ ഉള്ളം തുടിച്ചിടുന്നേ<br/>നാഥാ നിന്നുടെ വരവിനായി പാരിൽ<br/>കഷടതകൾ ഏറും ദിനം തോറുമേ<br/>കാന്താ വേഗം നീ വന്നിടണേ</lines>
+    </verse>
+  </lyrics>
+</song>

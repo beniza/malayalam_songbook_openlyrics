@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>മംഗളം മംഗളം മംഗളമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മംഗളം മംഗളം മംഗളമേ (3)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇന്നു വിവാഹിതരാം ... യ്ക്കും ... നും<br/>മംഗളം നേരുന്നു ഞങ്ങളീ നൽനേരം<br/>ഭംഗമില്ലാതെ മോദാൽ<br/>ആശിഷം നൽക എന്നും യേശുനാഥാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവിതപ്പൂവാടിയിൽ മുല്ലകളാകും നിങ്ങൾ<br/>സൗരഭ്യം വീശട്ടെ! കാന്തി പരത്തട്ടെ!<br/>സൗഭാഗ്യസമ്പൂർണ്ണരായ്<br/>ആശിഷം നൽക എന്നും യേശുനാഥാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സേവിക്ക യഹോവയെ നിങ്ങൾ കുടുംബമായി<br/>ജീവിതസാഗര വൻ തിരമാലയിൽ<br/>കൈവിടാ കർത്തനവൻ<br/>ആശിഷം നൽക എന്നും യേശുനാഥാ!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:04">
+  <properties>
+    <titles>
+      <title>മതിയെനിക്കേശുവിൻ കൃപമതിയാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മതിയെനിക്കേശുവിൻ കൃപമതിയാം<br/>വേദനയിൽ ബലഹീനതയിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആശ്രയിക്കും ഞാനേശുവിനെ<br/>അനുദിന ജീവിതഭാരങ്ങളിൽ<br/>അനുഭവിക്കുന്നു വൻകൃപകൾ<br/>അനവധിയായ് ധരയിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എനിക്കവൻ മതിയായവനാം<br/>ഒരിക്കലും കൈവെടിയാത്തവനാം<br/>മരിക്കുംവരെ മരുവിടത്തിൽ<br/>ജീവിക്കും ഞാനവനായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആരിലുമധികം അറിഞ്ഞുവെന്റെ<br/>ആധികളാകെ ചുമന്നിടുവാൻ<br/>അരികിലുണ്ടെൻ അരുമനാഥൻ<br/>ആരോമൽ സ്നേഹിതനായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇന്നെനിക്കുള്ള ശോധനകൾ<br/>വന്നിടുന്നോരോ വിഷമതകൾ<br/>അവനെനിക്കു തരുന്ന നല്ല<br/>അനുഗ്രഹമാണതെല്ലാം.</lines>
+    </verse>
+  </lyrics>
+</song>

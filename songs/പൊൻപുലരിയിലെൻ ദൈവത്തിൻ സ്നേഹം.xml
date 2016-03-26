@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:22">
+  <properties>
+    <titles>
+      <title>പൊൻപുലരിയിലെൻ ദൈവത്തിൻ സ്നേഹം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പൊൻപുലരിയിലെൻ ദൈവത്തിൻ സ്നേഹം<br/>ഓർക്കുവതാനന്ദമേ അതു തീർന്നിടാതിഹത്തിൽ<br/>തുടർന്നിടും പരത്തിൽ അതുല്യയതിശയമേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>രാവിലെൻ മനസ്സിൻ ഭാരങ്ങളഖിലം<br/>യാഹ്വെ ഞാനേൽപ്പിച്ചതാൽ ഇന്നും<br/>രാവിലെ ഉണർന്നെൻ ദൈവത്തെ സ്തുതിച്ച്<br/>സന്നിധിയണഞ്ഞിടുന്നു.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇന്നുമെൻ നിനവും ആശകളഖിലം<br/>ദൈവഹിതാനുസൃതം ആയെൻ<br/>ആയുസ്സിൻ ദിനവും ആശിഷ‍ായ് ഭവിപ്പാൻ<br/>ആശയാൽ കുമ്പിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

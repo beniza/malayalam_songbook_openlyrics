@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:00">
+  <properties>
+    <titles>
+      <title>സന്തോഷിപ്പിൻ എന്നും സന്തോഷിപ്പിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സന്തോഷിപ്പിൻ എന്നും സന്തോഷിപ്പിൻ<br/>കാർത്താവിലെപ്പോഴും സന്തോഷിപ്പിൻ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭീതിയുമാധിയുമൊന്നും വേണ്ടാ<br/>സന്തോഷിപ്പാൻ വകയുള്ളതിനാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഭാരങ്ങളെല്ലാം വഹിച്ചിടുന്ന കർത്തൻ<br/>നമുക്കുണ്ട്സന്തോഷിപ്പിൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഈ മണ്ണിലെ ക്ലേശമൽപകാലം സ്വപ്നം<br/>പോലായതു മാഞ്ഞുപോകും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കണ്ണുനീർ തൂകുമ്പോൾ മനസ്സലിയും<br/>കർത്താവു നമുക്കുണ്ട് സന്തോഷിപ്പിൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മേഘാരൂഢനായി വീണ്ടുംവരും<br/>കർത്താവു നമുക്കുണ്ട് സന്തോഷിപ്പിൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഒരുങ്ങുവിൻ പ്രിയരേ! ഒരുങ്ങിടുവിൻ<br/>കർത്തനെയെതിരേൽപ്പാനൊരുങ്ങിടുവിൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

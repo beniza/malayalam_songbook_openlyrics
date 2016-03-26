@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:38">
+  <properties>
+    <titles>
+      <title>കീർത്തിക്കുവിൻ, ക്രിസ്തു നാമത്തെ നാൾതോറും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കീർത്തിക്കുവിൻ, ക്രിസ്തു നാമത്തെ നാൾതോറും<br/>കീർത്തിക്കുവിൻ പ്രിയരേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തന്റെ ദിവ്യഗുണങ്ങൾ പ്രകീർത്തി-<br/>ക്കുവാനായ് തിരഞ്ഞെടുക്കപ്പെട്ടു നാംമോദാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അന്ധകാരത്തിൽനിന്നും അത്ഭുതമാം തേജസ്സിൽ<br/>നമ്മെ വിളിച്ചവന്റെ<br/>നന്മ പ്രകീർത്തിക്കേണ്ടേഎന്നും?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>രാജപുരോഹിതരായ് സ്വന്തജനങ്ങളുമായ്<br/>നമ്മെയുയർത്തിയതാം<br/>നന്മ പ്രകീർത്തിക്ക നാംമോദാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എത്ര പവിത്രനവൻ പാപമറിയാത്തവൻ<br/>നിർദ്ദോഷൻ നിഷ്കളങ്കൻ<br/>നിസ്തുല്യരക്ഷാകരനെന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

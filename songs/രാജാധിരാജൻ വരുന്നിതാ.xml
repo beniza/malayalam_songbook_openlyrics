@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>രാജാധിരാജൻ വരുന്നിതാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>രാജാധിരാജൻ വരുന്നിതാ<br/>തന്റെ വിശുദ്ധന്മാരെ ചേർത്തിടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കർത്തൻ വരവിനായ് കാത്തിരിക്കുന്നേ ഞാൻ<br/>കാരുണ്യനിധിയെ കാണുവാൻ വെമ്പുന്നേ<br/>കാലങ്ങൾ ദീർഘമാക്കല്ലേ ഇനി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാനവും ഭൂമിയും ഒഴിഞ്ഞുപോകുമെ<br/>നിത്യരാജ്യമെനിക്കായ് നാഥനൊരുക്കുന്നേ<br/>എന്നതിൽ പൂകിടും ഞാൻ പ്രിയ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പീഡകൾ വന്നാലും ഭയമെനിക്കില്ല<br/>പാടുകൾ സഹിച്ച ക്രിസ്തു എൻനായകൻ<br/>വൻകൃപ തന്നിടുമെതന്റെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻ ദേഹം രോഗത്താൽ ക്ഷയിച്ചെന്നാകിലും<br/>ദേഹസഹിതനായ് പ്രിയനെ കാണും ഞാൻ<br/>അവനെന്റെ വൈദ്യനല്ലോഇന്നും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്വർഗ്ഗീയ സീയോനിൽ പ്രിയനോടെന്നും ഞാൻ<br/>വാണിടും നാളിനായ് കാത്തിടുന്നേ പ്രിയാ<br/>ആമേൻ കർത്താവേ വരണേവേഗം.</lines>
+    </verse>
+  </lyrics>
+</song>

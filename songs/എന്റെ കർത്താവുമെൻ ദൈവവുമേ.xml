@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:32">
+  <properties>
+    <titles>
+      <title>എന്റെ കർത്താവുമെൻ ദൈവവുമേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ കർത്താവുമെൻ ദൈവവുമേ!<br/>നിൻമുറിവിൽ മമ ചുംബനമേ!<br/>നിർമ്മലനാം നിൻമേനിയിലീ<br/>വൻമുറിവുകളിൻ കാരണം ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അടികളാലാണിയാൽ മുൾമുടിയാൽ<br/>അടിമുടി മുഴുവനും മുറിവുകളായ്<br/>ഒടുവിൽ വിലാവിലും കുത്തിയതാം<br/>വടുവിലും വിനയമായ് മുത്തുകയാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നുടെ വീണ്ടെടുപ്പിൻ വിലയാം<br/>ചെന്നിണം ചിന്തിയതിൻ വിടവാം<br/>എന്നും പിതാവിന്റെ സന്നിധിയിൽ<br/>നിന്നിടുവാൻ ബലം നൽകുവത്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇന്നു ഞാൻ മുത്തുവതാത്മാവിൽ<br/>വന്നിടും നീയിനിയന്നാളിൽ<br/>കണ്ടിടും നിന്നെ ഞാൻ മുഖദാവിൽ<br/>മുത്തിടും നിൻമുറിവിൽ വടുവിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

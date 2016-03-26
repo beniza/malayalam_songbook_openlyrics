@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T16:42:36">
+  <properties>
+    <titles>
+      <title>വാഴ്ത്തുക നീ മനമേ (vazhthuka)</title>
+    </titles>
+    <authors>
+      <author type="words">KVS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>&lt;fRachana&gt;വാഴ്ത്തുക നീ മനമേ എൻ പരനെ<br/>വാഴ്ത്തുക നീ മനമേ<br/>&lt;/f&gt;&lt;br /&gt;Vazthuka nee maname en parane,<br/>vathuka nee maname</lines>
+    </verse>
+    <verse name="v2">
+      <lines>&lt;fRachana&gt;വാഴ്ത്തുക തൻ ശുദ്ധനാമത്തെ പേർത്തു<br/>പാർത്ഥിവൻ തന്നുപകാരത്തെയോർത്തു<br/>&lt;/f&gt;Vazhthuka than sudha naamathhe perthu,<br/>parthivan than upakarathe orthu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>&lt;fRachana&gt;നിന്നകൃത്യം പരനൊക്കെയും പോക്കി<br/>തിണ്ണമായ് രോഗങ്ങൾ നീക്കി നന്നാക്കി&lt;/f&gt;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>&lt;fRachana&gt;നന്മയാൽ വായ്ക്കവൻ തൃപ്തിയെ തന്നു<br/>നവ്യമാക്കുന്നു നിൻ യൗവ്വനമിന്നു&lt;/f&gt;</lines>
+    </verse>
+    <verse name="v5">
+      <lines>&lt;fRachana&gt;മക്കളിൽ കാരുണ്യം താതനെന്നോണം<br/>ഭക്തരിൽ വാത്സല്യവാനവൻ നൂനം&lt;/f&gt;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>&lt;fRachana&gt;പുല്ലിനു തുല്യമീ ജീവിതം വയലിൻ<br/>പൂവെന്നപോലിതു പോകുന്നിതുലവിൽ&lt;/f&gt;</lines>
+    </verse>
+    <verse name="v7">
+      <lines>&lt;fRachana&gt;തൻ നിയമങ്ങളെ കാത്തിടുന്നോർക്കും<br/>തന്നുടെ ദാസർക്കും താൻ ദയ കാക്കും&lt;/f&gt;</lines>
+    </verse>
+    <verse name="v8">
+      <lines>&lt;fRachana&gt;നിത്യരാജാവിവനോർക്കുകിൽ സർവ്വ<br/>സൃഷ്ടികളും സ്തുതിക്കുന്ന യഹോവ.&lt;/f&gt;</lines>
+    </verse>
+  </lyrics>
+</song>

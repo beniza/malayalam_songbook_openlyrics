@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:53">
+  <properties>
+    <titles>
+      <title>നടത്തിടുന്നു ദൈവമെന്നെ നടത്തിടുന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നടത്തിടുന്നു ദൈവമെന്നെ നടത്തിടുന്നു<br/>നടത്തിടുന്നു നാൾതോറും തൻകൃപയാലെന്നെ നടത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭൗമികനാളുകൾ തീരും വരെ<br/>ഭദ്രമായ് പാലിക്കും പരമനെന്നെ<br/>ഭാരമില്ല തെല്ലും ഭീതിയില്ല<br/>ഭാവിയെല്ലാമവൻ കരുതിക്കൊള്ളും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൂരിരുൾ തിങ്ങിടും പാതകളിൽ<br/>കൂട്ടുകാർ വിട്ടുപോം വേളകളിൽ<br/>കൂട്ടിനവനെന്റെ കൂടെ വരും<br/>കൂടാരമറവിലഭയം തരും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആരിലുമെൻ മനോഭാരങ്ങളെ<br/>അറിയുന്ന വല്ലഭനുണ്ടെനിക്ക്<br/>ആകുലത്തിലെന്റെ വ്യാകുലത്തിൽ<br/>ആശ്വാസമവനെനിക്കേകിടുന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശോധനയാലുള്ളം തകർന്നിടിലും<br/>വേദനയാൽ കൺകൾ നിറഞ്ഞിടിലും<br/>ആനന്ദമാം പരമാനന്ദമാം<br/>അനന്തസന്തോഷത്തിൻ ജീവിതമാം.</lines>
+    </verse>
+  </lyrics>
+</song>

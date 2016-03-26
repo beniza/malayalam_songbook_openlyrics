@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:38">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തേശുവിന്റെ നാമമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2 v9 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തേശുവിന്റെ നാമമേ അതിചിത്രമാം നാമം<br/>ആകാശത്തിൻ കീഴെങ്ങുമേ അതിചിത്രമാം നാമം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അതിചിത്രമാം നാമം എൻ യേശുവിൻ നാമം<br/>അതിചിത്രമാം നാമം എൻ രക്ഷകന്റെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തൻശുദ്ധ രക്തത്തളിപ്പു അതിചിത്രമാം നാമം<br/>വരുത്തി ദൈവയോജിപ്പു അതിചിത്രമാം നാമം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഹാ! പാപ വാഴ്ച കഴിഞ്ഞു അതിചിത്രമാം നാമം<br/>പിശാചിൻബന്ധം അഴിഞ്ഞു അതിചിത്രമാം നാമം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അശുദ്ധി പാർത്ത ഹൃദയം അതിചിത്രമാം നാമം<br/>വിശുദ്ധാത്മാവിൻ പാർപ്പിടം അതിചിത്രമാം നാമം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എൻ ദൈവത്തിന്നു ജീവിപ്പാൻ അതിചിത്രമാം നാമം<br/>ഞാൻ സ്വതന്ത്രൻ ഞാൻ ഭാഗ്യവാൻ അതിചിത്രമാം നാമം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>പരീക്ഷകൻ സമീപിച്ചാൽ അതിചിത്രമാം നാമം<br/>എൻജയം ക്രൂശിൻ രക്തത്താൽ അതിചിത്രമാം നാമം</lines>
+    </verse>
+    <verse name="v8">
+      <lines>എന്നേക്കും എന്നെ കാക്കുവാൻ അതിചിത്രമാം നാമം<br/>കൈയേറ്റെൻ പ്രാണനായകൻ അതിചിത്രമാം നാമം</lines>
+    </verse>
+    <verse name="v9">
+      <lines>ഹാ യേശുവേ! നിൻ സ്വന്തം ഞാൻ അതിചിത്രമാം നാമം<br/>എന്നേക്കും എന്റെ സ്വന്തം താൻ അതിചിത്രമാം നാമം.</lines>
+    </verse>
+  </lyrics>
+</song>

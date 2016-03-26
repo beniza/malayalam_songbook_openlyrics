@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:57">
+  <properties>
+    <titles>
+      <title>തുണയെനിക്കേശുവേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>തുണയെനിക്കേശുവേ കുറവിനിയില്ലതാൽ<br/>അനുദിനം തൻ നിഴലിൽ മറവിൽ വസിച്ചിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അവനെന്റെ സങ്കേതവും അവലംബവും കോട്ടയും<br/>അവനിയിലാകുലത്തിൽ അവൻ മതിയാശ്രയിപ്പാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പകയെന്റെ കെണികളിലും പകരുന്ന വ്യാധിയിലും<br/>പകലിലും രാവിലും താൻ പകർന്നിടും കൃപമഴപോൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശരണമവൻ തരും തൻ ചിറകുകളിൻ കീഴിൽ<br/>പരിചയും പലകയുമാം പരമനിപ്പാരിടത്തിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വലമിടമായിരങ്ങൾ വലിയവർ വീണാലും<br/>വലയമായ് നിന്നെന്നെ വല്ലഭൻ കാത്തിടുമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആകുലവേളകളിൽ ആപത്തുനാളുകളിൽ<br/>ആഗതനാമരികിൽ ആശ്വസിപ്പിച്ചിടുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

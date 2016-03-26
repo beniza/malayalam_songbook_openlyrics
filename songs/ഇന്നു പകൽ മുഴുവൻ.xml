@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:22">
+  <properties>
+    <titles>
+      <title>ഇന്നു പകൽ മുഴുവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇന്നു പകൽ മുഴുവൻ കരുണയോടെന്നെ സൂക്ഷിച്ചവനേ!<br/>നന്ദിയോടെ തിരുനാമത്തിന്നു സദാ വന്ദനം ചെയ്തിടുന്നേൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അന്നവസ്ത്രാദികളും സുഖം ബലമെന്നിവകൾ സമസ്തം<br/>തന്നടിയാനെ നിത്യം പോറ്റിടുന്ന ഉന്നതൻ നീ പരനേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മന്നിടം തന്നിലിന്നും പലജനം ഖിന്നരായ് മേവിടുമ്പോൾ<br/>നിന്നടിയാനു സുഖം തന്ന കൃപ വന്ദനീയം പരനേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തെറ്റു കുറ്റങ്ങളെന്നിൽ വന്നതളവറ്റ നിന്റെ കൃപയാൽ<br/>മുറ്റും ക്ഷമിക്കണമേ അടിയാനെ ഉറ്റു സ്നേഹിപ്പവനേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻ കരുണേശനുടെ ബലമെഴും തങ്കനാമമെനിക്കു<br/>സങ്കേതപട്ടണമാം അതിലഹം ശങ്കയെന്യേ വസിക്കും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വല്ലഭൻ നീയുറങ്ങാതെ നിന്നെന്നെ നല്ലപോൽ കാത്തിടുമ്പോൾ<br/>ഇല്ലരിപുഗണങ്ങൾക്കധികാരമല്ലൽ പെടുത്തിടുവാൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ശാന്തതയോടു ഞാനും നിൻസന്നിധൗ ചന്തമായിന്നുറങ്ങി<br/>സന്തോഷമോടുണരേണം ഞാൻ തിരുകാന്തി കണ്ടുല്ലസിപ്പാൻ P.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>T.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>കുരിശെടുത്തു പോയിടാം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കുരിശെടുത്തു പോയിടാം ധീരരായ് മുന്നേറിടാം<br/>ആത്മനാഥനേശു പോയ പാത നോക്കി പോയിടാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സാക്ഷികൾ സമൂഹമീ നമുക്കു ചുറ്റുമുള്ളതാൽ<br/>ഭീതിവേണ്ടമുന്നിലുള്ളൊരോട്ടമോടി തീർത്തിടാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മുറുകെപ്പറ്റും പാപവും ഭാരവും നീക്കിടണം<br/>നോട്ടമേശുനാഥനിൽ പതിച്ചിടേണമെപ്പോഴും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചെങ്കടൽ നടുവിലും പാതതീർത്ത നായകൻ<br/>മുന്നിലുണ്ടുവേണ്ടഖേദമൊട്ടുമേ വിഷാദവും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മൃത്യുവിൻ ബലം തകർത്തുയിർത്തു വാഴും നാഥനെ<br/>സ്തുതിച്ചു യാത്ര തീർത്തിടാം ധരിത്രിയിൽ തൻ ഭക്തരായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

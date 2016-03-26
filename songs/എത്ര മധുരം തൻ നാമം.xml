@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:38">
+  <properties>
+    <titles>
+      <title>എത്ര മധുരം തൻ നാമം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എത്ര മധുരം തൻ നാമം എന്നേശു രക്ഷകൻ നാമം<br/>വിണ്മയർ വീണു വണങ്ങിടും വല്ലഭനാമം അതിശയനാമം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുവിൻ നാമം ശാശ്വതനാമം<br/>ക്ലേശങ്ങളെല്ലാം തീർത്തിടും നാമം<br/>വിശ്വാസികൾക്കുള്ളിൽ ആശ്വാസമേകിടും നാമം<br/>അതിശയനാമം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യേശുവിൻ നാമം ഉന്നതനാമം<br/>ഉലകിലുദിച്ചോരുത്തമ നാമം<br/>സൗരഭ്യം തൂകും പരിമളതൈലമീ നാമം<br/>അതിശയനാമം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യേശുവിൻ നാമം രക്ഷണ്യനാമം<br/>പരിശുദ്ധമാർഗ്ഗം കാട്ടിടും നാമം<br/>വാനവും ഭൂമിയും മാറുമെന്നാലും<br/>മാറാത്ത നിസ്തുല്യനാമം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യേശുവിൻ നാമം അത്ഭുതനാമം<br/>പാപത്തിൻശാപം തീർത്തിടും നാമം<br/>തുമ്പം സഹിച്ചവർക്കിമ്പം പകർന്നിടും നാമം<br/>അതിശയനാമം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:48">
+  <properties>
+    <titles>
+      <title>എന്നുമീ ഭൂവിലെൻ ജീവിതയാത്രയിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നുമീ ഭൂവിലെൻ ജീവിതയാത്രയിൽ<br/>എന്നുടെ സഖിയാണേശു അ അ അ<br/>ഉന്നതനവനെൻ കൂടെ പ്രയാണം<br/>തന്നുടെ വചനം എനിക്കു പ്രമാണം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കല്ലുകൾ മുള്ളുകളിവയിലെൻ കാലുകൾ<br/>തല്ലിടാതവനെന്നെ കാക്കും അ അ അ<br/>ഇല്ലൊരു വഴിയും അവനറിയാതെ<br/>തെല്ലുമേ കുഴയാ ഞാൻ കൃപയാലെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇദ്ധരയിളകും വൻകൊടും കാറ്റതിൽ<br/>ഇത്രയും ശാന്തതയാരിൽ അ അ അ<br/>ഉത്തമനവനിൽ ഉറപ്പിച്ചെൻ പാദം<br/>നിത്യവും അടിയൻ നിൽക്കും സമ്മോദം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉഗ്രമാം വെയിലിൽ ഉലകമാം വയലിൽ<br/>ഊഴിയം ഞാൻ ചെയ്യുന്നേരം അ അ അ<br/>ഉണ്ടെനിക്കരികിൽ അവൻ തണലായി<br/>കുണ്ഠിതം വരികിൽ ഉടൻ തുണയായി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വൻമരുഭൂമിയിൽ എൻമനം നീറുകിൽ<br/>തൻമുഖം എനിക്കാശ്വാസം അ അ അ<br/>വിണ്മയമാകും വനാന്തരമേതും<br/>നന്മയും ദയയും അവനെനിക്കേകും.</lines>
+    </verse>
+  </lyrics>
+</song>

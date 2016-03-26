@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:45">
+  <properties>
+    <titles>
+      <title>യേശുവിൻ തിരുപ്പാദത്തിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവിൻ തിരുപ്പാദത്തിൽ ഇരുന്നു കേൾക്ക നാം<br/>തന്റെ വിശുദ്ധവാക്യത്തിൽ നമ്മുടെ ജീവനാം<br/>യേശുവിൻ സുവിശേഷം ദിവ്യമാം ഉപദേശം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കേൾക്കുക നാം കാക്കുക നാം<br/>ജീവന്റെ വാക്യങ്ങൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദൈവവചനം ജീവനും ശക്തിയും ആകയാൽ<br/>ആത്മരക്ഷയുണ്ടേവന്നും ഉള്ളത്തിൽ കൈക്കൊണ്ടാൽ<br/>ആത്മമരണം മാറും നീതിയിൽ അവൻ വാഴും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അജ്ഞനെ ജ്ഞാനിയാക്കുവാൻ വചനം ജ്ഞാനമാം<br/>സത്യത്തിൽ അതു കാക്കുവാൻ സ്വർഗ്ഗത്തിൻ ദാനമാം<br/>ഒഴിയാൻ നിത്യനാശം കാലിന്നൊരു പ്രകാശം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സത്യദൈവത്തിൻ ഭക്തൻമാർ വചനം കാക്കയാൽ<br/>സൽപ്രവൃത്തിക്കു ശക്തൻമാർ ആകുന്നു നാൾക്കുനാൾ<br/>ദൈവമുഖപ്രസാദം നിത്യം അവർക്കാഹ്ളാദം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ലോകങ്ങൾ അവസാനിക്കും വാനവും ഇല്ലാതാം<br/>ദൈവവാക്കു പ്രമാണിക്കും ഭക്തനോ നിത്യനാം<br/>വാട്ടം മാലിന്യം നാശം ഇല്ലാത്തൊരവകാശം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:22">
+  <properties>
+    <titles>
+      <title>കൂടെ പാർക്ക</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കൂടെ പാർക്ക നേരം വൈകുന്നിതാ!<br/>കൂരിരുളേറുന്നു പാർക്ക ദേവാ!<br/>ആശ്രയം വേറില്ലനേരമെനി-<br/>ക്കാശ്രിത വത്സലാ കൂടെ പാർക്ക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആയുസ്സാം ചെറുദിനമോടുന്നു<br/>ഭൂസന്തോഷമഹിമ മുങ്ങുന്നു<br/>ചുറ്റിലും കാണുന്നു മാറ്റം കേട്<br/>മാറ്റമില്ല ദേവാ കൂടെ പാർക്ക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രാജരാജൻ പോൽ ഭയങ്കരനായ്<br/>യാചകൻ സമീപേ വരാതെ നീ<br/>നന്മ ദയ സൗഖ്യമാം നൽവരം<br/>നൽകി രക്ഷിച്ചു നീ കൂടെ പാർക്ക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സദാ നിൻ സാന്നിദ്ധ്യം വേണം<br/>താതാപാതകന്മേൽ ജയം നിൻകൃപയാൽ<br/>തുണ ചെയ്യാൻ നീയല്ലാതാരുള്ളു<br/>തോഷതാപങ്ങളിൽ കൂടെ പാർക്ക</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശത്രുഭയമില്ല നീയുണ്ടെങ്കിൽ<br/>ലോകക്കണ്ണീരിന്നില്ല കയ്പ്പൊട്ടും<br/>പാതാളമേ, ജയമെവിടെ നിൻ<br/>മൃത്യുമുൾപോയ് ജയം കൂടെ പാർക്ക</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കണ്ണടഞ്ഞിടുമ്പോൾ നിൻക്രൂശിനെ<br/>കാണിക്ക മേൽ-ലോകമഹിമയും<br/>ഭൂമിത്ഥ്യാ നിഴൽ ഗമിക്കുന്നിതാ<br/>ഭാഗ്യോദയമായ് നീ കൂടെ പാർക്ക.</lines>
+    </verse>
+  </lyrics>
+</song>

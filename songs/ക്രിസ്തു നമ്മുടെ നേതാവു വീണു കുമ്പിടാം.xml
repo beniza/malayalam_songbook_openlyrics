@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:25">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തു നമ്മുടെ നേതാവു വീണു കുമ്പിടാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തു നമ്മുടെ നേതാവു വീണു കുമ്പിടാം<br/>മൃത്യുവെ വെന്ന ജേതാവു വീണ്ടും വന്നിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ബേതലഹേമിൽ ജാതനായ് നമ്മി<br/>ലാരെയും പോലെയായതിനാലെ<br/>നാൾതോറും നമ്മുടെ ഭാരം ചുമക്കും<br/>നല്ല സ്നേഹിതനാം എന്നുമേശു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപം വഹിച്ചു പാടു സഹിച്ചു<br/>ക്രൂശിൽ മരിച്ചു വിജയം വരിച്ചു<br/>താനേ ഉയിർത്തു സാത്താനെ തകർത്തു<br/>വാഴുന്നുന്നതത്തിൽ ഇന്നെന്നേശു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മന്നവൻ വന്നാലന്നവനൊന്നായ്<br/>കണ്ണുനീർ തോർന്നാനന്ദമായ് നന്നായ്<br/>തൻമക്കൾ ചേർന്നാലസ്യങ്ങൾ തീർന്നാ<br/>മോദമായ് വാഴും നാം എന്നുമെന്നും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്നും സ്തുതിക്കാം വീണു നമിക്കാം<br/>ജേ ജേ ജയ കാഹളങ്ങൾ മുഴക്കാം<br/>നമ്മുടെ നേതാവു നിത്യം ജയിക്ക<br/>ആമേൻ ഹല്ലേലുയ്യാ ഹല്ലേലുയ്യാ.</lines>
+    </verse>
+  </lyrics>
+</song>

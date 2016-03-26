@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>എന്നിടം വരുവിൻ നരരേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നിടം വരുവിൻ നരരേ!<br/>ഖിന്നതകൾ തീർക്കാനായ്<br/>തന്നിടം ക്രിസ്തു വിളിക്കുന്നു<br/>എന്നിടം വരുവിൻ നരരേ!<br/>വരുവിൻ വരുവിൻ വരുവിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വരുവാൻ ക്രിസ്തു വിളിക്കുന്നു<br/>തരുവാനാത്മ സമാധാനം<br/>ധനവാന്മാർ നേതാക്കൾ<br/>മനശ്ശാന്തി തരികില്ല</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യേശുക്രിസ്തു വിളിക്കുന്നു<br/>പാപം മുറ്റും പോക്കാനായ്<br/>പാവനനാം തൻ നിണമാം<br/>പാപത്തിൻ പരിഹാരം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രിസ്തു നിന്നെ വിളിക്കുന്നു<br/>പുത്തൻഹൃദയം നൽകാനായ്<br/>നിൻഹൃദയം മാറിടുമേ<br/>ദൈവത്തിൻ മന്ദിരമായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യേശുക്രിസ്തു വിളിക്കുന്നു<br/>ക്ലേശം ഭാരം തീർക്കാനായ്<br/>അവനിയിൽ നിൻ വിന<br/>തീർക്കാനവനല്ലാതില്ലാരും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഒരു ചെറുനിമിഷം നീ കളയാതെ<br/>എരിപൊരിവെയിലിൽ തളരാതെ<br/>വരിക സഖേ! തരുമേശു<br/>ജീവജലം സൗജന്യം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഈ വിളി നിങ്ങൾ നിരസിച്ചാൽ<br/>ഈ വൻരക്ഷയുപേക്ഷിച്ചാൽ<br/>വരുമൊരുനാൾ ന്യായവിധി,<br/>എരിനരകം നിന്നറുതി.</lines>
+    </verse>
+  </lyrics>
+</song>

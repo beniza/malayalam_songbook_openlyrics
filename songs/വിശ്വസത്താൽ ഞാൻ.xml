@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:14">
+  <properties>
+    <titles>
+      <title>വിശ്വസത്താൽ ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വിശ്വസത്താൽ ഞാൻ ക്രൂശിൽ പാതയിൽ<br/>യേശുവിന്റെ കൂടെ യാത്ര ചെയ്കയാം<br/>ശാശ്വതനാട്ടിലെൻ വാഗ്ദത്ത വീട്ടിൽ ഞാൻ<br/>ആശ്വാസഗീതം പാടി പോകയാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്തോത്രഗീതങ്ങൾ പാടി മോദമായ്<br/>മോക്ഷയാത്ര പോകുന്നു ക്രൂശിൻ പാതയിൽ<br/>ആകുലമേറിലും ഭീരുവായ് തീരാതെ<br/>സ്വന്തവീട്ടിൽ പോകയാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാരിരുൾ മൂടും ഘോരവേളയിൽ<br/>കാത്തുകൊള്ളുമെന്നെ<br/>കർത്തൻ ഭദ്രമായ് ക്ഷീണിതനായ്<br/>ഞാൻ തീരിലും മാറാതെ<br/>പാണിയാൽ താങ്ങും നല്ല നായകൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഭൗതിക ചിന്താഭാരമാകവേ വിട്ടു<br/>നിത്യജീവപാതേ പോകും ഞാൻ<br/>ഇൻപമാണെങ്കിലും തുൻപമാണെങ്കിലും<br/>യേശുവിൽ ചാരി യാത്ര ചെയ്യും ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഈ ലോകസൗഖ്യം വേണ്ടതെല്ലുമേ<br/>വിട്ടുപോന്നതൊന്നും തേടുകില്ലമേൽ<br/>ക്രിസ്തുവിൻ നിന്ദയെൻ ദിവ്യനിക്ഷേപമായ്<br/>എണ്ണി ഞാൻ സീയോൻ യാത്ര ചെയ്തിടും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്വർലോകനാട്ടിലെത്തി<br/>ഞാനെന്റെ പ്രിയനൊത്തുവാഴും<br/>കാലമോർക്കുമ്പോൾ ഇന്നെഴും<br/>ദുഃഖങ്ങളൽപനാൾ മാത്രമാ<br/>ണെന്നാളും പിന്നെ ഇൻപഭാഗ്യനാൾ.</lines>
+    </verse>
+  </lyrics>
+</song>

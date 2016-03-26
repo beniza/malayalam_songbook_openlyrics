@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>കരുണയുള്ള കർത്താവിനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുണയുള്ള കർത്താവിനെ<br/>കീർത്തിച്ചിടും ഞാനെന്നായുസ്സെല്ലാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അവനെന്റെ രക്ഷകനാം<br/>അതിക്രമം ക്ഷമിച്ചവനാം<br/>ആ ദിവ്യസ്നേഹത്തിൻ പൊൻകരത്താൽ<br/>അകൃത്യങ്ങൾ മായിച്ചവനെന്നേക്കുമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപങ്ങൾ നീക്കിടുവാൻ പാടുകൾ<br/>സഹിച്ചവൻ താൻ<br/>കാൽവറി ക്രൂശതിൽ യാഗമായി<br/>പാപങ്ങൾ പോക്കിയ നാഥനവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിഷമതകൾ നേരിടുമ്പോൾ<br/>വിമലജൻ താങ്ങിടുമേ<br/>വിപത്തിലും വിജയമായി നടത്തിടുവാൻ<br/>വിരുതുള്ള നായകനെൻ പരൻ താൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

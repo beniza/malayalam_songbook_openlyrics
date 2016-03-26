@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:36">
+  <properties>
+    <titles>
+      <title>ശ്രീയേശുനാമം അതിശയനാമം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ശ്രീയേശുനാമം അതിശയനാമം<br/>ഏഴയെനിക്കിമ്പനാമം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപപരിഹാരാർത്ഥം പാതകരെ തേടി<br/>പാരിടത്തിൽ വന്ന നാമം<br/>പാപമറ്റ ജീവിതത്തിൻ മാതൃകയെ കാട്ടിത്തന്ന<br/>പാവനമാംപുണ്യനാമം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എണ്ണമില്ലാ പാപം എന്നിൽ നിന്നു നീക്കാൻ<br/>എന്നിൽ കനിഞ്ഞ നാമം<br/>അന്യനെന്ന മേലെഴുത്തു എന്നേക്കുമായ് മായ്ച്ചുതന്ന<br/>ഉന്നതന്റെ വന്ദ്യനാമം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എല്ലാ നാമത്തിലും മേലായ നാമം<br/>ഭക്തർ ജനം വാഴുത്തും നാമം<br/>എല്ലാ മുഴങ്കാലും മടങ്ങിടും തിരുമുമ്പിൽ<br/>വല്ലഭത്വം ഉള്ള നാമം</lines>
+    </verse>
+  </lyrics>
+</song>

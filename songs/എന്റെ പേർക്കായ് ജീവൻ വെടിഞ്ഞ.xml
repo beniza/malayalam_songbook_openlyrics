@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:41">
+  <properties>
+    <titles>
+      <title>എന്റെ പേർക്കായ് ജീവൻ വെടിഞ്ഞ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ പേർക്കായ് ജീവൻ വെടിഞ്ഞ നിന്റെ സ്വന്തം ഞാനിനി<br/>അന്തരംഗേമാം വാഴുക നീയേ സന്തതമേശു നായകാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മമ കൊടുംപാതക ശിക്ഷകളേറ്റ<br/>തിരുവുടൽ ക്രൂശിൽ കണ്ടേൻ ഞാൻ<br/>ഹൃദി വളരുന്നേ പ്രിയം നിന്നിൽ<br/>മതിയിനി പാപ ജീവിതം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്വന്തനിണമതാൽ എൻ മഹാപാപ<br/>വൻകടം തീർത്ത നാഥനേ!<br/>എന്തേകിടും നിൻ കൃപയ്ക്കായിട്ടെൻ<br/>ജീവിതം പുൽപോലെയാം!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൃപയെഴുമങ്ങേ വിളിയെക്കേട്ടു<br/>വരുന്നിതാ ഞാനും നായകാ!<br/>അരുളിച്ചെയ്താലും അനുസരിച്ചിടാം<br/>അടിമ നിനക്കെന്നാളുമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കടലിൻമീതെ നടന്നവനേ!<br/>ലോകക്കടലിൻമിതേ നടത്തണമെന്നെ<br/>കടലിൽ താഴും പേത്രനെയുയർത്തിയ<br/>കരമതിലെന്നെയുമേറ്റണേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>അലഞ്ഞുഴലും ശിശുവാകാതെ<br/>ഞാൻ അലകളിൻ മീതേ ഓടിടും<br/>ബലവുമെനിക്കെൻ ജീവനും നീയേ<br/>മതിയവലംബം നായകാ!</lines>
+    </verse>
+  </lyrics>
+</song>

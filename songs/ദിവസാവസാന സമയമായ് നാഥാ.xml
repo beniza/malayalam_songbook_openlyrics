@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:22">
+  <properties>
+    <titles>
+      <title>ദിവസാവസാന സമയമായ് നാഥാ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദിവസാവസാന സമയമായ് നാഥാ!<br/>തവസന്നിധാനം ഞാൻ തേടുന്നു മോദാൽ<br/>ദിവസങ്ങൾക്കൊക്കെയും പൂർവ്വനാം ദേവാ!<br/>നവസംഗീതം പാടി വാഴ്ത്തും നിൻനാമം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പറവകൾ കൂടുകൾ തന്നിലണഞ്ഞു<br/>പകലോൻ പടിഞ്ഞാറെ കടലിൽ മറഞ്ഞു<br/>പകലുള്ളൊരു പരിപാടികളെല്ലാം കഴിഞ്ഞു<br/>പരിപാലക പാദത്തിൽ ഞാനുമണഞ്ഞു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തിരുമുമ്പിൽ വരുവോരെ നിരസിക്കയില്ല<br/>തിരുവദനം കാണുന്നോർ ലജ്ജിക്കയില്ല<br/>തിരുവചനം പാലിപ്പോർക്കൊരു ഭീതിയില്ല<br/>ശരണമവർക്കെന്നും നീ തന്നേ നാഥാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പലവിധമാം പൈശാചിക പോർ നടക്കുമ്പോൾ<br/>പകലിൽ തവ കൈയെന്നെ താങ്ങുന്നു നിത്യം<br/>അകതളിരിൽ സുഖമൊടുഞാൻ പാടുന്നീ നേരം<br/>പക വളരും പാരിൽ തവ പാദം മമ ശരണം.</lines>
+    </verse>
+  </lyrics>
+</song>

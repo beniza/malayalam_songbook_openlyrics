@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>വന്ദിക്കുന്നേൻ യേശുദേവാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്ദിക്കുന്നേൻ യേശുദേവാ!<br/>വീണു വണങ്ങിയാരാധിക്കുന്നേൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വിൺനഗരം വിട്ടു മന്നിൽ വന്ന<br/>നിൻ സ്നേഹമോർത്തു ഞാൻ വാഴ്ത്തിടുന്നേൻ<br/>നിൻ നിണത്താലെന്നെ ശുദ്ധി ചെയ്തു<br/>നിൻ സുതനാക്കി, ഹാ! എത്ര മോദം!<br/>തന്നു എന്നുള്ളിൽ നിൻ വൻ കൃപയാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാൽവറി മാമലയുന്നതത്തിൽ<br/>എൻപേർക്കായ് യാതനയേറ്റ നാഥാ!<br/>നിന്ദകളെൻ പേർക്കായേറ്റു ക്രൂശിൽ<br/>വന്ദിതൻ പ്രാണൻ വെടിയുകയാൽ<br/>നിന്നെ ഞാൻ പാടിപ്പുകഴ്ത്തുമെന്നും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപത്താൽ രോഗിയായ് ക്ഷീണനായ് ഞാൻ<br/>പാതയറിയാതെ പോയ നേരം<br/>തേടിവന്നെന്നെ നീയാരണ്യത്തിൽ<br/>തോളിൽ വഹിച്ചെന്നെ കൊണ്ടുവന്ന്<br/>ആലയിൽ ചേർത്തതാൽ വാഴ്ത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നീയറുക്കപ്പെട്ടു നിൻ നിണത്താൽ<br/>ഗോത്രങ്ങൾ ഭാഷകൾ വംശങ്ങളിൽ<br/>നിന്നു നീ ഞങ്ങളെ വീണ്ടെടുത്തു<br/>ആത്മാവിൽ ആനന്ദം തന്നതാലെ<br/>എക്കാലവും ഞങ്ങൾ വാഴ്ത്തിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

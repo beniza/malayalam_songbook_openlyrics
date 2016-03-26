@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:53">
+  <properties>
+    <titles>
+      <title>ആണികളേറ്റ പാണികളാലേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആണികളേറ്റ പാണികളാലേ<br/>അനുദിനമവനെന്നെ നടത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജീവിതഭാരച്ചുമടുകളാകെ<br/>അവൻ ചുമന്നെന്നെ പുലർത്തിടുന്നു<br/>ആകയാലാകുലമിന്നെനിക്കില്ല<br/>ആനന്ദമായോരു ജീവിതമാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അറിഞ്ഞവനെന്നെ കരുതിടുമെന്നും<br/>അരുമയിൽ കാത്തിടും ചിറകടിയിൽ<br/>പാരിലെൻ ജീവിതയാത്രയിലെന്നെ<br/>പിരിയാതെ കൂടെ വരുന്നവനാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഏതൊരു നാളും യേശു എന്നിടയൻ<br/>എനിക്കൊരു കുറവും വരികയില്ല<br/>അനുഗ്രഹമാണെന്റെ ജീവിതമിന്ന്<br/>അനുഭവിച്ചറിയുന്നു ഞാനവനെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഉലകിലെല്ലാരും പ്രതികൂലമായാലും<br/>ഉലയുകയില്ല ഞാൻ പതറുകില്ല<br/>ഉയിരുള്ള നാളെല്ലാം ഞാനവന്നായി<br/>ഉണർന്നു വിശ്വാസത്തിൻ വേലചെയ്യും.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>J.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>വാ വാ യേശുവിങ്കൽ വാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാ വാ യേശുവിങ്കൽ വാ<br/>കേൾ കേൾ സ്നേഹസന്ദേശം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അദ്ധ്വാനിക്കുന്നവരേ, ഭാരം ചുമക്കുന്നവരേ<br/>ആശ്വാസം കൈക്കൊള്ളുവാൻ യേശു വിളിച്ചിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപത്തിൻ ചുമടുമായി മോക്ഷം തിരയുവോരെ<br/>മോക്ഷത്തിൻ മാർഗ്ഗമവൻ യേശു വിളിച്ചിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നരകമില്ലെന്നു ചൊല്ലി നരകം പൂകല്ലേ സഖേ<br/>അറിവില്ലാ കാലങ്ങളെ ദൈവം അറിയുന്നു വരിക സഖേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കുരിശിൽ തിരുബലിയായ് നരനേ നിന്നെക്കരുതി<br/>അറിയാതെ പോയിടല്ലെ അണയൂ നീ യേശുവിങ്കൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സംശയം വേണ്ടതെല്ലാം നിശ്ചയം രക്ഷകൻ താൻ<br/>ആശയവനിൽ വെച്ചാൽ ആശ്വാസം ലഭ്യമാകും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഇത്ര വലിയ രക്ഷ ഗണ്യമാക്കാതെ പോയാൽ<br/>തെറ്റി ഒഴിയാവതോ നിത്യനരകമത്.</lines>
+    </verse>
+  </lyrics>
+</song>

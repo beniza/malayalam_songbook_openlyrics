@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>യേശു നിന്നെ വിളിക്കുന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു നിന്നെ വിളിക്കുന്നു<br/>യേശു നിന്നെ വിളിക്കുന്നു<br/>കാൽവറിയിൽ ഉയിർ തന്നവനാം<br/>യേശു നിന്നെ വിളിക്കുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിന്റെ ഭാരത്തിനാൽ<br/>പാരം കേണു വലഞ്ഞിടുന്നോ?<br/>പരനേശുവിൽ നിന്റെ പാപത്തിന്റെ<br/>പരിഹാരം കണ്ടിടുവാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദാഹമേറും ജലമല്ല<br/>ദാനമായി ജീവജലം<br/>ദേവനന്ദനൻ തരും സംതൃപ്തമാം<br/>ദിവ്യമോദ പുതുഹൃദയം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മർത്യജീവിതം ക്ഷണികം<br/>മൃത്യു വന്നിടുമൊരുനാൾ<br/>മറക്കാതെ നിന്നുടെയാത്മരക്ഷ<br/>മുന്നമെ നീ പ്രാപിക്കുവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്നിടം വരുന്നവരെ<br/>ഒന്നിനാലും കൈവിടില്ല<br/>എന്ന വാഗ്ദത്തം തന്ന ജീവനാഥൻ<br/>ഇന്നു നിന്നെ വിളിക്കുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

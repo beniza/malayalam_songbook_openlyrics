@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>നിന്റെ ഹിതംപോലെയെന്നെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിന്റെ ഹിതംപോലെയെന്നെ നിത്യം നടത്തിടേണമേ!<br/>എന്റെ ഹിതം പോലെയല്ലേ എൻപിതാവേ എൻയഹോവേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇമ്പമുള്ള ജീവിതവും ഏറെ ധനമാനങ്ങളും<br/>തുമ്പമറ്റ സൗഖ്യങ്ങളും ചോദിക്കുന്നില്ലെ അടിയൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അന്ധകാരം ഭീതികളോ അപ്പനേ! പ്രകാശങ്ങളോ<br/>എന്തു നീ കൽപ്പിച്ചിടുന്നോ എല്ലാം എനിക്കാശീർവ്വാദം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഏതുഗുണമെന്നറിവാൻ ഇല്ല ജ്ഞാനമെന്നിൽ നാഥാ!<br/>നിൻ തിരുനാമം നിമിത്തം നീതി മാർഗ്ഗത്തിൽ തിരിച്ചു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അഗ്നിമേഘത്തൂണുകളാൽ അടിയനെ എന്നും നടത്തി<br/>അനുദിനം കൂടെ ഇരുന്നു അപ്പനേ! കടാക്ഷിക്കുകേ.</lines>
+    </verse>
+  </lyrics>
+</song>

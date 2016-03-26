@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:52">
+  <properties>
+    <titles>
+      <title>എന്റെ യേശു എനിക്കു നല്ലവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ യേശു എനിക്കു നല്ലവൻ<br/>അവനെന്നെന്നും മതിയായവൻ<br/>ആപത്തിൽ രോഗത്തിൽ വൻപ്രയാസങ്ങളിൽ<br/>മനമേ അവൻ മതിയായവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കാൽവറി മലമേൽക്കയറി<br/>മുൾമുടി ശിരസ്സിൽ വഹിച്ചു<br/>എന്റെ വേദന സർവ്വവും നീക്കി എന്നിൽ<br/>പുതുജീവൻ പകർന്നവനാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവനാദ്യനും അന്ത്യനുമേ<br/>ദിവ്യസ്നേഹത്തിൻ ഉറവിടമേ<br/>പതിനായിരത്തിലതിശ്രേഷ്ഠനവൻ<br/>സ്തുത്യനാം വന്ദ്യനാം നായകൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരുഭൂയാത്ര അതികഠിനം<br/>പ്രതികൂലങ്ങളനുനിമിഷം<br/>പകൽ മേഘസ്തംഭം രാത്രി അഗ്നിത്തൂണായ്<br/>എന്നെ അനുദിനം വഴി നടത്തും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്റെ ക്ലേശമെല്ലാം നീങ്ങിപ്പോം<br/>കണ്ണുനീരെല്ലാം തുടച്ചിടുമേ<br/>അവൻ വേഗത്തിൽ വാനിൽ വെളിപ്പെടുമ്പോൾ<br/>ഞാൻ അവനിടം പറന്നുയരും.</lines>
+    </verse>
+  </lyrics>
+</song>

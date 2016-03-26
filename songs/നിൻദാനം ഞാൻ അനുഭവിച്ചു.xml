@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:41">
+  <properties>
+    <titles>
+      <title>നിൻദാനം ഞാൻ അനുഭവിച്ചു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിൻദാനം ഞാൻ അനുഭവിച്ചു<br/>നിൻസ്നേഹം ഞാൻ രുചിച്ചറിഞ്ഞു<br/>യേശുവേ എൻ ദൈവമേ നീ എന്നും മതിയായവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശു എനിക്കു ചെയ്ത നന്മകൾ ഓർത്തിടുമ്പോൾ<br/>നന്ദികൊണ്ടെൻമനം പാടിടുമേ<br/>സ്തോത്രഗാനത്തിൻ പല്ലവികൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദൈവമെ നിന്റെ സ്നേഹം എത്ര നാൾ തള്ളി നീക്കി<br/>അന്നു ഞാൻ അന്യനായ് അനാഥനായി<br/>എന്നാൽ ഇന്നോ ഞാൻ ധന്യനായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എൻജീവൻ പോയെന്നാലും എനിക്കതിൽ ഭാരമില്ല<br/>എന്റെ ആത്മാവിനു നിത്യജീവൻ യേശു എന്നെ ഒരുക്കിയല്ലോ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിത്യതയോർത്തിടുമ്പോൾ എൻ ഹൃത്തടമാനന്ദിക്കും<br/>സ്വർഗ്ഗീയ സന്തോഷജീവിതം<br/>വിശ്വാസക്കണ്ണാൽ ഞാൻ കണ്ടിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

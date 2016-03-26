@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>സ്തോത്രം സ്തോത്രം സ്തോത്രഗീതങ്ങളാൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രം സ്തോത്രം സ്തോത്രഗീതങ്ങളാൽ<br/>കർത്തനെ സ്തുതിച്ചിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻ കുഴിയിൽ<br/>ശാപത്തിൻ വഴിയിൽ<br/>പാരം വലഞ്ഞയെന്നെ തേടിവന്നു<br/>ജീവൻ തന്നു നേടിയെടുത്തി്ടയൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലംഘനം ക്ഷമിച്ചും പാപങ്ങൾ മറച്ചും<br/>ലഭിച്ചെനിക്കായതിനാൽ<br/>ഭാഗ്യവാനായി പാർത്തിടുന്നു<br/>ഭാവി പ്രത്യാശയോടെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നന്മകൾ നൽകി നൽവഴീലെന്നെ<br/>നന്നായ് നടത്തുന്നവൻ<br/>നന്ദിയോടെൻ നാൾകളെല്ലാം<br/>നാഥനായ് ജീവിക്കും ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വല്ലഭനേശുവിൻ വന്ദിതനാമം<br/>വർണ്യമല്ലെൻ നാവിനാൽ<br/>കീർത്തിക്കും ഞാൻ സ്തോത്രം ചെയ്യും<br/>കീർത്തനം പാടിടും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

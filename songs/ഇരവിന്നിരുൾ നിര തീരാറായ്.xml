@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>ഇരവിന്നിരുൾ നിര തീരാറായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇരവിന്നിരുൾ നിര തീരാറായ് പകലിൻ കതിരൊളി കാണാറായ്<br/>പുതിയൊരു യുഗത്തിൻ പുലരിവരും<br/>നീതിയിൻ കതിരോനൊളി വിതറും<br/>അധിപതി യേശു വന്നിടും അതുമതിയാധികൾ തീർന്നിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഉണരിൻ ഉണരിൻ സോദരരേ! ഉറങ്ങാനുള്ളോരു നേരമിതോ?<br/>ഉയിർതന്നോനായ് ജീവിപ്പാൻ ഉണ്ടോ വേറൊരു നേരമിനി?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തരിശു നിലത്തെയുഴാനായി തിരുവചനത്തെ വിതയ്ക്കാനായ്<br/>ദരിശനമുള്ളവരെഴുന്നേൽപ്പിൻ കുരിശിൻ നിന്ദ വഹിക്കാനായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇന്നു കരഞ്ഞു വിതയ്ക്കുന്നു പിന്നവരാർപ്പോടു കൊയ്യുന്നു<br/>ഇന്നു വിതയ്ക്കാ മടിയന്മാരന്നു കരഞ്ഞാൽ ഗതിയെന്ത്?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കത്തിത്തീർന്നൊരു കൈത്തിരിപോൽ<br/>പൂത്തുപൊഴിഞ്ഞൊരു പൂവെപ്പോൽ<br/>എത്തിത്തിരികെ വരാതെ പോം കർത്തവ്യത്തിൻ നാഴികകൾ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്നേഹം നമ്മുടെയടയാളം ത്യാഗം നമ്മുടെ കൈമുതലാം<br/>ഐക്യം നമ്മുടെ നല്ല ബലം വിജയം നമ്മുടെയന്ത്യഫലം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>തീയിൽ നമ്മുടെ വേലകളെ ശോധനചെയ്യും വേള വരും<br/>മരം പുല്ലു വയ്ക്കോൽ ഇവ വെന്തുപോയാൽ ബാക്കിവരും എന്ത്?</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഇന്നിഹ നിന്ദിതർ ഭക്തഗണം അന്നു നടത്തും ഭൂഭരണം<br/>കേഴും ഖിന്നത തീർന്നവരായ് വാഴും നമ്മൾ മന്നവരായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

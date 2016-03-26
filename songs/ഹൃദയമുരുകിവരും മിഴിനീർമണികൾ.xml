@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>ഹൃദയമുരുകിവരും മിഴിനീർമണികൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഹൃദയമുരുകിവരും മിഴിനീർമണികൾ<br/>അർച്ചനയായ് തിരുസവിധേദേവാ!<br/>അർപ്പണം ചെയ്തിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കരകാണാതെ വഴിയറിയാതെ<br/>കരയുന്ന നേരത്തെൻ ചാരേ വന്നു<br/>കരുണയോടേകി നിൻ കരലാളനങ്ങൾ<br/>കരുതിയതാൽ കാവൽ ചെയ്തതിനാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിരാശ തന്നിൽ നെടുവീർപ്പുകളിൽ<br/>നിരാലംബനായ് ഞാനലയും നേരം<br/>നിർവൃതി നൽകി നിൻ മൃദുമൊഴിയാൽ<br/>നിന്നരികിൽ എന്നെ ചേർത്തതിനാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രൂശിലെ സ്നേഹത്തിനാഴങ്ങളിൽ<br/>ആശ്വാസമരുളി നീ നിത്യമായി<br/>ചങ്കിലെച്ചോരയാൽ പങ്കം കഴുകിയെൻ<br/>സങ്കടവും സർവ്വം തീർത്തതിനാൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

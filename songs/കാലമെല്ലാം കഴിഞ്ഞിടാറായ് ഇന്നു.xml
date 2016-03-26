@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>കാലമെല്ലാം കഴിഞ്ഞിടാറായ് ഇന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാലമെല്ലാം കഴിഞ്ഞിടാറായ് ഇന്നു<br/>കാണ്മതെല്ലാം അഴിഞ്ഞിടാറായ്<br/>കാഹളങ്ങൾ മുഴങ്ങിടാറായ് എന്റെ<br/>കാന്തനേശു വന്നിടാറായ് കാലമെല്ലാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>രക്താംബരം പോൽ ചുവപ്പാം നിൻപാപം<br/>തിരുനിണത്താൽ കഴുകി വെൺമയാക്കു സ്നേഹിതാ നീ തിരുകൃപ അനുഭവിക്കു വരു നീ കൃപയിൽ ദിനവും<br/>അവൻ സന്നിധിയിൽ സ്നേഹിതാ നീ വരുമോ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപവും ശാപവും കാൽവറി ക്രൂശിൽ<br/>അവൻ നിനക്കായ് വഹിച്ചു ഓർക്കുമോ? നീ സ്നേഹിതാ<br/>ആരും നൽകാത്ത സ്നേഹം വരൂ നീ കൃപയിൽ ദിനവും<br/>അവൻ സന്നിധിയിൽ സ്നേഹിതാ നീ വരുമോ?</lines>
+    </verse>
+  </lyrics>
+</song>

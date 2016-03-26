@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>ആയിരമായിരം സ്തുതികളാൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആയിരമായിരം സ്തുതികളാൽ ആരാലും ആരാധ്യനാം<br/>യേശു എന്നെ വീണ്ടെടുപ്പാൻ ചോര ചിന്തിയതാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യാഹെൻ പാറയാം എൻ ആശ്രയമവൻ<br/>പാപക്കുഴിയിൽ നിന്നെന്നെ കരേറ്റി തന്നിലാക്കി താൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപം പോക്കിയെൻ ശാപം നീക്കി താൻ<br/>കാൽവറി ക്രൂശിലെ യാഗമരണത്താൽ മോചിതനായി ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇമ്പമേകുവാൻ എനിക്കായ് തുമ്പമേറ്റവൻ അൻപുള്ള നാമം<br/>ധ്യാനിച്ച് ഞാൻ എന്നും ഇമ്പമായ് പാടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ജയിച്ച് വാഴുന്നോൻ ഇന്നുന്നതെ താതൻ വലഭാഗെ<br/>തിരിച്ചു വന്നീടും ശുദ്ധരെ ചേർക്കുവാൻ<br/>മേഘേ വേഗത്തിൽ K.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I.</lines>
+    </verse>
+  </lyrics>
+</song>

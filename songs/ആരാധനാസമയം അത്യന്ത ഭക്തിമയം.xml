@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>ആരാധനാസമയം അത്യന്ത ഭക്തിമയം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആരാധനാസമയം അത്യന്ത ഭക്തിമയം<br/>ആരാലും വന്ദ്യനാം ക്രിസ്തുവെയോർക്കുകിൽ<br/>തീരുമെന്നാമയം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശക്തി ധനം സ്തുതി സ്തോത്രം ബഹുമതി<br/>സകലവും ക്രിസ്തേശുവിന്നു ജയം ഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അക്കാൽവറി മലയിൽ കൊടുംപാപിയെൻ നിലയിൽ<br/>കുരിശിൽ മരിച്ചു പാപച്ചുമടു വഹിച്ചു താൻ തലയിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സന്തോഷശോഭനം മൂന്നാം മഹത്ദിനം<br/>സർവ്വവല്ലഭനുയിർത്തു ഭക്തരേ പാടുവിൻ കീർത്തനം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പിതാവിൻ സന്നിധി തന്നിൽ പ്രതിനിധി<br/>സദാ നമുക്കു ശ്രീയേശുവുണ്ടാകയാലില്ല ശിക്ഷാവിധി</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്വർഗ്ഗീയതേജസ്സിൽ മേലിൽ വിഹായസ്സിൽ<br/>വന്നു നമുക്കവൻ നൽകും പ്രതിഫലം ദൂതഗണസദസ്സിൽ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ജയം ജയം ജയം ഹല്ലേലുയ്യാ ജയമേ<br/>ജയകിരീടമണിയും ക്രിസ്തുരാജനു ഹാ! ജയമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

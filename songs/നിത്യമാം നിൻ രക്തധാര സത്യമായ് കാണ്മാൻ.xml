@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:33">
+  <properties>
+    <titles>
+      <title>നിത്യമാം നിൻ രക്തധാര സത്യമായ് കാണ്മാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിത്യമാം നിൻ രക്തധാര സത്യമായ് കാണ്മാൻ<br/>ഇന്നു നീക്കെൻ കണ്ണിൻ മൂടി ഒന്നാമതായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ധാരയായൊലിച്ച നിന്റെ ചോരയാൽ നീ താൻ<br/>പാരമാമെൻ പാതകങ്ങൾ തീരെ മായിച്ചു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവബിന്ദു നിന്റെ ചോര ഏവന്നിന്നുമേ<br/>ഉറ്റക്രോധം പറ്റെത്തീർക്കും ഒറ്റമൂലി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വൻകടൽ സമാനമാകും എൻ കടങ്ങളെ<br/>പറ്റെ വറ്റിച്ചിന്നു തീർക്കും ഒറ്റത്തുള്ളി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രക്തതുല്യമെന്റെ ദ്രോഹം രക്തധാരയാൽ<br/>വെണ്മയാക്കാമെന്ന ചൊൽ നീ ഉണ്മയാക്കി</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പാപശക്തി നീക്കുമല്ലോ നീ പകർന്ന നീർ<br/>പൂർണ്ണശുദ്ധി സാദ്ധ്യമിന്നു നിർണ്ണയം താൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>സ്തോത്രമെന്നും പാടുവാനായ് ഇത്ര യോഗ്യത<br/>തന്ന നിന്റെ വീണ്ടെടുപ്പു ഇന്നോർക്കുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

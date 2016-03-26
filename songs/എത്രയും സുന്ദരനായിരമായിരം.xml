@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:36">
+  <properties>
+    <titles>
+      <title>എത്രയും സുന്ദരനായിരമായിരം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എത്രയും സുന്ദരനായിരമായിരം<br/>മർത്യരിലും മമ നാഥൻ അ അ അ ആ<br/>അവനുടെ പ്രേമം എനിക്കഭിരാമം<br/>അവിനിലെൻ പ്രേമം എനിക്കെന്നും ക്ഷേമം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആപാദചൂഡം ആകർഷണീയമാ<br/>ണവയവമഖിലവും നൂനം അ അ അ ആ<br/>ആത്മമണാളൻ രൂപലാവണ്യം<br/>ആനന്ദമോർത്താലർക്കുമവർണ്യം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സങ്കടത്തിങ്കൽ ശങ്കകൂടാതെയെൻ<br/>സങ്കേതമാം ജീവനാഥൻ അ അ അ ആ<br/>തൻകരം നീട്ടി കണ്ണുനീർ തുടയ്ക്കും<br/>തങ്കമുഖത്താൽ ചുംബനം നൽകും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നുമെന്നോടുകൂടെ വസിച്ചിടാ<br/>മെന്നരുളിച്ചെയ്തെൻ നാഥൻ അ അ അ ആ<br/>അവനുടെ പ്രീതി എന്നുമെൻ വിജയം<br/>എന്തിനു ഭീതി താനെനിക്കഭയം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലോകമഹാന്മാരേവരിലുമവ<br/>നേകനേ രക്ഷകനോർത്താൽ അ അ അ ആ<br/>ജീവനെ നൽകി സ്നേഹിച്ചതവനാ<br/>ണേവനും മോക്ഷവാതിലുമവനേ.</lines>
+    </verse>
+  </lyrics>
+</song>

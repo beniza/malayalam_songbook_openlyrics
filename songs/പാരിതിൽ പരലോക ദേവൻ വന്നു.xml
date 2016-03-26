@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:02">
+  <properties>
+    <titles>
+      <title>പാരിതിൽ പരലോക ദേവൻ വന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാരിതിൽ പരലോക ദേവൻ വന്നു<br/>പാപികൾക്കായ് തന്റെ ജീവൻ തന്നു<br/>ഹാലേലുയ്യാ ഹാലേലുയ്യാ<br/>ഹാലേലുയ്യാ ഹാലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജീവാധിപതിയായ ദേവദേവൻ<br/>ജീവനറ്റവർ നിത്യജീവൻ നേടാൻ<br/>ഭൂവിതിൽ വന്നു ജീവനെത്തന്നു<br/>ജീവിതം നമുക്കിന്നു ധന്യമായി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നരരൂപം മനസ്സോടെ ധരിച്ചു നാഥൻ<br/>നരരാം നമ്മൾക്കു ദേവരൂപമേകാൻ<br/>മരണത്തെ നീക്കി മെയ് പുതുതാക്കി<br/>പരമമഹിമയിൽ ചേർക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വാനവിരിവിലെത്താരകങ്ങൾ<br/>മാനവരിൻ ദേഹമഹിമ കണ്ട്<br/>വിണ്ണിൽ വിളങ്ങി മിന്നിത്തിളങ്ങി<br/>ഉന്നതനാഥനെ വാഴ്ത്തുകയാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദൈവകൃപയുടെ നിത്യധനം<br/>ഹാ! വരുകാലത്തു കാണിക്കുവാൻ<br/>നമ്മെയുയർത്തി സ്വർഗ്ഗത്തിലിരുത്തി<br/>വിസ്മയം നിസ്തുലം ദിവ്യസ്നേഹം!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>മാൻ നീർത്തോടിനായ് ദാഹിക്കുന്ന പോലെൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മാൻ നീർത്തോടിനായ് ദാഹിക്കുന്ന പോലെൻ<br/>ആത്മാവു വാഞ്ചിക്കുന്നെ<br/>നിന്നെ മാത്രം ഞാൻ ആരാധിച്ചിടും നീ ഏക ആശ്രയം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീയാണെൻ ബലം പരിചയും<br/>നിൻമുന്നിൽ മാത്രം വണങ്ങും ഞാൻ<br/>നിന്നെ മാത്രം ഞാൻ ആരാധിച്ചിടും നീ ഏക ആശ്രയം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പൊന്നോ വെളളിയോ തുല്യം ആകിലേറേ<br/>സ്നേഹിക്കുന്നു ഞാൻ<br/>നീ മാത്രം എനിക്കാനന്ദം തരുന്നു നീ എൻ പ്രിയനാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നീ മഹാരാജാവാകിലും നീ എന്റെ സോദര തോഴനലോ<br/>മറ്റെല്ലാരിലും എല്ലാറ്റിലും നിന്നെ<br/>സനേഹിക്കുന്നു ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

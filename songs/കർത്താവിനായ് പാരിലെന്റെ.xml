@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:57">
+  <properties>
+    <titles>
+      <title>കർത്താവിനായ് പാരിലെന്റെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്താവിനായ് പാരിലെന്റെ ജീവകാലമെല്ലാം<br/>പാർത്തിടും ഞാൻ സ്തോത്രഗീതം പാടി</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്റെ പാപശാപമെല്ലാം നീക്കി കർത്തൻ<br/>എന്നെ ദൈവപൈതലാക്കി മാറ്റി<br/>സന്താപങ്ങൾ തീർന്നിന്നാകയാൽ ഞാൻ പാടും<br/>സന്തോഷത്തിൻ സംഗീതമുച്ചത്തിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആകുലങ്ങൾ തിങ്ങിടുന്ന നേരംഎന്നിൽ<br/>ആശ്വാസം പകർന്നു നാഥൻ കാക്കും<br/>ആപത്തിലും തെല്ലും മാറാതെ നിന്നെന്നെ<br/>ആണിയേറ്റ പാണിയാൽ താൻ താങ്ങും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശത്രു നേരെ വന്നെതിർത്തെന്നാലും എന്റെ<br/>യാത്രാമദ്ധ്യേ എന്തു നേരിട്ടാലും<br/>കർത്താവിൽ ഞാൻ ചാരി തൻമുഖത്തെ നോക്കി<br/>യാത്രചെയ്യും ക്രൂശെടുത്തിപ്പാരിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വാട്ടം മാലിന്യമില്ലാത്ത നാട്ടിൽ നിത്യ<br/>വീട്ടിൽ ചെന്നു ചേരും നാൾവരെയും<br/>വീഴാതെന്നെ കൈയിൽ വിശ്വസ്തനായ് കാത്തു<br/>വിശ്വാസത്തിൻ നായകൻ നടത്തും.</lines>
+    </verse>
+  </lyrics>
+</song>

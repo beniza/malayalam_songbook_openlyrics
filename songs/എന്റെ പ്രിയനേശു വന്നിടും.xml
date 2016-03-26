@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>എന്റെ പ്രിയനേശു വന്നിടും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>v1. എന്റെ പ്രിയനേശു വന്നിടും<br/>എന്റെ പ്രിയൻ വേഗം വന്നിടും<br/>ഈ മൺദേഹം വിൺദേഹമായ് മാറുമന്നാളിൽ<br/>എന്റെ പ്രിയനേശു വന്നിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കർത്തൃകാഹളം മുഴങ്ങിടും<br/>ഭക്തരെല്ലാമാർത്തു പാടിടും<br/>മദ്ധ്യവാനിൽ നമ്മൾ ഒത്തുചേരുമന്നാൾ<br/>എന്റെ പ്രിയനേശു വരുമ്പോൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കർത്തരുടെ ധന്യനാമത്തിൽ<br/>ഭക്തരിന്നു ചെയ്തിടുന്നിതാം<br/>സൽപ്രവൃത്തിക്കെല്ലാം പ്രതിഫലം തന്നിടും<br/>എന്റെ പ്രിയനേശു വരുമ്പോൾ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കണ്ണിമച്ചിടുന്ന നേരത്തിൽ<br/>വിണ്ണിലങ്ങു ചേർന്നിടും മുദാ<br/>കണ്ണുനീരുതോരും കഷ്ടതകൾ തീരും<br/>എന്റെ പ്രിയനേശു വരുമ്പോൾ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്വർഗ്ഗസീയോൻ നാട്ടിലെനിക്കായ്<br/>തീർത്തിടുന്ന വീട്ടിലൊരുനാൾ<br/>ചേർത്തിടുമേ വേഗം നിത്യമായ് പാർപ്പാൻ<br/>എന്റെ പ്രിയനേശു വരുമ്പോൾ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കർത്തൻ തന്റെ വേലയിൽ ദിനം<br/>വർദ്ധിച്ചു വരേണമെപ്പോഴും<br/>ശ്രദ്ധയോടെ നമ്മൾ വർത്തിക്കണമെന്നും<br/>കർത്തനേശു വേഗം വരുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

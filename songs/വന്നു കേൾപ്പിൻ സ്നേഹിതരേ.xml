@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>വന്നു കേൾപ്പിൻ സ്നേഹിതരേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്നു കേൾപ്പിൻ സ്നേഹിതരേ!<br/>ദൈവത്തിന്റെ വചനം<br/>ഇന്നു ഞങ്ങൾ ഘോഷിക്കുന്ന<br/>രക്ഷയിൻ വിളംബരം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നാശപാത്രരായവർക്കു<br/>രക്ഷയിൻ നൽദൂതിനെ<br/>നൽകുവാനായ് ഞങ്ങൾ വന്നു<br/>യേശുവിന്റെ നാമത്തിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കേട്ടുകൊൾവിൻ കേട്ടുകൊൾവിൻ<br/>ദിവ്യദൂതു സാദരം<br/>കേട്ടു നിങ്ങൾ വിശ്വസിച്ചുകൊൾ-<br/>വിനെന്നാൽ ജീവിക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകമെല്ലാം ലാഭമാക്കി<br/>ദേഹിയെ കെടുക്കുകിൽ<br/>ശോകമല്ലാതെന്തു ലാഭമുണ്ടു<br/>ലഭ്യമാകുവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്വന്തരക്ഷ തേടിടാതെ<br/>ഹന്ത! ജീവിച്ചിടുകിൽ<br/>എന്തരിഷ്ടരായ് ഭവിക്കും<br/>അന്ത്യവിധിനാളിങ്കൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇത്രവല്യ ഇത്രവല്യ രക്ഷയെ<br/>നിഷേധിച്ചാൽ<br/>കർത്തൻ വിധിചൊല്ലും നാളി-<br/>ലെങ്ങനെയൊഴിഞ്ഞു പോം?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഇക്ഷണത്തിൽ ഇക്ഷണത്തിൽ<br/>രക്ഷകന്റെ പാദത്തിൽ<br/>പക്ഷമോടണഞ്ഞു വന്നു<br/>രക്ഷപ്രാപിച്ചിടുവിൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

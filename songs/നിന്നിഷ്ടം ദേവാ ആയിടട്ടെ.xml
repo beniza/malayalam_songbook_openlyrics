@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:44">
+  <properties>
+    <titles>
+      <title>നിന്നിഷ്ടം ദേവാ! ആയിടട്ടെ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിന്നിഷ്ടം ദേവാ! ആയിടട്ടെ<br/>ഞാനോ മൺപാത്രം നിൻകരത്തിൽ<br/>നിൻപാദത്തിൽ ഞാൻ കാത്തിരിക്കും<br/>നിന്നിഷ്ടംപോൽ നീ മാറ്റുകെന്നെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്നിഷ്ടംപോലെ ആകണമേ<br/>എന്നുള്ളം നോവും വേളയിലും<br/>നിൻകരം തൊട്ടു താലോലിക്കെൻ<br/>കർത്താവേ! ഞാനും ശക്തനാവാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിന്നിഷ്ടംപോലെ ആകണമേ<br/>എന്നിഷ്ടരെന്നെ തള്ളിയാലും<br/>ഞാൻ കൈവിടില്ലയെന്നു ചൊന്ന<br/>നാഥാ നിൻവാക്കെന്താശ്വാസമേ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിന്നിഷ്ടംപോലെ ആകണമേ<br/>നിത്യവും ഞാൻനിൻ ദാസൻ തന്നെ<br/>എന്നുള്ളിൽ വാഴും ശുദ്ധാത്മാവാൽ<br/>എന്നും നിറഞ്ഞു ശോഭിപ്പാൻ ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിന്നിഷ്ടംപോലെ ആകണമേ<br/>നിൻ സന്നിധൗ ഞാൻ താണിരിക്കും<br/>നിൻ വചനമാം തണ്ണീരിനാൽ<br/>എന്നെ കഴുകി ശുദ്ധി ചെയ്ക.</lines>
+    </verse>
+  </lyrics>
+</song>

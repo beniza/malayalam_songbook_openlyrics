@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:04">
+  <properties>
+    <titles>
+      <title>കാത്തിടുവാൻ കർത്തനുണ്ട്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാത്തിടുവാൻ കർത്തനുണ്ട് കരുതലുള്ളോൻ കൂടെയുണ്ട്<br/>കരുത്തോടു നടത്തിടും മരുയാത്രയിൽ എന്നും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കലങ്ങുന്നതെന്തിന്നായ് കരയുന്നതെന്തിന്നായ്<br/>കനിവുള്ളോൻ കൃപയുള്ളോൻ കാവലുണ്ടല്ലോ നിത്യം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഭാരങ്ങൾ ഏറുമ്പോൾ പരിഭവം കാണുമ്പോൾ<br/>ഭയം വേണ്ടജയം നൽകാൻ വീരനായുണ്ട്കർത്തൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തകരുന്നതെന്തിന്നായ് തളരുന്നതെന്തിന്നായ്<br/>താതനെന്നെ വിലയമായ് പുലർത്തിടുമേശക്തൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വീണ്ടുംതാൻ വന്നിടും ജയക്കൊടി വീശിടും<br/>വിനയമായ് കാത്തിരിക്കാം തീരുമോ<br/>ഭാരംതോരും കണ്ണുനീരെല്ലാം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>ദൈവമേ നിൻ സന്നിധിയിൽ വന്നിടുന്നീ സാധു ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവമേ നിൻ സന്നിധിയിൽ വന്നിടുന്നീ സാധു ഞാൻ<br/>താവക തൃപ്പാദം തന്നിൽ കുമ്പിടുന്നീ ഏഴ ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഞാൻ നമിക്കുന്നു, ഞാൻ നമിക്കുന്നു<br/>സ്വർഗ്ഗതാതാ, യേശുനാഥാ പാവനാത്മാവേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഏകജാതനെയെനിക്കായ് യാഗമായിത്തീരുവാൻ<br/>ഏകിയ നിൻ സ്നേഹത്തിന്റെ മുമ്പിലീ ഞാനാരുവാൻ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സ്വർഗ്ഗസൗഖ്യം കൈവെടിഞ്ഞീ പാരിടത്തിൽ വന്നോനെ<br/>സ്വന്തമാക്കി എന്നെയും നിൻ പുത്രനാക്കി തീർത്തോനേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സന്തതം ഈ പാഴ്മരുവിൽ പാത കാട്ടിടുന്നോനേ!<br/>സാന്ത്വനം നൽകി നിരന്തം കാത്തിടുന്നോരാത്മാവേ!</lines>
+    </verse>
+  </lyrics>
+</song>

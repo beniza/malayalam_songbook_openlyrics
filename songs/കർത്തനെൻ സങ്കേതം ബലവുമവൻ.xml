@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:17">
+  <properties>
+    <titles>
+      <title>കർത്തനെൻ സങ്കേതം ബലവുമവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്തനെൻ സങ്കേതം ബലവുമവൻ<br/>കഷ്ടങ്ങളിൽ ഉറ്റതുണയാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അവനെന്റെ ശരണം മരണം വരെ<br/>അവലംബവും എന്റെ കോട്ടയുമാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അനുകൂലം ദൈവം എനിക്കുലകിൽ<br/>ആരുനിന്നിടും പ്രതികൂലമായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അപ്പനും അമ്മയും കൈവെടിഞ്ഞാലും<br/>അവനൊരു നാളും കൈവിടില്ല</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്ത്യം വരെയുമെൻ അന്തികെയുണ്ടവൻ ആകുലമില്ലെനിക്കാനന്ദമാം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>അവനെനിക്കെന്നും നല്ലവനാം<br/>അനുദിനം പുലർത്താൻ വല്ലഭനാം.</lines>
+    </verse>
+  </lyrics>
+</song>

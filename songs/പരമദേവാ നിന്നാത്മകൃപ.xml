@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:40">
+  <properties>
+    <titles>
+      <title>പരമദേവാ! നിന്നാത്മകൃപ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരമദേവാ! നിന്നാത്മകൃപ<br/>ചൊരിയേണമിസ്സഭയിൽ<br/>തിരുനാമം വിളങ്ങിടാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്നരുളനുസരിച്ചിന്നരർ നടപ്പതി<br/>ന്നരുൾക നിന്നാശിഷം നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വിശ്വാസ ജീവിതത്തിന്നാശ്വാസം തെരിയാത്ത<br/>സംശയക്കാർ നിന്നോടടുപ്പാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകമോഹങ്ങളാത്മ ദേഹത്തെ ക്ഷയിപ്പിക്കും<br/>കാലമിതിൽ നിൻ കാരുണ്യത്താൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദുർഘടയുഗമിതിലുക്കമായ് നിലനിന്നു<br/>ഭക്തിയെന്നും ഞാനഭ്യസിപ്പാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സത്യസുവിശേഷത്തിൻ നിത്യസമാധാനമായ്<br/>ഭക്തരിൽ നീ പ്രത്യക്ഷനല്ലോ.</lines>
+    </verse>
+  </lyrics>
+</song>

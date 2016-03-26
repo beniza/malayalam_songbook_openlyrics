@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:57">
+  <properties>
+    <titles>
+      <title>എക്കാലത്തിലും ക്രിസ്തു മാറുകില്ല</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എക്കാലത്തിലും ക്രിസ്തു മാറുകില്ല<br/>എക്കാരണത്താലും എന്നെ കൈവിടില്ല</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആരെ ഞാൻ വിശ്വസിക്കുന്നുവെന്നതറിയുന്നവനെന്നന്ത്യം വരെ<br/>എന്നുപനിധിയെ സൂക്ഷിച്ചിടുവാൻ തന്നുടെ കരങ്ങൾ കഴിവുള്ളതാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇന്നലേമിന്നുമെന്നേക്കുമവൻ അനന്യൻ തൻകൃപ തീരുകില്ല<br/>മന്നിൽ വന്നവൻ വിണ്ണിലുള്ളവൻ വന്നിടുമിനിയും മന്നവനായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിത്യവും കാത്തിടാമെന്ന നല്ല വാഗ്ദത്തം തന്ന സർവ്വേശ്വരനാം<br/>അത്യുന്നതന്റെ മറവിൽ വസിക്കും ഭക്തജനങ്ങൾ ഭാഗ്യമുള്ളോർ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കളങ്കമെന്നിയെ ഞാനൊരിക്കൽ പളുങ്കുനദിയിൻ കരെയിരുന്നു<br/>പാടിസ്തുതിക്കും പരമനാമം കോടികോടി യുഗങ്ങളെല്ലാം.</lines>
+    </verse>
+  </lyrics>
+</song>

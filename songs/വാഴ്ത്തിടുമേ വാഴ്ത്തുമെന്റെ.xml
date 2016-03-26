@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:03">
+  <properties>
+    <titles>
+      <title>വാഴ്ത്തിടുമേ വാഴ്ത്തുമെന്റെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഴ്ത്തിടുമേ വാഴ്ത്തുമെന്റെ<br/>നാഥനെ ഞാനെന്നും<br/>കീർത്തിച്ചിടും തന്റെ ദിവ്യനാമം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നെത്തേടി മന്നിൽ വന്ന നാഥാ! ഇന്നു<br/>നിന്നെ വിട്ടു ഞാനെവിടെ പോകും?<br/>നിന്നെ മാത്രം നോക്കി ക്രൂശെടുത്തു ഞാനും<br/>വന്നിടുമേ നിൻ പിന്നാലെയെന്നും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്ഷീണിക്കാത്ത സാക്ഷിയായിത്തീരാൻ എന്നെ<br/>വീണിടാതെ നിൻ ഭുജത്തിലേന്തി<br/>താണിടാതെ നിത്യം മാറിടാതെ എന്നെ<br/>താങ്ങിടണേ രക്ഷകാ! നീ എന്നും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വൻവിനകൾ വന്നിടുന്ന നേരം കർത്തൻ<br/>തൻചിറകിൽ വിശ്രമം നൽകിടും<br/>തേന്മൊഴികൾ നൽകി ആശ്വസിപ്പിച്ചിടും<br/>കന്മഷങ്ങളാകെയങ്ങു തീരും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മുന്നമേ നിൻകണ്ണിലെന്നെ കണ്ടോഞാനും<br/>ഒന്നുമേയറിഞ്ഞതില്ല നാഥാ!<br/>വന്നു നിൻസവിധേയെല്ലാം അർപ്പിച്ചിടും വല്ലഭാ!<br/>നിൻസേവയ്ക്കായ് പോകും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കർത്തൻതൻ ജനത്തെയങ്ങു ചേർക്കും അന്ന്<br/>തുൻപമില്ലാ വീട്ടിൽ ഞാനും ചേരും<br/>എൻവിലാപം മാറും കണ്ണുനീരും തോരും<br/>ഹല്ലേലുയ്യാ ഗീതം ചേർന്നു പാടും.</lines>
+    </verse>
+  </lyrics>
+</song>

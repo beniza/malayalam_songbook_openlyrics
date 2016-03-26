@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:55">
+  <properties>
+    <titles>
+      <title>കാത്തിടുന്നെന്നെ കൺമണിപോലെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാത്തിടുന്നെന്നെ കൺമണിപോലെ<br/>കരുണയോടെന്നും പരമേശൻ<br/>ആകയാലിന്നു ആകുലമകന്നു<br/>ആനന്ദമായ് പാടും സ്തുതിഗാനം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലംഘനം ക്ഷമിച്ചും പാപങ്ങൾ മറച്ചും<br/>ലഭിച്ചെനിക്കാമേൻ ഹല്ലേലുയ്യ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അരികളെൻ ചുറ്റും അണിനിരന്നാലും<br/>ഭയമെനിക്കില്ല ലവലേശം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരണത്തിൻ നിഴലാം താഴ്വരയതിലും<br/>പതറാതെ നിൽക്കും ഞാൻ കൃപയാലെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അപകടവേളയിൽ ദുർഘടവഴിയിൽ<br/>അരികിലുണ്ടവൻ നൽതുണയേകാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>തീർന്നിടും ഖേദങ്ങൾ അഖിലവുമെന്റെ<br/>പ്രാണപ്രിയനിങ്ങു വരും നാളിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>അടവി തരുക്കളിന്നിടയിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അടവി തരുക്കളിന്നിടയിൽ<br/>ഒരു നാരകം എന്നപോലെ<br/>വിശുദ്ധരിൽ നടുവിൽ കാണുന്നേ<br/>അതിശ്രേഷ്ഠനാമേശുവിനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വാഴ്ത്തുമേ ഞാൻ എന്റെ പ്രിയനെ ജീവകാലമെല്ലാം<br/>ഈ മരുയാത്രയിൽ നന്ദിയോടെ ഞാൻ പാടിടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പനിനീർ പുഷ്പം ശാരോനിലവൻ<br/>താമരയുമേ താഴ്വരയിൽ<br/>വിശുദ്ധരിൽ അതിവിശുദ്ധനവൻ<br/>മാസൗന്ദര്യ സമ്പൂർണ്ണനെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പകർന്ന തൈലംപോൽ നിൻനാമം<br/>പാരിൽ സൗരഭ്യം വീശുന്നതാൽ<br/>പഴി ദുഷി നിന്ദ ഞെരുക്കങ്ങളിൽ<br/>എന്നെ സുഗന്ധമായ് മാറ്റിടണേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മനഃക്ലേശതരംഗങ്ങളാൽ<br/>ദുഃഖസാഗരത്തിൽ മുങ്ങുമ്പോൾ<br/>തിരുക്കരം നീട്ടി എടുത്തണച്ച്<br/>ഭയപ്പെടേണ്ട എന്നുരച്ചവനേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>തിരുഹിതമിഹെ തികച്ചിടുവാൻ<br/>ഇതാ ഞാനിപ്പോൾ വന്നിടുന്നേ<br/>എന്റെ വേലയെ തികച്ചുംകൊണ്ടു<br/>നിന്റെ മുമ്പിൽ ഞാൻ നിന്നിടുവാൻ</lines>
+    </verse>
+  </lyrics>
+</song>

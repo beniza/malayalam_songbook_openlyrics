@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:39">
+  <properties>
+    <titles>
+      <title>കൃപയുള്ള യഹോവേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കൃപ കൃപയൊന്നിനാൽ തവസുതനായി ഞാൻ<br/>കൃപയുള്ള യഹോവേ! ദേവാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദൂരവേ പോയ് അകന്നൊരെന്നെ നീ ഓർക്കവെ ഓർക്കവെ<br/>സ്വീകരിച്ചിതേവിധം നീ കനിഞ്ഞതത്ഭുതം അത്ഭുതം<br/>അതു നിത്യമോർത്തുഞാൻ ആയുസ്സെല്ലാം പാടിടും<br/>പദം മുത്തി പണിഞ്ഞിടും ദേവാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇന്നു ഞാൻ നിന്നോടൊത്തു പന്തിയിൽ മോദമായ് മോദമായ്<br/>വന്നു തിന്നു തൃപ്തനായ് എത്രയോ ഭാഗ്യവാൻ! ഭാഗ്യവാൻ!<br/>പന്നി തിന്ന ഭോജ്യവും അന്നു ഞാൻ കൊതിച്ചതും<br/>എന്നേയ്ക്കുമായ് മറന്നുപോയ് ദേവാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>താഴ്ചയിൽ എന്നെയോർത്ത നിന്റെ മാസ്നേഹമേ സ്നേഹമേ<br/>ക്രൂശിലേക ജാതനെ കൊന്നതാം യാഗമേ യാഗമേ<br/>ആകയാലിന്നേഴഞാൻ ആകുലമകന്നിതാ<br/>ആയി നിന്റെ സന്നിധിയിൽ ദേവാ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദൈവമേ നിൻപദത്തിൽ നന്ദിയായ് വന്ദനം വന്ദനം<br/>ചെയ്യുമെന്നതെന്നിയേ എന്തു ഞാൻ തന്നിടും തന്നിടും?<br/>എന്നും എന്നും രാപ്പകൽ ആരാധിച്ചെന്നാകിലും<br/>നിൻകൃപയ്ക്കു പകരമായ് തീരാ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:50">
+  <properties>
+    <titles>
+      <title>ദൈവസന്നിധൗ ഞാൻ സ്തോത്രം പാടിടും</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവസന്നിധൗ ഞാൻ സ്തോത്രം പാടിടും<br/>ദൈവം നൽകിയ നന്മകൾക്കായ്<br/>ദൈവം ഏകിതന്റെ സൂനുവെ പാപിയെനിക്കായ്<br/>ദൈവത്തിനെൻ സ്തുതി സ്തോത്രം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാടിസ്തുതിക്കും ഞാൻ പാടി സ്തുതിക്കും<br/>സ്തോത്രഗീതം പാടി സ്തുതിക്കും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അന്ധകാരമെൻ അന്തരംഗത്തെ<br/>ബന്ധനം ചെയ്തടിമയാക്കി<br/>ബന്ധുരാഭനാം തൻ സ്വന്തപുത്രനാൽ<br/>ബന്ധനങ്ങളഴിച്ചുവല്ലോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശത്രുവാമെന്നെ പുത്രനാക്കുവാൻ<br/>പുത്രനെ കുരിശിലേൽപ്പിച്ചു<br/>പുത്രത്വം നൽകി ഹാ! എത്ര സൗഭാഗ്യം<br/>സ്തോത്രഗീതം പാടി സ്തുതിക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിളിച്ചു എന്നെ വെളിച്ചമാക്കി<br/>വിളിച്ചവന്നായി ശോഭിപ്പാൻ<br/>ഒളി വിതറും നൽതെളിവചനം<br/>എളിയവനെങ്ങും ഘോഷിക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>പ്രാർത്ഥന കേൾക്കണമേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പ്രാർത്ഥന കേൾക്കണമേ!<br/>കർത്താവേയെൻ യാചന നൽകണമേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പുത്രന്റെ നാമത്തിൽ ചോദിക്കും കാര്യങ്ങൾ-<br/>ക്കുത്തരം തന്നരുളാമെന്നുള്ളൊരു<br/>വാഗ്ദത്തംപോൽ ദയവായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>താതനും മാതാവും നീയെനിക്കല്ലാതെ<br/>ഭൂതലം തന്നിലില്ലേ വേറാരുമെൻ<br/>ആതങ്കം നീക്കിടുവാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിത്യതയിൽ നിന്നുള്ളത്യന്ത സ്നേഹത്താൽ<br/>ശത്രുതയേകറ്റി എനിക്കു നീ<br/>പുത്രത്വം തന്നതിനാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഭൃത്യരനേകരിൻ പ്രാർത്ഥന കേട്ടു നീ<br/>ഉത്തരം നൽകിയതോർത്തത്യാദരം<br/>തൃപ്പാദം തേടിടുന്നേൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കള്ളന്റെ യാചന കേട്ടുള്ളലിഞ്ഞ നിൻ<br/>തുല്യമില്ലാ ദയയോർ-ത്തിതാ വന്നേൻ<br/>നല്ലവനേ സഭയം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>യേശുവിൻ മൂലമെൻ യാചന നൽകുമെ-<br/>ന്നാശയിൽ കെഞ്ചിടുന്നേൻ അല്ലാതെന്നിൽ<br/>ലേശവും നന്മയില്ലേ.</lines>
+    </verse>
+  </lyrics>
+</song>

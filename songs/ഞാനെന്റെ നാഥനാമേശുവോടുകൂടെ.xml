@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:53">
+  <properties>
+    <titles>
+      <title>ഞാനെന്റെ നാഥനാമേശുവോടുകൂടെ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഞാനെന്റെ നാഥനാമേശുവോടുകൂടെ<br/>ആനന്ദമായെന്നും വാണിടുമേ<br/>ഇഹലോകദുരിതങ്ങളഖിലം മറന്നിടും<br/>സകലസന്തോഷവും കൈവന്നിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എനിക്കായി കുരിശിൽ വച്ചുറക്കെ കരഞ്ഞൊരു<br/>തിരുമുഖം ഞാനന്നു കണ്ടിടുമേ<br/>ഇരുമ്പാണികളാലേറ്റ മുറിവോടു കൂടിയ<br/>തിരുകൈകാൽകൾ മോദാൽ മുത്തിടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യൂദന്മാർ നിന്ദിച്ചു ക്രൂശിച്ച നാഥനെ<br/>ദൂതന്മാർ വന്ദിച്ചു നിന്നിടുമ്പോൾ<br/>അഗതികളാമവന്നനുഗാമികൾ തന്റെ<br/>അരികിൽ നിന്നതിമോദം പൂണ്ടിടുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉടലിതു വെടിഞ്ഞെന്നാലുടനെ ക്രിസ്തേശുവി<br/>ന്നടുത്തണഞ്ഞിടുമതു നിർണ്ണയമേ<br/>അതിന്നായിട്ടതിയായി കൊതിയോടിക്ഷിതി തന്നിൽ<br/>സ്ഥിതിചെയ്യും മൃതിയോളമതിമോദമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

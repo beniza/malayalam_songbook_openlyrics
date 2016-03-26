@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>പാടും ഞാൻ യേശുവിന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാടും ഞാൻ യേശുവിന്നു ജീവൻ പോവോളം നന്ദിയോടെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാടും ഞാനെന്നകതാരിലനുദിനം വാഴും ശ്രീയേശുവിന്നു ഒരു<br/>കേടും കൂടാതെന്നെ പാലിക്കും നാഥനെ പാടി സ്തുതിക്കുമെന്നും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്വന്തജനമായ യൂദന്മാരെ തള്ളിയന്ധതയിൽ കിടന്നു ബഹു<br/>സന്താപത്തോടുഴന്നിടും പുറജാതി സന്തതിയെ വീണ്ടോനെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കാട്ടൊലിവിൻ ശാഖയായിരുന്നയെന്നിൽ നല്ലഫലം നിറപ്പാൻ<br/>അവൻ -വെട്ടിയിണച്ചെന്നെ നല്ലൊലിവിൻ തരു-<br/>വോടതു ചിന്തിച്ചെന്നും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കൺമണിപോലെന്നെ ഭദ്രമായ് നിത്യവും<br/>കാവൽ ചെയ്തിടുമെന്നുംതന്റെ<br/>കണ്ണുകൊണ്ടെന്നെ നടത്തിടുമെന്നതും ഓർത്തതിമോദമോടെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>v\<br/>Vml5. കാന്തനിവനതി മോദമോടെ മേഘവാഹനത്തിൽ കയറി തന്റെ<br/>കാന്തയോടുല്ലസിച്ചാനന്ദിപ്പാനെഴുന്നള്ളുന്നതോർത്തുകൊണ്ടും.</lines>
+    </verse>
+  </lyrics>
+</song>

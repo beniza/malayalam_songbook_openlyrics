@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:13">
+  <properties>
+    <titles>
+      <title>ഞാൻ... സ്നേഹവാനേശുവിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഞാൻ... സ്നേഹവാനേശുവിൻ<br/>നാമത്തെ എന്നെന്നും വാഴ്ത്തിടുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>രക്ഷകനാം എന്റെ യേശുനാഥൻ<br/>പാപിയാം എന്നെയും സ്നേഹിച്ചതാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഈ ദിവ്യസ്നേഹത്തിനായ് ഞാനെന്തു ചെയ്തിടണം<br/>വാഴ്ത്തിടും തൻ നാമത്തെ ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>രോഗങ്ങൾ വന്നിടും നേരത്തവൻ<br/>ചാരേ അണഞ്ഞെന്നെ ഉദ്ധരിക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സാത്താന്യശോധന വന്നിടുമ്പോൾ<br/>സമ്പൂർണ്ണവിജയം തന്നിടുന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആത്മാവിലെന്നെ നിറച്ചുകൊണ്ട്<br/>സ്വർഗ്ഗീയസന്തോഷം നൽകിടുന്നു</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ദൈവത്തിന്നിഷ്ടം ഞാൻ ചെയ്തിടുവാൻ<br/>ദൈവവഴിയിൽ നടത്തുന്നെന്നെ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>മേഘത്തിലേശുതാൻ വന്നിടുമ്പോൾ<br/>എന്നെയും ചേർത്തിടും നിശ്ചയമായ്</lines>
+    </verse>
+  </lyrics>
+</song>

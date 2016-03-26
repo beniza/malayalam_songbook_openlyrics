@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:50">
+  <properties>
+    <titles>
+      <title>അനാദിനാഥനേശുവെൻ ധനം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അനാദിനാഥനേശുവെൻ ധനം<br/>അന്യനാം ഭൂവിലെന്നാൽ<br/>ധന്യനാം ഞാൻ ക്രിസ്തുവിൽ സദാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്വർഗ്ഗത്തിലെൻധനം ഭദ്രം സുശോഭനം<br/>ഉലകത്തിന്റെ സ്ഥാപനം അതിനുമുമ്പുമെൻ ധനം<br/>ഉന്നതൻ ക്രിസ്തുവിൽ ദൈവം മുന്നറിഞ്ഞതാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപത്തിന്നിച്ഛകൾ പാരിൻ പുകഴ്ചകൾ<br/>കൺമയക്കും കാഴ്ചകൾ മണ്മയരിൻ വേഴ്ചകൾ<br/>ഒന്നിലുമെന്മനമേതുമേ മയങ്ങിടാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇന്നുള്ള ശോധന നൽകുന്ന വേദന<br/>വിഷമമുള്ളതെങ്കിലും വിലയുണ്ടതിനു പൊന്നിലും<br/>വിശ്വസിച്ചാശ്രയിച്ചാനന്ദിക്കും ഞാൻ സദാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കാലങ്ങൾ കഴിയുമ്പോൾ നിത്യത പുലരുമ്പോൾ<br/>ദൈവം ചെയ്തതൊക്കെയും നന്മയ്ക്കെന്നു തെളിയുമ്പോൾ<br/>യുക്തമായ് വ്യക്തമായ് കൃപയിൻ കരുതലറിയും നാം</lines>
+    </verse>
+  </lyrics>
+</song>

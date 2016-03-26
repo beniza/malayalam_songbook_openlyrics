@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:01">
+  <properties>
+    <titles>
+      <title>സ്തുതിപ്പിനെന്നാളും ശ്രീയേശുവെ</title>
+    </titles>
+    <authors>
+      <author type="words">സ്തുതിപ്പിനെന്നാളും ശ്രീയേശുവെ</author>
+      <author type="music">സ്തുതിപ്പിനെന്നാളും</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കുരിശിൽ ജീവൻ തന്നു നമ്മെ<br/>വീണ്ടെടുത്തോനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലംഘനം ക്ഷമിച്ചവൻ താൻ<br/>പാശബന്ധനമഴിച്ചവൻ താൻ<br/>സന്താപം തീർത്തെന്നിൽ തൻ<br/>സ്തുതിസ്തോത്രം<br/>സന്തതം പാടുവാൻ തന്നവൻ താൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉള്ളത്തെ കവർന്നവൻ താൻ പെരും<br/>വെള്ളത്തിൽ നടന്നവൻ താൻ<br/>കാറ്റും വൻതിരകളുമടക്കിയ ദേവൻ<br/>മുറ്റും സങ്കേതമായ് നമുക്കുള്ളവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കല്ലറ തുറന്നവൻ താൻകൊടും<br/>വൈരിയെ വെന്നവൻ താൻ<br/>വിണ്ണിൽ പിതാവിൻ സന്നിധി തന്നിൽ<br/>വാഴും പ്രധാനപുരോഹിതൻ താൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മഹിമയണിഞ്ഞവൻ താൻസർവ്വ<br/>മാനവരക്ഷകൻ താൻ<br/>തൻതിരു പാദത്തിലാശ്രയിച്ചുള്ളോർ<br/>ക്കേവർക്കുമാനന്ദ വല്ലഭൻ താൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

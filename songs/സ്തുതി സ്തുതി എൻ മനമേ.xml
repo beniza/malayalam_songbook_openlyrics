@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:25">
+  <properties>
+    <titles>
+      <title>സ്തുതി സ്തുതി എൻ മനമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതി സ്തുതി എൻ മനമേ<br/>സ്തുതികളിലുന്നതനെ നാഥൻ<br/>നാൾതോറും ചെയ്ത നന്മകളോർത്തു<br/>പാടുക നീ എന്നും മനമേ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അമ്മയെപ്പോലെ താതൻ<br/>താലോലിച്ചണച്ചിടുന്നു<br/>സമാധാനമായ് കിടന്നുറങ്ങാൻ<br/>തന്റെ മാർവ്വിൽ ദിനം ദിനമായി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കഷ്ടങ്ങളേറിടിലും എനിക്കേറ്റ-<br/>മടുത്ത തുണയായി<br/>ഘോരവൈരിയിൻ നടുവിലവൻ<br/>മേശ നമുക്കൊരുക്കുമല്ലോ</lines>
+    </verse>
+  </lyrics>
+</song>

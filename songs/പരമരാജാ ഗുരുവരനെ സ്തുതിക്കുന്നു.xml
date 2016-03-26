@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:21">
+  <properties>
+    <titles>
+      <title>പരമരാജാ ഗുരുവരനെ സ്തുതിക്കുന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരമരാജാ ഗുരുവരനെ സ്തുതിക്കുന്നു<br/>ദിനംതോറും അതിരാവിലെ<br/>തരിക നാഥാ പുതിയ വരം<br/>അരുളുക രാവിലെയിന്നേഴകൾക്കു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജീവൻ കൊടുക്കുന്ന പുതിയ മന്നാ<br/>ഏഴകളാം ഞങ്ങൾക്കേകിടുക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അതിരാവിലെ തിരുമുഖത്തെ<br/>നോക്കീടുന്ന ജനം ശോഭിച്ചീടും തിരു<br/>വാഗ്ദത്തത്തിൽ ആശ്രയിച്ചു<br/>പരമപിതാവിനെ സ്തുതിച്ചിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മഗ്ദൽ മേരി അതിരാവിലെ<br/>കൂട്ടരുമായങ്ങേ തേടിവന്നു<br/>ഇദ്ദിനത്തിൽ ഏഴയിതാ<br/>രാവിലെ തിരുമുമ്പിൽ വണങ്ങിടുന്നേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നേരിയസ്വരം പരമസുതാ<br/>അതിരാവിലെ ഞങ്ങൾക്കരുളേണമെ<br/>കുരിശെടുത്തു ഗുരുവരന്റെ അതിരറ്റ<br/>വേലകൾ ചെയ്തിടുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

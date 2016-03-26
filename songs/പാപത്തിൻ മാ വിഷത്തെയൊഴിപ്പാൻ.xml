@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:32">
+  <properties>
+    <titles>
+      <title>പാപത്തിൻ മാ വിഷത്തെയൊഴിപ്പാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാപത്തിൻ മാ വിഷത്തെയൊഴിപ്പാൻ<br/>സാത്താൻ തന്നുടെ ബലമഴിപ്പാൻ<br/>രക്ഷകനിക്ഷിതിയിൽ വന്നാൻ,<br/>യേശുവിന്നു മഹത്വം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുവിന്നു മഹത്വം, മഹത്വം<br/>യേശുവിന്നു മഹത്വം<br/>കുരിശിലവൻ മരിച്ചെൻപേർക്കായ്<br/>യേശുവിന്നു മഹത്വം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആശയറ്റെൻ സ്ഥിതി താനറിഞ്ഞു<br/>ഈശകോപാഗ്നിയിൽ വീണെരിഞ്ഞു<br/>വിശുദ്ധനിണം വിയർപ്പായ് തിരിഞ്ഞു<br/>യേശുവിന്നു മഹത്വം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തൻമുഖപങ്കജമതിലടിച്ചു<br/>തലയിൽ മുൾമുടി വച്ചാഞ്ഞടിച്ചു<br/>മുതുകിനെയുഴുതതുപോൽ പൊടിച്ചു<br/>യേശുവിന്നു മഹത്വം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കുരിശിൽ കൈകാൽകളെ താൻ വിരിച്ചു<br/>ക്രൂരന്മാർ ആണികൊണ്ടതിൽ തറച്ചു<br/>കൊടിയവേദനയെനിക്കായ് സഹിച്ചു<br/>യേശുവിന്നു മഹത്വം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ജീവനെ യേശുവിന്നർപ്പിച്ചേൻ<br/>സർവ്വവുമവന്നായേൽപ്പിച്ചേൻ<br/>പാവനജീവിതമാകണമെൻ<br/>യേശുവിന്നു മഹത്വം.</lines>
+    </verse>
+  </lyrics>
+</song>

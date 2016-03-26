@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>വാനിൽ വന്നു വേഗം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാനിൽ വന്നു വേഗം<br/>നമ്മെ ചേർത്തിടും പ്രിയൻ<br/>കാണും നമ്മൾ പ്രാണ-<br/>നാഥൻ പൊന്മുഖം നേരിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മണ്ണിലുറങ്ങും വിശുദ്ധഗണങ്ങൾ<br/>വിണ്ണിൽ ചേരും അക്ഷയരായ്<br/>കണ്ണിമെക്കും നൊടിയിടയിൽ<br/>നാം പറന്നുയരും തൻ സന്നിധിയിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാടു സഹിച്ചും നിന്ദ വഹിച്ചും<br/>പാരിൽ പാർക്കുന്നന്യരായ് നാം<br/>കേഴും വിനകൾ തീരും വിരവിൽ<br/>വാഴും നമ്മൾ വിൺപുരിയിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കാന്താൻ കാണ്മാൻ കാലങ്ങളെണ്ണി<br/>കാത്തിരിക്കും പ്രിയജനമേ<br/>കാഹളത്തിൻ നാദം നമ്മൾ<br/>കാതിൽ കേൾക്കാൻ കാലമായി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഉണരാം നമ്മൾ ഉത്സുകരായി<br/>ഒരുങ്ങാം നാഥൻ വരവിന്നായ്<br/>ആർത്തിയോടെ കാത്തിരിക്കാം<br/>കർത്താവു വേഗം വന്നിടുമേ.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>J</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>എനിക്കുണ്ടൊരു പുത്തൻ പാട്ടുപാടാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എനിക്കുണ്ടൊരു പുത്തൻ പാട്ടുപാടാൻ<br/>എനിക്കുണ്ടൊരു മിത്രം കൂട്ടുകൂടാൻ<br/>എനിക്കുണ്ടൊരു സ്വന്ത നാടു പോകാൻ<br/>എനിക്കുണ്ടൊരു നല്ല വീടു പാർക്കാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അല്ലല്ല ഞാനിന്നനാഥനല്ല<br/>അല്ലലിൽ വലയുന്നഗതിയല്ല<br/>വല്ലഭൻ ദൈവം എൻപിതാവായ്<br/>നല്ലവനായുണ്ടു നിത്യം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മന്നവ മന്നൻ മനുസുതനായ്<br/>മന്നിതിൽ പാപിയെ തേടി വന്നു<br/>ഉന്നത വിണ്ണിന്നനുഗ്രഹങ്ങൾ<br/>ഒന്നും കുറയാതെനിക്കു തന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ബുദ്ധിമുട്ടിന്നിനി കാര്യമില്ല<br/>നിത്യപിതാ തൻ കരുണയിനാൽ<br/>ഉത്തമ സമ്പത്തെനിക്കു നൽകി<br/>ക്രിസ്തുവിലെന്നെ ധനികനാക്കി.</lines>
+    </verse>
+  </lyrics>
+</song>

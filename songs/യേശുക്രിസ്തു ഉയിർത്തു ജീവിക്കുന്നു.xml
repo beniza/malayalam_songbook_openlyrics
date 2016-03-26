@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:02">
+  <properties>
+    <titles>
+      <title>യേശുക്രിസ്തു ഉയിർത്തു ജീവിക്കുന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുക്രിസ്തു ഉയിർത്തു ജീവിക്കുന്നു<br/>പരലോകത്തിൽ ജീവിക്കുന്നു ഇഹ<br/>ലോകത്തിൽ താനിനി വേഗം വരും<br/>രാജരാജനായ് വാണിടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹാ! ഹല്ലേലുയ്യാ ജയം ഹല്ലേലുയ്യാ<br/>യേശുകർത്താവു ജീവിക്കുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൊല്ലുന്ന മരണത്തിൻ ഘോരതര<br/>വിഷപ്പല്ലു തകർത്താകയാൽ ഇനി<br/>തെല്ലും ഭയമെന്യേ മൃത്യുവിനെ നമ്മൾ<br/>വെല്ലുവിളിക്കുകയാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നേശു ജീവിക്കുന്നായതിനാൽ<br/>ഞാനുമെന്നേക്കും ജീവിക്കയാം ഇനി<br/>തന്നെപ്പിരിഞ്ഞൊരു ജീവിതമി-<br/>ല്ലെനിക്കെല്ലാമെന്നേശുവത്രേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മന്നിലല്ലെൻ നിത്യവാസമെന്നേശുവിൻ<br/>മുന്നിൽ മഹത്വത്തിലാം ഇനി<br/>വിണ്ണൽ ആ വീട്ടിൽ ചെന്നെത്തുന്ന<br/>നാളുകളെണ്ണി ഞാൻ പാർത്തിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

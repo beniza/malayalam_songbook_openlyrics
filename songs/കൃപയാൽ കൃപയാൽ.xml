@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:39">
+  <properties>
+    <titles>
+      <title>കൃപയാൽ കൃപയാൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കൃപയാൽ കൃപയാൽ കൃപയാൽ ഞാൻ ദൈവമകനായ്<br/>അത്ഭുതമത്ഭുതമേ, അത്ഭുതമത്ഭുതമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശാപം നിറയും ധരണിയിൽ നീച<br/>പാപിയായ് പിറന്ന ദ്രോഹി ഞാൻ<br/>എന്നെയും സ്നേഹിക്കയോ തമ്പുരാൻ<br/>എന്നെയും സ്നേഹിക്കയോ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാണ്മീൻ നാം നിജസുതരായ് വരുവാൻ<br/>ദൈവം നൽകിയ സ്നേഹമേ<br/>ഇത്ര മഹാ സ്നേഹം ധരയിൽ<br/>വേറെന്തിതുപോലെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അഴിയും ലോകജനങ്ങളിൽ സ്നേഹം<br/>പൊഴിയും പുല്ലിൻപൂക്കൾപോൽ<br/>വാടാത്ത സ്നേഹം കുരിശിൽ<br/>കാണുന്ന സ്നേഹം!</lines>
+    </verse>
+  </lyrics>
+</song>

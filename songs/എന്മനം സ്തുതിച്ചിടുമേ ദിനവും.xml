@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>എന്മനം സ്തുതിച്ചിടുമേ ദിനവും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്മനം സ്തുതിച്ചിടുമേ ദിനവും എൻപ്രാണനായകനെ<br/>വർണ്ണിച്ചു പാടിടുമേ പരനെൻ പ്രാണനെ വീണ്ടതിനാൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആശങ്കയൊന്നുമില്ല യേശുവിൻ പാത മതി<br/>ക്രൂശിലെ സ്നേഹമെന്നെ തേടി വന്നു<br/>ഇത്രമേൽ സ്നേഹിപ്പാനായ്<br/>ഇതുപോൽ എത്രപേരുണ്ടിഹത്തിൽ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആരെല്ലാം കൈവിട്ടാലും നിന്ദിച്ചു തള്ളിയാലും<br/>ആദരിച്ചവനെന്നെ നടത്തിടുന്നു<br/>ആമയമകറ്റിടുന്നുശിരസ്സിൽ ആശിഷമേകിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശത്രുവിൻ പാളയത്തിൽ ആയിരുന്നെന്നെയവൻ<br/>എത്രമേൽ തേടി വന്നു ജീവനേകി<br/>ശാശ്വത മാർഗ്ഗം തുറന്നെൻ ഗമനം സുസ്ഥിരമാക്കിയതാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പ്രത്യാശ വർദ്ധിക്കുന്നു പൊൻമുഖം നേരിൽ കണ്ട്<br/>നിത്യമായ് വാഴും കാലമോർത്തിടുമ്പോൾ<br/>എന്നുള്ളം തുടിച്ചിടുന്നു ദിനവും വന്ദിച്ചിടും പരനെ.</lines>
+    </verse>
+  </lyrics>
+</song>

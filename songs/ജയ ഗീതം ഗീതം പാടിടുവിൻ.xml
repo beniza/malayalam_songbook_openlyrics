@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>ജയ ഗീതം ഗീതം പാടിടുവിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജയ ഗീതം ഗീതം പാടിടുവിൻ<br/>യേശുക്രിസ്തുവിൻ സൈന്യങ്ങളെ അനുദിനവും<br/>യേശു രാജാധിരാജൻ ജയിക്കട്ടെ യെരിഹൊ<br/>മതിലുകൾ വീണിടട്ടെ സ്തുതിധ്വനിയാൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നാമിന്നു പാടി പുകഴ്ത്തിടാം<br/>നാടെങ്ങും മുഴങ്ങട്ടെ തൻനാമം<br/>തേജസ്സെഴുന്ന ക്രൂശിൻ സുവാർത്ത<br/>ദേശരഖിലരുമറിയട്ടെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഘോര വിപത്തുകളണഞ്ഞാലും<br/>പാരിടമിളകിയുലഞ്ഞാലും<br/>പതറുകില്ല യേശുവിൻ ജനത<br/>പാട്ടുപാടിയുണർന്നിടുമെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യേശുതാൻ വഴിയും സത്യവുമാം<br/>ജീവനും മോക്ഷ കവാടവുമാം<br/>പാപികളാകും മാനവർക്കെല്ലാം<br/>ഏകരക്ഷകൻ താൻ തന്നെയാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മരണത്തെ ജയിച്ചുയിർത്തേശുപരൻ<br/>പരമതിൽ വാഴുന്നുന്നതനായ്<br/>പാരിലനീതികളാകയും നീക്കി<br/>വാഴുവാൻ വേഗം വരും! വരും!</lines>
+    </verse>
+  </lyrics>
+</song>

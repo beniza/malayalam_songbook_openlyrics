@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:00">
+  <properties>
+    <titles>
+      <title>എന്റെ പാപഭാരമെല്ലാം തീർന്നുപോയല്ലോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ പാപഭാരമെല്ലാം തീർന്നുപോയല്ലോ<br/>എളിയവൻ ഞാൻ ദൈവത്തിന്റെ പൈതലായല്ലോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചേറ്റിൽനിന്നെന്നെയുയർത്തിയെൻ<br/>കാലുകൾ പാറമേൽ നിർത്തിയവൻ<br/>മാറ്റിയെൻ ഭീതി ഹൃദയത്തിൽ<br/>തൻസ്തുതിഗീതങ്ങൾ തന്നവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മോചിച്ചെൻ ലംഘനം മൂടിയെൻ<br/>പാപങ്ങൾ മായിച്ചെന്നകൃത്യങ്ങൾ<br/>യാചിക്കും നേരത്തിലിന്നവൻ<br/>ചാരത്തുവന്നിടും തീർച്ചയായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഘോരമാം കാറ്റും വൻമാരിയും<br/>വെള്ളവുമേറ്റം പെരുകുമെന്നാൽ<br/>തീരാത്ത സ്നേഹം നിറയും<br/>തൻമാറിൽ ഞാൻ കാണും മറവിടം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വേദനയേറുന്നു ലോകജനങ്ങൾക്കു<br/>ഭീതി പെരുകിടുന്നു<br/>ശോധനയിങ്കലും പാട്ടുകൾ പാടുന്നു<br/>ദൈവത്തിൻ പൈതൽ ഞാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നീതിമാന്മാരേ, യഹോവയിലെപ്പോഴും<br/>സന്തോഷിച്ചുല്ലസിപ്പിൻ<br/>സ്തുതിഗീതങ്ങൾ പാടി തൻനാമത്തെ<br/>വാഴ്ത്തിപ്പുകഴ്ത്തിടുവിൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>എന്നുടെ നാളുകളീ നല്ല കർത്താവെ സേവിച്ചു തീർന്നിടണം<br/>പിന്നൊടുവിലെനിക്കെന്നാത്മനാഥന്റെ വീട്ടിൽ പോയ് ചേർന്നിടണം.</lines>
+    </verse>
+  </lyrics>
+</song>

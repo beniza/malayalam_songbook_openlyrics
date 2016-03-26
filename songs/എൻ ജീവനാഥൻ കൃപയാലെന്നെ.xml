@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:48">
+  <properties>
+    <titles>
+      <title>എൻ ജീവനാഥൻ കൃപയാലെന്നെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ ജീവനാഥൻ കൃപയാലെന്നെ<br/>നടത്തിടുവതെന്താനന്ദം!<br/>തൻജീവനെന്നെ വിജയം നൽകി<br/>പുലർത്തിടുവതെന്താനന്ദം!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ബഹുവിധ ഭീതികളേറും ധരയിൽ തീരാത്ത കൃപയെൻമീതേ<br/>പകരുവതമിതം സന്തോഷമനിശവും<br/>തരും ഭയമെഴാതെ ഓ ഓ തരും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പല പരിശോധനകൾ വരുമെന്നാൽ<br/>ശ്രീയേശുവരികിൽ വന്നു<br/>മമ കൃപമതിയെന്നെന്നോടു ദിവസവും<br/>മോദാലരുളിടുന്നു ഓഓ മോദാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അതിബലമുളള കരങ്ങൾ മൂലം താങ്ങുന്നു<br/>കൃപയാലെന്നെ<br/>മതിബലമകലും നേരത്തഭയമവൻ<br/>നൽകിടുന്നു നന്നേ ഓഓ നൽകി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മനുജരനേകമരാജകമായി മേവുന്നുലകിലീ കാലം<br/>മനസ്സുഖമൊടു ഞാൻ വാസം തുടരുവതു<br/>ദിവ്യകരുണമൂലം ഓ ഓ ദിവ്യ.</lines>
+    </verse>
+  </lyrics>
+</song>

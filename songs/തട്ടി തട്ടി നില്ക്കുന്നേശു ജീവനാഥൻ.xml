@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>തട്ടി തട്ടി നില്ക്കുന്നേശു ജീവനാഥൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>തട്ടി തട്ടി നില്ക്കുന്നേശു ജീവനാഥൻ<br/>പെട്ടെന്നു നീ വന്നു വാതിൽ തുറക്കേണം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മുൾമുടിയണിഞ്ഞ-ആ-ആ-ആ- തന്മുഖം നീ കാൺക!<br/>ആണിയാൽ തുളച്ച പാണിയാണെന്നൊർക്ക!-</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആത്മദാഹം തീർപ്പാൻ-ആ-ആ-ആ-ആത്മനാഥനേശു<br/>ജീവത്തണ്ണീർ നല്കാൻ വന്നതാണെന്നൊർക്ക!-</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നും തട്ടി നില്ക്കും-ആ-ആ-ആ-എന്നു നീ എണ്ണേണ്ടാ<br/>മന്നവൻ മടങ്ങും ഖിന്നൻ നീ നടുങ്ങും-</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇന്നു നീ തുറന്നാൽ-ആ-ആ-ആ-നാഥനുള്ളിൽ വന്നാൽ<br/>നീയവനുമൊന്നായ് പിന്നെന്നും വിരുന്നായ്-</lines>
+    </verse>
+  </lyrics>
+</song>

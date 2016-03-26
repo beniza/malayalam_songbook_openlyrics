@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>പ്രത്യാശയിൻ കിരണങ്ങളിതാ</title>
+    </titles>
+    <verseOrder>v1 v1 v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പ്രത്യാശയിൻ കിരണങ്ങളിതാ<br/>ബയൂല തീരത്ത് കാണുന്നു ഞാൻ<br/>എൻപ്രാണപ്രിയന്റെ സന്നിധിയോ<br/>അതെത്ര മോഹനം മോഹനമേ !!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹ! ശുഭതുറമുഖേ എത്തിടും ഞാൻ<br/>വാഴും ഞാനവനോട് ചാരെ എന്നും<br/>അപധാനമെപ്പോഴും കീർത്തിച്ചീടും<br/>നിത്യത മുഴുവനും നിൻചാരെ ഞാൻ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീ തന്നോരു മൺകൂടാരമിതാ<br/>നിൻസന്നിധൗ ഞാൻ ഇന്നേകിടുന്നേ<br/>നീ തരുന്നൊരു വിൺഗേഹമതോ<br/>വർണ്ണ്യമല്ലതിൻ മഹത്വമതും!!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചൂടിടുവാൻ ഞാനും വെമ്പിടുന്നേ<br/>നിൻ പൊൻകിരീടങ്ങളെൻ ശിരസ്സിൽ<br/>എറ്റിടുവാൻ ഞാനും വെമ്പിടുന്നേ<br/>നിൻ മാധുര്യമേറും ചുംബനങ്ങൾ!!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്നേഹതീരമതിൽ വീശിടുന്നേ<br/>എൻ പ്രാണപ്രിയന്റെ നൽസുഗന്ധം<br/>പുല്കിടുവാൻ ഞാനും വെമ്പിടുന്നേ<br/>എനിക്കായ്‌ പിളർന്ന പാറയിൽ!!! G.K.M.</lines>
+    </verse>
+  </lyrics>
+</song>

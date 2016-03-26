@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>ആയിരങ്ങളിൽ സുന്ദരൻ വന്ദിതൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആയിരങ്ങളിൽ സുന്ദരൻ വന്ദിതൻ<br/>ആരിലുമുന്നതൻ ക്രിസ്തുവാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അവനൊപ്പം പറയാനൊരാളുമില്ല<br/>അവനെപ്പോലാരാധ്യരാരുമില്ല<br/>അവനിൽ ശരണപ്പെട്ടാരുമേ ആരുമേ<br/>ഒരു നാളും അലയാതെ മോദമായ് മോദമായ്<br/>മരുവും മരുവിലും ശാന്തമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവനിക്കു പൊതുവായ് നിറുത്തി ദൈവം<br/>അവനെക്കൊണ്ടത്രേ നിരപ്പുതന്നു<br/>അവനെ വിട്ടൊരുനാളും പോകുമോ പോകുമോ<br/>അരുതാത്തതൊന്നുമേ ചെയ്യുമോ ചെയ്യുമോ<br/>അവനെയോർത്തനിശം ഞാൻ പാടിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വരുവിൻ വണങ്ങി നമസ്കരിപ്പിൻ<br/>ഒരുമിച്ചുണർന്നു പുകഴ്ത്തിടുവിൻ<br/>ബലവും ബഹുമാനമാകവേ യാകവേ<br/>തിരുമുമ്പിലർപ്പിച്ചു വീഴുവിൻ വീഴുവിൻ<br/>തിരുനാമമെന്നേക്കും വാഴ്ത്തുവിൻ T.K.S.</lines>
+    </verse>
+  </lyrics>
+</song>

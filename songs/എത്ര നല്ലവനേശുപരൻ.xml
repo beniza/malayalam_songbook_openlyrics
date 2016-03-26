@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:55">
+  <properties>
+    <titles>
+      <title>എത്ര നല്ലവനേശുപരൻ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എത്ര നല്ലവനേശുപരൻ! മിത്രമാണെനിക്കെന്നുമവൻ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തൻതിരുചിറകിൻ മറവിൽ ഞാനെന്നും<br/>നിർഭയമായ് വസിക്കും<br/>ഏതൊരു ഖേദവും വരികിലും<br/>എന്റെ യേശുവിൽ ചാരിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നെ കരങ്ങളിൽ വഹിച്ചിടും താൻ<br/>എന്റെ കണ്ണുനീർ തുടച്ചിടും താൻ<br/>കാരിരുൾ മൂടുമെൻ ജീവിതവഴിയിൽ<br/>അനുഗ്രഹമായ് നടത്തും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നെ വിളിച്ചവൻ വിശ്വസ്തനാം<br/>എന്നും മാറാത്ത വല്ലഭനാം<br/>ഇന്നെനിക്കാകയാലാകുലമില്ല<br/>മന്നവനെൻ തുണയാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലോകസുഖങ്ങളെ ത്യജിച്ചിടും ഞാൻ<br/>സ്നേഹനാഥനെ അനുഗമിക്കും<br/>നിന്ദകൾ സഹിച്ചും ജീവനെ പകച്ചും<br/>പൊരുതുമെന്നായുസ്സെല്ലാം. G.P.</lines>
+    </verse>
+  </lyrics>
+</song>

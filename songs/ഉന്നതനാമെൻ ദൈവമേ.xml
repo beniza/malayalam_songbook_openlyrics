@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>ഉന്നതനാമെൻ ദൈവമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉന്നതനാമെൻ ദൈവമേ മന്നിതിൻ സ്ഥാപനത്തിന്നും<br/>മുന്നമേ എന്നെ കണ്ടിതോ മന്നവനേശുനാഥനിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അത്ഭുതസ്നേഹമേ എന്നെന്നും പാടും ഞാൻ<br/>എന്നെ വീണ്ടെടുത്തതാം അത്ഭുതസ്നേഹമേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാലിത്തൊഴുത്തിൽ ഹീനനായ് കാൽവറി ക്രൂശിൽ ഏകനായ്<br/>കാൽകരം കാരിരുമ്പിലായ് കാണുന്നിതെന്തൊരാശ്ചര്യം!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇപ്രപഞ്ചത്തിൻ നായകാ! എൻപ്രായശ്ചിത്ത യാഗമായ്<br/>നിൻപ്രാണൻ ക്രൂശിൽ നൽകിയോ ഇപ്രാണിയെന്നെ നേടുവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അത്ഭുതമത്യഗാധമേ! അപ്രമേയം അവർണ്ണ്യമേ!<br/>ഇമ്മഹാസ്നേഹമെന്നുമേ നിത്യയുഗം ഞാൻ പാടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

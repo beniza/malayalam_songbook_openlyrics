@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:54">
+  <properties>
+    <titles>
+      <title>രാജാധി രാജാവു നീ കർത്താധി കർത്താവും നീ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>രാജാധി രാജാവു നീ കർത്താധി കർത്താവും നീ<br/>ദേവാധി ദേവൻ നീയേ യേശുവെയൻ സർവ്വവും<br/>നീയേയെൻ സമ്പത്തു സംതൃപ്തി സങ്കേതം<br/>നീയേയെൻ സൗഭാഗ്യം സന്തോഷം സംഗീതം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അത്യന്തം സ്തുത്യൻ നീയത്യുന്നതൻ<br/>നിത്യവും നിന്നെ ഞാൻ വാഴ്ത്തും നാഥാ<br/>കൃത്യങ്ങൾ നിന്നുടെയത്ഭുതങ്ങൾ<br/>കൃത്യമായോർത്തു ഞാൻ സ്തോത്രം ചെയ്യും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശോകം കലരാത്ത സന്തോഷവും<br/>ലോകം തരാത്ത സമാധാനവും<br/>ദാഹം വരാതുളള വെള്ളവും നീ<br/>നൽകും നിന്നാശ്രിതർക്കാവശ്യം പോൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തീരാത്ത സ്നേഹം നിൻ സ്നേഹം മാത്രം<br/>മാറാത്ത കർത്താവും നീ മാത്രമാം<br/>തോരാത്ത കണ്ണീർ തുടയ്ക്കും നിൻ കൈയ്<br/>ചാരത്തു നീ വന്നെൻ ഭീതി നീക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കൂടാരവാസം കഴിഞ്ഞു നിന്റെ കൂടെ<br/>ഞാൻ പാർക്കുന്ന നാളോർക്കവേ<br/>കൂടുന്നെന്നുള്ളിൽ പ്രത്യാശയതാൽ<br/>പാടുന്നു ഞാൻ പുത്തൻ പല്ലവികൾ.</lines>
+    </verse>
+  </lyrics>
+</song>

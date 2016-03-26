@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>അൻപോടെ യേശു വിളിക്കുന്നു നിന്നെ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അൻപോടെ യേശു വിളിക്കുന്നു നിന്നെ<br/>എന്നെയും നിന്നെയും താൻ വിളിപ്പൂ<br/>ശ്രീയേശു രക്ഷകൻ ദീർഘക്ഷമയോടെ<br/>എന്നെയും നിന്നെയും കാത്തിരിപ്പൂ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൽ മോദിക്കും മത്സനേഹിതാ!<br/>നീ പാപത്തെ വിട്ടുടനോടി വരൂ<br/>സ്നേഹമോടീശൻ വിളിക്കുന്നു നിന്നെ<br/>പാപീ! നീ ഓടിവാ! തന്നന്തികേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്രൂശിലൊഴുകുന്ന ചെന്നിണം കാൺക<br/>പൊന്മുഖം വാടിത്തളരുന്നല്ലോ<br/>നിൻപാപമേശു വഹിച്ചില്ലയെങ്കിൽ<br/>എന്തിന്നവനീവിധം മരിച്ചു?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യെശുവേ കർത്താവെന്നേറ്റു നീ<br/>ചൊൽക വിശ്വസിച്ചിടുകന്നുയിർപ്പിൽ<br/>താഴ്മയോടീവിധമേറ്റു നീ ചൊന്നാൽ<br/>തൽക്ഷണം ദൈവകുമാരനാകും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യേശു നിനക്കായി കാത്തിരിക്കുന്നു<br/>വേഗമവൻ ചാരേ വന്നിടുക<br/>നിൻപാപമെല്ലാമവൻ പാദേയർപ്പിച്ച്<br/>മോചിതനായി നീയാനന്ദിക്ക</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:21">
+  <properties>
+    <titles>
+      <title>പാടും ഞാനേശുവിനു സ്തുതി</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാടും ഞാനേശുവിനു സ്തുതിപാടും ഞാനേശുവിന്നു<br/>പാടും ഞാൻ ജീവകാലമെന്നും നാഥന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപിയാമെന്നെത്തേടി പാരിൽ വന്ന മഹോന്നതനെൻ<br/>പാപം പരിഹരിപ്പാൻ ചോരചിന്തി മരിച്ചു ക്രൂശിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീച മരണം വരിച്ചേറ്റം നീചർ നടുവിൽ നാഥൻ<br/>നീചനാമെന്നെ ദൈവപൈതലാക്കി മഹാദയയാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മൂന്നാം ദിനമുയിർത്തു എന്റെ മൃത്യുഭയമകറ്റി<br/>നിത്യജീവനരുളി നിത്യരാജ്യവകാശിയാക്കി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വന്നിടും താൻ മേഘത്തിൽ തന്റെ കാന്തയെച്ചേർത്തിടുവാൻ<br/>ചേർന്നിടുമന്നു ഞാനും പ്രാണനാഥനോടൊത്തു വാനിൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഹല്ലെലുയ്യാ രാജന്നു ആമേൻ ഹല്ലെലുയ്യാ കർത്തന്നു<br/>ഹല്ലെലുയ്യാ പാടി നാം ഒന്നായാർത്തു ഘോഷിച്ചിടുക.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:56">
+  <properties>
+    <titles>
+      <title>നീയെന്നും എൻ രക്ഷകൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നീയെന്നും എൻ രക്ഷകൻ ഹാ! ഹാ!<br/>നീ മതിയെനിക്കെല്ലാമായ് നാഥാ!<br/>നിന്നിൽ ചാരുന്ന നേരത്തിൽ<br/>നീങ്ങുന്നെൻ വേദനകൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീയല്ലാതെൻ ഭാരം താങ്ങുവാനായ്<br/>ഇല്ലെനിക്കാരുമേ<br/>നിൻകൈകളാലെൻ കണ്ണീർ തുടയ്ക്കും<br/>നീയെന്നെ കൈവിടാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തീരാത്ത ദുഃഖവും ഭീതിയുമാധിയും<br/>തോരാത്ത കണ്ണീരും<br/>പാരിതിലെന്റെ പാതയിലേറും<br/>നേരത്തും നീ മതി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നാശ തീർന്നങ്ങു വീട്ടിൽ വരുംനാൾ<br/>എന്നാണെൻ നാഥനേ!<br/>അന്നാൾ വരെയും മന്നിൽ നിൻവേല<br/>നന്നായി ചെയ്യും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

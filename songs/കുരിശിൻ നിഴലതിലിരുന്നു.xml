@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:13">
+  <properties>
+    <titles>
+      <title>കുരിശിൻ നിഴലതിലിരുന്നു</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കുരിശിൻ നിഴലതിലിരുന്നു മമ നാഥനെ ധ്യാനിക്കവേ<br/>ഹൃദയത്തിൻ വിനകളാകവേ ക്ഷണനേരത്തിൽ നീങ്ങിടുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാടും ഞാൻ നിത്യജീവനെ തന്നെന്നെ രക്ഷിച്ച<br/>യേശുവിൻ സ്നേഹത്തെ ഒരുനാളും മറന്നിടാതെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മരുവിൽ മറവിടമൊരുക്കും<br/>ഇരുൾ പാതയിലൊളി വിതറും<br/>മരണത്തിൻ നിഴലിൽ ധൈര്യമായ്<br/>നിൽപ്പാൻ എനിക്കവൻ കൃപയരുളും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കഠിനവിഷമങ്ങൾ വരികിൽ<br/>കൊടുംക്ഷാമവും നേരിടുകിൽ<br/>തിരുപ്പദം തിരയും ദാസരെ<br/>എന്നും ക്ഷേമമായ് പുലർത്തിടും താൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മഹിയിൻ മഹിമകൾ വെറുത്തു<br/>അനുവേലവും ക്രൂശെടുത്തു<br/>അനുഗമിച്ചിടും ഞാനിമ്പമായ്<br/>മനുവേലനെ മമ പ്രിയനെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നഭസ്സിൽ വരുമവൻ മഹസ്സിൽ<br/>ജയകാഹള നാദമോടെ<br/>തിരുജനം വിരവിൽ ചേരുമേ<br/>നിത്യഭവനത്തിൽ തന്നരികിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

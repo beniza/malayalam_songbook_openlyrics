@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:54">
+  <properties>
+    <titles>
+      <title>യേശുവിൻ അജഗണം നമ്മൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവിൻ അജഗണം നമ്മൾ<br/>ലേശവും ഭയം കലരേണ്ട!<br/>ശാശ്വത ഭുജത്താലവൻ നമ്മെ നടത്തും<br/>ആലസ്യമെല്ലാമകറ്റും ഹാലേലുയ്യ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കണ്മണി പോലവൻ കാക്കും<br/>കന്മഷക്കൂരിരുൾ നീക്കും<br/>നന്മയും കൃപയും നമ്മെ പിന്തുടരും<br/>ഉല്ലാസമായ് വഴിനടത്തുംഹാലേലുയ്യ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഭീതിയിൻ കാർമൂടും നേരം<br/>ആധിയും വ്യാധിയുമെല്ലാമവൻ ഹനിക്കും<br/>ആമോദമായവൻ നടത്തുംഹാലേലുയ്യ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മാധുര്യ തൂമൊഴി തൂകും<br/>മാനസവേദന മാറ്റും<br/>ക്രൂശിന്റെ പാതയിൽ എന്നും നമ്മെ നടത്തും<br/>ആനന്ദമായവൻ പുലർത്തുംഹാലേലുയ്യ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കാഹളധ്വനി നമ്മൾ കേൾക്കും<br/>കർത്താവിൻ വീട്ടിൽ നാം ചേരും<br/>നിസ്തുല്യമഹസ്സിൽ നിത്യം നമ്മൾ വസിക്കും<br/>ഹല്ലെലുയ്യ പാടി സ്തുതിക്കുംഹാലേലുയ്യ!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:16">
+  <properties>
+    <titles>
+      <title>ആശ്വാസദായകൻ യേശുനാഥൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആശ്വാസദായകൻ യേശുനാഥൻ<br/>ആനന്ദവല്ലഭൻ തന്നേയവൻ<br/>അൻപുള്ള രക്ഷകൻ നമ്മെയെന്നും<br/>അൻപോടെ കാത്തിടും നിശ്ചയമായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ക്രിസ്തുവിൽ ആശ്രയിക്കാം<br/>നമുക്കെന്നും ആശ്രയിക്കാം<br/>ക്രൂശിൽ മരിച്ചുയിർത്തെഴുന്നെറ്റ<br/>ക്രിസ്തുവിൽ ആശ്രയിക്കാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആപത്തുനേരത്തിൽ സങ്കേതമായ്<br/>ചാരത്തുവന്നു തൻമാർവ്വണച്ച്<br/>വേദനമാറ്റി കണ്ണീർ തുടച്ച്<br/>ആശ്വാസം നൽകി ആശ്ളേഷിക്കുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശോധന ധാരാളം വന്നിടുന്ന<br/>വേളയിൽ ഉന്നതൻ താങ്ങിടുമേ<br/>അന്നന്നു വേണ്ടുന്നതെല്ലാം തന്നു<br/>അത്ഭുതനാഥൻ നടത്തിടുമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വാഗ്ദത്ത ദേശത്തു ചേർത്തിടുവാൻ<br/>വാഗ്ദത്തം ചെയ്തവൻ വന്നിടുമേ<br/>വാനവും ഭൂമിയും മാറിയാലും<br/>വാക്കുപറഞ്ഞവൻ മാറുകില്ല.</lines>
+    </verse>
+  </lyrics>
+</song>

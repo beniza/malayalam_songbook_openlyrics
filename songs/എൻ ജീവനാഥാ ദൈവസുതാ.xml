@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:31">
+  <properties>
+    <titles>
+      <title>എൻ ജീവനാഥാ ദൈവസുതാ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ ജീവനാഥാ ദൈവസുതാ<br/>നിന്നന്തികേ ഞാൻ വന്നിടുന്നു<br/>ആശ്രയസ്ഥാനം നീ മാത്രമേ<br/>പ്രാണനാഥായെൻ സങ്കേതമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എൻ ജീവനാഥാ ദൈവസുതാ<br/>സ്വർല്ലോകത്തിന്റെ ആരാധ്യനേ<br/>ഏഴയാമെന്നെ സ്നേഹിച്ചല്ലോ<br/>അത്യഗാധമിതപ്രമേയം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എൻ ജീവനാഥാ ദൈവസുതാ<br/>നന്മയെന്തെന്നിൽ ദർശിച്ചു നീ<br/>പാപിയാം ശത്രു അർദ്ധപ്രാണൻ<br/>ഏവം വിധമീയേഴയാം ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എൻ ജീവനാഥാ ദൈവസുതാ<br/>നിൻസ്നേഹം നാവാൽ അവർണ്ണ്യമേ<br/>അയോഗ്യനാമീ പാപിയെന്നെ<br/>നിൻമകനാക്കി തീർത്തുവല്ലോ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻ ജീവനാഥാ ദൈവസുതാ<br/>വാഞ്ചിക്കുന്നേ നിൻസന്നിധാനം<br/>തൃക്കണ്ണിൻ ശോഭ കണ്ടിടും ഞാൻ<br/>തൃപ്പാദത്തിൽ വണങ്ങിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

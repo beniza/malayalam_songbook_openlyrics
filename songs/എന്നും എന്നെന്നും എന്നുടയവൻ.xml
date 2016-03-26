@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:39">
+  <properties>
+    <titles>
+      <title>എന്നും എന്നെന്നും എന്നുടയവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നും എന്നെന്നും എന്നുടയവൻ<br/>മാറാതെ കൃപ തീരാതെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കെട്ടമകനെപ്പോലെ ദുഷ്ടവഴികളിലെ<br/>ന്നിഷ്ടംപോൽ ഞാൻ നടന്നു എന്നെ<br/>കെട്ടിപ്പിടിച്ചു മുത്തമിട്ടങ്ങു<br/>സ്വീകരിപ്പാനിഷ്ടപ്പെടുന്നപ്പനാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എല്ലാം തുലച്ചു നീച പന്നിയിൻ തീറ്റ തിന്നു<br/>വല്ലാതെ നാൾ കഴിച്ചു എന്നെ<br/>തള്ളാതെ മേത്തരമാമങ്കിയും<br/>മോതിരവുമെല്ലാം തരുന്നപ്പനാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപച്ചെളിക്കുഴിയിൽ വീണു മരിച്ചവൻ ഞാൻ<br/>വീണ്ടുംജീവൻ ലഭിച്ചു തീരെ<br/>കാണാതെ പോയവൻ ഞാൻ<br/>കണ്ടുകിട്ടി മഹത്വം മുറ്റും നിനക്കപ്പനേ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അപ്പാ നിൻ വീട്ടിലിനിയെക്കാലവും<br/>വസിക്കുമിപ്പാപി നിന്നടിയൻ എനിക്കി-<br/>പ്പാരിൻ ലാഭമെല്ലാം ചപ്പാണെൻ<br/>ദൈവമേ നിൻതൃപ്പാദമെൻ ഗതിയേ.</lines>
+    </verse>
+  </lyrics>
+</song>

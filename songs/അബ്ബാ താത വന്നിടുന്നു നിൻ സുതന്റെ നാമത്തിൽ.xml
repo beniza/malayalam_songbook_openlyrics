@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:25">
+  <properties>
+    <titles>
+      <title>അബ്ബാ! താത! വന്നിടുന്നു നിൻ സുതന്റെ നാമത്തിൽ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അബ്ബാ! താത! വന്നിടുന്നു നിൻ സുതന്റെ നാമത്തിൽ<br/>ആത്മരക്ഷകായെൻ നാഥാ! നമിക്കുന്നു തൃപ്പാദം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാളയത്തിൽ പുറത്തായി പാർത്തിരുന്നോരെനിക്കും<br/>പിതാവെന്നു വിളിക്കുവാൻ പുത്രത്വം നീ തന്നല്ലോ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നഷ്ടപ്പെട്ടുപോയി ഞാനും ധൂർത്തപുത്രനെന്നപോൽ<br/>നിന്റെ സന്നിധിയിൽ നിന്നും ദൂരവേ പോയിരുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തേടിവന്നു എന്നെയും നീ നേടിത്തങ്കച്ചോരയാൽ<br/>വാടിടാതെ മേവിടുവാൻ നീ ചൊരിഞ്ഞു വൻകൃപാ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രക്ഷയാകുമെനികായി തന്നു-<br/>ശ്രേഷ്ടനാക്കി തീർത്തു നീ<br/>ഭക്ഷിപ്പാൻ നിൻ മേശയിങ്കൽ-<br/>യോഗ്യതയും തന്നല്ലൊ!</lines>
+    </verse>
+  </lyrics>
+</song>

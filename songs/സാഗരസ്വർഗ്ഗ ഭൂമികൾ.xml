@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>സാഗരസ്വർഗ്ഗ ഭൂമികൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സാഗരസ്വർഗ്ഗ ഭൂമികൾ<br/>സർവ്വം രചിച്ച നാഥനേ!<br/>നിന്തിരുമുമ്പിൽ വീണിതാ<br/>പ്രാർത്ഥിച്ചിടുന്നടിയങ്ങൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പ്രാർത്ഥന കേൾക്കും യേശുവേ!<br/>ഉത്തരമേകണേ ക്ഷണം<br/>വിശ്വാസത്തിൻ കരം നീട്ടി<br/>യാചിച്ചിടുന്നു നിൻ സഭ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൊയ്ത്തിനു പാകമായ് വയൽ<br/>കൊയ്യുവാൻ ദാസരെ വേണം<br/>വൻവിള കൊയ്തിടാൻ പ്രഭോ!<br/>ദാസരെ വേഗമേകണേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിന്നെ മറന്നുറങ്ങുന്നു<br/>നിൻ സഭ ഭൂവിൽ നാഥനേ!<br/>ആണികളേറ്റ നിൻകരം<br/>നീട്ടിയുണർത്തൂ കാന്തയെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്ധകാരത്തിൻ ശക്തികൾ<br/>കീഴടക്കുന്നു ഭൂമിയെ<br/>നിൻമക്കൾ ഭൂവിൽ ശോഭിപ്പാൻ<br/>നിൻകൃപയേകണേ പരാ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വീഴ്ചകൾ താഴ്ചകളെല്ലാം<br/>എണ്ണിയാലേറെയുണ്ടഹോ!<br/>പുത്രന്റെ നാമത്തിലവ മുറ്റും<br/>ക്ഷമിച്ചിടേണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

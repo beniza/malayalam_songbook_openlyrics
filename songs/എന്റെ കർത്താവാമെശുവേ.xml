@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:50">
+  <properties>
+    <titles>
+      <title>എന്റെ കർത്താവാമെശുവേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്റെ കർത്താവാമെശുവേ! ആശ്രിതവത്സലാ പ്രഭോ!<br/>നിൻകരത്താൽ താങ്ങിയെന്നെ നിൻപാതയിൽ നടത്തുക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജീവിതമാം വൻ കടലിന്നക്കരെ ഞാനെത്തുവോളം<br/>മാർഗ്ഗനിർദ്ദേശം നൽകിയെൻ യാത്ര സുഗമമാക്കുക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിസ്സഹായനാകുമെന്റെ വിശ്വാസമാം നൗകയെ നിൻ<br/>ശാശ്വതകരം നയിച്ചു സന്തതം പാലിക്കേണമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശക്തിയായ കാറ്റും കോളും ദർശിച്ചു ഞാൻ പേടിക്കുമ്പോൾ<br/>ഭീരുവായതെന്തിനു നീ എന്ന സ്വരം കേൾക്കെട്ടെ ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്ധകാരത്താലെൻ മാർഗ്ഗം വ്യക്തമല്ലെന്നു തോന്നിയാൽ<br/>ബന്ധുരമാം നിന്മുഖത്തിൻ കാന്തിയതിൽ ശോഭിക്കട്ടെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മേഘത്തിൽ നീ വന്നിടുമ്പോൾ തേജസ്സിൽ ഞാൻ നിന്നെ കാണും<br/>നിന്നോടു സദൃശനാകാൻ പ്രാപിക്കും ഞാൻ രൂപാന്തരം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>വീഴാതെന്നെ കാത്തു തവ തേജസ്സിൻ സന്നിധാനത്തിൽ<br/>ചേർത്തിടുവാൻ പ്രാപ്തനാമെൻ<br/>കർത്തനെന്നും സ്തോത്രം ആമേൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>വന്ദനം ചെയ്തിടുവിൻ ശ്രീയേശുവെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്ദനം ചെയ്തിടുവിൻ ശ്രീയേശുവെ<br/>വന്ദനം ചെയ്തിടുവിൻ നിരന്തരം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സന്തതം സകലരും സന്തോഷധ്വനിയിൽ<br/>സ്തോത്രസംഗീതം പാടി... .ശ്രീയേശുവെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രാജിത മഹസ്സെഴും മാ മനുസുതനെ<br/>രാജസമ്മാനിതനെ... .ശ്രീയേശുവെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കല്ലറ തുറന്നു വൻ വൈരിയെ തകർത്തു<br/>വല്ലഭനായവനെ... .ശ്രീയേശുവെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിത്യവും നമുക്കുള്ള ഭാരങ്ങളഖിലം<br/>തീർത്തു തരുന്നവനെ... .ശ്രീയേശുവെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഭീതിയാം കൂരിരുളഖിലവും നീക്കും<br/>നീതിയിൻ സൂര്യനാകും... .ശ്രീയേശുവെ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>പാപമില്ലാത്ത തൻ പരിശുദ്ധനാമം<br/>പാടി സ്തുതിച്ചിടുവിൻ... .ശ്രീയേശുവെ.</lines>
+    </verse>
+  </lyrics>
+</song>

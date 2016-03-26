@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:06">
+  <properties>
+    <titles>
+      <title>ഇന്നെയോളം എന്നെ നടത്തി</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇന്നെയോളം എന്നെ നടത്തി ഇന്നെയോളം എന്നെ പുലർത്തി<br/>എന്റെ യേശു എത്ര നല്ലവൻ അവൻ എന്നെന്നും മതിയായവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്റെ പാപഭാരമെല്ലാം തന്റെ ചുമലിൽ ഏറ്റുകൊണ്ട്<br/>എനിക്കായ് കുരിശിൽ മരിച്ചു എന്റെ യേശു എത്ര നല്ലവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്റെ ആവശ്യങ്ങളറിഞ്ഞ് ആകാശത്തിൻ കിളിവാതിൽ തുറന്ന്<br/>എല്ലാം സമൃദ്ധിയായ് നൽകിടുന്ന എന്റെ യേശു എത്ര നല്ലവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മനോഭാരത്താൽ വലഞ്ഞ് മനോവേദനയാൽ നിറഞ്ഞ്<br/>മനമുരുകി ഞാൻ കരഞ്ഞിടുമ്പോൾ എന്റെ യേശു എത്ര നല്ലവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രോഗശയ്യയിലെനിക്കു വൈദ്യൻ ശോകവേളയിൽ ആശ്വാസകൻ<br/>കൊടുംവെയിലതിൽ തണലുമവൻ എന്റെ യേശു എത്ര നല്ലവൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഒരു നാളും കൈവിടില്ല ഒരു നാളും ഉപേക്ഷിക്കില്ല<br/>ഒരുനാളും മറുക്കുകില്ല എന്റെ യേശു എത്ര വിശ്വസ്തൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>എന്റെ യേശു വന്നിടുമ്പോൾ തിരുമാർവ്വോടണഞ്ഞിടും ഞാൻ<br/>പോയപോൽ താൻ വേഗം വരും<br/>എന്റെ യേശു എത്ര നല്ലവൻ</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:52">
+  <properties>
+    <titles>
+      <title>ദേവാധി ദേവ സുതൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദേവാധി ദേവ സുതൻ<br/>ദയയും കൃപയും നിറഞ്ഞവൻ<br/>പാരിൽ ഇതുപോൽ വേറാരുമില്ല<br/>കരുതുവാനായി കൈവിടാതെന്നും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പറവകൾക്കാഹാരം നൽകുവോനാം<br/>മറന്നിടാതെന്നെയും പോറ്റിടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പുകയുന്ന തിരികളെ കെടുത്താത്തവൻ<br/>തകർന്നയെൻ ഹൃദയത്തെ ബലമാക്കുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കുരുടരിൻ കൺകളെ തുറന്നവനാം<br/>മുടന്തരെ നടത്തിയ വല്ലഭനാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വരുമവൻ പ്രതിഫലം തന്നിടുവാൻ<br/>ദുരിതങ്ങൾ തീർത്തെന്നെ ചേർത്തിടുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

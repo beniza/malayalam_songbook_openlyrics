@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:52">
+  <properties>
+    <titles>
+      <title>യേശുവിൻ പിമ്പേ പോകും ഞങ്ങൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവിൻ പിമ്പേ പോകും ഞങ്ങൾ<br/>ജയത്തിൻ ഗീതം പാടി മുദാ<br/>മൃത്യുവെ വെന്ന കർത്തൻ നമ്മെ<br/>നിത്യതയെത്തുവോളം നടത്തിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാടിടാം ജയ് ജയ് കൂടിടാം ജയ് ജയ്<br/>നമ്മുടെ നാഥൻ ജീവിക്കുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സത്യവും ജീവമാർഗ്ഗവുമാം<br/>ക്രിസ്തുവിൽ നമ്മൾ ധന്യരല്ലോ<br/>നിത്യസന്തോഷമത്യധികം<br/>മർത്യരിൽ നമ്മൾക്കല്ലാതാർക്കുമില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിസ്തുലസ്നേഹ നിത്യബന്ധം<br/>ക്രിസ്തുവിലുണ്ടുവാസ്തവമായ്<br/>ആപത്തോ വാളോ മൃത്യുവിന്നോ<br/>ഈ ബന്ധം നീക്കിടുവാൻ സാദ്ധ്യമല്ല</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മഹത്വരാജൻ യേശുനാഥൻ<br/>മന്നിൽ വന്നിടും നാളടുത്തു<br/>ഉണരാം നാം ബലം ധരിച്ചിടാം<br/>ഉന്നതൻ വേല മന്നിൽ തികച്ചിടാം.</lines>
+    </verse>
+  </lyrics>
+</song>

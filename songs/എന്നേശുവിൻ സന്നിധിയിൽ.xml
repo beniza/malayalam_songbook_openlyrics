@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>എന്നേശുവിൻ സന്നിധിയിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നേശുവിൻ സന്നിധിയിൽ<br/>എന്നും ഗീതങ്ങൾ പാടിടും ഞാൻ<br/>തന്റെ മാധുര്യമേറിടും നാമമതേ<br/>സ്തുതി ഗീതങ്ങൾ പാടിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കണ്ണുനീരവൻ തുടച്ചീടുമേ കരുണയിൻ<br/>കരം നീട്ടിടുമേ<br/>എന്റെ കാൽവറി നായകനേശു മതി<br/>നിന്റെ പാപങ്ങൾ അകറ്റീടുവാൻ (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരനെൻ വിളി കേട്ടീടുമ്പോൾ പരമാനന്ദം<br/>ലഭിച്ചീടുമേ നിന്റെ അകൃത്യങ്ങളൊക്കെയും<br/>അവൻ കൃപയാൽ<br/>അതിവേഗം അകന്നീടുമേ (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പുത്തനെരുശലേം പൂകിടുവാൻ<br/>പുത്രൻ വാനത്തിൽ വന്നിടുമ്പോൾ<br/>ഞാനും നൊടി നേരത്തിനുള്ളിൽ<br/>അവനനുരൂപമായ് വാനിടം പറന്നിടുമേ (2)</lines>
+    </verse>
+  </lyrics>
+</song>

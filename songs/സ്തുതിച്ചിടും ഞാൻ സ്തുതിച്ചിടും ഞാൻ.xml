@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>സ്തുതിച്ചിടും ഞാൻ സ്തുതിച്ചിടും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതിച്ചിടും ഞാൻ സ്തുതിച്ചിടും ഞാൻ<br/>മഹോന്നതനാം മനോഹരനാം മമ പ്രിയനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപം പോക്കിയെൻ ശാപം നീക്കി വൻ<br/>താപം തീർത്തവനെ എന്നും സ്തുതിക്കും<br/>വീണു നമിക്കും പാടിപ്പുകഴ്ത്തിടും ഞാൻ<br/>സ്നേഹനിധെ കൃപാപതിയെ<br/>കരുണാനദിയെ പരമാനന്ദമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാണാതകന്നു പാപക്കുഴിയിൽ<br/>വീണുവലഞ്ഞിടവേ തേടിയെന്നെയും<br/>നല്ലിടയൻ പാടു സഹിച്ചധികം<br/>തങ്കനിണം വിലയായ് കൊടുത്തു<br/>എൻ പ്രിയനെന്നെയും വീണ്ടെടുത്തു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കണ്ണീർപാതയിൽ നിന്നെൻ കൺകളെ<br/>കാത്തു സൂക്ഷിച്ചവൻ വീഴ്ചയിൽ നിന്നെൻ<br/>കാൽകളെയും വീഴ്ചയെന്നിയേ താൻ<br/>മൃത്യുവിൽനിന്നെൻ പ്രാണനേയും<br/>വിടുതൽ ചെയ്തു എന്നെന്നേക്കുമായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

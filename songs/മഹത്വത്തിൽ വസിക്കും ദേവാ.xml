@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>മഹത്വത്തിൽ വസിക്കും ദേവാ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മഹത്വത്തിൽ വസിക്കും ദേവാ<br/>മഹത്വം നിനക്കുപരനേ<br/>സ്തുതി നിനക്കുചിതം തന്നെ<br/>സ്തുതി ഞങ്ങൾ കരേറ്റിടുന്നേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകങ്ങളെ സൃഷ്ടിച്ചവനെ<br/>ലോകത്തെ നീ സ്നേഹിച്ചതിനാൽ<br/>പുത്രനെയയച്ച നിൻസ്നേഹം<br/>എത്രയോ അത്ഭുതം താതനേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മർത്യരെ രക്ഷിപ്പാൻ വന്നോനാം<br/>നിത്യവചനമാം കർത്താവേ<br/>സ്തുതിസ്തോത്രം നിനക്കു ഞങ്ങൾ<br/>അതിമോദാലർപ്പിക്കുന്നേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പുതുജീവൻ നൽകി ഞങ്ങളെ<br/>പുതുസൃഷ്ടിയാക്കും ആത്മാവേ<br/>വന്ദിച്ചിടുന്നു ഞങ്ങൾ നിന്നെ<br/>നന്ദിയാൽ നന്നായ് വാഴ്ത്തിടുന്നേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വന്ദിതനേ, ത്രീയേകദേവാ!<br/>ഉന്നതനാം സ്വർഗ്ഗതാതനേ!<br/>എന്നും ഞങ്ങൾ നിന്നെ വന്ദിക്കും<br/>നന്ദിയോടെ ആരാധിച്ചിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

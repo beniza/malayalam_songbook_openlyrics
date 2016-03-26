@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>ഹല്ലേലുയ്യാ ഗീതം പാടും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഹല്ലേലുയ്യാ ഗീതം പാടും ഞാൻ<br/>അല്ലലെല്ലാം മാറിപോകുമേ<br/>കർത്തൻ വാനിൽ വെളിപ്പെടുമ്പോൾ<br/>കണ്ണീരെല്ലാം നീങ്ങിപ്പോയിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നേശുവിൻ പൊന്മുഖം കാണും<br/>മുമ്പേ പോയ പ്രിയരെ കാണും<br/>കോടാ കോടി ശുദ്ധരെ കാണും<br/>എന്നും കണ്ടങ്ങാനന്ദിച്ചിടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രോഗം ദുഃഖം നിന്ദയുമില്ല<br/>രാത്രി ശാപം അവിടെയില്ല<br/>നീതിസൂര്യൻ യേശുവിൻ രാജ്യേ<br/>രാജാക്കളായ്‌ കൂടെ വാഴുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇത്ര നല്ല രക്ഷയേ തന്ന<br/>സ്വന്തജീ¬വൻ യാഗമായ്‌ തന്ന<br/>യേശുനാഥാ നിൻനാമത്തിന്‌<br/>നന്ദിയോടെ സ്തോത്രംചെയ്യുംഞാൻ M.M.A.</lines>
+    </verse>
+  </lyrics>
+</song>

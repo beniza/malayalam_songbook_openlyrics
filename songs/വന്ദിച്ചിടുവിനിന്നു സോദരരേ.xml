@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>വന്ദിച്ചിടുവിനിന്നു സോദരരേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v8</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്ദിച്ചിടുവിനിന്നു സോദരരേ,<br/>വന്ദിതനേശുവിനെ<br/>നന്ദിയിന്നുള്ളങ്ങളാൽപാടി<br/>വാഴ്ത്തു വന്ദിതനാമവനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിന്നന്ധതയിൽ<br/>പാടുപെട്ട പാപിയെ സ്നേഹിച്ചവൻ<br/>പാരിതിൽ പാടുപെട്ടു നാഥൻ നിന്റെ<br/>പാപങ്ങൾ പോക്കിടുവാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആരു വെടിഞ്ഞീടുംതൻ ജീവനെയും<br/>വൈരിയെ നേടിടുവാൻ<br/>ഏകിയൊനേശുനാഥൻ പ്രാണനേയും<br/>ശത്രുക്കൾക്കായ് കുരിശിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപമറിയാത്തവൻ പാപികൾക്കായ്<br/>പാപമായ് തീർന്നതിനാൽ<br/>പാപത്തിൻ ബന്ധനത്തിൻ മോചനംനാം<br/>പ്രാപിച്ചു വൻ കൃപയാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഏകജാതനെ തകർപ്പാനിഷ്ടമായ്<br/>നമ്മെയെയും സ്നേഹിച്ചതാൽ<br/>പിതാവിന്നീ മഹാസ്നേഹം നാ-<br/>മോർത്തു സ്തുതിക്ക-നന്ദിയോടെ.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്വർഗ്ഗത്തിൻ സാരമവൻ<br/>താണുവന്നു മന്നിൽ മനുജനെപ്പോൽ<br/>സ്വർഗ്ഗഭാഗ്യവും തന്നു നമ്മെയെയും<br/>സ്വർഗ്ഗീയരാക്കിടുവാൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഈ മഹൽ ഭാഗ്യാംശികൾ<br/>ആയിടുന്നോരേവരുമേ സ്തുതിപ്പിൻ<br/>പാപത്തിൻ പ്രായശ്ചിത്തം ആയിടുന്ന<br/>കുഞ്ഞാടാമേശുവിനെ. T.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>V</lines>
+    </verse>
+  </lyrics>
+</song>

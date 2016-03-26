@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>സ്തോത്രങ്ങൾ പാടി ഞാൻ വാഴ്ത്തിടുമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രങ്ങൾ പാടി ഞാൻ വാഴ്ത്തിടുമേ<br/>ദേവാധിദേവനെ രാജാധിരാജാവെ<br/>വാഴ്ത്തി വണങ്ങിടുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അത്ഭുതനിത്യസ്നേഹം എന്നിൽ<br/>സന്തതം തന്നിടും ദൈവസ്നേഹം<br/>എന്നും മാറാത്ത ദിവ്യ സ്നേഹം<br/>എന്നിൽ വസിക്കും സ്നേഹം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജ്യോതിയായ് കാണും സ്നേഹം ഉള്ളിൽ<br/>ജീവൻ തന്നു എന്നെ വീണ്ടസ്നേഹം<br/>ത്യാഗം സഹിച്ച ക്രൂശിൻ സ്നേഹം<br/>ദിവ്യമധുര സ്നേഹം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മായാലോകത്തിൻ മോഹം തേടി<br/>ശാപമേറ്റ എന്നെ വീണ്ടസ്നേഹം<br/>എന്നെത്തേടിയ ദിവ്യസ്നേഹം<br/>എന്നിൽ പെരുകും സ്നേഹം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ജീവനേകിയ സ്നേഹം സർവ്വലോകത്തിൻ<br/>ശാപത്തെ നീക്കും സ്നേഹം<br/>ജീവശക്തിയാം ക്രൂശിൻ സ്നേഹം<br/>ഉള്ളം കവരും സ്നേഹം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വാക്കുമാറാത്ത സ്നേഹം തിരു-<br/>വാഗ്ദത്തം തന്നെന്നെ നിർത്തും സ്നേഹം<br/>സർവ്വ വല്ലഭനാമെൻ നാഥാ!<br/>സ്തോത്രം സ്തുതി നിനക്കേ</lines>
+    </verse>
+  </lyrics>
+</song>

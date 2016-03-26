@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>ജയം ജയം കൊള്ളും നാം ജയം കൊള്ളും നാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജയം ജയം കൊള്ളും നാം ജയം കൊള്ളും നാം<br/>യേശുവിന്റെ കൊടിക്കീഴിൽ ജയം കൊള്ളും നാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നായകനായ് യേശു തന്നെ നടത്തുന്ന സൈന്യം<br/>മായലോകം പേടിക്കേണ്ടജയം കൊള്ളും നാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സർവ്വലോക സൈന്യങ്ങളെ സാത്താൻ കൂട്ടിയാലും<br/>സ്വർഗ്ഗനാഥൻ ചിരിക്കുന്നു ജയം കൊള്ളും നാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൗശലങ്ങൾ തത്വജ്ഞാനം യേശുവിന്നു വേണ്ടാ<br/>വചനത്തിൻ ശക്തി മതി ജയം കൊള്ളും നാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ക്രിസ്തൻ ക്രൂശിൻ രക്തത്താലും നിത്യജീവനാലും<br/>വിശുദ്ധാത്മശക്തിയാലും ജയം കൊള്ളും നാം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ക്ലേശിക്കേണ്ടാ ഹല്ലേലുയ്യാ! ദൈവത്തിനു സ്തോത്രം<br/>യേശുകൊണ്ടജയത്താലെ ജയം കൊള്ളും നാം.</lines>
+    </verse>
+  </lyrics>
+</song>

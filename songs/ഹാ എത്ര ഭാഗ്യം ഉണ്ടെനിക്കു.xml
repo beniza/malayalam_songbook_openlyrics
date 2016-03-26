@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:09">
+  <properties>
+    <titles>
+      <title>ഹാ! എത്ര ഭാഗ്യം ഉണ്ടെനിക്കു</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഹാ! എത്ര ഭാഗ്യം ഉണ്ടെനിക്കു<br/>ഓർക്കിലെന്നുള്ളം തുള്ളിടുന്നു<br/>ഞാനിന്നു പാടി ആനന്ദിക്കും<br/>ഞാനെന്നുമേശുവെ സ്തുതിക്കും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഹാ എന്റെ ഭാഗ്യം അനന്തമേ!<br/>ഇതു സൗഭാഗ്യ ജീവിതമേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകത്തിലീ ഞാൻ ഹീനനത്രേ<br/>ശോകമെപ്പോഴും ഉണ്ടെനിക്കു<br/>മേഘത്തിലേശു വന്നിടുമ്പോൾ<br/>എന്നെയൻപോടു ചേർത്തിടുമ്പോൾ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദൈവത്തിൻരാജ്യം ഉണ്ടെനിക്കായ്<br/>ദൈവകുഞ്ഞാടും ശിഷ്യരുമായ്<br/>വിശുദ്ധർകൂട്ടം ചേർന്നിരിക്കും<br/>പന്തിയിൽ ചേർന്നു ഞാൻ ഭുജിക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കണ്ണുനീരെല്ലാം താൻ തുടയ്ക്കും<br/>വർണ്ണം വിശേഷമായുദിക്കും<br/>ജീവകിരീടമെൻ ശിരസ്സിൽ<br/>കർത്തൻ വച്ചിടുമാസദസ്സിൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വെൺനിലയങ്കികൾ ധരിച്ചു<br/>പൊൻകുരുത്തോലകൾ പിടിച്ചു<br/>ദൈവകുഞ്ഞാടിനെ സ്തുതിച്ചു<br/>പാടും ഞാനെന്നുമാനന്ദിച്ചു</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഹാ! എത്രഭാഗ്യം ഉണ്ടെനിക്കു<br/>വർണ്ണിപ്പാൻ ത്രാണിയില്ലെനിക്കു<br/>മഹത്വഭാഗ്യം തന്നെയിതിൻ<br/>സമത്തിലൊന്നും ഇല്ലിഹത്തിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

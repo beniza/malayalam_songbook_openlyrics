@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>നിൻമഹാസ്നേഹമേശുവേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിൻമഹാസ്നേഹമേശുവേ!<br/>എൻമനസ്സിന്നഗാധമേ<br/>എന്നിൽ നിൻ സ്നേഹകാരണം<br/>എന്നറിവിന്നതീതമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>താരകങ്ങൾക്കുമീതെയും<br/>താവകസ്നേഹമുന്നതം<br/>ആഴിയിലും നിൻസ്നേഹത്തി-<br/>ന്നാഴമഗാധമെൻ പ്രിയാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദോഷിയാമെന്നെത്തേടിയോ<br/>ക്രൂശുവരെയും താണു നീ!<br/>പ്രാണനും നൽകി സ്നേഹിപ്പാൻ<br/>പാപിയിൽ കണ്ടതെന്തു നീ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരണമോ ജീവനോ പിന്നെ<br/>ഉയരമോ ആഴമോയെന്നെ<br/>നിന്തിരു സ്നേഹത്തിൽ നിന്നും<br/>പിന്തിരിക്കില്ല യാതൊന്നും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിത്യതയിൽ നിൻസന്നിധിയെത്തി<br/>ഞാൻ വിശ്രമിക്കവേ<br/>നിൻ മുഖകാന്തിയിൽ സദാ<br/>നിർവൃതി നേടും ഞാൻ പരാ.</lines>
+    </verse>
+  </lyrics>
+</song>

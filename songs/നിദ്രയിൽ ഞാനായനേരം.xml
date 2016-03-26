@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:21">
+  <properties>
+    <titles>
+      <title>നിദ്രയിൽ ഞാനായനേരം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിദ്രയിൽ ഞാനായനേരം ഭദ്രമായെന്നെ പാലിച്ച<br/>സച്ചിദാത്മാവാം നിനക്കു സ്തോത്രം ചെയ്യുന്നനന്തം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചാവിൻ നിദ്രയിൽ നിന്നു ഞാൻ ജീവിച്ചു കൺതുറക്കുമ്പോൾ<br/>ദൈവമേ നിൻ നിത്യപ്രകാശത്തെ കാണ്മാൻ തുണയ്ക്ക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നുടെ പാപമഖിലം സൂര്യനാൽ മഞ്ഞെന്നപോലെ<br/>നന്നേ നശിപ്പിക്കയെൻ കർത്താവേ, കാരുണ്യരാശേ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എൻ നിനവമിച്ഛകളും നിൻ പുണ്യഹിതാനുരൂപം<br/>പൂർണ്ണായ് പാലിക്ക നിന്നാത്മാവാലെന്നെ നിറച്ച്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇന്നത്തെ എൻ ക്രിയകളും വാഗ്മനോഭാവങ്ങളെല്ലാം<br/>ഭംഗിയോടു നിൻഹിതത്തിൽ തന്നെ ഭരിക്കേണമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പ്രാതഃപ്രസന്നാത്മാവിനെ ജ്യോതിർമ്മയാ! തന്നു സത്യ<br/>വേദത്തിന്നൊത്തോരു മാർഗ്ഗേ മോദാൽ നടത്തേണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>പോയിടാം നമുക്കു ദൈവജനമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പോയിടാം നമുക്കു ദൈവജനമേ<br/>യേശുവിൻ നാമത്തിൽ പോയിടാം<br/>ജീവൻ തന്നു വീണ്ടെടുത്ത നാഥനെ<br/>ലോകമെങ്ങും ഘോഷിക്കാൻ പോയിടാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എത്രയോ ആയിരങ്ങളിന്നിഹേ<br/>പാപത്താൽ അന്ധരായ് മേവുന്നു<br/>രക്ഷയിൻ വഴിയവർക്കു ചൊല്ലുവാൻ<br/>പോയിടേണ്ടവർ നമ്മളല്ലയോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അന്ധകാരം ഭൂമിയെ മൂടുവാൻ<br/>കാലമേറെയില്ലെന്നു നാം ഓർക്കുക<br/>കാലമൊട്ടും പാഴിലാക്കിടാതെ നാം<br/>പോയിടാം യേശുവെ ഘോഷിക്കാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നാഥൻ താൻ വരുന്നതിൻ മുന്നമേ<br/>മന്നിലെ വേല നമ്മൾ തീർത്തിടാം<br/>വന്നു നമ്മെച്ചേർത്തു താൻ പ്രതിഫലം<br/>തന്നിടുന്ന നാളിനായൊരുങ്ങിടാം.</lines>
+    </verse>
+  </lyrics>
+</song>

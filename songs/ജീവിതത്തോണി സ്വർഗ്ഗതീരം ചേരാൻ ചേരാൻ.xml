@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>ജീവിതത്തോണി സ്വർഗ്ഗതീരം ചേരാൻ ചേരാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജീവിതത്തോണി സ്വർഗ്ഗതീരം ചേരാൻ ചേരാൻ<br/>കാലമിനിയേറെയില്ല പാരിൽ പാരിൽ<br/>കണ്ടിടും പ്രിയന്റെ പൊന്നുമുഖത്തെ<br/>പാടും ഞാൻ സ്തുതിഗീതങ്ങൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇരുളെങ്ങും നിറയുന്ന ഇവിടുള്ള വാസത്തെ<br/>വിട്ടീടും ഒരു നാളിൽ നാം<br/>പരലോകെ ചേർന്നിടും വാഴും എന്നാളും<br/>ആനന്ദം കൊണ്ടാടിടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കടലിൻ വൻ തിരയേറ്റു അലയാതെയെൻതോണി<br/>കരചേർക്കും കരുണാമയൻ<br/>കഷ്ടങ്ങൾ തീർന്നിടും ദുഃഖം മാറിടും<br/>കർത്താവിൽ ആനന്ദിക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നേശു വന്നിടും എന്നേയും ചേർത്തിടും തൻസ്വന്തരാജ്യത്തിലായ്<br/>പ്രത്യാശയേറുന്നു കാന്തൻ കൂടെന്നും<br/>വാണിടാൻ സീയോൻ പുരേ.</lines>
+    </verse>
+  </lyrics>
+</song>

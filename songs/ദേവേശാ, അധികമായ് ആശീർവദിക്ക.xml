@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>ദേവേശാ, അധികമായ് ആശീർവദിക്ക</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദേവേശാ, അധികമായ് ആശീർവദിക്ക വധൂവരരിവരെമഹേശാ<br/>കുതുകമായ് ഒന്നായ് വസിപ്പാൻ ഇതുമുതൽ തുടരെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആദാമും ഹവ്വയും ചേർന്നുസമ്മോദം ഏദനിലാർന്നു<br/>അതുപോൽ ആധികൾ തീർന്നു വസിപ്പാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പ്രത്യാശ, സ്നേഹം, വിശ്വാസം ഇവയാൽ<br/>നിത്യമാശ്വാസംലഭിച്ചു ക്രിസ്തുവിൽ വാസം ചെയ്തിടാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യഹോവെ സേവിക്കും ഞാനെൻ കുടംബ<br/>സഹിതമന്യൂനംഎന്നരുളി യോശ്വയെന്നോണംവസിപ്പാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>ആഴത്തിൽ നിന്നീശനോടു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആഴത്തിൽ നിന്നീശനോടു യാചിക്കുന്നേ ദാസനിപ്പോൾ<br/>കേൾക്കണമേ യാചന നീ ശ്രദ്ധിക്കുക പ്രാർത്ഥനയെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീയകൃത്യം ഓർമ്മവച്ചാൽ ആരു നിൽക്കും? ദേവ! ദേവ!<br/>നിന്നെ ഭയന്നിടും പടിമോചനം നിൻപക്കലുണ്ട്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാത്തിരിക്കുന്നീശ! നിന്നെ കാത്തിരിക്കുന്നെന്റെ ഉള്ളം<br/>നിൻവചനം തന്നിലത്രേ എന്നുടെ പ്രത്യാശയെന്നും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പ്രത്യുഷസ്സെ കാത്തിരിക്കും മർത്യരെക്കാളത്യധികം<br/>കാത്തിരിക്കുന്നിന്നടിയൻ നിത്യനാമെൻ യാഹിനെ ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യാഹിലെന്നും ആശ വയ്പിൻ വൻ കൃപയുണ്ടായവനിൽ<br/>യിസ്രായേലേ! നിന്നകൃത്യം പോക്കിയവൻ വീണ്ടെടുക്കും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>താതസുതാത്മാക്കളാകും ആദി ദൈവമായവന്നു<br/>ആദി മുതലിന്നുമെന്നും ഹാ! മഹിമ കൈവരട്ടെ</lines>
+    </verse>
+  </lyrics>
+</song>

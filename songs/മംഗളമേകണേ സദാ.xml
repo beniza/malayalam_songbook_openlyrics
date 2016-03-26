@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>മംഗളമേകണേ സദാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മംഗളമേകണേ സദാ<br/>മംഗളമേകണേ പരാ<br/>ദമ്പതികളാമിവർക്കു<br/>മാമംഗളമേകണേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആദംഹവ്വയാകുമോരാദിമ<br/>പിതാക്കളെ<br/>ഏദനിൽ പുരാ വന്നു<br/>വാഴ്ത്തിയ ദൈവമേയിപ്പോൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്രിസ്തുമണവാളനും<br/>സത്യമണവാട്ടിയും<br/>തമ്മിലെന്നപോൽ<br/>യോജിച്ചെന്നും വാഴുവാൻ പരാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യിസ്രായേലിൻ വീടിനെ<br/>വിസ്തൃതമായ് കെട്ടിയ<br/>റാഹേൽപോലെയും<br/>ലേയപോലെയും വധു വരാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എഫ്റാത്തയിൽ മുഖ്യനും<br/>ബേത്ത്ലഹേമിൽ ശ്രേഷ്ഠനും<br/>ആയ ബോവസ് പോൽ<br/>വരനാകുവാനഹോ! പരാ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ദൈവമുഖത്തിവർ ചെയ്ത<br/>നൽ പ്രതിജ്ഞയെ<br/>അന്ത്യത്തോളവും<br/>നിറവേറ്റുവാൻ ചിരം പരാ!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>സംഖ്യയില്ലാതുള്ളൊരു<br/>സന്തതിയിൻ ശോഭയാൽ<br/>കാന്തിയേറുന്നോരെക്ളീസ്യാ<br/>സമമിവർ വരാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

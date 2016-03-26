@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:22">
+  <properties>
+    <titles>
+      <title>നേരമിരുളുന്നു കൂരിരുളേറുന്നു</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നേരമിരുളുന്നു കൂരിരുളേറുന്നു<br/>കൂടെ നീ പാർക്കണമേ -ഇരുൾ<br/>മൂടുമീ വേളയിൽ ജ്യോതിയായ് നിന്നെന്നെ<br/>ഭദ്രമായ് കാക്കണമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പോയപകലിലെൻ ജീവിതയാത്രയിൽ<br/>പാലനമേകിയോനെ -നാഥാ<br/>ദിവ്യമാം പാലനം നൽകിയീ രാത്രിയിൽ<br/>അമ്പോടു കാക്കണമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അന്നവസ്ത്രാദിയും ദേഹസുഖങ്ങളും<br/>തന്നെന്നെ പോറ്റിയോനെ -നിന്റെ<br/>ചാരെയണഞ്ഞു നിൻപാവനനാമത്തെ<br/>വാഴ്ത്തി സ്തുതിച്ചിടുന്നേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഭീതിയകന്നു നിൻസന്നിധിയിലിന്നു<br/>അല്ലലില്ലാതുറങ്ങി -കാലെ<br/>സന്തോഷമോടുണർന്നുന്നത നാഥനെ<br/>പാടി സ്തുതിച്ചിടുമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്ധകാരം ഭൂവിലേറിടുന്നേ നാഥാ<br/>കൈവിടാതെ നടത്തി -പുത്തൻ<br/>പൊൻ പ്രഭാതം വരും നേരമതുവരെ<br/>അമ്പോടു കാത്തിടണേ.</lines>
+    </verse>
+  </lyrics>
+</song>

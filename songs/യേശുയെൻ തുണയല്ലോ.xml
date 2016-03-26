@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:54">
+  <properties>
+    <titles>
+      <title>യേശുയെൻ തുണയല്ലോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുയെൻ തുണയല്ലോ<br/>എൻ ജീവിതയാത്രയിൽ സഖിയല്ലോ<br/>വന്ദിതൻ വല്ലഭൻ യേശു നല്ലവൻ<br/>ആരിലും ഉന്നതാധിപൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചെങ്കടൽ പിളർന്നു വഴിയൊരുക്കും<br/>തൻകരത്താലെന്നെ നടത്തും<br/>സങ്കടങ്ങൾ ചഞ്ചലങ്ങൾ സകലവും<br/>അകറ്റിടും താൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പകലിൻ വെയിലിൽ തണലൊരുക്കും<br/>അല്ലിലവൻ ഒളിവിതറും<br/>മാറയെ നൽ മധുരമാക്കും<br/>മൃതിവരെ കരുതിടും താൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കഠിന വിഷമം വരുമളവിൽ<br/>കാത്തുകൊള്ളും കർത്തൻ ഭദ്രമായ്<br/>കാലമെല്ലാം അഭയമവൻ<br/>കലങ്ങുകില്ലൊരിക്കലും ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മരണനിഴലാം യോർദ്ദാൻ കടന്നു<br/>സ്വർഗ്ഗസീയോൻ നാട്ടിലെത്തുമ്പോൾ<br/>തൻകൃപയിൻ കരുതലുകൾ<br/>അറിഞ്ഞു ഞാനതിശയിക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

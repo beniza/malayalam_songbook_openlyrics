@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:15">
+  <properties>
+    <titles>
+      <title>താങ്ങും നിൻകരങ്ങൾ എന്നെ നാഥാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>താങ്ങും നിൻകരങ്ങൾ എന്നെ നാഥാ<br/>താങ്ങും നിൻകരങ്ങൾ എന്നെ<br/>താതനും മാതാവും സ്നേഹിതനും നീ<br/>പാരിലെൻ ആശ്വാസദായകനും നീ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വേദനയേറും വേളകളഖിലം<br/>ശോധനയാണത് നിന്നിൽ ഞാനുറയ്ക്കാൻ(2)<br/>ദിവ്യമാം ആശ്വാസം എന്നുള്ളിൽ നിറയ്ക്കാൻ(2)<br/>നീ ഒരുക്കും വഴി ഈ വിധം ദിനവും (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>രോഗവും ക്ലേശവും ഏറിടുന്തോറും (2)<br/>ജീവിതഭാരം പെരുകിടുന്തോറും (2)<br/>പ്രാണപ്രിയാ നിൻ സ്നേഹത്തിലലിയാൻ(2)<br/>നീ ഒരുക്കുന്നെന്നെ ഈവിധം ദിനവും (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആകുലം വ്യാകുലം ആകവെ തിങ്ങി<br/>മാനസം നീറി എരിഞ്ഞിടുമ്പോഴും (2)<br/>ഉരുകി തെളിഞ്ഞെന്നിൽ നിൻരൂപം വിളങ്ങാൻ(2)<br/>നീ ഒരുക്കും മൂശ ഈവിധം ദിനവും (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വ്യാധിയാലെൻ ദേഹം വലഞ്ഞിടുമ്പോഴും<br/>ആധിയാലെന്നുള്ളം കലങ്ങിടുമ്പോഴും (2)<br/>മഹത്വ ദേഹം സ്വർഗ്ഗീയവാസം (2)<br/>കണുന്നേനുൾക്കണ്ണാൽ ഈ മണ്ണിൽ ദിനവും(2)</lines>
+    </verse>
+  </lyrics>
+</song>

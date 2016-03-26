@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>ആ ആ ആ ആ എന്നു കാണും യേശുരാജനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആ ആ ആ ആ എന്നു കാണും യേശുരാജനെ<br/>കാലമായ് കാലമായ് പറന്നുപോവാൻ കാലമായ്<br/>രാജാധിരാജൻ വരുന്നു വേഗം പ്രിയരെ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കാഹളനാദം കേട്ടിടുന്ന നാളിൽ<br/>ഹല്ലേലുയ്യാ! ഗീതം പാടിടുമെ അന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നിനി ഞാൻ ചേർന്നിടും പൊന്മുഖം കാണുവാൻ<br/>ശോഭയേറും നാട്ടിൽ ഞാൻ പോയിടുവാൻ കാലമായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകത്തിൽ ഞാനൊരു നിന്ദിതനെങ്കിലും<br/>മേഘത്തിൽ ഞാനൊരുവധുവായ് വാഴുമെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യേശു രാജൻ വന്നിടും ഭക്തന്മാരെ ചേർക്കുവാൻ<br/>സ്വർഗ്ഗാധിസ്വർഗ്ഗങ്ങളിൽ വാസം ചെയ്യാൻ കാലമായ്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മുൾക്കിരീടധാരിയായ് കടന്നുപോയ പ്രിയനെ<br/>പൊൻകിരീടധാരിയായ് അന്നു ഞാൻ കാണുമെ.</lines>
+    </verse>
+  </lyrics>
+</song>

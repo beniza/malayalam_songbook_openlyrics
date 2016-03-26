@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:17">
+  <properties>
+    <titles>
+      <title>ആകുലനായിതീരരുതേയെൻ മനമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആകുലനായിതീരരുതേയെൻ മനമേ<br/>യേശുനാഥൻ നീക്കിടും നിന്റെ ക്ലേശമെല്ലാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പുലർത്തുന്നു നാഥൻ പറവകളെ<br/>വയലിലെ താമര വളർത്തീടുന്നു (2)<br/>വിതയില്ല കൊയ്ത്തുമില്ല സ്വർഗ്ഗനാഥൻ കരുതിടുന്നു എന്നെ (2)<br/>സ്വർഗ്ഗനാഥൻ കരുതിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാളെയ്ക്കായി എന്തിന്നു ഞാൻ വ്യാകുലനായി കലങ്ങീടുന്നു (2)<br/>എനിക്കായി കരുതിടുന്നു വേണ്ടതെല്ലാം നാഥനവൻ എന്നും (2)<br/>വേണ്ടതെല്ലാം നാഥനവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശത്രുസൈന്യം ആഞ്ഞടിച്ചാൽ ഭീതിവേണ്ടെനിക്കൊരുനാളും (2)<br/>കൂടെയുണ്ട് അധിപനവൻ വീരനാമെൻ ദൈവമവൻ എത്ര (2)<br/>വീരനാമെൻ ദൈവമവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

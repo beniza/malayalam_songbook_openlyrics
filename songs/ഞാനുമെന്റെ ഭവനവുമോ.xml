@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:44">
+  <properties>
+    <titles>
+      <title>ഞാനുമെന്റെ ഭവനവുമോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഞാനുമെന്റെ ഭവനവുമോ<br/>ഞങ്ങൾ യഹോവയെ സേവിക്കും<br/>നന്മ ചെയ്തു ജീവിക്കും വൻ<br/>നന്മകൾ ഘോഷിക്കും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭാരങ്ങൾ നേരിടും നേരത്തിൽ<br/>ഒന്നായ് വന്നിടും നിൻസവിധേ<br/>ഭാരങ്ങളെല്ലാമകന്നു<br/>പാലിക്കുമന്ത്യത്തോളം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാർമേഘക്കാറുകളേറിടിലും<br/>കാണാതെൻ ചാരത്തെത്തുന്നു<br/>എൻഭവനത്തിലെന്നേശു<br/>പാർത്തിടും നല്ല നാഥനായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്റെ വീട്ടിലെന്നേശുവുണ്ട്<br/>ജയത്തിൻ ഉല്ലാസഘോഷമുണ്ട്<br/>ഹല്ലേലുയ്യാ ഗീതം പാടി വാഴ്ത്തിടും<br/>എന്നെന്നേക്കുമായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിശ്വാസവീരരായ്ത്തീരുന്ന<br/>വീരസാക്ഷികളേറിടുവാൻ<br/>എൻഭവനത്തിലെൻ സാക്ഷ്യം<br/>പാലിക്കും നന്നായ് എന്നുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:05">
+  <properties>
+    <titles>
+      <title>എണ്ണി എണ്ണി സ്തുതിച്ചിടും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എണ്ണി എണ്ണി സ്തുതിച്ചിടും ഞാൻ<br/>നിന്റെ നന്മകളോർത്തുകൊണ്ട് (2)<br/>നിന്റെ പ്രവൃത്തികൾ അത്ഭുതമേ<br/>നിൻക്രിയകൾ അവർണ്ണ്യമഹോ...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദൈവം എന്നിൽ എന്തു കണ്ടു<br/>എന്നെ തൻ മകനാക്കിടുവാൻ (2)<br/>പാപിയായ എന്നെയുമോർത്ത് (2)<br/>കാൽവറിയിൽ യാഗമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഈ ലോകജീവിത യാത്രയതിൽ<br/>ശക്തമാം തിരമാല വന്നിടിലും (2)<br/>ശാന്തമാക്കാൻ ശക്തനാം ദൈവം (2)<br/>എന്നുമെന്റെ കൂടെയുണ്ട്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കർത്താവു താൻ വേഗം വന്നിടുമേ<br/>നമ്മെ തൻസവിധേ ചേർത്തിടുവാൻ (2)<br/>നിത്യസന്തോഷം ഭക്തർക്കു നൽകി (2)<br/>നിത്യവും തന്നരികിൽ വസിച്ചിടുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

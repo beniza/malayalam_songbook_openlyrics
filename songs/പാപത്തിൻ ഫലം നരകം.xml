@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>പാപത്തിൻ ഫലം നരകം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാപത്തിൻ ഫലം നരകം... ഓ! പാപി ഭയമില്ലയോ?<br/>കാണുന്നതെല്ലാം ക്ഷണികം... കാണാത്തതല്ലോ ശാശ്വതം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുരാജൻവരുവാൻ ഇനിയൽപ്പകാലം താൻ<br/>മോക്ഷലോകം ചേർന്നിടും നാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിന്നാത്മരക്ഷ തള്ളി നീ... ലോകസുഖങ്ങൾ തേടിയാൽ<br/>നിൻജീവൻ പോകും നേരത്തിൽ... ഒരു കാശുകൂടെ വരുമോ?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകത്തിൻ വെറും മായയിൽ... നിൻകാലമെല്ലാം തീരുമേ<br/>ഓ! ദൈവകോപം വരും മുൻ... നിന്നേശുവിന്നരികിൽ വാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിൻപേർക്കു രക്തനദികൾ... ഒഴുകുന്നു കാൽവറിയിൽ<br/>നിൻപാപമെല്ലാം നീങ്ങിപ്പോം... അതിൽ സ്നാനം ചെയ്തിടുകിൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മാ പാപിയായ എന്നെയും... രക്ഷിച്ചു ദൈവസുതൻ<br/>ഓ! പാപി നീയും ഓടിവാ... നിന്നെയുമവൻ ചേർത്തിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

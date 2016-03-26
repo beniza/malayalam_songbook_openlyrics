@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:35">
+  <properties>
+    <titles>
+      <title>യേശുവെ മാത്രം സ്നേഹിക്കും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവെ മാത്രം സ്നേഹിക്കും ഞാൻ<br/>യേശുവെ മാത്രം ജീവിക്കും ഞാൻ<br/>യേശുവിൻ നാമം കീർത്തിക്കും ഞാൻ<br/>യേശുവിനായി പാടിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശു എൻജീവൻ എൻരക്ഷയും<br/>യേശു എൻനിത്യ നിക്ഷേപവും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യേശു ഈയെന്നെ സ്നേഹിച്ചല്ലോ<br/>ക്രൂശിൽ സ്വജീവൻ വെച്ചുവല്ലോ !<br/>നാശ മൺപാത്രമാമെനിക്കു<br/>ശാശ്വതഭാഗ്യം തന്നുവല്ലോ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകസൗഭാഗ്യം തേടിയിനി<br/>പോകുകയില്ല നിർണ്ണയമായ്<br/>മാമക ജീവൻ പോവോളവും<br/>മാ മഹൽസ്നേഹം ഘോഷിക്കും ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യേശുവിൻ സൗമ്യ ഭാവമെന്നിൽ<br/>എന്നും വിളങ്ങി ശോഭിക്കുവാൻ<br/>എന്നാത്മ ദേഹം ദേഹിയേയും<br/>മുറ്റുംസമർപ്പിച്ചിടുന്നു ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

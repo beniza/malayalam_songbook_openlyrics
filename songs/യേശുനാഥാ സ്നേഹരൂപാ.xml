@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>യേശുനാഥാ! സ്നേഹരൂപാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതിക്കും ഞാൻ സ്തുതിക്കും<br/>ഞാൻ ജീവനാഥാ! നിരന്തരം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മുൾക്കിരീടം ചൂടിയോ നീ<br/>നിന്ദിതനായ് തീർന്നുവോ<br/>പാപിയെന്നെ മോചിപ്പാനായ്<br/>പാടുകൾ നീ സഹിച്ചെന്നോ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആണികൾ നിൻപാണികളിൽ<br/>പാഞ്ഞുകേറും നേരവും<br/>സാധുവെന്നെ ഓർത്ത നിന്റെ<br/>സ്നേഹമെന്തോരതിശയം!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇത്ര സ്നേഹം ഇദ്ധരയിൽ<br/>വേറെയില്ല രക്ഷകാ!<br/>എന്നെ സ്നേഹിച്ചെന്റെ പേർക്കായ്<br/>രക്തം ചിന്തി മരിച്ചെന്നോ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നായക! നിൻ ദണ്ഡനങ്ങൾ<br/>നാവിനാൽ അവർണ്ണ്യമാം<br/>താവക തൃപ്പാദം രണ്ടും<br/>ചുംബിച്ചു ഞാൻ നമിക്കുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

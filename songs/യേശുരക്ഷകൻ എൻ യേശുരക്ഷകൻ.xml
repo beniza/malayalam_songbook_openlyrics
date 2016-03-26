@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:25">
+  <properties>
+    <titles>
+      <title>യേശുരക്ഷകൻ എൻ യേശുരക്ഷകൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുരക്ഷകൻ എൻ യേശുരക്ഷകൻ<br/>പാപിയെന്നെ നേടുവാൻ<br/>ജീവനെ വെടിഞ്ഞവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്വർഗ്ഗമഹിമയഖിലവും<br/>ആകയാൽ വെടിഞ്ഞവൻ<br/>സ്വർഗ്ഗേയെന്നെ ചേർത്തിടുവാൻ<br/>മന്നിൽ വന്നവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാൽവറി കുരിശതിൽ<br/>പൊൻനിണം ചൊരിഞ്ഞതാൽ<br/>ഏകിടുന്നു ഇന്നുമെന്നും<br/>സ്തുതിയും സ്തോത്രവും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കേവലം നരകത്തിന്നു<br/>യോഗ്യനായയെന്നെ നീ<br/>സ്വന്തപുത്രനാക്കി<br/>തീർത്തതെന്തൊരത്ഭുതം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അവന്റെ രക്ഷ ദാനമേ<br/>അവന്റെ ജീവൻ നിത്യമേ<br/>അവന്റെ സ്നേഹമോർക്കുന്തോറും<br/>ഉള്ളം നിറയുന്നേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കൂരിരുൾ നിറഞ്ഞൊരു<br/>പാതയിലും ദീപമായ്<br/>ആപത്തിലഭയവുമായ്<br/>കാക്കും രക്ഷകൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>അടിമയല്ല നാമിനി<br/>സ്വതന്ത്രരായി തീർന്നതാൽ<br/>ക്രിസ്തുവിന്റെ ദാസരായി<br/>വേലചെയ്തിടാം.</lines>
+    </verse>
+  </lyrics>
+</song>

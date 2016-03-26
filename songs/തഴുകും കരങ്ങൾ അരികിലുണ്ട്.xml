@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:15">
+  <properties>
+    <titles>
+      <title>തഴുകും കരങ്ങൾ അരികിലുണ്ട്</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>തഴുകും കരങ്ങൾ അരികിലുണ്ട്<br/>തളരും നിൻമനം നീറിടുമ്പോൾ (2)<br/>താളടിയായെന്ന് നിനച്ചിടുമ്പോൾ<br/>താങ്ങിടുവാൻ കർത്തനരികിലുണ്ട് (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അത്ഭുതമായ് ദൈവം വഴിയൊരുക്കും<br/>വൻ യെരിഹോ മതിൽ ഇടിഞ്ഞുവീഴും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഹന്നയിൻ ഞരക്കം കേട്ടനുഗ്രഹിക്കും<br/>മനസ്സലിവുള്ളവൻ കൂടെയുണ്ട് (2)<br/>മാറിടാ മനുവേൽ എന്നുമുണ്ട്<br/>ഈ നല്ല സ്നേഹിതൻ അരികിലുണ്ട്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കടലിൻ നടുവിൽ ചെറുപടകിൽ<br/>വലിയ തിരയാൽ വലഞ്ഞിടുമ്പോൾ (2)<br/>ശാന്തമായി തോണിയെ നയിച്ചിടുവാൻ<br/>സാഗരം മീതേ താൻ നടന്നുവരും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശരിയായ് പരനെ ഗ്രഹിച്ചിടുകിൽ<br/>ചെറുതായ്തീർന്നിടും വിഷമതകൾ (2)<br/>സകലവും നന്നായ് ചെയ്തിടുന്നോൻ<br/>സഹിപ്പാൻ കൃപകൾ അധികം തരും(2)</lines>
+    </verse>
+  </lyrics>
+</song>

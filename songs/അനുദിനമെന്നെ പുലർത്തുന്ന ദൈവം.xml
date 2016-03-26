@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:53">
+  <properties>
+    <titles>
+      <title>അനുദിനമെന്നെ പുലർത്തുന്ന ദൈവം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അനുദിനമെന്നെ പുലർത്തുന്ന ദൈവം<br/>അനവദി നന്മകൾ നല്കിടുന്നു<br/>അനന്തമാം തിരുക്രുപ മതിയേ<br/>അനുഗ്രഹ ജീവിതം നയിച്ചിടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അവനിയിലെ അനർത്ഥങ്ങളാൽ<br/>അലയുവാൻ അവനെന്നെ കൈവിടില്ല<br/>അകമേ താനരുപിയായുള്ളതിനാൽ<br/>ആകുലമില്ലെനിക്കാധിയില്ല</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവിതമാം എൻ പടകിൽ<br/>വൻ തിരമാല വന്നാഞ്ഞടിച്ചാൽ<br/>അമരത്തെൻ അഭയമായ്‌ നാഥനുണ്ട്<br/>അമരും വൻകാറ്റും തിരമാലയും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ബലഹീനമാം എൻ ശരീരം<br/>ഈ മണ്ണിൽ മണ്ണായ്‌ തീരുമെന്നാൽ<br/>തരും പുതുദേഹം തൻദേഹസമം<br/>തേജസ്സെഴുന്നൊരു വിൺശരീരം.</lines>
+    </verse>
+  </lyrics>
+</song>

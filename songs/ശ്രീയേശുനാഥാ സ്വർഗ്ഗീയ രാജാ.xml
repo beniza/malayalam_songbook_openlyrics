@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>ശ്രീയേശുനാഥാ! സ്വർഗ്ഗീയ രാജാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ശ്രീയേശുനാഥാ! സ്വർഗ്ഗീയ രാജാ!<br/>നിൻകൃപ ഞങ്ങൾക്കു മതിയാം<br/>ലോകവാരിധിയിൽ ഉയരുമ്പോൾ അലകൾ<br/>നിൻകൃപ ഞങ്ങൾക്കു മതിയാം<br/>ജീവന്റെ തോണി കുടുങ്ങുമ്പോളലയിൽ<br/>നിൻകൃപ ഞങ്ങൾക്കു മതിയാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചെറുവഞ്ചിക്കാരേ വരൂ! ക്രിസ്തൻ ചാരത്ത്<br/>തകരുന്ന ജീവനിൽ തരുമവൻ വിടുതൽ<br/>യേശുതാൻ രാജൻ അവനുള്ള ജീവനിൽ<br/>അനന്തമാം സന്തോഷം അതു തുല്യമില്ല</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അലറുന്ന ആഴിയിൽ ഉലയുന്ന തോണിയിൻ<br/>ചുക്കാൻ പിടിക്കുന്നോൻ അഖിലാണ്ഡ നാഥൻ<br/>കടലിനെ സൃഷ്ടിച്ചോൻ തോണിയെ നയിക്കുമ്പോൾ<br/>അലരുന്ന കടലിൽ അലയൽപ്പമില്ല.</lines>
+    </verse>
+  </lyrics>
+</song>

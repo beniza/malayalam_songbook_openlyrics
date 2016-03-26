@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>ശ്രീമനുവേൽ മരിജാതനാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1 v10 v1 v11 v1 v12 v1 v13 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ശ്രീമനുവേൽ മരിജാതനാം<br/>സുരതാതനാംനാഥനാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സിതനിറമോടഥ ചുവപ്പും<br/>ചിതമൊടു കലർന്നൊരു പുരുഷനിതാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അയുതനര രതിലുമഹോ!<br/>അതിഗുണമെഴുന്നോരു പ്രമുഖനിവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കറയകന്ന കനകതുല്യം<br/>പരസുതനിവനുടെ ശിരസ്സതുലം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അവനുടയ മുടി നിറമോ<br/>ധവളമല്ലതു കറുപ്പധികമഹോ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഓവുകളിന്നരികെയുള്ള<br/>പ്രാവുകളുടെ സമമവന്റെ കൺകൾ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>പാലിലഹോ സ്നാതമവ<br/>ചേലൊടു പതിപ്പിക്കപ്പെട്ടതു താൻ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>കവിളുകളോ മിസിതടം പോൽ<br/>കമലതുല്യാധരങ്ങൾ പൊഴിക്കുന്നു മൂർ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>പച്ചരത്നം പതിച്ച പൊന്നിൻ<br/>സ്വച്ഛമോതിരങ്ങൾപോൽ കരങ്ങളഹോ!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>നീലരത്നമമിഴ്ന്നദന്തം<br/>പോലെ തന്നുദരമങ്ങതിരമണം</lines>
+    </verse>
+    <verse name="v11">
+      <lines>വെൺകൽത്തൂണതു സമംകാൽ<br/>തങ്കമാം ചുവടിങ്കൽ ഉറച്ചതുപോൽ</lines>
+    </verse>
+    <verse name="v12">
+      <lines>ലിബനതുല്യം മുഖസ്വരൂപം<br/>ദ്രുമമതു ദാരുകമിതിന്നു സമം</lines>
+    </verse>
+    <verse name="v13">
+      <lines>വദനമതോമധുരമഹോ!<br/>അതുവുമല്ലിവനതിരമണീയനാം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:33">
+  <properties>
+    <titles>
+      <title>ഹാ! എത്ര മോദം എൻ സ്വർഗ്ഗതാതൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഹാ! എത്ര മോദം എൻ സ്വർഗ്ഗതാതൻ<br/>ചൊല്ലുന്നു തൻ സ്നേഹം തൻ വേദത്തിൽ<br/>കാണുന്നതിൽ ഞാൻ വിസ്മയകാര്യം<br/>യേശുവിൻ സ്നേഹമതി വിശേഷം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എത്രമോദം താൻ സ്നേഹിക്കുന്നു<br/>സ്നേഹിക്കുന്നു സ്നേഹിക്കുന്നു<br/>എത്രമോദം താൻ സ്നേഹിക്കുന്നു<br/>സ്നേഹിക്കുന്നെന്നെയും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഓടിയാലും തന്നെ ഞാൻ മറന്നു<br/>എന്നെ താനത്യന്തം സ്നേഹിക്കുന്നു<br/>തൻ സ്നേഹക്കൈകളിലേക്കോടുന്നു<br/>യേശു തൻസ്നേഹത്തെ ഓർക്കിലിന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>യേശു സ്നേഹിക്കുന്നെന്നെ എത്രയും<br/>സ്നേഹിച്ചിടുന്നു ഞാനവനെയും<br/>സ്വർഗ്ഗം താൻ വിട്ടിറങ്ങി സ്നേഹത്താൽ<br/>ക്രൂശിൽ മരിച്ചതും തൻസ്നേഹത്താൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിശ്രമമേറെയുണ്ടീയുറപ്പിൽ<br/>ആശ്രയത്താലുണ്ടു വാഴ്വും തന്നിൽ<br/>ചൊല്ലുകിലേശു സ്നേഹിക്കുന്നെന്നു<br/>സാത്താൻ ഭയന്നുടൻ മണ്ടിടുന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മാരാജസൗന്ദര്യം കാണുന്നേരം<br/>പാടാനെനിക്കുള്ള പാട്ടീവണ്ണം<br/>നിത്യതയിൽ മുഴങ്ങുന്ന ഗാനം<br/>യേശു സ്നേഹിക്കുന്നിതെന്താശ്ചര്യം!</lines>
+    </verse>
+  </lyrics>
+</song>

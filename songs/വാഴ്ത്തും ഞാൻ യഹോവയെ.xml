@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:45">
+  <properties>
+    <titles>
+      <title>വാഴ്ത്തും ഞാൻ യഹോവയെ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഴ്ത്തും ഞാൻ യഹോവയെ<br/>സർവ്വകാലവും മുദാ<br/>സ്തോത്രമെപ്പോഴും മമ<br/>നാവിൽനിന്നുയർന്നിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നുള്ളം പ്രശംസി-<br/>ച്ചിടുന്നെന്നും യഹോവയിൽ<br/>മന്നിലെളിയോരഭി-<br/>നന്ദിച്ചിടുമായത്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്നോടൊത്തു ചേർന്നു മ-<br/>ഹത്വം നൽക ദേവന്നു<br/>ഒന്നായ് ചേർന്നു നാം തിരു-<br/>നാമത്തെയുയർത്തുക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഞാൻ പ്രാർത്ഥിച്ചതിന്നവൻ<br/>നൽകിയുത്തരമുടൻ<br/>എൻഭയങ്ങൾ സർവ്വവും<br/>പോക്കി വീണ്ടെടുത്തു മാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തന്നെ നോക്കിയോർക്കു പ്ര-<br/>കാശം വന്നവർ മുഖം<br/>ഒന്നിലെങ്കിലുമിട<br/>വന്നതില്ല ലജ്ജിപ്പാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സാധു ഞാൻ കരഞ്ഞതു<br/>കേട്ടു ദേവനെന്നുടെ<br/>ബാധയൊക്കെയിൽ നിന്നു-<br/>മേകി രക്ഷ പൂർണ്ണമായ്</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ദൈവദൂതനെപ്പോഴും<br/>ഭക്തന്മാരുടെ ചുറ്റും<br/>കാവൽ നിന്നു ഹാ! വിടു-<br/>വിച്ചിടുന്നു ശക്തിയാൽ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ദൈവം നല്ലവനെന്ന<br/>തേവരും രുചിക്കുവിൻ<br/>ഏവൻ തന്നെ നമ്പുമോ<br/>നൂനം ഭാഗ്യവാനവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:09">
+  <properties>
+    <titles>
+      <title>യേശുവിൻ മധുരനാമം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവിൻ മധുരനാമം<br/>എപ്പോഴും സ്മരിക്കുക<br/>ആശ്വാസം നിനക്കതേകും<br/>ലേശം ഇല്ല സംശയം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മാധുര്യ നാമമേ<br/>പാരിന്നാശ സ്വർമോദം (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഹാ! പ്രിയതമം ആ നാമം<br/>ഹൃദയത്തിന്നു സദാ<br/>കഷ്ടത്തിൽ അവനെ ഓർക്ക<br/>കിട്ടും തൻ കൃപയുടൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഏതവസ്ഥയിങ്കലും താൻ<br/>സാദരം തരും തുണ<br/>വിശ്വാസത്തിൻ കണ്ണുയർത്തി<br/>യേശുവെ വിളിക്ക നീ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിൻസ്വയം അവന്റെ ക്രൂശിൽ<br/>നിന്നിറങ്ങിടാതെ നീ<br/>എന്നും തന്നിൽ വാസം ചെയ്കിൽ<br/>തന്നിടും അവൻ ബലം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ശത്രു നിന്നെ നേരിടുന്ന<br/>മാത്രയിൽ നിനയ്ക്കുക<br/>നിന്നിൽ സർവ്വശക്തനായ് താൻ<br/>എന്നും വാസം ചെയ്യുന്നു</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഹൃത്തിൽ എന്നും പാർത്തിടുന്ന<br/>ക്രിസ്തു രക്ഷകന്റെ മേൽ<br/>ആശ്രയം സദാ പതിപ്പോർ<br/>വാഴും ജീവനിൽ മുദാ.</lines>
+    </verse>
+  </lyrics>
+</song>

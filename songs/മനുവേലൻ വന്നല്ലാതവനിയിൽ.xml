@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:10">
+  <properties>
+    <titles>
+      <title>മനുവേലൻ വന്നല്ലാതവനിയിൽ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മനുവേലൻ വന്നല്ലാതവനിയിൽ<br/>വാണല്ലാതൊരുനാളും ശുഭതയില്ല ഉലകം<br/>സമാധാനം തിരഞ്ഞേറ്റം<br/>കലങ്ങുകല്ലാതേതും ഫലമാകില്ല</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ബഹുജാതികൾ ക്രൂദ്ധിച്ചു ബഹളങ്ങൾ വർദ്ധിച്ചു<br/>വരികയാണുലകിലെല്ലാം ഇതിന്നു<br/>പരിഹാരമധിപന്മാർ തിരയുന്നിതാ<br/>തമ്മിൽ പിരിയുന്നിതാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അഭിഷിക്തനേശുവിന്നഭിലാഷമീ ഭൂവിൽ<br/>ഭരണത്തിൽ വരണമല്ലോ മഹേശ<br/>നിയമമാണതിന്നേതുമിളക്കമില്ല<br/>അതേ നടക്കയുള്ളു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നരരക്ഷ ചെയ്തോനീ ധരവാഴ്ച സീയോനിൽ<br/>സ്ഥിരമായി തുടർന്നിടുവാനിനിയും<br/>വരും തന്റെ പ്രഭുക്കന്മാരവനോടൊത്ത്<br/>വാഴും ദിനമടുത്തു.</lines>
+    </verse>
+  </lyrics>
+</song>

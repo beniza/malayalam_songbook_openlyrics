@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>വല്ലഭനാം യേശുപരൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വല്ലഭനാം യേശുപരൻ<br/>നല്ല സഹായകനാം<br/>സുഖം ബലവും സമാധാനവും<br/>സകലവും നമുക്കവനാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആധിയാലുള്ളം കലങ്ങിടിലും<br/>വ്യാധിയാലേറ്റം നാം തളർന്നിടിലും<br/>ഉറ്റവരെല്ലാരും കൈവിടിലും<br/>മുറ്റിലും കാത്തവൻ നടത്തിടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകത്തിന്നിമ്പം ത്യജിച്ചിടാം നാം<br/>ക്രൂശിന്റെ നിന്ദകൾ വഹിച്ചിടാം നാം<br/>യേശുവിന്റെ സാക്ഷിയായ് പോയിടാം നാം<br/>ക്ലേശങ്ങൾ സഹിച്ചു പൊരുതിടാം നാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സ്നേഹത്തിൻ ദീപം കൊളുത്തിടാം നാം<br/>ജീവന്റെ സന്ദേശം ഉരച്ചിടാം നാം<br/>പാപികളിന്മനം തിരിഞ്ഞിടുവാൻ<br/>പ്രാർത്ഥനയിൽ സദാ ഉണർന്നിടാം നാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആത്മാവിൽ നിറഞ്ഞു ബലപ്പെടുവിൻ<br/>ദൈവഹിതം നമ്മളറിഞ്ഞിടുവിൻ<br/>ഉന്നതജീവിതം നയിച്ചിടുവിൻ<br/>മന്നവൻ വരവിനായൊരുങ്ങിടുവിൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

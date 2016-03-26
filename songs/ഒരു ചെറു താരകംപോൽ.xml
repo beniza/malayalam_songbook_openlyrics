@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:44">
+  <properties>
+    <titles>
+      <title>ഒരു ചെറു താരകംപോൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഒരു ചെറു താരകംപോൽ<br/>ഒരു ചെറു കൈത്തിരിപോൽ<br/>വിളങ്ങേണം നിനക്കായെൻ<br/>നാളുകൾ തീരും വരെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എൻകുറവുകൾ ഓർക്കാതെ<br/>എൻവീഴ്ചകൾ കണക്കിടാതെ<br/>നിൻകൃപകൾ ചൊരിഞ്ഞെന്നെ<br/>നിൻപാതേ നടത്തിടണേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പലവിധമാം ശോധനയിൻ<br/>വലയിൽ ഞാൻ വീണിടുമ്പോൾ<br/>വലഞ്ഞിടാതെ നിന്നിടുവാൻ<br/>ബലം എനിക്കേകിടണേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എൻ താലന്തുകൾ അഖിലം<br/>എൻമാനവും ധനവുമെല്ലാം<br/>എൻജീവിതം സമ്പൂർണ്ണമായ്<br/>നിൻമുമ്പിൽ സമർപ്പിക്കുന്നേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പെരും താപത്താൽ അലഞ്ഞിടുമ്പോൾ<br/>വെറും നാമമാത്രമായ് തീരുമ്പോൾ<br/>ഇരുകരങ്ങളാൽ താങ്ങിയെന്നെ<br/>തിരുമാർവ്വോടണച്ചിടണേ.</lines>
+    </verse>
+  </lyrics>
+</song>

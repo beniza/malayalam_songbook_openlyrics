@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:12">
+  <properties>
+    <titles>
+      <title>നിന്നോടെൻ ദൈവമേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിന്നോടെൻ ദൈവമേ! ഞാൻ ചേരട്ടെ!<br/>നിൻക്രൂശു ഞാൻ വഹിക്കെന്നാലുമേ<br/>എൻഗീതം എന്നുമേ, നിന്നോടെൻ ദൈവമേ!<br/>നിന്നോടെൻ ദൈവമേ! ഞാൻ ചേരട്ടെ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദാസൻ യാക്കോബെപ്പോൽ രാക്കാലത്തിൽ<br/>വൻകാട്ടിൽ കല്ലിന്മേൽ ഉറങ്ങുകിൽ<br/>എൻ സ്വപ്നത്തിലുമേ!നിന്നോടെൻ ദൈവമേ!<br/>നിന്നോടെൻ ദൈവമേ! ഞാൻ ചേരട്ടെ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീ എന്നെ നടത്തും പാത എല്ലാം<br/>വിൺ എത്തും ഏണിപോൽ പ്രകാശമാം<br/>ദൂതർ വിളിക്കുന്നു നിന്നോടെൻ ദൈവമേ!<br/>നിന്നോടെൻ ദൈവമേ! ഞാൻ ചേരട്ടെ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉണർന്നു ഞാൻ നിന്നെ സ്തുതിച്ചിടും<br/>കൽത്തലയിണയെ ബെഥേലാക്കും<br/>എൻ തുമ്പത്തിലുമേ നിന്നോടെൻ ദൈവമേ!<br/>നിന്നോടെൻ ദൈവമേ! ഞാൻ ചേർന്നിടും!</lines>
+    </verse>
+  </lyrics>
+</song>

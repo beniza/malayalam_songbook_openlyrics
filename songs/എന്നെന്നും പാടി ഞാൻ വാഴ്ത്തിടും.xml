@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:57">
+  <properties>
+    <titles>
+      <title>എന്നെന്നും പാടി ഞാൻ വാഴ്ത്തിടും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നെന്നും പാടി ഞാൻ വാഴ്ത്തിടും<br/>എൻരക്ഷകനാം യേശുവിനെ<br/>തന്നുടെ നാമത്തെ കീർത്തിക്കും ഞാൻ<br/>എന്റെ ആയുസ്സിൻനാളെല്ലാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നെത്തൻ തങ്കച്ചോരയാൽ വീണ്ടെടുത്തെന്തൊരത്ഭുതം<br/>എന്നെ നിത്യവും കാത്തിടും തന്നുടെ സ്നേഹം ഹാ! വർണ്ണ്യമോ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൂരിരുളേറും പാതയിൽ തൻമുഖത്തിൻശോഭ കാണും ഞാൻ<br/>ഈ മരുയാത്രയിൽ ചാരുവാൻ കർത്തനല്ലാതെയിന്നാരുള്ളു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അല്ലലേറിടുമ്പോൾ താങ്ങുവാൻ നല്ലൊരു കൂട്ടാളി യേശു താൻ<br/>ഞാൻ സദാ തന്നുടെ ചാരത്തു മേവിടും നാളകലമല്ല.</lines>
+    </verse>
+  </lyrics>
+</song>

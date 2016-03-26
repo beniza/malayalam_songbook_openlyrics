@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:37">
+  <properties>
+    <titles>
+      <title>ഗീതം ഗീതം ജയ ജയ ഗീതം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഗീതം ഗീതം ജയ ജയ ഗീതം പാടുവിൻ സോദരരേ- നമ്മൾ<br/>യേശുരാജൻ ജീവിക്കുന്നതിനാൽ ജയഗീതം പാടിടുവിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപം ശാപം സകലവും തീർപ്പാൻ അവതരിച്ചിഹ നമുക്കായ് -ദൈവ<br/>കോപത്തീയിൽ വെന്തരിഞ്ഞവനാം രക്ഷകൻ ജീവിക്കുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉലകമഹാന്മാരഖിലരുമൊരുപോൽ ഉറങ്ങുന്നു കല്ലറയിൽ- നമ്മൾ<br/>ഉന്നതനേശു മഹേശ്വരൻ മാത്രം ഉയരത്തിൽ വാണിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കലുഷതയകറ്റി കണ്ണുനീർ തുടപ്പിൻ ഉത്സുകരായിരിപ്പിൻ- നമ്മൾ<br/>ആത്മനാഥൻ ജീവിക്കവേ ഇനി അലസത ശരിയാമോ?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വാതിൽകളേ നിങ്ങൾ തലകളെ ഉയർത്തിൻ<br/>വരുന്നിതാ ജയരാജൻ- നിങ്ങൾ<br/>ഉയർന്നിരിപ്പിൻ കതകുകളേ<br/>ശ്രീയേശുവെ സ്വീകരിപ്പാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:00">
+  <properties>
+    <titles>
+      <title>ഏതു നേരവുമേശുനാഥൻ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഏതു നേരവുമേശുനാഥനെന്നാശ്രയമതാലേതുമേ<br/>ഭീതി കൂടാതെ പാരിതിലധിവാസം ഞാൻ തുടർന്നിടുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സാത്താനോരോരോ തന്ത്രങ്ങൾ മൂലം<br/>താഴ്ത്താനായ് സമീപിച്ചാലും<br/>കൈത്താങ്ങൽ തന്നുയർത്തിടുന്നേശു<br/>ക്രിസ്തനാം കരുത്തുള്ളവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വൻനിരാശകൾ വന്നെൻ മാനസേ<br/>വാണിടാൻ തുടങ്ങിടുമ്പോൾ<br/>എന്നിലുമെൻ പിതാവിലും<br/>നമ്പുകെന്നവനൻപോടോതിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആവശ്യങ്ങളലട്ടിടുന്നൊരു നേരത്തു തന്റെ ചാരത്തു<br/>ആശ്വാസം തേടി ഞാനണഞ്ഞിടും<br/>താനെനിക്കൊരു സമ്പത്ത്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രോഗങ്ങൾ ദേഹമാക്രമിക്കിലും<br/>ശോകമില്ലതിലൊന്നിലും<br/>ജീവദായകനേശു നായകനെൻ<br/>സഹായകനെപ്പോഴും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എന്റെ നാടിവിടിന്നില്ല ഭൂമി ത<br/>ന്റെ നാടാകുമന്നല്ലാ<br/>താനന്ദം ഭൂമിവാസത്തിലില്ല<br/>താനെന്റെ പരമാനന്ദം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>പാപിയിൽ കനിയും പാവന ദേവാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാപിയിൽ കനിയും പാവന ദേവാ!<br/>പാദം പണിഞ്ഞിടുന്നേൻ...<br/>പാപിയാമെന്നെ സ്നേഹിച്ചോ നീ<br/>പാരിലെന്നെ തേടി വന്നോ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദുഷ്ടനരനായ് ദൂഷണം ചെയ്തു<br/>ദൂരമായിരുന്നേൻ...<br/>തേടിയോ നീ എന്നെയും വൻ<br/>ചേറ്റിൽ നിന്നുയർത്തിയോ നീ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എൻപാപം തീർപ്പാൻ പരലോകം ചേർപ്പാൻ<br/>ഹീന നരനായ് നീ...<br/>എന്തു ഞാനിതിനീടു നൽകിടും?<br/>എന്നും നിന്നടിമയാം ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിണ്ണിൻ മഹിമ വെടിഞ്ഞു നീയെന്നെ<br/>വിണ്ണിൽ ചേർത്തിടുവാൻ...<br/>നിർണ്ണയം നിൻ സേവയെന്യേ<br/>ഒന്നുമില്ലിനിയെൻ മോദം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാപത്തിൻ ഫലമാം മരണത്തിൻ ഭയത്തെ<br/>ജയിച്ചവൻ നീയൊരുവൻ...<br/>ജീവനും സമാധാനവും എൻ<br/>സർവ്വവും നീയേ നിരന്തം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മായയാം ഉലകിൻ വേഷവിശേഷം<br/>വെറുത്തേൻ ഞാനഖിലം...<br/>നിസ്തുലം നിൻസ്നേഹമെൻ മനം<br/>അത്രയും കവർന്നു നാഥാ.</lines>
+    </verse>
+  </lyrics>
+</song>

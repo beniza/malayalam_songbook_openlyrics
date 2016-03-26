@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:03">
+  <properties>
+    <titles>
+      <title>ക്രൂശുമെടുത്തു ഞാൻ യേശു രക്ഷകനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രൂശുമെടുത്തു ഞാൻ യേശു രക്ഷകനെ<br/>ക്ലേശങ്ങൾ വന്നാലും പിൻചെല്ലുമേ<br/>എൻ ക്രൂശുമെടുത്തു ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദുഃഖത്തിൻ താഴ്വരയിൽ കഷ്ടത്തിൻ കാരിരുളിൽ<br/>തൃക്കൈകളാൽ താങ്ങി കർത്താവുതാൻ കാത്തു<br/>എക്കാലവുമെന്നെ നടത്തുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉള്ളം കലങ്ങിടിലും ഉറ്റവർ മാറിടിലും<br/>വേണ്ടാ വിഷാദങ്ങൾ യേശുവിൻ മാറിടം<br/>ഉണ്ടെനിക്കു ചാരി വിശ്രമിപ്പാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എൻ ജീവവഴികളിൽ ആപത്തു നാളുകളിൽ<br/>എന്നെ കരുതുവാൻ എന്നെന്നും കാക്കുവാൻ<br/>എൻ യേശു രക്ഷകൻ മതിയല്ലോ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലോകം വെറുത്താലുമെൻ ദേഹം ക്ഷയിച്ചാലുമേ<br/>മൃത്യുവിൻ നാൾവരെ ക്രിസ്തുവിൻ ദീപമായ്<br/>ഇദ്ധരയിൽ കത്തി തീർന്നെങ്കിൽ ഞാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കർത്താവിൻ സന്നിധിയിൽ എത്തും പ്രഭാതത്തിൽ ഞാൻ<br/>കണ്ണീരെല്ലാമന്നു പൂർണ്ണമായ് തീർന്നെന്നും<br/>നിത്യതയിൽ ക്രിസ്തൻ കൂടെ വാഴും.</lines>
+    </verse>
+  </lyrics>
+</song>

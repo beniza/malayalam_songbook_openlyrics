@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:46">
+  <properties>
+    <titles>
+      <title>യേശുവേ നിന്തിരു വചനമിപ്പോൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവേ നിന്തിരു വചനമിപ്പോൾ<br/>ആശിഷമോടു നൽകിടണമേ<br/>മറിയയെപ്പോൽ നിൻ തിരുപ്പാദത്തിൽ<br/>ഇരുന്നുകൊണ്ടാശയിൽ നിന്നെ നോക്കുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തിരുവെഴുത്തുകളോടു ദിവ്യശക്തിയും<br/>അറിയാഞ്ഞാലടിയങ്ങൾ പിഴച്ചിടുമേ<br/>കരുണയോടെ നീ ബുദ്ധി തുറന്നു<br/>മറപൊരുളായതു തെളിവാക്കുകേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അനുസരിച്ചിടുന്നൊരു മനസ്സുള്ളോരായ്<br/>മനുജന്റേതല്ലിതു പരൻ വചനം<br/>എന്നെല്ലാപേരും അനുഭവിപ്പാൻ<br/>വന്നു നിൻശക്തിയാലരുളിടുക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിൻതിരു സത്യത്തെ ഹൃദയമതിൽ<br/>പിന്തിരിയാതെ കൈക്കൊണ്ടിടുവാൻ<br/>ഇന്ദ്രിയങ്ങളെല്ലാം ക്രമപ്പെടുത്തി<br/>നിൻവിശുദ്ധാത്മാവാൽ ഭരിക്കേണമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വേദത്തിൻ കാതലാം നിന്നിൽ<br/>ഞങ്ങൾ ഭേദമില്ലാതെ വസിച്ചിടുവാൻ<br/>ഖേദമുള്ള എല്ലാ വഴികളെയും<br/>ബോധം വരുത്തുക പരിശുദ്ധനേ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വിണ്ണിൽ നിൻതിരുമുഖം കാണുംവരെ<br/>മണ്ണിൽ ജീവിക്കും നാളെന്നും ഞങ്ങൾ<br/>കണ്ണാടിയാം നിന്റെ സുവിശേഷത്തിൽ<br/>നിന്നെക്കണ്ടാശയിൽ ആനന്ദിപ്പാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

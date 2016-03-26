@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>സ്തുതിക്കു യോഗ്യൻ നീയേ ജന</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതിക്കു യോഗ്യൻ നീയേ ജന<br/>സ്തുതിക്കു യോഗ്യൻ നീയേ സുര<br/>സ്തുതിക്കു യോഗ്യൻ നീയേ<br/>നിത്യജീവനാഥാ സ്തുതിക്കു യോഗ്യൻ നീയേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വിണ്ണുലകം വിട്ടിറങ്ങി<br/>മണ്ണുലകിൽ വന്നെനിക്കു<br/>പൂർണ്ണദയ ചെയ്തതിനാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഘോരമായ പാപശാപം<br/>ധീരമനസ്സോടു വഹിച്ചോരു<br/>പരമേശസുനോ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാരം ധനിയ‍ായനീ<br/>നീസ്സാരനാമെനിക്കുവേണ്ടി<br/>തീരെ ദരിദ്രത്വമാർന്നായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ക്രൂശു മരണം സഹിച്ചു<br/>തേജോമയനായ് ഭവിച്ചു<br/>നാശകനെ സംഹരിച്ചു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിന്നുയിർപ്പിൻ ജീവനെന്നിൽ<br/>വന്നു നിറഞ്ഞുന്നതന്റെ<br/>ധന്യത വിളങ്ങിടട്ടെ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>എന്നാളിൽ നീ വീണ്ടുംവരു-<br/>മന്നാൾ നിന്നിൽ ഞങ്ങൾ ചേരു-<br/>മെന്നാലതുമാത്രം പോരും</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഹാ! നിൻവരവിങ്കലെന്നെ<br/>ഓർമ്മിപ്പതെന്നാശതന്നെ<br/>ഞാനും സ്തുതിക്കുന്നു നിന്നെ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>ജ്ഞാനബഹുമാനധന-<br/>മൂനമില്ലാത്തവൻ മഹത്വം<br/>നൂനം നിനക്കെന്നുമെന്നും.</lines>
+    </verse>
+  </lyrics>
+</song>

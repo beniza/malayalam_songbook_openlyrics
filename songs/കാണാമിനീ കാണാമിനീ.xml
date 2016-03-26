@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>കാണാമിനീ കാണാമിനീ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാണാമിനീ കാണാമിനീ<br/>യെന്നാനന്ദമാമെന്നേശുവിനെ<br/>കാണും ഞാനിനി</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആണിയെനിക്കായ് തുളച്ച തന്നിരു<br/>പാണികൾ മുത്തിടുവാൻ<br/>കണ്ണീരെനിക്കായൊലിച്ച നിൻ<br/>മുഖം കണ്ടു നിന്നീടുവാൻ<br/>കാത്തു കാത്തു പാർത്തിടുന്നു ഞാൻ<br/>കാന്താ വരുവാൻ കാലമാകുമോ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വീഴ്ചഫലമാം ശാപം തന്റെ<br/>വാഴ്ചയിൽ തീർന്നിടുമേ<br/>താഴ്ചയുള്ളെൻ ദേഹമന്നു തീർച്ചയായ് മാറും<br/>കാത്തു കാത്തു പാർത്തിടുന്നു ഞാൻ<br/>കാന്താ വരുവാൻ കാലമാകുമോ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇന്നു മന്നിൽ പാർക്കും നാൾകൾ<br/>എന്നു ഖിന്നതയാം<br/>വന്നു പരമനവൻ പുതിയ വീട്ടിൽ ചേർത്തിടുമോ<br/>കാത്തു കാത്തു പാർത്തിടുന്നു ഞാൻ<br/>കാന്താ വരുവാൻ കാലമാകുമോ!</lines>
+    </verse>
+  </lyrics>
+</song>

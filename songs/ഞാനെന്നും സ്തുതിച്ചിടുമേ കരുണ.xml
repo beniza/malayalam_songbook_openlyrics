@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>ഞാനെന്നും സ്തുതിച്ചിടുമേ കരുണ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഞാനെന്നും സ്തുതിച്ചിടുമേ കരുണ നിറഞ്ഞവനേശുവിനെ<br/>പാടിടും ഞാൻ പാരിലീനാളിൽ പാവനനേശു മഹേശനെയെന്നും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിന്നാഴിയിൽ കിടന്നയെന്നെ<br/>പാടുപെട്ടേശു കരകയറ്റി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കുരിശതിൽ മരിച്ചവനെൻപേർക്കായ്<br/>തിരുനിണം ചൊരിഞ്ഞിതാ വീണ്ടെടുത്തു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വാഗ്ദത്തം തന്നവൻ വിശ്വസ്തനാം<br/>വന്നിടും എന്നെ ചേർത്തിടുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

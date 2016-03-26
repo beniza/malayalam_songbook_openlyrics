@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:08">
+  <properties>
+    <titles>
+      <title>ഞാനെന്നും സ്തുതിക്കും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഞാനെന്നും സ്തുതിക്കും<br/>എൻപരനെ തിരുമനുസുതനെ<br/>ആനന്ദഗാനങ്ങൾ പാടിപ്പുകഴ്ത്തി</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻശാപത്തിൽ നിന്നും എന്റെ<br/>പ്രാണനെ കാത്തവനെന്നും<br/>പാരിൽ തൻ അൻപിന്നു തുല്യമില്ലൊന്നും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നൽകിയവൻ രക്ഷാദാനം തന്നിൽ<br/>കണ്ടുഞാൻ ദൈവികജ്ഞാനം<br/>തൻ പദസേവയതെന്നഭിമാനം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തൻ തിരു സന്നിധൗ വീണേ എന്റെ<br/>ഖിന്നത തീരൂ; നേരാണേ<br/>തൻ മൊഴിയെൻ നെഞ്ചിൽ തൂകുന്ന തേനേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആയിരം നാവുകളാലും പതി<br/>നായിരം വാക്കുകളാലും<br/>ഹാ! ദിവ്യ സ്നേഹവമവർണ്ണ്യമാരാലും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിത്യത തന്നിൽ ഞാനെത്തും തന്റെ<br/>സ്തുത്യപദങ്ങൾ ഞാൻ മുത്തും<br/>ഭക്തിയിലാനന്ദക്കണ്ണുനീർ വീഴ്ത്തും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>മംഗളമായിനി വാഴും നമ്മളെല്ലാരും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1 v10 v1 v11 v1 v12 v1 v13 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മംഗളമായിനി വാഴും നമ്മളെല്ലാരും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇങ്ങു ശാപം നിറഞ്ഞ ഭൂ നീങ്ങി പുതുതായിടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇവ്വിഷാണുക്കളകന്നു വാനം ശുദ്ധമായിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കണ്ണുനീരും മുറവിളി തെല്ലുമില്ലാതാമിനി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ജീവജലനദിയന്നാളോടും പുണ്യഭൂമിയിൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ജീവവൃക്ഷമവിടെന്നും കായിച്ചിടും പുഷ്ടിയായ്</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ആയതിൻ തണലിലിരു ന്നാശ്വസിക്കാം വത്സരേ!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>എന്നുമെന്നും നൃപന്മാരായ്‌ വാഴും നമ്മൾ ഭൂമിയിൽ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>നിങ്ങളോടു കൂടിയെന്നെ കാണും ഞാനെൻ വത്സരേ</lines>
+    </verse>
+    <verse name="v10">
+      <lines>കാണുമെന്നെ നിങ്ങളുമാ ശാലേം രാജധാനിയിൽ</lines>
+    </verse>
+    <verse name="v11">
+      <lines>നിങ്ങളുടെ പൊന്നുമുഖം ചുംബിക്കും ഞാനാസ്ഥലേ</lines>
+    </verse>
+    <verse name="v12">
+      <lines>പൂതിഗന്ധം നിറയുമീ ദേഹം തകർന്നിടുമേ</lines>
+    </verse>
+    <verse name="v13">
+      <lines>പുത്തനാകും ശരീരത്തെ ദത്തം ചെയ്യും നായകൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

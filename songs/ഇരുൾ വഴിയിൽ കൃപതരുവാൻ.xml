@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:02">
+  <properties>
+    <titles>
+      <title>ഇരുൾ വഴിയിൽ കൃപതരുവാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇരുൾ വഴിയിൽ കൃപതരുവാൻ വരുമേശു നമുക്കരികിൽ<br/>ഇതുപോൽ നല്ലോരാരുമില്ല ഹല്ലെലുയ്യായെന്നാർത്തിടുവിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വരണ്ടഭൂമിയാനന്ദിക്കും ഇരുണ്ടദേശം വെളിച്ചം വീശും<br/>പുതുമലർ പൂക്കും ദൈവകൃപയാർക്കും ജയമരുളും വിനയകറ്റും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തളർന്നകൈയ്കൾ ബലപ്പെടുത്താം കുഴഞ്ഞകാലുകൾ ഉറപ്പിക്കാം നാം<br/>ഭയമില്ലാതെയിനി മുന്നേറാം സർവ്വവല്ലഭൻ കൂടെയുണ്ടവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കുരുടർ കാണും ചെകിടർ കേൾക്കും മുടന്തർ ചാടും ഊമർ പാടും<br/>ദൈവം നല്ലവൻ എന്നും വല്ലഭൻ അവൻ മതിയേ വ്യഥവരികിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിശുദ്ധപാത ജീവപാത അശുദ്ധരതിലേ പോകയില്ല<br/>വഴി തെറ്റാതെ ആരും നശിക്കാതെ ദൈവജനങ്ങൾ ചേരും സീയോനിൽ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആനന്ദഭാരം ശിരസ്സിൽ പേറി ആകുലങ്ങളകന്നു മാറി<br/>ആത്മപ്രിയൻകൂടെയെന്നും പിരിയാതെവസിച്ചിടും നാം നിത്യകാലം.</lines>
+    </verse>
+  </lyrics>
+</song>

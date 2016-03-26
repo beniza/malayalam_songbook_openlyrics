@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:15">
+  <properties>
+    <titles>
+      <title>നിനക്കായ് കരുതും അവൻ നല്ല ഓഹരി</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിനക്കായ് കരുതും അവൻ നല്ല ഓഹരി<br/>കഷ്ടങ്ങളിൽ നല്ല തുണ യേശു<br/>കണ്ണുനീരവൻ തുടയ്ക്കും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വഴിയൊരുക്കുമവൻ ആഴികളിൽ<br/>വലങ്കൈ പിടിച്ചെന്നെ വഴിനടത്തും<br/>വാതിലുകൾ പലതും അടഞ്ഞിടിലും<br/>വല്ലഭൻ പുതുവഴി തുറന്നിടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാഗ്ദത്തം നമ്മുടെ നിക്ഷേപമേ<br/>വാക്കു പറഞ്ഞവൻ മാറുകില്ല<br/>വാനവും ഭൂമിയും മാറിടുമേ<br/>വചനങ്ങൾക്കോ ഒരു മാറ്റമില്ല.</lines>
+    </verse>
+  </lyrics>
+</song>

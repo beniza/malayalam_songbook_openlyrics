@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:09">
+  <properties>
+    <titles>
+      <title>യേശുമഹോന്നതനേ നിനക്കു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുമഹോന്നതനേ നിനക്കു<br/>സ്തോത്രമുണ്ടാകയെന്നേക്കും ആമേൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീചരാം ഞങ്ങളെ വീണ്ടിടുവാൻ<br/>വാനലോകം വെടിഞ്ഞാശു വന്നു<br/>താണു നരാകൃതി പൂണ്ടതിനെ<br/>പ്രാണനാഥാ നിനച്ചാദരവായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാനസേനാദികളിൽ സ്തുതിയും<br/>ആനന്ദമാം സ്വർഗ്ഗഭാഗ്യമതും<br/>ഹീനരായീടുമീ ഞങ്ങളുടെ<br/>ഊനമകറ്റുവാനായ് വെടിഞ്ഞോ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഭൂതലേ ദാസനായ് നീ ചരിച്ചു<br/>പാപികളെ കനിവായ് വിളിച്ചു<br/>നീതിയിൻ മാർഗ്ഗമെല്ലാമുരച്ചു<br/>വേദനയേറ്റവും നീ സഹിച്ചു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാപനിവാരകനായ നിന്മേൽ<br/>പാപമശേഷവുമേറ്റുകൊണ്ട്<br/>പാപത്തിൻ യാഗമായ് ചോരചിന്തി<br/>പാരിൻ മദ്ധ്യേ കുരിശിൽ മരിച്ചു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഈയുപകാരമെന്റെ മനസ്സിൽ<br/>സന്തതമോർത്തു നിന്നോടണഞ്ഞു<br/>ലോകയിമ്പങ്ങളെ തള്ളിടുവാൻ<br/>നീ കൃപചെയ്ക ദിനംപ്രതി മേ.</lines>
+    </verse>
+  </lyrics>
+</song>

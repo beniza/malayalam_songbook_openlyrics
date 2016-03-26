@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:59">
+  <properties>
+    <titles>
+      <title>രക്ഷകനേ! നിന്റെ പക്ഷമായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>രക്ഷകനേ! നിന്റെ പക്ഷമായ്<br/>ഞാനിക്ഷിതിയിൽ<br/>നിശ്ചയമായ് നിശ്ചയമായ്<br/>നിൽക്കുമെന്നായുസ്സിൻ നാളെല്ലാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സത്യവും ജീവനും മാർഗ്ഗവുമായ നിൻ<br/>പക്ഷമായ് നിൽക്കുന്നോർ ലജ്ജിതരാകുമോ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ചത്തുമണ്ണായിടും മർത്യനേതാക്കളോ<br/>ടൊത്തുവസിച്ചവർ ഓർത്തുനിരാശരാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഒഴിയുമാകാശവും ഭൂമിയുമെങ്കിലും<br/>ഒഴിഞ്ഞുപോകാത്ത നിൻ<br/>മൊഴികളാണെൻ ബലം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വൈരിയിൻ പോരുകളേറി വരുമ്പോഴും<br/>ധൈര്യമെനിക്കു നീ തരുമതു നിശ്ചയം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പലവിധ ദുഃഖങ്ങൾ ഉലകിലുണ്ടായാലും<br/>അലയാത്തതെന്നും നിന്നരികിൽ ഞാനാകയാൽ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നിത്യത തന്നിൽ ഞാനെത്തുന്ന നേരത്തും<br/>നിൽക്കും നിൻ ചാരത്തു മുത്തും<br/>നിൻപാദത്തിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

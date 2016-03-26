@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:37">
+  <properties>
+    <titles>
+      <title>യേശുവെപ്പോലൊരു ദൈവമുണ്ടോ?</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവെപ്പോലൊരു ദൈവമുണ്ടോ?<br/>ക്രിസ്തേശുവെപ്പോലൊരു<br/>ദൈവമുണ്ടോ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സൂര്യനും ചന്ദ്രനും ഉഡുഗണവും<br/>സുന്ദരമായി ചമച്ചവൻ നീ<br/>സൗരഭ്യമേകും നറുമലരും<br/>സുന്ദരമായി ചമച്ചവൻ നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കന്യകമേരിയിലുരുവായി<br/>കാലിത്തൊഴുത്തിൽ പിറന്നു പരൻ<br/>കാറ്റിനെ ശാസിച്ചു അമർത്തിയവൻ<br/>കടലലകളിന്മേൽ നടന്നു പരൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അഞ്ചപ്പത്താലയ്യായിരം പേർക്ക്<br/>ആഹാരം തൃപ്തിയായ് നൽകിയവൻ<br/>അദ്ധ്വാനിക്കുന്നോർക്കുമലഞ്ഞവർക്കും<br/>അത്താണിയായവൻ നീയൊരുവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മാനവരക്ഷയ്ക്കായ് കുരിശി ‍േന്മേൽ<br/>മന്നവനായ്ത്തീർന്നു മരിച്ചുയിർത്തു<br/>വാനവനായോനേ യേശുനാഥാ!<br/>മാനമഹത്വങ്ങൾ നിനക്കുതന്നെ.</lines>
+    </verse>
+  </lyrics>
+</song>

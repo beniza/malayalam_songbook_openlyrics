@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>ഉല്ലാസമായ് നടക്കും സഹോദരാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉല്ലാസമായ് നടക്കും സഹോദരാ! നല്ലപോൽ ചിന്തചെയ്ക<br/>പുല്ലിൻ പൂ പോലെ നിന്റെ പ്രഭാവങ്ങളെല്ലാമൊഴിഞ്ഞിടുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നല്ല സുഖം ബലവും നിനക്കുണ്ടെന്നല്ലോ നിനയ്ക്കുന്നു നീ?<br/>തെല്ലുനേരത്തിനുള്ളിലവയൊന്നുമില്ലാതെയായ് ഭവിക്കാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മല്ലന്മാരായുലകിൽ ജീവിച്ചവരെല്ലാമിപ്പോളെവിടെ?<br/>നല്ലപോൽ ചിന്തിക്ക നീ അവർ ശവക്കല്ലറയിലല്ലയോ?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എല്ലാ ജനങ്ങളെയും വയലിലെ പുല്ലിനു തുല്യമായി<br/>ചൊല്ലുന്നു സത്യവേദം ലവലേശമില്ല വ്യത്യാസമതിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കല്ലുപോലെ കടുത്ത നിൻഹൃദയം തല്ലിയുടപ്പതിന്നായ്<br/>ചെല്ലുക യേശുപാദേ അവൻ നിന്നെ തള്ളുകില്ല ദൃഢം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വല്ലഭനേശുവിനെ സ്നേഹിക്കുക ഇല്ലയോ സ്നേഹിതാ നീ?<br/>നല്ലിടയൻ നിനക്കായ് ജീവൻ വെടിഞ്ഞില്ലയോ ക്രൂശതിന്മേൽ!</lines>
+    </verse>
+  </lyrics>
+</song>

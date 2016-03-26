@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>സത്യത്തിന്റെ പാതയിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സത്യത്തിന്റെ പാതയിൽ<br/>സ്നേഹത്തിൻ കൊടിയുമായ്<br/>സാക്ഷികൾ സമൂഹമേ മുന്നേറിടാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഏകനാഥൻ യേശുവിൻ ജേതാക്കളെ<br/>ഏകാത്മാവിൻ ബലം ധരിക്കുവിൻ<br/>ശുദ്ധരാകുവിൻ ശക്തരാകുവിൻ<br/>ഘോരനായ ശത്രുവോടു പോരാടുവിൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആത്മാവിൻ സർവ്വായുധങ്ങൾ നാം ധരിക്കണം<br/>വിശ്വസമാം പരിച ഏന്തണം<br/>അരയ്ക്കു സത്യവും നീതി കവചവും<br/>രക്ഷയിൻ ശിരസ്ത്രവുമണിഞ്ഞൊരുങ്ങണം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തിന്മകൾ നമുക്കു നേരിടേണ്ടതുണ്ടുനാം<br/>നന്മകളാൽ ജയം വരിക്കേണം<br/>പാപത്തോടു നാം പോരാടണം<br/>പ്രാണത്യാഗത്തോളമെതിർത്തു നിൽക്കണം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശത്രുവോടെതിർക്കുവാൻ ജയം നേടുവാൻ<br/>ആത്മാവിൻശക്തി സംഭരിക്കുവാൻ<br/>ഉപവസിക്കണം പ്രാർത്ഥിക്കണം<br/>ഇടവിടാതെ സ്തോത്രത്തിൽ ജാഗരിക്കണം</lines>
+    </verse>
+  </lyrics>
+</song>

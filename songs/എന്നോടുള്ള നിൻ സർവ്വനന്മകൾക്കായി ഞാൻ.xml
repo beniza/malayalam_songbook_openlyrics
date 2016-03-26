@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>എന്നോടുള്ള നിൻ സർവ്വനന്മകൾക്കായി ഞാൻ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നോടുള്ള നിൻ സർവ്വനന്മകൾക്കായി ഞാൻ<br/>എന്തു ചെയ്യേണ്ടുനിനക്കേശുപരാ ! ഇപ്പോൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നന്ദികൊണ്ടെന്റെയുള്ളം നന്നേ നിറയുന്നേ<br/>സന്നാഹമോടെ സ്തുതി പാടിടുന്നേൻ- ദേവാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപത്തിൽ നിന്നു എന്നെ കോരിയെടുപ്പാനായ്<br/>ശാപ ശിക്ഷകളേറ്റ ദേവാത്മജ- മഹാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്നെയൻപോടു ദിനംതോറും നടത്തുന്ന<br/>പൊന്നിടയന്നനന്തം വന്ദനമേ- എന്റെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്ത്യം വരെയുമെന്നെ കാവൽ ചെയ്തിടുവാൻ<br/>അന്തികേയുള്ള മഹൽശക്തി നീയേ- നാഥാ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>താതൻ സന്നിധിയിലെൻ പേർക്കു സദാ പക്ഷ<br/>വാദം ചെയ്യുന്ന മമ ജീവനാഥാ- പക്ഷ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>കുറ്റം കൂടാതെയെന്നെ തേജസ്സിൻ മുമ്പാകെ<br/>മുറ്റും നിറുത്താൻ കഴിവുള്ളവനേ- എന്നെ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>മന്നിടത്തിലടിയൻ ജീവിക്കും നാളെന്നും<br/>വന്ദനം ചെയ്യും തിരുനാമത്തിന്നു- ദേവാ.</lines>
+    </verse>
+  </lyrics>
+</song>

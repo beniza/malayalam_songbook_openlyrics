@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:12">
+  <properties>
+    <titles>
+      <title>നിദ്രകൊണ്ട ഭക്തരെയോർത്തിനിയും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>v1. നിദ്രകൊണ്ട ഭക്തരെയോർത്തിനിയും<br/>വ്യർത്ഥമായി വ്യാകുലപ്പെടേണ്ടഹോ<br/>ഭദ്രമായവർ കർത്തൃ കരങ്ങളിൽ<br/>നിത്യപറുദീസിൽ (3)വിശ്രമിക്കുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിദ്രകൊണ്ടവരിലാദ്യഫലമായ്<br/>ക്രിസ്തു ഉയിർത്തെഴുന്നേ-റ്റായതുപോൽ<br/>ക്രിസ്തുവിൽ നിദ്രകൊണ്ടവരേവരും<br/>ക്രിസ്തുവോടൊന്നിച്ചു (3)യിർക്കുമറിക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാഹളം ധ്വനിച്ചിടും മദ്ധ്യവാനിൽ<br/>മരിച്ചവരക്ഷയരായുയിർക്കും<br/>ജീവനുള്ളവർ രൂപാന്തരപ്പെടും<br/>രൂപാന്തരപ്പെടും(3)ഒന്നിക്കുമവർ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഈ മൺകൂടാരം നാം വിട്ടുപിരിയും<br/>ആത്മാവോ പറന്നുയരും ഗഗനേ<br/>തേജോരൂപരായ് ദേഹസഹിതരായ്<br/>തേജസ്സിൻ കർത്താവെ (3)കാണുമൊടുവിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കണ്ണുനീരെല്ലാം തുടച്ചുകളയും<br/>തന്മാറോടവൻ നമ്മെ ചേർത്തണയ്ക്കും<br/>കോടാകോടി വിശുദ്ധരോടൊത്തു നാം പാടും ഗീതങ്ങൾ<br/>നാം പാടും ഗീതങ്ങൾ (3)നിത്യ യുഗങ്ങൾ.</lines>
+    </verse>
+  </lyrics>
+</song>

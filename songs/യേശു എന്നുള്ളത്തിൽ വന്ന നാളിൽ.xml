@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:50">
+  <properties>
+    <titles>
+      <title>യേശു എന്നുള്ളത്തിൽ വന്ന നാളിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു എന്നുള്ളത്തിൽ വന്ന നാളിൽ<br/>എന്തു മാറ്റം വന്നു എന്നിൽ!<br/>തന്നെ ഞാനുള്ളത്തിൽ ഏറ്റതാലെ<br/>എന്തുമോദം വന്നു എന്നിൽ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വൻ വിനകൾ തൻ നടുവിൽ സഹായമേകി<br/>എന്റെ പാപശാപമെല്ലാം തൻമേലേറ്റി<br/>ക്രൂശിൽ തൻ ചോരയെൻ പേർക്കായൂറ്റി<br/>എന്തു മാറ്റം വന്നു എന്നിൽ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പൊൻനിണം ത-ന്നെൻ വിലയായ് വീണ്ടുകൊൾവാൻ<br/>എന്നുമെന്നും ഞാനവന്റേതൊന്നു മാത്രം<br/>ദേഹമെൻ ദേഹിയെന്നാത്മാവും<br/>എന്തു മാറ്റം വന്നു എന്നിൽ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എൻവഴിയിൽ ദുർഘടങ്ങൾ എല്ലാം നീങ്ങി<br/>എന്റെയാശ എന്റെ ലാക്കും ഒന്നു മാത്രം<br/>ഇല്ലിനി മൃത്യുവിൻ ഭീതിയെന്നചന്റ<br/>എന്തു മാറ്റം വന്നു എന്നിൽ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>രാത്രികാലം തീർന്നിടാറായ് പ്രഭാതമെത്തി<br/>പ്രഭാതതാരം യേശു വാനിൽ വന്നിടാറായ്<br/>എന്നുമെൻ ഗാനമിതൊന്നുമാത്രം<br/>എന്തു മാറ്റം വന്നു എന്നിൽ!</lines>
+    </verse>
+  </lyrics>
+</song>

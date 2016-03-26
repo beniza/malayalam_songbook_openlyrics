@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>പരനേ നിൻ തിരുമുമ്പിൽ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരനേ നിൻ തിരുമുമ്പിൽ വരുന്നോരീ സമയേ<br/>ശരിയായ് പ്രാർത്ഥന ചെയ്‌വാൻ കൃപ നൽകിടണമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഞരങ്ങി ഞങ്ങളിൻ പേർക്കായിരന്നിടും പരനേ<br/>വരികിന്നീയടിയാരിൽ ചൊരിക നിൻ വരങ്ങൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അനുഗ്രഹമുറിയിൻ പൂട്ടുകൾ താനേ തുറപ്പാൻ<br/>കനിവോലുന്നൊരേശുവിൻ മനസ്സെന്നിൽ തരിക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉണർത്തിക്കും വരമെല്ലാം ക്ഷണം തന്നിടണമേ<br/>തുണ നീയെന്നിയെ വേറാരുമില്ലെന്നോർക്കണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

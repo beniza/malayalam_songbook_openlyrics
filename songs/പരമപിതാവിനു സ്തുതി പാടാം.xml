@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>പരമപിതാവിനു സ്തുതി പാടാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരമപിതാവിനു സ്തുതി പാടാം<br/>അവനല്ലോ ജീവനെ നൽകിയവൻ<br/>പാപങ്ങളാകവേ ക്ഷമിച്ചിടുന്നു<br/>ശോകങ്ങളഖിലവും നീക്കിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇടയനെപ്പോൽ നമ്മെ തേടിവന്നു<br/>പാപക്കുഴിയിൽ നിന്നേറ്റിയവൻ<br/>സ്വന്തമാക്കി നമ്മെ തീർത്തിടുവാൻ<br/>സ്വന്തരക്തം നമുക്കായ് ചൊരിഞ്ഞു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അമ്മയെപ്പോലെന്നെ ഓമനിച്ചു<br/>അപകടവേളയിൽ പാലിച്ചവൻ<br/>ആഹാരപാനീയമേകിയവൻ<br/>നിത്യമാം ജീവനും നൽകിയവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൂടുകളെ കൂടെക്കൂടിളക്കി<br/>പറക്കുവാനായ് നമ്മെ ശീലിപ്പിച്ചു<br/>ചിറകുകളതിന്മേൽ വഹിച്ചു നമ്മെ,<br/>നിലംപരിചായി നശിച്ചിടാതെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്തോത്രം ചെയ്യാം ഹൃദയംഗമായി<br/>കുമ്പിടാമവൻ മുമ്പിലാദരവായ്<br/>ഹല്ലേലുയ്യാ പാടാം മോദമോടെ<br/>അവനല്ലോ നമ്മുടെ രക്ഷാകരൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

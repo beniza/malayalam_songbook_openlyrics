@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>മനമേ സ്തുതിക്ക നീ ഉന്ന ദേവനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മനമേ സ്തുതിക്ക നീ ഉന്ന ദേവനെ<br/>തന്നുടെ മഹിമകൾ ഓർത്തു നിരന്തരം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വാക്കിനാലുളവാം സർവ്വചരാചരം<br/>നിന്നുടെ മഹിമകൾ വർണ്ണിക്കുമ്പോൾ നാഥാ<br/>തൃക്കൈകളാലുളവാം ഞാനെങ്ങനെ തൃപ്പാദം<br/>തന്നിൽ മൗനമാകും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആകാശ ഭൂമികളാകവേ ചമച്ചവൻ<br/>ആയതിൻ നടുവിലായെനിക്കായ് തൂക്കി<br/>കേണനിക്കായവൻ കേവലം പാപിപോൽ<br/>കാരിരുമ്പാണിയിൽ കാരുണ്യനായകൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആരിലുമുന്നതൻ യേശുമഹേശൻ<br/>ആണെനിക്കുന്നതൻ വിടുതലിന്നുദയം<br/>ആ തിരുപ്രഭയതെൻ അന്ധത നീക്കിയെൻ<br/>അന്തരേ വാഴുന്നെൻ അത്മസഖിയവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ചിന്തനം ചെയ്യുക അന്തരാത്മാവതിൽ<br/>നമ്മുടെ പ്രാണനു വലിയവ ചെയ്തവൻ<br/>ആ തിരുസന്നിധൗ വീണു വണങ്ങിടാം<br/>സർവ്വ മഹത്വവും ദൈവത്തിനേകിടാം.</lines>
+    </verse>
+  </lyrics>
+</song>

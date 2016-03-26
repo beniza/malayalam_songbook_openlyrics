@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:44">
+  <properties>
+    <titles>
+      <title>സ്തോത്രമേശുവേ സ്തോത്രമേശുവേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തോത്രമേശുവേ സ്തോത്രമേശുവേ<br/>നിന്നെമാത്രം നന്ദിയോടെയെന്നും<br/>വാഴ്ത്തിപ്പാടും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദാസനാമെന്റെ നാശമകറ്റാൻ നര<br/>വേഷമായവതരിച്ച ദൈവജാതനേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപത്തിന്നുടെ ശാപശിക്ഷയാം ദൈവ<br/>കോപത്തീയിൽ വെന്തരിഞ്ഞ ജീവനാഥനെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശത്രുവാമെന്നെ നിൻപുത്രനാക്കുവാൻഎന്നിൽ<br/>ചേർത്ത നിൻകൃപയ്ക്കനന്ത സ്തോത്രമേശുവേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആർത്തികൾ തീർത്ത കരുണാസമുദ്രമേ! നിന്നെ<br/>സ്തോത്രം ചെയ്‌വാനെന്നെയെന്നും പാത്രമാക്കുക</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ജീവനാഥനേ ദേവനന്ദനാ നിന്റെ<br/>ജീവനെന്നിൽ തന്നതിന്നായ് സ്തോത്രമേശുവേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നാശലോകത്തിൽ ദാസനാമെന്നെ സത്<br/>പ്രകാശമായ് നടത്തിടേണമേശുനാഥനേ.</lines>
+    </verse>
+  </lyrics>
+</song>

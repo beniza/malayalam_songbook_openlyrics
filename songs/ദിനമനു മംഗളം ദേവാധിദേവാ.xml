@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:33">
+  <properties>
+    <titles>
+      <title>ദിനമനു മംഗളം ദേവാധിദേവാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദിനമനു മംഗളം ദേവാധിദേവാ<br/>ദേവാധിദേവാ ദേവാധിദേവാ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദിവിമരുവീടും ജീവികളാകെ<br/>ദിനവും നിന്നടിയിണ പണിയുന്നു നാഥാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻതിരു തേജസ്സന്തരമെന്യേ<br/>ചന്തമായടിയങ്ങൾ കാൺമതിന്നരുൾക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തിരുക്കരം തന്നിലിരിക്കുമച്ചെങ്കോൽ<br/>ഭരിച്ചിടുന്നഖിലവും വിചിത്രമാം വിധത്തിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഏതൊരു നാളും നിന്തിരു കൈയാൽ<br/>ചേതന ലഭിച്ചെങ്ങൾ മോദമായ് വാഴ്വൂ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിത്യമാം ജീവൻ പുത്രനിലൂടെ<br/>മർത്യരാമടിയർക്കു തന്ന മഹേശാ!</lines>
+    </verse>
+  </lyrics>
+</song>

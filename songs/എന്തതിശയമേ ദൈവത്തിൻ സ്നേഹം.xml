@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:33">
+  <properties>
+    <titles>
+      <title>എന്തതിശയമേ! ദൈവത്തിൻ സ്നേഹം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്തതിശയമേ! ദൈവത്തിൻ സ്നേഹം<br/>എത്ര മനോഹരമേ! അതു<br/>ചിന്തയിലടങ്ങാ സിന്ധുസമാനമായ്<br/>സന്തതം കാണുന്നു ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദൈവമേ! നിൻമഹാസ്നേഹമതിൻ വിധം<br/>ആർക്കു ഗ്രഹിച്ചറിയാം എനി<br/>ക്കാവതില്ലേയതിൻ ആഴമളന്നിടാൻ<br/>എത്ര ബഹുലമതു!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആയിരമായിരം നാവുകളാലതു<br/>വർണ്ണിപ്പതിന്നെളുതോ പതി<br/>നായിരത്തിങ്കലൊരംശം ചൊല്ലിടുവാൻ<br/>പാരിലസാദ്ധ്യമഹോ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മോദമെഴും തിരുമാർവ്വിലുല്ലാസമായ്<br/>സന്തതം ചേർന്നിരുന്ന ഏക<br/>ജാതനാമേശുവെ പാതകർക്കായ് തന്ന<br/>സ്നേഹമതിശയമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാപത്താൽ നിന്നെ ഞാൻ ഖേദിപ്പിച്ചുള്ളൊരു<br/>കാലത്തിലും ദയവായ് സ്നേഹ<br/>വാപിയേ നീയെന്നെ സ്നേഹിച്ചതോർത്തെന്നിൽ<br/>ആശ്ചര്യമേറിടുന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ജീവിതത്തിൽ പല വീഴ്ചകൾ വന്നിട്ടും<br/>ഒട്ടും നിഷേധിക്കാതെ എന്നെ<br/>കേവലം സ്നേഹിച്ചു പാലിച്ചിടും തവ<br/>സ്നേഹമതുല്യമഹോ!</lines>
+    </verse>
+  </lyrics>
+</song>

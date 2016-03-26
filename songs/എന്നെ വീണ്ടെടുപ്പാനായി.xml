@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>എന്നെ വീണ്ടെടുപ്പാനായി</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നെ വീണ്ടെടുപ്പാനായി എന്താശ്ചര്യസ്നേഹം കർത്തൻ<br/>ഘോരമരണം മൂലമായ് വീരനായ് കാണിച്ചു!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അഗാധമാമവൻ സ്നേഹം നാവിനാൽ വർണ്ണിച്ചുകൂടാ<br/>യേശു എന്നെ സ്നേഹിച്ചതോ അസാദ്ധ്യം വർണ്ണിപ്പാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മുൾക്കിരീടം ധരിച്ചവൻ ഏറെ കഷ്ടവും ഏറ്റവൻ<br/>എന്നും ഞാൻ ജീവിപ്പാനവൻ തൻജീവനെ വിട്ടു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സമാധാനമറ്റവനായ് സമാധാനം ഞാൻ അവനിൽ<br/>കണ്ടെത്തിയതു വർണ്ണിപ്പാൻ എന്നാൽ അസാദ്ധ്യമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ക്രിസ്തുവിൽ കണ്ടെത്തിയേ ഞാൻ<br/>വാസ്തവമാം സന്തോഷത്തെ<br/>മന്നിലെ സന്തോഷമപ്പോൾ ഹീനമെന്നെണ്ണുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

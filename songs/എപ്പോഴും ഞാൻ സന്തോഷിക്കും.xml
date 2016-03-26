@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:41">
+  <properties>
+    <titles>
+      <title>എപ്പോഴും ഞാൻ സന്തോഷിക്കും</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2 v9 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എപ്പോഴും ഞാൻ സന്തോഷിക്കും<br/>എൻ യേശു എന്റെ ഗാനം<br/>എല്ലാടവും ആഘോഷിക്കും<br/>എൻ രക്ഷകന്റെ ദാനം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുവേ നീ സ്വർഗ്ഗത്തിൽ<br/>എന്റെ നാമം എഴുതി<br/>ആരും എടുക്കാത്ത ഈ<br/>ഭാഗ്യം എൻ സന്തോഷം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻരാജ്യത്തിന്നൊരന്യനായ്<br/>ഭൂവിയിവനുഴന്നു<br/>നീ വന്നതാലെ ധന്യനായ്<br/>പ്രവേശനം നീ തന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മഹത്വമുള്ള രക്ഷകാ!<br/>നീ തന്നെ സ്വർഗ്ഗവാതിൽ<br/>സ്വർഗ്ഗീയഗീതങ്ങൾ ഇതാ<br/>ധ്വനിക്കുന്നെന്റെ കാതിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഈ ലോകത്തിൽ ഒർമാനവും<br/>എനിക്കില്ലായ്കിലെന്ത്?<br/>സ്വർഗ്ഗീയപേരും സ്ഥാനവും<br/>തരും എൻ ദിവ്യബന്ധു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എൻ നാമം മായ്ച്ചുകളവാൻ<br/>പിശാചിനാൽ അസാദ്ധ്യം<br/>എൻയേശു ശക്തൻ കാക്കും താൻ<br/>തൻരക്തത്തിൻ സമ്പാദ്യം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>മൃത്യുവിൻനാൾ സമീപിച്ചാൽ<br/>ഇങ്ങില്ല ക്ലേശം താപം<br/>എൻജീവൻ ക്രിസ്തൻ ആകയാൽ<br/>മരിക്കയാലും ലാഭം</lines>
+    </verse>
+    <verse name="v8">
+      <lines>തൻ ന്യായതീർപ്പു കേൾക്കുമ്പോൾ<br/>അനേകർ ഭ്രമിച്ചിടും<br/>എനിക്കോ യേശുരാജൻ ചൊൽ<br/>നിത്യാനന്ദം നൽകിടും</lines>
+    </verse>
+    <verse name="v9">
+      <lines>സന്തോഷമേ സന്തോഷമേ<br/>എൻ ദൈവത്തിനു സ്തോത്രം!<br/>എൻ ജീവനാം എൻയേശുവേ<br/>നീയും സ്തുതിക്കു പാത്രം.</lines>
+    </verse>
+  </lyrics>
+</song>

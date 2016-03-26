@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:38">
+  <properties>
+    <titles>
+      <title>കൃപയേറും കർത്താവിലെൻ വിശ്വാസം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കൃപയേറും കർത്താവിലെൻ വിശ്വാസം<br/>അതിനാൽ ഹൃദിയെന്തു നല്ലാശ്വാസം<br/>ദുരിതങ്ങൾ നിറയുമീ ഭൂവാസം കൃപയാൽ മനോഹരമായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൃപ കൃപയൊന്നെന്നാശ്രയം (ഹല്ലെലുയ്യാ!)<br/>കൃപ കൃപയൊന്നെന്നാനന്ദമായ്<br/>വൈരികൾ വന്നാലും എതിരുയർന്നാലും<br/>കൃപമതിയെന്നാളും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ബലഹീനതയിൽ നല്ല ബലമേകും<br/>മരുഭൂമിയിലാനന്ദത്തണലാകും<br/>ഇരുൾ പാതയിലനുദിനമൊളി നൽകും<br/>കൃപയൊന്നെന്നാശ്രയമായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എന്റെ താഴ്ചയിലവനെന്നെയോർത്തല്ലോ<br/>ഘോരവൈരിയിൻ ബലമവൻ തകർത്തല്ലോ<br/>തന്റെ കൈകളിലവനെന്നെ ചേർത്തല്ലോ<br/>സ്തോത്രഗീതം പാടിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പ്രതികൂലങ്ങളനവധി വന്നാലും<br/>അനുകൂലമെനിക്കവനെന്നാളും<br/>തിരുജീവനെത്തന്നവനിനിമേലും<br/>കൃപയാൽ നടത്തുമെന്നെ.</lines>
+    </verse>
+  </lyrics>
+</song>

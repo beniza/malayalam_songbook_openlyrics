@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:49">
+  <properties>
+    <titles>
+      <title>അനുഗമിച്ചിടും ഞാനെൻ പരനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അനുഗമിച്ചിടും ഞാനെൻ പരനെ,<br/>പരനെ കുരിശിൽ മരിച്ചുയിർത്ത നാഥനെ<br/>ഇന്നും എന്നും മാറ്റമില്ലാത്ത വല്ലഭനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മമ കൊടുംപാപം തീർക്കുവാൻ താൻ കനിഞ്ഞെന്നോ!<br/>വിമലജൻ ജീവൻ തരുവതിനും തുനിഞ്ഞെന്നോ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശോധന പലതും മേദിനിയിതിലുണ്ടെന്നാലും<br/>വേദനയേകും വേളകളേറെ വന്നാലും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വന്ദിത പാദസേവയതെന്നഭിലാഷം<br/>നിന്ദിതനായിത്തീരുവതാണഭിമാനം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ക്ഷീണിതനായി ക്ഷോണിയിൽ ഞാൻ തളരുമ്പോൾ<br/>ആണികളേറ്റ പാണികളാലവൻ താങ്ങും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കൂരിരുൾ വഴിയിൽ കൂട്ടിന്നു കൂടെ വരും താൻ<br/>വൈരികൾ നടുവിൽ നല്ല വിരുന്നു തരും താൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നന്മയും കൃപയും പിന്തുടരുമെന്നെയെന്നും<br/>വിൺമയവീട്ടിൽ നിത്യത മുഴുവൻ ഞാൻ വാഴും.</lines>
+    </verse>
+  </lyrics>
+</song>

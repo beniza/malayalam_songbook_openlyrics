@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:12">
+  <properties>
+    <titles>
+      <title>സ്നേഹനിധിയേ ജീവധുനിയേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്നേഹനിധിയേ ജീവധുനിയേ<br/>നീ മാത്രമാണെൻ ഗതിയേ നാഥാ<br/>നീ മാത്രമാണെൻ ഗതിയേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭീതിയാം കൂരിരുൾ പാതയിലും<br/>വേദനതിങ്ങും വേളയിലും<br/>ആധി കലരാതാശ്രയിപ്പാൻ നാഥാ!<br/>നീയല്ലാതാരുമില്ല</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദുഃഖം നിറഞ്ഞതാം പാനപാത്രം<br/>ഭൃത്യനാമെൻ കൈയിൽ തന്നിടുകിൽ<br/>സ്തോത്രം ചെയ്തു ഞാനേറ്റു വാങ്ങി<br/>കീർത്തനം പാടുമെൻ ജീവനാഥാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തീയിൽ നീ ശോധന ചെയ്തെന്നാലും<br/>തെല്ലും പരിഭവമില്ല നാഥാ<br/>പൊന്നിലും തേജസ്സെനിക്കു നൽകാൻ<br/>എന്നിൽ കനിഞ്ഞ നിൻസ്നേഹമല്ലോ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മന്നിലെൻ യാത്ര തികച്ചു നിന്റെ<br/>സന്നിധി തന്നിൽ ഞാൻ വന്നിടുമ്പോൾ<br/>എന്നുടെ ദുഃഖവും കണ്ണുനീരും<br/>മിന്നും കിരീടങ്ങളായി മാറും.</lines>
+    </verse>
+  </lyrics>
+</song>

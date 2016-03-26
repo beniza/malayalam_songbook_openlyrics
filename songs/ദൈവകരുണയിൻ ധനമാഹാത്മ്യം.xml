@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:39">
+  <properties>
+    <titles>
+      <title>ദൈവകരുണയിൻ ധനമാഹാത്മ്യം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവകരുണയിൻ ധനമാഹാത്മ്യം<br/>നാവാൽ വർണ്ണ്യമോ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദൈവസുതൻ പശുശാലയിൽ നരനായ്<br/>അവതരിച്ചതു വെറും കഥയോ?<br/>ഭൂവനമൊന്നാകെ ചമച്ചവനൊരു<br/>ചെറുഭവനവും ലഭിച്ചതില്ലെന്നോ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരമസമ്പന്നനീ ധരണിയിലേറ്റം<br/>ദരിദ്രനായ് തീർന്നു സ്വമനസ്സാ<br/>നിരുപമപ്രഭയണിഞ്ഞിരുന്നവൻ പഴന്തുണി<br/>ധരിച്ചതും ചെറിയ സംഗതിയോ?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അനുദിനമനവധിയനുഗ്രഹഭാരം<br/>അനുഭവിച്ചൊരു ജനമവന്നു<br/>കനിവൊരു കണികയുമെന്നിയേ നൽകിയ<br/>കഴുമരം ചുമപ്പതും കാണ്മീൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കുരിശു ചുമന്നവൻ ഗിരിമുകളേറി<br/>വിരിച്ചു കൈകാൽകളെയതിന്മേൽ<br/>ശരിക്കിരുമ്പാണികൾ തറപ്പതിന്നായതു<br/>സ്മരിക്കുകിൽ വിസ്മനീയം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:52">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തേശു നാമമഹോ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തേശു നാമമഹോ! നിരന്തര വിശ്രാമമേ എനിക്കു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാരം പരിഭ്രമപ്പെട്ടു വലഞ്ഞുള്ള<br/>പാപികൾക്കാസകലം<br/>പരിതോഷവുമാത്മവിമുക്തിയു<br/>മേകിയ നാമമിത സതതം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപം വഹിച്ചവൻ ശാപം സഹിച്ചു വൻ<br/>ക്രോധവുമേറ്റതിവൻ ദേവ<br/>നീതിക്കു ശാന്തത നൽകിയരിഷ്ടരിൻ<br/>ശോകവും പേറിയവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>താതന്റെ മാനസമാരിൽ<br/>പ്രസാദിക്കുമായവനാണിനിമേൽ<br/>എനിക്കാനന്ദമേകുന്ന<br/>ദിവ്യപുരുഷനെന്നായതു ഞാനറിവൂ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശക്തിയരുളുന്ന ക്രിസ്തുവിൻ<br/>സാന്നിദ്ധ്യമെപ്പൊഴുമത്യധികം മമ<br/>വ്യക്തമറിയുന്നു തൃപ്തി<br/>നിറയുന്നിതുത്തമമാണെനിക്ക്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ദേവസവിധത്തിൽ നിന്നു കവിഞ്ഞൊഴുകിടുന്ന<br/>വൻകൃപകൾ അനുവാസരമാസ്വദിക്കുന്നിതു<br/>ക്രിസ്തുവിൽ ആവസിപ്പോരധികം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>തന്നുടെ പൊന്നുകരങ്ങളെല്ലാറ്റിലും<br/>കാണുവതേറെ സുഖം തന്റെ<br/>യുന്നതനാമത്തിലാശ്രയിപ്പോരതി<br/>ധന്യരെല്ലാ ദിനവും</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഒന്നുകൊണ്ടുംപുനരീയുലകം മമ<br/>വാഞ്ഛിതമായിവരാ പര<br/>മോന്നത നന്ദനനെന്നഭിലാഷമ-<br/>തായിവസിപ്പതിനാൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:25">
+  <properties>
+    <titles>
+      <title>എൻ നീതിയും വിശുദ്ധിയും</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ നീതിയും വിശുദ്ധിയും എൻ യേശുവും തൻരക്തവും<br/>വേറില്ല ആത്മശരണം വേറില്ല പാപഹരണം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എൻ യേശു എൻ ഇമ്മാനുവേൽ<br/>ഞാൻ നിൽക്കുന്നതീ പാറമേൽ<br/>ഞാൻ നിൽക്കുന്നതീ പാറമേൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വൃഥാവിൽ സ്വയനീതികൾ വൃഥാവിൽ ചത്ത രീതികൾ<br/>ദൈവത്തിൻ മുമ്പിൽ നിൽക്കുവാൻ രക്തത്താലത്രേ പ്രാപ്തൻ ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഈ രക്തത്തിലെൻ ഹൃദയം ഹിമത്തെക്കാളും നിർമ്മലം<br/>എന്നുരയ്ക്കുന്ന വചനം തീർക്കുന്നു സർവ്വ സംശയം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആരെന്നെ കുറ്റം ചുമത്തും ആർ ശിക്ഷയ്ക്കെന്നെ വിധിക്കും<br/>ഞാൻ ദൈവനീതി ആകുവാൻ പാപമായ് തീർന്നെൻ രക്ഷകൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സംഹാരദൂതൻ അടുത്താൽ ഈ രക്തം എൻമേൽ കാൺകയാൽ<br/>താൻ കടന്നുപോം ഉടനെ നിൻവീടു ദൈവസുതനേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>വൻമഴ പെയ്യും നേരത്തും ഞാൻ നിർഭയമായിരിക്കും<br/>കാറ്റടിച്ചാലും ഉച്ചത്തിൽ പാടിടും ഞാൻ എൻ കോട്ടയിൽ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>വീണാലും പർവ്വതങ്ങളും മാഞ്ഞാലും ആകാശങ്ങളും<br/>ക്രിസ്തുവിൻ രക്തനിയമം മാറാതെ നിൽക്കും നിശ്ചയം.</lines>
+    </verse>
+  </lyrics>
+</song>

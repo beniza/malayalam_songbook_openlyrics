@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:56">
+  <properties>
+    <titles>
+      <title>എന്നെന്നും പാടിടും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നെന്നും പാടിടും ഞാൻ<br/>എൻ ജീവകാലം എന്നും സ്തുതിഗീതം<br/>പാടിടും വല്ലഭ! ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മാനവരാശിയിൻ മാലിന്യം നീക്കുവാൻ<br/>മരക്കുരിശിൽ മരിച്ച മശീഹാ<br/>മന്ദത നീക്കിയെന്നുമെൻ ജീവിതം<br/>ക്രിസ്തുവിൽ ധന്യനായ് ഞാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഊഴിയിൻ മക്കൾക്കു ഉന്നത ജീവൻ<br/>നൽകാനാരും ഇല്ലാതിരുന്നപ്പോൾ<br/>ഉന്നതദൈവം ഊഴിയിൽ വന്നു<br/>തൻജീവൻ തന്നെന്നെ സ്വന്തമാക്കി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വന്നിടൂ മാനവസ്നേഹിതരേ! നിങ്ങൾ<br/>രക്ഷകനേശുവിൻ സന്നിധിയിൽ<br/>പാപാന്ധകാരം നീക്കുവാനെന്നും<br/>വേറില്ലൊരു നാമം നൽകിയത്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻ പ്രാണനായകാ! നിൻപാദസേവ<br/>ഒന്നുമാത്രമേയെൻ ജീവിതത്തിൽ<br/>വേണ്ടായെൻ നാഥാ ഈ ഭൂവിലുന്നതി<br/>നിൻ സാക്ഷ്യമല്ലാതില്ലെനിക്ക്.</lines>
+    </verse>
+  </lyrics>
+</song>

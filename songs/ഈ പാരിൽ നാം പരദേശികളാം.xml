@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:51">
+  <properties>
+    <titles>
+      <title>ഈ പാരിൽ നാം പരദേശികളാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഈ പാരിൽ നാം പരദേശികളാം<br/>നമ്മുടെ പൗരത്വമോ സ്വർഗ്ഗത്തിലാം<br/>നമ്മൾ സൗഭാഗ്യവാന്മാർ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മൺമയമാമീയുലകത്തിൽ മാനവൻ നേടും മഹിമകളോ<br/>മാഞ്ഞിടുന്നെന്നാൽ മരിച്ചുയിർത്ത മന്നവനെന്നും മഹാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദേശമെങ്ങും പോയിനി നമ്മൾ യേശുവിൻ നാമം ഉയർത്തിടുക<br/>കുരിശിൽ മരിച്ചു ജയം വരിച്ച ക്രിസ്തുവിൻ സേനകൾ നാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അവനിയിൽ നാമവനായിട്ടിന്നു അവമാനമേൽക്കിൽ അഭിമാനമാം<br/>ക്രിസ്തുവിലെന്നും നമുക്കും ജയം ജയം ജയം ഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തന്നരികിൽ വിൺപുരിയിൽ നാം ചെന്നിടുമന്നു പ്രതിഫലം താൻ<br/>തന്നിടുമൊന്നും മറന്നിടാതെ ആ നല്ല നാൾ വരുന്നു</lines>
+    </verse>
+  </lyrics>
+</song>

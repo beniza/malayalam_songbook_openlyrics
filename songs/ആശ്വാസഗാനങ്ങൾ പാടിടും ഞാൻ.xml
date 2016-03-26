@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:12">
+  <properties>
+    <titles>
+      <title>ആശ്വാസഗാനങ്ങൾ പാടിടും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആശ്വാസഗാനങ്ങൾ പാടിടും ഞാൻ<br/>ആത്മാവിൽ പാടി ആർത്തിടും ഞാൻ<br/>അത്ഭുത രക്ഷകനേശുവിന്നായ്<br/>ഉത്തമഗീതങ്ങൾ പാടിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാടും ഞാനേശുവിന്നായ് എന്നും<br/>പാടും ഞാനേശുവിന്നായ്<br/>പാടുമെൻ പാപം പരിഹരിച്ച<br/>പ്രാണേശനേശുവിന്നായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സങ്കടത്താലുള്ളം നീറിടുമ്പോൾ<br/>ചാരുവാനേശു നാഥനുണ്ട്<br/>തൻകരം കണ്ണീർ തുടച്ചു എന്നെ<br/>തൻചിറകടിയിൽ കാത്തിടുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കാർമേഘത്താൽ വാനം മൂടിയാലും<br/>കൂരിരുളെങ്ങും വ്യാപിച്ചാലും<br/>നീതിയിൻ സൂര്യനാം യേശു തന്റെ<br/>കാന്തിയിലെന്നെ നടത്തിടുമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിശ്വാസത്താലോട്ടം തികയ്ക്കും<br/>ഞാൻ വിശ്വാസം കാത്തു നിന്നിടും ഞാൻ<br/>വിശ്വാസനാഥനെ നോക്കിടും ഞാൻ<br/>വിശ്രമദേശത്തിലെത്തുവോളം G.P.</lines>
+    </verse>
+  </lyrics>
+</song>

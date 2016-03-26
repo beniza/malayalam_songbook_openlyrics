@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:25">
+  <properties>
+    <titles>
+      <title>എൻമനമേ സ്തുതി പാടിടുക</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻമനമേ സ്തുതി പാടിടുക<br/>എൻപ്രാണരക്ഷകനാം ശ്രീയേശുവിന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്വർഗ്ഗീയദൂതരിൻ നൽ സ്തുതിഗീതവും<br/>സ്വന്തപിതാവിന്റെ ലാളനയൊക്കെയും<br/>അന്തമില്ലാതുള്ള തൻ മഹിമാവതും<br/>ഹന്ത! വെടിഞ്ഞിഹ വന്നു പിറന്നു<br/>എന്തൊരു താഴ്മയെന്നോർത്തധികം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സകലത്തിൻ ലാക്കും കാരണഭൂതനും<br/>സകല പ്രപഞ്ചത്തിന്നേകാവകാശിയും<br/>ദൈവതേജസ്സിന്റെ പൂർണ്ണപ്രഭാവവും<br/>ദൈവിക തത്വത്തിന്നേകമാം മുദ്രയും<br/>സകലവും വചനത്താൽ വഹിപ്പവനും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തന്നുടെ സന്നിധൗ വന്നവർക്കേവർക്കും<br/>തക്കപ്രതിഫലം നൽകാതിരുന്നില്ല<br/>ദുഃഖിതർക്കാശ്വാസം വിശന്നോർക്കാഹാരം<br/>കുരുടർക്കു കാഴ്ചയും മൂഢർക്കു ജ്ഞാനവും<br/>കൊടുക്കുവാനവനൊട്ടും മടിച്ചതില്ല</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നാമെല്ലാം നമ്മുടെ സ്വന്ത വഴികളിൽ<br/>നാനാവിധ സുഖഭോഗങ്ങൾ തേടി<br/>ആമയം നീക്കുവാൻ കാൽവറി തന്നിൽ<br/>ആ മരക്കുരിശിൽ പാതകർ നടുവിൽ<br/>മാമരണം നമുക്കായ് സഹിച്ചു.</lines>
+    </verse>
+  </lyrics>
+</song>

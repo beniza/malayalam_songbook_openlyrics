@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>ഇവൻ എത്ര മഹാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇവൻ എത്ര മഹാൻ (2) ഇവൻ എത്ര മഹാനേശു<br/>എന്നെ തേടി വന്ന സ്നേഹിതനാം ഇവൻ എത്ര മഹാനേശു (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിത്യജീവനെ തന്ന സ്നേഹത്തെയോർത്തു<br/>ഞാൻ പാടി പുകഴ്ത്തിടുമേ (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എനിക്കായ് മുറിവേറ്റ ദൈവകുഞ്ഞാടിനെ<br/>ഓർത്ത് ഞാൻ സ്തുതിച്ചിടുമേ (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദൈവത്തിൻ മകനായി തീർത്തതിനാൽ<br/>ഞാൻ നാഥനെ വാഴ്ത്തിടുമേ (3)</lines>
+    </verse>
+  </lyrics>
+</song>

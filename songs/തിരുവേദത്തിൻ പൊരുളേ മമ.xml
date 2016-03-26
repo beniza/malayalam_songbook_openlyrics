@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:46">
+  <properties>
+    <titles>
+      <title>തിരുവേദത്തിൻ പൊരുളേ മമ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>തിരുവേദത്തിൻ പൊരുളേ മമ ഗുരുവായ മഹേശജനേ<br/>അരുളേണമീ സമയം തവ പരമാമൃതമാം വചനം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പരിശുദ്ധ വേദമതിൽ നിന്നത്ഭുത കാര്യങ്ങൾ കാണ്മതിനായ്<br/>തുറക്കേണമേ മമ കൺകൾ നീ കൃപയോടു പരാപരനേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരമാവിയിൻ വരമേകണം വിരവോടെയീ ദാസനു നീ<br/>പരമാനന്ദകരമാം മൊഴി പരിചോടു ഗ്രഹിപ്പതിനായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉലകമതിൻ പല ചിന്തകൾ ബലമായി വന്നെൻ മനസ്സി<br/>ന്നലമ്പൽ ചെയ്യാതിരിക്കാനടിയനെ കാത്തു സൂക്ഷിക്കണമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മധുരം തവവചനം എനിക്ക് തേൻകട്ടയേക്കാളധികം<br/>സതതം മഹാനിധിയാമിതു സദയം തരണം പരനേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഉലകമതിൽ വിലയേറിയ പല മുത്തുരത്നങ്ങളെക്കാൾ<br/>അലങ്കാരമായ് വിലസിടുന്നു ബലമേറിയ നിൻമൊഴികൾ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>മറവായുള്ള മഹാമർമ്മങ്ങൾ മനതാരിൽ പതിവതിന്നായ്<br/>മറക്കാതെ ഞാൻ കരുതിടുവാൻ തരണം കൃപയെയധികം.</lines>
+    </verse>
+  </lyrics>
+</song>

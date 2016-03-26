@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>എന്തൊരു സ്നേഹമിത്!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്തൊരു സ്നേഹമിത്!<br/>നിണം ചൊരിഞ്ഞു മരിച്ചിടുവാൻ<br/>ദൈവനന്ദനനീ നരരെക്കരുതി<br/>ജഡമെടുപ്പതിനായ് മനസ്സായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അവൻ താഴ്ചയിൽ നമ്മളെ ഓർക്കുകയാൽ<br/>തൻ പദവി വെടിഞ്ഞിതു ഹാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അത്ഭുത സ്നേഹമിത്!<br/>നമുക്കാഗ്രഹിക്കാവതിലും<br/>അവനപ്പുറമായ് ചെയ്ത സൽക്രിയയാ<br/>മരക്കുരിശതിൽ കാണുന്നു നാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിത്യമാം സ്നേഹമിത്!<br/>അവൻ ആദ്യം നമ്മെ സ്നേഹിച്ചു<br/>അവസാനത്തോളമവൻ സ്നേഹിച്ചിടും<br/>ഒരു നാളും കുറഞ്ഞിടുമോ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിസ്തുല സ്നേഹമിത്!<br/>ദൈവം പുത്രനെ കൈവെടിഞ്ഞു<br/>തന്റെ ശത്രുക്കൾക്കായ് തകർക്കാൻ ഹിതമായ്<br/>ഇതുപോലൊരു സ്നേഹമുണ്ടോ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ദൈവത്തിൻ സ്നേഹമിത്!<br/>ദൈവം പുത്രനെയാദരിയാ<br/>തവനെത്തരുവാൻ മടിക്കാഞ്ഞതിനാൽ<br/>തരും സകലമിനീം നമുക്കായ്</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ദിവ്യമാം സ്നേഹമിത്!<br/>നരർ കാട്ടിടും സ്നേഹമതിൽ<br/>പല മാലിന്യവും കലർന്നെന്നുവരാം<br/>എന്നാൽ കളങ്കമില്ലാത്തതിത്.</lines>
+    </verse>
+  </lyrics>
+</song>

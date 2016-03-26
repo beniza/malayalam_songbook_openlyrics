@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:07">
+  <properties>
+    <titles>
+      <title>എനിക്കായ് കരുതും നല്ലിടയൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എനിക്കായ് കരുതും നല്ലിടയൻ (2)<br/>നന്മകൾ തന്നെന്നെ നീതിയിൻ പാതയിൽ<br/>എന്നെന്നും വഴി നടത്തും<br/>എനിക്കായ് കരുതും നല്ലിടയൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കഷ്ടങ്ങൾ വന്നിടുമ്പോൾ<br/>ഭാരങ്ങളേറിടുമ്പോൾ<br/>കഷ്ടങ്ങളേറ്റവൻ ഭാരം ചുമന്നവൻ<br/>ആശ്വാസം നൽകിടുന്നു (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉറ്റവർ മാറിടുമ്പോൾ<br/>ഏറ്റം കലങ്ങിടുമ്പോൾ<br/>ഉറ്റസഖിയവൻ മാറ്റമില്ലാത്തവൻ<br/>എന്നെന്നും കൂട്ടിനുണ്ട് (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആവശ്യഭാരങ്ങളാൽ<br/>ഞാനാകെ നീറിടുമ്പോൾ<br/>ചെങ്കടലിനുള്ളിൽ പാതവിരിച്ചവൻ<br/>അത്ഭുതമായ് നടത്തും (2)</lines>
+    </verse>
+  </lyrics>
+</song>

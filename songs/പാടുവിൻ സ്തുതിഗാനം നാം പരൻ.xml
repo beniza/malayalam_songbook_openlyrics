@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:00">
+  <properties>
+    <titles>
+      <title>പാടുവിൻ സ്തുതിഗാനം നാം പരൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാടുവിൻ സ്തുതിഗാനം നാം പരൻ<br/>ഹൃദി ചേരുമതിമോദമോടെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപം പിണിപശിതീരും ഖേദമെല്ലാമൊഴിഞ്ഞിടും<br/>പാവനാത്മ നിറവിൽ നാം ഗാനം പാടേണം<br/>ആദിവേദനാദമാകുമേശു നാഥസ്തുതിഗീത<br/>നാദഭംഗി ലോകമെങ്ങും കാതുകളിൽ മുഴങ്ങട്ടെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാശക്കുഴിയതിൽനിന്നും ദൈവം നമ്മെക്കരയേറ്റി<br/>കാലുകളെ ഉറപ്പേറും പാറമേൽ നിർത്തി<br/>നാവിൽ തന്നു പുതുഗാനം ദൈവത്തിനു സ്തുതിതാനാ<br/>ഗാനശ്രുതി നേരമാരും യാഹെ രക്ഷിതാവായ്ക്കാണും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മോശെയുടെ വീണാഗാനം വെളിപ്പാടിൽ കേൾക്കും ഗീതം<br/>രക്ഷ ദൈവത്തിന്റെ ദാനമെന്നതുതന്നെ<br/>ശക്തി, ബഹുമാനം, സ്തുതി നിത്യതാതൻ പുത്രനാത്മാ<br/>വിന്നു നിത്യം ഭവിക്കട്ടെ ഹല്ലേലുയ്യാ ആമേൻ സ്തോത്രം.</lines>
+    </verse>
+  </lyrics>
+</song>

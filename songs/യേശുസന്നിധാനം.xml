@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:13">
+  <properties>
+    <titles>
+      <title>യേശുസന്നിധാനം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുസന്നിധാനം എന്തൊരു സമാധാനം!<br/>അഴലും മനസ്സിൻ അരുളും സുഖദാനം!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകത്തിന്നിമ്പത്തെ തേടുവോർ<br/>ശോകത്താൽ വീണിടുമേ!<br/>ക്രിസ്തുവിൻ സന്നിധി ചേർന്നിടുന്നോർ-<br/>ക്കെന്നുമത്യാനന്ദമേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വേദനയേറുന്ന നേരവും<br/>സോദരർ മാറുമ്പോഴും<br/>മാറാത്ത സ്നേഹിതനാമേശുവിൻ<br/>മാറിൽ ഞാൻ ചാരിടുമേ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വേറില്ലോരാശ്വാസ സ്ഥാനവും<br/>വേറില്ലൊരാശ്രയവും<br/>മൃത്യുവിലും സമാധാനമെന്റെ<br/>ക്രിസ്തുവിൻ സന്നിധാനം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കണ്ണുനീർ പൂർണ്ണമായ് തോർന്നിടും<br/>കർത്താവു വന്നിടുമ്പോൾ<br/>പിന്നീടൊരിക്കലും വേർപെടാതെ<br/>തന്നിൽ മറഞ്ഞിടും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

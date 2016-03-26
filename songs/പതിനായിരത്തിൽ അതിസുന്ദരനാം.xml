@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:38">
+  <properties>
+    <titles>
+      <title>പതിനായിരത്തിൽ അതിസുന്ദരനാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പതിനായിരത്തിൽ അതിസുന്ദരനാം<br/>അവനുന്നതനെൻ പ്രിയനാം<br/>ആദിയും അന്തവും ജീവനുള്ളവനും<br/>അൽഫയോമേഗയുമവനാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നാത്മ രക്ഷകൻ എൻ ജീവനായകൻ<br/>എന്നാത്മ സ്നേഹിതൻ ശ്രീയേശുനായകൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദേവാധിദേവനും രാജാധിരാജനും<br/>കർത്താധി കർത്തനും ശ്രീയേശു നായകൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മൂറിൻ തൈലം പോൽ സൗരഭ്യമാർന്നവൻ<br/>ദേവദാരുപോൽ ഉൽക്കൃഷ്ടനാമവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ജീവജാലങ്ങൾക്കാഹാരമേകുവോൻ<br/>ജീവന്നുറവയായ് പിളർന്ന പാറയും.</lines>
+    </verse>
+  </lyrics>
+</song>

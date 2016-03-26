@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:37">
+  <properties>
+    <titles>
+      <title>ദൈവസുതദർശനമെന്താനന്ദം വർണ്ണിക്കാവതോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവസുതദർശനമെന്താനന്ദം വർണ്ണിക്കാവതോ<br/>ദൈവസുതദർശനമെന്താനന്ദം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പൊൻനിലവിളക്കുകളേഴിനും നടുവിൽ<br/>വെൺനിലയങ്കിധരിച്ചു<br/>മാറത്തു പൊൻകച്ച നിബന്ധിച്ചവനായി<br/>വിളങ്ങിടും സുന്ദരമാം രൂപം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ചികുരവും ശിരസ്സും വെൺപഞ്ഞിസമാനം<br/>ധവളമാം മഞ്ഞിനോടൊപ്പം<br/>പേശലനയനമതഗ്നിജ്ജ്വാലയ്ക്കൊത്തൊ<br/>രീശസുതൻ രൂപം കാണ്മീൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചരണങ്ങലുലയതിൽ ചുട്ടു പഴുപ്പിച്ച<br/>ചേലെഴും വെള്ളോട്ടിൻ സമമാം<br/>പെരുവെള്ളത്തിന്നിരച്ചിൽ പോലവൻ ശബ്ദം<br/>അലമലമിയലാത്ത രൂപം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശക്തമായ് ശോഭിക്കുമിനസമവദനൻ<br/>വലങ്കരം തന്നിലേഴുതാരം<br/>ചേർച്ചയായ് പുറപ്പെടുന്നിര‍ുവായ്ത്തലയുള്ള വാൾ<br/>അവൻ മുഖമർക്കബിംബം പോലെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മരിച്ചവനെങ്കിലുമുയിർത്തെഴുന്നേറ്റു<br/>മരണപാതാളങ്ങളെ വെന്നു<br/>നിരുപമതേജസ്സിൽ വിളങ്ങിടും നാഥനെൻ<br/>അരുമ മണവാളനെന്നും.</lines>
+    </verse>
+  </lyrics>
+</song>

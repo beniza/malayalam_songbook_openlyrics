@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:22">
+  <properties>
+    <titles>
+      <title>പകലോനന്തിമയങ്ങിയിരുൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പകലോനന്തിമയങ്ങിയിരുൾ<br/>പരന്നു പാരിൽ പരനേ<br/>തിരുസന്നിധിയണഞ്ഞു ഞാനും<br/>സ്തുതിഗീതങ്ങൾ പാടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പകലിൽ തവകൃപയാലെന്നെ<br/>പരിപാലനം ചെയ്ത പോൽ<br/>ഇരവിൽ കൃപതരിക നാഥാ<br/>സുഖമായുറങ്ങിടുവാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിശയിൽ വരും വിനകൾ നീക്കി<br/>നിഖിലേശാ നീ സാധുവെ<br/>നിദ്രചെയ്തുണർന്നിടുവോളവും<br/>ഭദ്രമായ് കാത്തു പാലിക്ക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പുതിയ ബലം ധരിച്ചു തിരു-<br/>ഹിതം പോലെ ഞാൻ നടപ്പാൻ<br/>പുലർകാലേ നിന്മുഖകാന്തി<br/>കണ്ടുണരാൻ കൃപയരുൾക.</lines>
+    </verse>
+  </lyrics>
+</song>

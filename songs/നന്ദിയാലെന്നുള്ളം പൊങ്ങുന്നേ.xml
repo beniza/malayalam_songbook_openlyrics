@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:25">
+  <properties>
+    <titles>
+      <title>നന്ദിയാലെന്നുള്ളം പൊങ്ങുന്നേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നന്ദിയാലെന്നുള്ളം പൊങ്ങുന്നേ<br/>വല്ലഭാ നിൻ കൃപയോർക്കുമ്പോൾ<br/>വർണ്ണിച്ചിടാൻ സാദ്ധ്യമല്ലത്<br/>എൻ ജീവിതത്തിൽ ചെയ്ത ക്രിയകൾ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വൻ ശോധനവേളയിൽ<br/>തീച്ചൂളയിൻ നടുവിൽ<br/>ചാരത്തണഞ്ഞു രക്ഷിച്ച<br/>മമ കാന്തനെ നിൻ<br/>സ്നേഹമോർക്കുമ്പോൾ(2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഈ ലോകം തരാത്ത ശാന്തി എൻ<br/>ഹൃത്തേ നിറച്ചു സ്നേഹവാൻ എന്നെന്നും<br/>കാത്തിടുന്നെന്നെ നിത്യം<br/>കാന്തയായ് താൻ കൂടെ വാഴുവാൻ(2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൊടും പാപിയായിരുന്നെന്നെ<br/>വൻ ചേറ്റിൽ നിന്നും കയറ്റി<br/>ക്രിസ്തുവാകും പാറമേൽ നിർത്തി<br/>പുത്തൻ പാട്ടുമെന്റെ<br/>നാവിൽ തന്നതാൽ (2)</lines>
+    </verse>
+  </lyrics>
+</song>

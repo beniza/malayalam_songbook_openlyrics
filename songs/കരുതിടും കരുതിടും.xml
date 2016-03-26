@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:13">
+  <properties>
+    <titles>
+      <title>കരുതിടും കരുതിടും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുതിടും കരുതിടും കരുതിടും നാഥൻ<br/>കരതലത്തിൽ ചേർത്തണച്ചു കാത്തിടും നാഥൻ<br/>കഷ്ടനാളിൽ കൈവിടാതെ തന്റെ പക്ഷങ്ങൾ<br/>ക്കുള്ളിലഭയം തന്നു സാധു എന്നെ കരുതിടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മനസ്സുരുകി നീറും നേരം തഴുകിടും<br/>മനസ്സലിഞ്ഞു ഏഴയെന്നെ കരുതിടും<br/>കണ്ണുനീരെല്ലാം കർത്തൻ തുടച്ചിടും<br/>എന്റെയുള്ളം കുതൂഹലത്താൽ നിറഞ്ഞു കവിഞ്ഞിടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മരണനിഴലിൻ വഴികളിൽ തുണ വരും<br/>അരിഗണത്തെ ജയിച്ചിടാൻ കൃപതരും<br/>സർവ്വഭീതിയും അകലെ അകറ്റിടും<br/>എന്നെയെന്നും പരിചരിച്ചു നാഥൻ നടത്തിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സുഗന്ധതൈലം എന്റെ തലയിൽ പകർന്നിടും<br/>പുതിയ കൃപകൾ നാൾകൾതോറും തുടർന്നിടും<br/>സ്തോത്രഗീതമെൻ നാവിലുയർന്നിടും<br/>എന്നും നാഥൻ പിരിഞ്ഞിടാതെന്നരികിൽ പാർത്തിടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പരമസീയോൻ പുരിയിൽ നാഥനൊരുക്കിടും<br/>പുതിയ വീട്ടിൽചെന്നു ഞാനും ചേർന്നിടും<br/>ദുഃഖമില്ലിനി മരണമില്ലിനി നിത്യമോദം<br/>അനുഭവിച്ചു നിത്യം വാഴും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

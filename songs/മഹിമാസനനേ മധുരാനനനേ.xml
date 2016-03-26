@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>മഹിമാസനനേ! മധുരാനനനേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മഹിമാസനനേ! മധുരാനനനേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശ്രീസുരസേവിത പാദജലജ യുഗ<br/>പാവന ഭാസുര ഭാവസുജന<br/>സർവ്വേശ സൗന്ദര്യ! ഗുണസാരമാധുര്യ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആദിയിലേദനിലാദിമനുജർ ചെയ്ത<br/>പാതകമാകവെ ആഹനിച്ചിടാൻ<br/>ഉൽക്കൃഷ്ടയജനം ചെയ്ത തുഷ്ടസുജന</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപവൻഭാരമപാകരിച്ചിടാൻ അതി<br/>ശാപകരമാമീ ഭൂതലത്തിങ്കൽ<br/>ക്രൂശിൽ മൃതിമൂലം ജയിച്ച നേതാവേ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഘോരവിഷം കുടിച്ചെങ്ങൾ തൻ ജീവൻ<br/>ബഹു സാരമായ് കാത്തൊരു ധർമ്മ സുധീരാ!<br/>സൽബുദ്ധി തരണം<br/>നിന്നെയെന്നും സ്തുതിപ്പാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

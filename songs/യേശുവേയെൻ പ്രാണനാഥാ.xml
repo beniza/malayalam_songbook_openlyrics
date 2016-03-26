@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>യേശുവേയെൻ പ്രാണനാഥാ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവേയെൻ പ്രാണനാഥാ<br/>നിന്തിരുകൃപകളേകി<br/>ഈ മരുവിടത്തിലെന്നെ<br/>കാത്തു കൊൾകെൻ പ്രിയനേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>രോഗം വരും വേളകളിൽ<br/>സ്നേഹനാഥൻ തൃക്കരത്താൽ<br/>താങ്ങിത്തലോടുന്നു മമ<br/>ഖേദം ശമിച്ചിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവനാഥനേശുവെന്നെ<br/>കാത്തുപരിപാലിക്കുന്നു<br/>സ്നേഹപൂർവ്വം തൻകരത്താൽ<br/>താങ്ങി നടത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ജീവകാലം നിൻകൃപക-<br/>ളോർത്തു വസിച്ചിടുന്നു ഞാൻ<br/>ലോകത്തിൽ ഞാനേകനല്ല<br/>യേശുവെന്നാത്മമിത്രം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്തോത്രഗീതം പാടി മുദാ<br/>വാഴ്ത്തി സ്തുതിച്ചിടുന്നു ഞാൻ<br/>സ്തോത്രസ്തുതികൾക്കു യോഗ്യൻ<br/>നീതാനെന്നാശ്രയമാം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വിശ്രമദേശത്തിലീ ഞാനെ-<br/>ത്തിച്ചേരും നാൾ വരെയും<br/>ഭദ്രമായി തൃക്കരത്താൽ നിത്യം<br/>നടത്തേണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

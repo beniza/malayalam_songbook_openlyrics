@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:05">
+  <properties>
+    <titles>
+      <title>യഹോവ എന്റെ ഇടയനായതിനാൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യഹോവ എന്റെ ഇടയനായതിനാൽ<br/>എനിക്കൊരു കുറവും വരികയില്ല.. (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ക്ഷാമങ്ങൾ, ഭൂചലനങ്ങൾ അലറും<br/>തിരമാല ആഞ്ഞടിച്ചാൽ<br/>അലറും ആഴിയെ ശാന്തമാക്കിയവൻ<br/>കൂടെ എന്നുമുണ്ട്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ബാലസിംഹങ്ങൾ ഇരകിട്ടാതെ<br/>വിശന്നിരുന്നാലും അവനെന്നെ<br/>തൃക്കൈതുറന്നങ്ങു പോഷിപ്പിക്കും<br/>നാഥനല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൂരിരുളിൻ താഴ്വരയിൽ<br/>കൂട്ടുകാർ ഏവരും കൈവിടുമ്പോൾ<br/>കൂടെ വരും എന്നെ പിരിയാതെ<br/>കൂട്ടായ് എന്നും അവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

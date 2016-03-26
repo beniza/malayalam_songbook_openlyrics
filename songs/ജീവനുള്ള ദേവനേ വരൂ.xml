@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:03">
+  <properties>
+    <titles>
+      <title>ജീവനുള്ള ദേവനേ വരൂ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജീവനുള്ള ദേവനേ വരൂ ജീവവാക്യം ഓതുവാൻ വരൂ<br/>പാപത്തെ വെറുത്തു ജീവിപ്പാൻ പാപബോധം ഞങ്ങളിൽ തരൂ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുവേ നീ വലിയവൻ യേശുവേ നീ പരിശുദ്ധൻ<br/>യേശുവേ നീ നല്ലവൻ യേശുവേ നീ വല്ലഭൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മാനസം കനിഞ്ഞിടുവാനായ് ഗാനമാല്യം ഏകിടുവാനായ്<br/>ആവസിക്ക എന്റെ ദേഹിയിൽ നീ വസിക്ക എന്റെ ജീവനിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വാഗ്ദത്തങ്ങൾ ചെയ്ത കർത്തനേ വാക്കുമാറാതുണ്മയുള്ളോനേ<br/>വാഗ്ദത്തങ്ങൾക്കായി വരുന്നു വല്ലഭാത്മമാരി നൽകണേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ന്യായവിധി നാൾ വരുന്നിതാ പ്രിയൻ വരാൻ കാലമായല്ലോ<br/>ലോകത്തിൽ നശിച്ചുപോകുന്ന ലോകരെ നീ രക്ഷിച്ചിടണേ.</lines>
+    </verse>
+  </lyrics>
+</song>

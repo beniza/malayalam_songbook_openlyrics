@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>പാടുവിൻ സഹജരേ കൂടുവിൻ കുതുകരായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാടുവിൻ സഹജരേ കൂടുവിൻ കുതുകരായ്<br/>തേടുവിൻ പുതിയ സംഗീതങ്ങളെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാടുവിൻ പൊൻവീണകളെടുത്തു<br/>സംഗീതങ്ങൾ തുടങ്ങിടുവിൻ<br/>പാരിലില്ലതുപോലൊരു രക്ഷകൻ<br/>പാപികൾക്കാശ്രയമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദേശം ദേശമായ് തേജസ്സിൻ സുവിശേഷ<br/>കാഹളം മുഴക്കിടുവിൻ<br/>യേശുരാജൻ ജയിക്കട്ടെ യെരിഹോ<br/>മതിലുകൾ വീണിടട്ടെ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഓമനപ്പുതുപുലരിയിൽ നാമിനി<br/>ചേരും തൻ സന്നിധിയിൽ<br/>കോമളമാം തിരുമുഖകാന്തിയിൽ<br/>തീരും സന്താപമെല്ലാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഈ ദൈവം ഇന്നുമെന്നേക്കും<br/>നമ്മുടെ ദൈവമല്ലോ<br/>ജീവകാലം മുഴുവനുമവൻ നമ്മെ<br/>നൽവഴിയിൽ നടത്തും.</lines>
+    </verse>
+  </lyrics>
+</song>

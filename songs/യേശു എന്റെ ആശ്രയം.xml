@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:17">
+  <properties>
+    <titles>
+      <title>യേശു എന്റെ ആശ്രയം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു എന്റെ ആശ്രയം<br/>എനിക്കുള്ളേക സങ്കേതം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വിഷമം ഏറെയേറുമ്പോൾ<br/>വിനകളാലെ നീറുമ്പോൾ<br/>കരഞ്ഞു കണ്ണീർ തൂകുമ്പോൾ<br/>അരികിൽ വരുന്നതേശുവാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പിരിഞ്ഞുപോകും പ്രിയരും<br/>കുറഞ്ഞുപോകും സ്നേഹവും<br/>നിറഞ്ഞ സ്നേഹനാഥനായ്<br/>അറിഞ്ഞു ഞാനെൻ യേശുവെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എളിയയെന്നെ താങ്ങുവാൻ<br/>എനിക്കായെല്ലാം കരുതുവാൻ<br/>ഉലകനാഥനേശുവുണ്ട്<br/>കലങ്ങവേണ്ടതാൻ മതി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഒരുക്കുന്നെന്റെ വീടങ്ങ്<br/>ഒരിക്കൽ ഞാനും പോകുമേ<br/>മരിക്കുവോളം തന്റെ വേല<br/>ശരിക്കു ചെയ്തു തീർന്നെങ്കിൽ!</lines>
+    </verse>
+  </lyrics>
+</song>

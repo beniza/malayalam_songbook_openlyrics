@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:58">
+  <properties>
+    <titles>
+      <title>പിന്തുടരും ഞാനേശുവിനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പിന്തുടരും ഞാനേശുവിനെ<br/>എന്തു വിപത്തുകൾ വന്നാലും<br/>വൻതിരകളുയരുകിലും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുവിൻ ദിവ്യനാമമേ<br/>ശാശ്വത സങ്കേതമേ<br/>സ്വർഗ്ഗീയമാമനുഗ്രഹമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കേവലമീ ഭൂമരുവിൽ ഞാൻ<br/>വഴിവിട്ടിനി വലയാതെ<br/>തൻ വലങ്കൈ നടത്തുമെന്നെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തൻ ക്രൂശിലെ സ്നേഹസ്വരം<br/>സങ്കടമഖിലവും തീർത്തിടുമേ<br/>തങ്കമുഖമെന്താനന്ദമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സംശയമില്ലെനിക്കവനെ<br/>ശാശ്വതമായ തൻ തിരുവചനം<br/>നിശ്ചയമായ് നിലനിൽക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

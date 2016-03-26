@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>ഓടുക മനമെ ഓടുക ദിനവും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഓടുക മനമെ ഓടുക ദിനവും<br/>വിരുതിന്നായ് ലാക്കിലേക്കായ്<br/>വിശ്വസ്തനാഥൻ വിളിച്ചതിനാലെ<br/>ഭയമൊട്ടും വേണ്ടിനിയും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വിശ്വാസയാത്ര ഞാൻ തുടർന്നിടുമ്പോൾ<br/>പ്രതികൂല കാറ്റുകൾ വീശിടുമ്പോൾ<br/>പ്രിയനെ നീ കരുതുന്നതാൽ തളർന്നിടാതോടിടും ഞാൻ<br/>അവനിയിലവൻ ബലമാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പൂർവ്വപിതാക്കളും ദൂരെ നിന്ന്<br/>ദർശിച്ച നാടതിലെത്തിടുവാൻ<br/>മന്നിതിൽ അന്യനെന്ന് അനുദിനം എണ്ണിടുവാൻ<br/>തരിക നിൻ കൃപയതിനാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നല്ല പോർ പൊരുതു ഞാനോടിടുമ്പോൾ<br/>വിശ്വാസം കാത്തു ഞാൻ തികച്ചിടുവാൻ<br/>കിരീടവും പ്രാപിക്കുവാൻ വിൺഗേഹം പൂകിടുവാൻ<br/>എൻമനം കൊതിച്ചീടുന്നേ.</lines>
+    </verse>
+  </lyrics>
+</song>

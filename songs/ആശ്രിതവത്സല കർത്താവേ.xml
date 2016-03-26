@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>ആശ്രിതവത്സല കർത്താവേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആശ്രിതവത്സല കർത്താവേ<br/>അനുഗ്രഹം ചൊരിയണമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>താവക സന്നിധേ ഞങ്ങൾ വരുന്നു കാരുണ്യസാഗരമേ<br/>ആത്മീയ നൽവരംഞങ്ങളിൽ നാഥാ<br/>അളവെന്യേ ചൊരിയേണമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിദ്രയിലാണ്ടൊരു ഞങ്ങൾ തന്നുള്ളം<br/>നീയുണർത്തിടണമേ<br/>നല്ലഫലങ്ങളീഞങ്ങളിൽ കായ്പാൻ<br/>അനുഗ്രഹം അരുളണമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആദിയോടന്തം നീ കൂട്ടിരിക്കേണം<br/>ആനന്ദദായകനേ<br/>ആശിർവദിക്കണം ഞങ്ങളെ ആകെ<br/>ആത്മാവിൽ നിറയ്ക്കണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:02">
+  <properties>
+    <titles>
+      <title>പ്രാണനാഥാ! നിന്നെ ഞങ്ങൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പ്രാണനാഥാ! നിന്നെ ഞങ്ങൾ വന്ദിക്കുന്നിപ്പോൾ<br/>പാവനമാം നിൻനാമത്തെ ഓർത്തു സാദരം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിത്യജീവൻ മർത്യർക്കായി ദാനം ചെയ്യുവാൻ<br/>മൃത്യുവിൻ ഭയങ്കരത നീ സഹിച്ചതാൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻ മരണത്താലഖില പാപവും പോക്കി<br/>നിന്നെ നിത്യം വാഴ്ത്തിടുവാൻ തന്ന കൃപയ്ക്കായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപത്തിനു ദാസന്മാരായ് ജീവിച്ചവരെ<br/>നിൻരക്തത്താൽ വീണ്ടെടുത്ത സ്നേഹമോർത്തിതാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിൻ പ്രയത്നത്തിൻ ഫലമാം നിൻദാസരിപ്പോൾ<br/>നിൻ കൽപ്പനപോലെ നിന്നെയോർത്തു ഭക്തിയായ്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിത്യതയിൽ നിൻമുഖത്തെ കാണും നേരത്തും<br/>നിത്യമാം നിൻ സ്നേഹമത്രേ സ്തോത്രസംഗീതം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>സർവ്വബഹുമാനം സ്തുതി സ്തോത്രം ശക്തിയും<br/>സർവ്വഥാ നിൻ നാമത്തിലർപ്പിച്ചു ഭക്തിയിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

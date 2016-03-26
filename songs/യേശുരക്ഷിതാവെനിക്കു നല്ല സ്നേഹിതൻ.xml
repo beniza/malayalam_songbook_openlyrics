@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:47">
+  <properties>
+    <titles>
+      <title>യേശുരക്ഷിതാവെനിക്കു നല്ല സ്നേഹിതൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുരക്ഷിതാവെനിക്കു നല്ല സ്നേഹിതൻ<br/>ഏറ്റം വിലയുള്ള മൂറിൻ കെട്ടനിക്കവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഒന്നുകൊണ്ടുംകൈവെടിയാതെ തന്നാത്മാവാൽ<br/>എന്നുംകൂടെ പാർത്തിടുന്ന മാകൃപാലുവാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തൻമഹത്വ സന്നിധിയിൽ എന്നെയെപ്പോഴും<br/>കൺമണിപോൽ കാത്തിടുന്ന കാരുണ്യവാനാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഈ ലോകത്തിൽ കൂടെയുള്ള യാത്രയിലെന്റെ<br/>കാലടികളെ ക്ഷണംപ്രതി നടത്തുന്ന</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻ പ്രയാസങ്ങൾ സകലവും സതതം തൻ<br/>മുമ്പിൽ കൊണ്ടുചെല്ലുവതിന്നു ക്ഷണിക്കുന്ന</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മേദിനിയിൽ നേരിടുന്ന ഖേദങ്ങൾ മൂലം<br/>വേദനപ്പെട്ടിടുമ്പോൾ ആമോദം നൽകുന്ന</lines>
+    </verse>
+    <verse name="v7">
+      <lines>തൻ നിറവിൽ നിന്നനുദിനം ക്ഷണംതോറും<br/>എന്നാവശ്യങ്ങൾ അഖിലം തീർത്തുതരുന്ന</lines>
+    </verse>
+    <verse name="v8">
+      <lines>മൃത്യുവിൻ നേരത്തുമെല്ലാ ശത്രുവിൽ നിന്നും<br/>കാത്തു നിത്യഭാഗ്യലോകേ ചേർത്തുകൊണ്ടിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

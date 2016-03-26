@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>മാനവേന്ദ്ര! മഹിതാമല താരക വചനാമൃത</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മാനവേന്ദ്ര! മഹിതാമല താരക വചനാമൃത<br/>താമ്രതരാം ഘ്രിയുഗാത്മ വിലാസ!<br/>മാനിത പദപത്മ രതസേവാ ജനതാവാ<br/>സനഭാവ ഭവദാവ സകലേശ്വര<br/>സാധിതസർവ്വ ജയാന്വിത</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭാവരൂപ ഭജമാന ജനോപ്സിത<br/>ഫലദായക നായക സായകസാരപാണേ<br/>താപശമന ഗുണഗണ ലോല ശുഭശീല<br/>ശ്രിതപാല ബലമൂല പരിപൂജിത സുചരിത<br/>സുരഭില സുമസമ ഡിംഭപ്രചരണ<br/>ദംഭപ്രഹരണ ശുംഭൽ കചയുത</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാവനാത്മ പാവനാഗമനാദൃത ജന<br/>താവന സാവന ജീവന ദിവ്യനാഥ<br/>ശോഭന രസാദന ജനസേവ്യധൃതഭവ്യ<br/>കൃതഹവ്യശ്രുത നവ്യ പ്രണതാവന പ്രമഥിത<br/>രിപുഗണ ജനപരിപാല സ്ഫടികദുകുല<br/>സ്മൃതജന സാലസ്തുതഗുണ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സ്നേഹരാശേ സകലാകുല നാകുല<br/>കുലലാലന പാലന ശാലിനമേവ വന്ദേ<br/>സ ഏവ ഭവാൻ ജാനേ സകലേശ ഭവ<br/>പാശ ബലനാശ സമിതീശ<br/>പരമാത്മജ ജയ മമ ഹൃദിവസ വസു<br/>ഗണനാഥ സ്തവ മതിമോദ സ്വജന<br/>സുബോധസ്വനമയ.</lines>
+    </verse>
+  </lyrics>
+</song>

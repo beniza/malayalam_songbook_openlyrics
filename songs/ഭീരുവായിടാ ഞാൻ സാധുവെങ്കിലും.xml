@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:49">
+  <properties>
+    <titles>
+      <title>ഭീരുവായിടാ ഞാൻ സാധുവെങ്കിലും</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഭീരുവായിടാ ഞാൻ സാധുവെങ്കിലും<br/>ക്ഷീണിക്കാ വിഷാദം മൂലം ലേശവും<br/>ക്രിസ്തനെൻ സഹായം നിത്യമെൻ ബലം<br/>നിസ്തുല പ്രവാഹം തൻ പ്രേമവും കൃപയും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വൻകൃപകളാൽ വൻകൃപകളാൽ<br/>എൻ നാഥനിതുവരെയും<br/>പുലർത്തിയാശ്ചര്യമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പക്ഷികൾക്കു ഭക്ഷ്യം നൽകിടുന്നവൻ<br/>സസ്യങ്ങൾക്കതുല്യ ശോഭയേകുന്നോൻ<br/>സർവ്വം ചന്തമായ് നിയന്ത്രിക്കുന്നവൻ<br/>തന്നെയെന്റെ നാഥൻ സത്യേക സംരക്ഷകൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എൻ കേരീതുവാസം രമ്യമാക്കുവാൻ<br/>നൽകും നിഷ്പ്രയാസം സർവ്വം ഭംഗിയായ്<br/>ഏലിയാവിൻ ദൈവം നിത്യശക്തനായ്<br/>വാഴുന്നിന്നുമേവം കാരുണ്യസമ്പൂർണ്ണനായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

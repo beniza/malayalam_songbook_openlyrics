@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>യേശു മണവാളൻ നമ്മെ ചേർക്കുവാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു മണവാളൻ നമ്മെ ചേർക്കുവാൻ<br/>മദ്ധ്യവാനിൽ വെളിപ്പെടുവാൻ<br/>കാലം ആസന്നമായ് പ്രിയരെ<br/>ഒരുങ്ങാം വിശുദ്ധിയോടെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചേരും നാം വേഗത്തിൽ ഇമ്പ വീടതിൽ<br/>കാണും നാം അന്നാളിൽ പ്രിയൻ പൊന്മുഖം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യുദ്ധങ്ങളും ക്ഷാമങ്ങളും ഭൂകമ്പങ്ങളും<br/>അടിക്കടി ഉയർന്നിടുമ്പോൾ<br/>കാന്തനേശു വരാൻ കാലമായ്<br/>രൂപാന്തരം പ്രാപിക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>രോഗം ദുഃഖങ്ങളും മരണമതും<br/>തെല്ലും നീ ഭയപ്പെടാതെ<br/>ദേഹം മണ്ണോടു ചേർന്നെന്നാലും<br/>രൂപാന്തരം പ്രാപിക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഝടുഝടെ ഉയിർക്കും വിശുദ്ധരെല്ലാം<br/>കാഹളനാദം കേൾക്കുമ്പോൾ<br/>പാരിൽ പാർത്തിടും നാം അന്നാളിൽ<br/>രൂപാന്തരം പ്രാപിക്കും</lines>
+    </verse>
+  </lyrics>
+</song>

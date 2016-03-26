@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:28">
+  <properties>
+    <titles>
+      <title>ദേവാധിദേവൻ നീരാജാധിരാജൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദേവാധിദേവൻ നീരാജാധിരാജൻ<br/>ദൂതന്മാർ രാപ്പകൽ വാഴ്ത്തിടുന്നോൻ<br/>മന്നിലും വിണ്ണിലും ആരാധ്യനാം നീ<br/>ഉന്നതനന്ദനൻ നീ യോഗ്യനാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീ എന്നും യോഗ്യൻ, നീ എന്നും യോഗ്യൻ<br/>ദൈവത്തിൻ കുഞ്ഞാടേ നീ യോഗ്യനാം<br/>സ്തോത്രം, സ്തുതി, ബഹുമാനങ്ങളെല്ലാം<br/>സ്വീകരിപ്പാനെന്നും നീ യോഗ്യനാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്വർഗ്ഗസുഖം വെടിഞ്ഞെൻ പാപം തീർപ്പാൻ<br/>ദൈവത്തിൻ കുഞ്ഞാടായ് ഭൂവിൽ വന്നു<br/>നീ അറുക്കപ്പെട്ടു നിൻ നിൻ ചിണം ചിന്തി<br/>വീണ്ടെടുത്തെന്നെയും നീ യോഗ്യനാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രൂശിലാ കൂരിരുളിലേകനായി<br/>ദൈവത്താൽ കൈവിടപ്പെട്ടവനായ്<br/>നീ സഹിച്ചു ദൈവക്രോധമതെല്ലാം<br/>എൻ പാപം മൂലമായ്നീ യോഗ്യനാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാതകർ മദ്ധ്യത്തിൽ പാതകനെപ്പോൽ<br/>പാപമായ് തീർന്നു നീ ക്രൂശതിന്മേൽ<br/>നീ മരിച്ചു എന്റെ പാപങ്ങൾ പോക്കി<br/>എന്തൊരു സ്നേഹമേ!നീ യോഗ്യനാം.</lines>
+    </verse>
+  </lyrics>
+</song>

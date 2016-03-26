@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:34">
+  <properties>
+    <titles>
+      <title>യേശുനായകാ വാഴ്ക</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുനായകാ വാഴ്ക<br/>ജീവദായകാ നിരന്തം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആദിമുതൽ പിതാവിൻ ശ്രീ തങ്ങിടും മടിയിൽ<br/>വീതാമയമിരുന്ന ചേതോഹരാത്മജനേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപം പരിഹരിപ്പാൻ പാരിൽ ജനിച്ചവനേ<br/>ഭൂവിന്നശുദ്ധി നീക്കി ശാപം തകർത്തവനേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അഞ്ചപ്പവും ചെറുമീൻ രണ്ടുമെടുത്തു വാഴ്ത്തി<br/>അയ്യായിരത്തിനതി സംതൃപ്തിയേകിയൊരു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഓടുന്ന ചോരയോടും വാടും മുഖത്തിനോടും<br/>പാടേറ്റു കൈവിരിച്ചു ക്രൂശിൽ കിടന്നവനേ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എൻ ദേവദേവനേയെന്തെന്നെ വെടിഞ്ഞതെന്നു<br/>ഖിന്നാത്മനാ വിളിച്ചു ചൊന്നു മരിച്ചവനേ!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ആയാറിലായിരങ്ങളായുള്ള ദൂതരോടും<br/>സ്വീയമഹിമയോടും താനേ വരുന്ന പരാ!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഹാസ്യമാം മുൾമുടിയുമങ്കിയും ചേർന്ന മെയ്യിൽ<br/>രാജസൗഭാഗ്യമുദ്ര ശീഘ്രം ധരിപ്പവനേ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>സാലേപുരം യഥാർത്ഥ രാജനിവാസമാക്കാൻ<br/>കാലേ വരുന്ന യൂദ രാജശിഖാമണിയേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:24">
+  <properties>
+    <titles>
+      <title>പരിശുദ്ധൻ ദേവദേവനു സ്തോത്രം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരിശുദ്ധൻ ദേവദേവനു സ്തോത്രം<br/>ഉന്നതൻ നീ മഹോന്നത ദേവൻ<br/>ഭൂവാനങ്ങൾ വാക്കാൽ സൃഷ്ടി ചെയ്തോൻ<br/>അത്യുന്നതൻ നിനക്കെന്നും സ്തോത്രം-</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പരിശുദ്ധൻ മഹോന്നത ദേവൻ<br/>ഉന്നതൻ നീ മഹോന്നതൻ (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കെരൂബുകൾ സാറാഫുകളും നിത്യം<br/>പരിശുദ്ധനെന്നാർത്തു വാഴ്ത്തുന്നോൻ<br/>ദൂതരെല്ലാം സ്വർഗ്ഗീയ സേനയാകെ<br/>അത്യുച്ചത്തിൽ പാടി പുകഴ്ത്തുന്നോൻ-</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അഗ്നി ജ്വാലയ്ക്കൊത്ത ദൃഷ്ടികളുള്ളോൻ<br/>ഇരമ്പും കടലിൻ ശബ്ദം കേൾപ്പിപ്പോൻ<br/>താരകങ്ങളേഴും വലങ്കയ്യിലുള്ളോൻ<br/>അനേക സൂര്യപ്രഭാവമുളളവൻ-</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അൽഫയവൻ ഓമേഗയുമായുള്ളോൻ<br/>ഇരുന്നവൻ ഇരിക്കുന്നോനവൻ<br/>വരുന്നവൻ സർവ്വശക്തിയുള്ളോൻ<br/>കർത്തനവൻ രാജാധിരാജൻ താൻ-</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മരിച്ചവനെങ്കിലും ജീവിക്കുന്നവൻ<br/>മരണ പാതാളത്തെ വെന്നവൻ<br/>സഭാ കാന്തൻ ഉന്നതനന്ദനൻ<br/>സർവ്വോൽകൃഷ്ടനാം കുഞ്ഞാടവൻ-</lines>
+    </verse>
+  </lyrics>
+</song>

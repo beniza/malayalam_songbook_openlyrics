@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:53">
+  <properties>
+    <titles>
+      <title>കർത്താവിൽ എപ്പോഴും സന്തോഷിക്കും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്താവിൽ എപ്പോഴും സന്തോഷിക്കും ഞാൻ<br/>ക്രിസ്തീയ ജീവിതയാത്രയതിൽ<br/>കണ്ണീരിൻ വേളയോ കഷ്ടങ്ങളേറെയോ<br/>വരികിലുമവനിൽ ഞാൻ സന്തോഷിക്കും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആകുലചിന്തകളേറിയെന്നുള്ളം<br/>വ്യാകുലമായ് മുറ്റും തീർന്നിടുമ്പോൾ<br/>ഏകുന്നു തൻമൊഴി സാന്ത്വനമെനിക്ക്<br/>ആകയാലില്ലൊരു ചഞ്ചലവും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാലമെല്ലാം തൻ കൈകളാലെന്നെ<br/>കാത്തിടുവാൻ വഴി നടത്തിടുവാൻ<br/>കരുത്തനാമവനെന്നും കരുതിടുന്നവനാം<br/>കർത്തനിൽ മാത്രമെന്നാശ്രയമാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അറിഞ്ഞിടുന്നെന്നെയഖിലവും ദൈവം<br/>അവൻ ഹിതംപോലെ നടത്തിടുന്നു<br/>അന്നന്നു താൻ തരും തുമ്പമോ ഇമ്പമോ<br/>അതുമതിയെനിക്ക് അനുഗ്രഹമാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പരിശോധനകൾ പല ക്ലേശങ്ങൾ<br/>പാരിച്ച ഭാരങ്ങൾ സഹിച്ചിടുമീ<br/>പാരിലെ നാളുകൾ തീർന്നിടും വേഗം<br/>പിരിഞ്ഞങ്ങു പോം ഞാൻ പ്രിയന്നരികിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

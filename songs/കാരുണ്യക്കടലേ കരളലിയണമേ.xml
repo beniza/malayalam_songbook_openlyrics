@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:17">
+  <properties>
+    <titles>
+      <title>കാരുണ്യക്കടലേ കരളലിയണമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാരുണ്യക്കടലേ കരളലിയണമേ<br/>കാത്തുകൊള്ളണമേയടിയനെ ദിനവും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൈകളാൽ താങ്ങി നടത്തുകെന്നെ നീ<br/>കൈവരും ബലമെനിക്കാധികൾ നീങ്ങി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഘോരപിശാചിൻ ക്രൂരത കലരും<br/>പാരിൽ നിന്നുടയ പാദമെൻ ശരണം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഊറ്റമായടിക്കും കാറ്റിലെൻ പടകിൽ<br/>ഏറ്റവും സുഖമായ് യാത്ര ചെയ്തിടുവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്നും നിൻ വചനം എന്നുടെയശനം<br/>ആക്കി ഞാനനുദിനം പാർക്കുവാൻ നൂനം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആകുലചിന്തകളേറിടും നേരം<br/>ആകവേ നിൻമേലാക്കി വിശ്രമിപ്പാൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ക്ഷീണതയകന്നും ന്യൂനത നികന്നും<br/>ക്ഷോണിയിൽ നിൻജനം കാണുവാനെന്നും</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഈ മരുഭൂമിയിൽ നീ മതി സഖിയായ്<br/>ആമയം നീങ്ങി ക്ഷേമമായ് വസിപ്പാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

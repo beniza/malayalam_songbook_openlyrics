@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:11">
+  <properties>
+    <titles>
+      <title>ഇഹത്തിലെ ദുരിതങ്ങൾ തീരാറായ് നാം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഇഹത്തിലെ ദുരിതങ്ങൾ തീരാറായ് നാം<br/>പരത്തിലേക്കുയരും നാൾ വരുമല്ലോ<br/>വിശുദ്ധന്മാരുയിർക്കും പറന്നുയരും വേഗം<br/>വന്നിടും കാന്തന്റെ മുഖം കാണ്മാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വാനസേനയുമായ് വരും പ്രിയൻ<br/>വാനമേഘേ വരുമല്ലോ<br/>വരവേറ്റം സമീപമായ് ഒരുങ്ങുക സഹജരേ<br/>സ്വർഗ്ഗീയ മണാളനെ എതിരേൽപ്പാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അവർ തന്റെ ജനം താൻ അവരോടുകൂടെ<br/>വസിക്കും കണ്ണീരെല്ലാം തുടച്ചിടും നാൾ<br/>മൃത്യുവും ദുഃഖവും മുറവിളിയും നിന്ദ<br/>കഷ്ടതയുമിനി തീണ്ടുകില്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൊടുങ്കാറ്റലറിവന്നു കടലിളകിടിലും<br/>കടലലകളിലെന്നെ കൈവിടാത്തവൻ<br/>കരം തന്നു സൂക്ഷിച്ചരുമയായി തന്റെ<br/>വരവിൻ പ്രത്യാശയോടെ നടത്തിടുമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തൻ കൃപകളെന്നുമോർത്തു പാടിടും ഞാൻ<br/>തന്റെ മുഖശോഭ നോക്കി ഓടിടും ഞാൻ<br/>പെറ്റ തള്ള തൻകുഞ്ഞിനെ മറന്നിടിലും എന്നെ<br/>മറക്കാത്ത മന്നവൻ മാറാത്തവൻ</lines>
+    </verse>
+  </lyrics>
+</song>

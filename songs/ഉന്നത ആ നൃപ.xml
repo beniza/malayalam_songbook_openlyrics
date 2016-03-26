@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:09">
+  <properties>
+    <titles>
+      <title>ഉന്നത ആ നൃപ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉന്നത ആ നൃപ നന്ദനനേ! തവ പൊന്നുവദനമീ<br/>ഞാനെന്നു കാണും ദേവാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മന്നവമന്നനേ! മനുകുലമാന്യനേ!<br/>നിന്നടിമലരിണയെൻ ശരണം ദേവാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വേഗം വരുന്നു ഞാനേവമരുളിയോ<br/>രാഗിരം നിനച്ചു ഞാനാവലോടിരിക്കുന്നേൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വാനവും ഭൂമിയും നീങ്ങുകിലും തവ<br/>വാക്കുകളൊഴിയുമോ ഭാഗ്യനിധേ ദേവാ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഭീതികരമാമീ ശോധനകൾക്കിടെ<br/>മോദമാർന്നിരിപ്പതിന്നേതു വിധം ദേവാ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ബോധമിരുളുന്നു സാദമിയലുന്നു<br/>ഖേദവുമേറുന്നു കേണിടുന്നേൻ ദേവാ!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ജീവനെ നൽകുവാൻ ചാവിനുൾപൂകിയ<br/>ജീവനൗഷധമാമെൻ ശ്രീനിധേ! വന്ദനം</lines>
+    </verse>
+    <verse name="v8">
+      <lines>രാജശിഖാമണേ! നീചനാമെൻമേൽ നിൻ<br/>തേജസ്സാം നിറവൊഴിച്ചാശ്വസിപ്പിക്ക മാം.</lines>
+    </verse>
+  </lyrics>
+</song>

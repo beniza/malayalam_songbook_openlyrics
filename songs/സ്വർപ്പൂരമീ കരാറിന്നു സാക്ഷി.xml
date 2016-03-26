@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:23">
+  <properties>
+    <titles>
+      <title>സ്വർപ്പൂരമീ കരാറിന്നു സാക്ഷി</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്വർപ്പൂരമീ കരാറിന്നു സാക്ഷിനിൽക്കുന്നെൻ മനമേ<br/>സ്വർഗ്ഗസ്ഥനീ ദമ്പതികൾക്കാശീർവാദം ഏകീടട്ടെ<br/>ഭാഗ്യനാൾ ഭാഗ്യനാൾ ദൈവം സംയോജിപ്പിച്ച നാൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആകാശം ഭൂമിയിവ<br/>നിർമ്മിച്ച ദേവദേവൻ<br/>സീയോനിൽ നിന്നിവരെ വാഴ്ത്തട്ടെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാഴ്ത്തുവിൻ പരം വാഴ്ത്തുവിൻ<br/>ഏകൻ ത്രിയേകനാകും<br/>സ്നേഹസ്വരൂപിയെന്നും<br/>ഏകട്ടെ മംഗളങ്ങൾ മേൻമേലായ്‌</lines>
+    </verse>
+  </lyrics>
+</song>

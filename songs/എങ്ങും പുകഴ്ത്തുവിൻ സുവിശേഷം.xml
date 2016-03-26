@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>എങ്ങും പുകഴ്ത്തുവിൻ സുവിശേഷം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എങ്ങും പുകഴ്ത്തുവിൻ സുവിശേഷം<br/>ഹാ! മംഗള ജയ ജയ സന്ദേശം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നരഭോജികളെ നരസ്നേഹികളാമുത്തമ സോദരരാക്കും<br/>വിമല മനോഹര സുവിശേഷം ഹാ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അജ്ഞാനാന്ധതയാകെയകറ്റും വിജ്ഞാനക്കതിർ വീശും<br/>വേദാന്തപ്പൊരുൾ സുവിശേഷം ഹാ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഭീകര സമരസമാകുലമാകും ഭൂമിയിൽ ഭീതിയെ നീക്കും<br/>ശാന്തി സന്ദായക സുവിശേഷം ഹാ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിമലജനേശുവിൽ വിശ്വസിച്ചിടുകിൽ വിടുതലനാമയമരുളും<br/>വിജയധ്വനിയീ സുവിശേഷം ഹാ!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കൃപയാലേതൊരു പാതകനെയും പാവന ശോഭിതനാക്കും<br/>പാപനിവാരണ സുവിശേഷം ഹാ!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നശിക്കും ലൗകിക ജനത്തിനു ഹീനം, നമുക്കോ ദൈവികജ്ഞാനം<br/>കുരിശിൻ വചനം സുവിശേഷം ഹാ!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:48">
+  <properties>
+    <titles>
+      <title>സങ്കടത്തിൽ നീയെൻ സങ്കേതം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സങ്കടത്തിൽ നീയെൻ സങ്കേതം<br/>സന്തതമെൻ സ്വർഗ്ഗസംഗീതം<br/>സർവ്വസഹായി നീ സൽഗുരുനാഥൻ നീ<br/>സർവ്വാംഗസുന്ദരനെൻ പ്രിയനും നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അടിമ നുകങ്ങളെയരിഞ്ഞു തകർത്തു<br/>അഗതികൾ തന്നുടെയരികിൽ നീ പാർത്തു<br/>അടിയനെ നിന്തിരു കരുണയിലോർത്തു<br/>അരുമയിൽ പിളർന്നൊരു മാറിൽ നീ ചേർത്തു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മരുവിടമാമിവിടെന്തൊരു ക്ഷാമം<br/>വരികിലും നിൻപദമെന്തഭിരാമം<br/>മരണദിനംവരെ നിന്തിരുനാമം<br/>ധരണിയിലടിയനതൊന്നു വിശ്രാമം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇരുപുറം പേ നിര നിരന്നു വന്നാലും<br/>നിരവധി ഭീതികൾ നിറഞ്ഞുവെന്നാലും<br/>നിരുപമ സ്നേഹനിധേ!കനിവോലും<br/>തിരുവടി പണിഞ്ഞിടും ഞാനിനിമേലും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിവിധ സുഖങ്ങളെ വിട്ടു ഞാനോടും<br/>വിമലമനോഹരം നിൻപദം തേടും<br/>വിഷമത വരികിലും പാട്ടുകൾ പാടും<br/>വിജയത്തിൻ വിരുതുകളൊടുവിൽ ഞാൻ നേടും.</lines>
+    </verse>
+  </lyrics>
+</song>

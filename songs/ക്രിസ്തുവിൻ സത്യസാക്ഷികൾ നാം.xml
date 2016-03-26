@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തുവിൻ സത്യസാക്ഷികൾ നാം</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തുവിൻ സത്യസാക്ഷികൾ നാം<br/>ക്രൂശിന്റെ ധീര സേനകൾ നാം<br/>പാരിടത്തിൽ പരദേശികളാം നാം<br/>പരലോക പൗരാവകാശികൾ നാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൂടുക നാം ഉത്സുകരായ്<br/>പാടുക ജയ ജയ സ്തുതിഗീതങ്ങൾ<br/>ക്രൂശിൻ വചനം സുവിശേഷം<br/>ദേശമശേഷമുയർത്തുക നാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അലസത വിട്ടെഴുന്നേൽക്കുക നാം<br/>അവിശ്രമം പോർപൊരുതിടുക നാം<br/>അവിശ്വാസത്തിൻ തലമുറ തന്നിൽ<br/>വിശ്വാസവീരരായ് പുലരുക നാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്ധതയിൽ ജനസഞ്ചയങ്ങൾ<br/>ഹന്ത! വലഞ്ഞു നശിച്ചിടുന്നു<br/>രക്ഷകനേശുവിൻ സാക്ഷികളാം നാം<br/>രക്ഷണ്യമാർഗ്ഗമുരച്ചിടുക</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എതിരുകളെത്രയുയർന്നാലും<br/>വൈരികളെത്രയെതിർത്താലും<br/>അടിപതറാതെ വഴി പിശകാതെ<br/>ക്രൂശെടുത്തേശുവെയനുഗമിക്കാം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇന്നു നാം നിന്ദയും ചുമന്നുലകിൽ<br/>ഉന്നതൻ നാമമുയർത്തിടുകിൽ<br/>തന്നരികിൽ നാം ചേർന്നിടുമ്പോൾ<br/>തന്നിടും തങ്കം കിരീടമവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

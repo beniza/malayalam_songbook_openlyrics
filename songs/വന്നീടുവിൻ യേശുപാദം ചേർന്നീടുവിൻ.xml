@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>വന്നീടുവിൻ യേശുപാദം ചേർന്നീടുവിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്നീടുവിൻ യേശുപാദം ചേർന്നീടുവിൻ<br/>പാപത്തെ വിട്ടോടിടുവിൻ<br/>വരുന്നാരെയും ഒരു നാളും ഞാൻ<br/>തളളുകയില്ലെന്നുരച്ചു യേശു - (വന്നീ)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻ ശമ്പളം മരണമേ<br/>അതു നിന്നെ നശിപ്പിക്കുമേ<br/>ദൈവകൃപയെ ക്രിസ്തുവിൽ നിത്യ<br/>ജീവനാണെന്നു വിശ്വസിച്ചിട്ട്‌ - (വന്നീ)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇന്നു നീ മരിച്ചാലെങ്ങു പോം<br/>ദൈവകോപം നീങ്ങിയോ?<br/>നിനക്കായ് യേശു ക്രൂശിൽമരിച്ചിട്ടു-<br/>യിർത്തെഴുന്നളളി മഹിമയിൽ - (വന്നീ)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരണമേ നിനയാ നേരമേ<br/>അതു നിന്നെ സന്ധിയ്ക്കുമേ<br/>മരിച്ചോർ ദൈവപുത്രന്റെ ശബ്ദം<br/>കേട്ടു ജീവിക്കും നേരമായല്ലോ - (വന്നീ)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇതാ ഞാൻ വേഗം വരുന്നുവെന്ന്‍<br/>യേശുരാജൻ അരുളിയല്ലോ<br/>യേശുവേ വേഗം മേഘത്തിൽ വന്നു<br/>നിത്യരാജ്യത്തിൽ ചേർക്ക ഞങ്ങളെ - (വന്നീ)</lines>
+    </verse>
+  </lyrics>
+</song>

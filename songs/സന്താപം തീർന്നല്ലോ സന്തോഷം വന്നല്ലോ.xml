@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:51">
+  <properties>
+    <titles>
+      <title>സന്താപം തീർന്നല്ലോ സന്തോഷം വന്നല്ലോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സന്താപം തീർന്നല്ലോ സന്തോഷം വന്നല്ലോ<br/>സന്തോഷമെന്നിൽ വന്നല്ലോ ഹല്ലേലുയ്യാ<br/>യേശു പാപം മോചിച്ചു എന്നെ മുറ്റും രക്ഷിച്ചു<br/>സന്തോഷമെന്നിൽ തന്നല്ലോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൽ ഞാൻ പിറന്നു<br/>ശാപത്തിൽ ഞാൻ വളർന്നു<br/>പരമ രക്ഷകൻ തൻ<br/>തിരുനിണം ചൊരിഞ്ഞു<br/>പാപിയാമെന്നെയും വീണ്ടെടുത്തു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വഴി വിട്ടു ഞാൻ വലഞ്ഞു<br/>ഗതിമുട്ടി ഞാനലഞ്ഞു<br/>വഴി സത്യം ജീവനാം യേശു എന്നിടയൻ<br/>വന്നു കണ്ടെടുത്തെന്നെ മാറിലണച്ചു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശോധന നേരിടുമ്പോൾ<br/>സ്നേഹിതർ മാറിടുമ്പോൾ<br/>ഭയമെന്തിന്നരികിൽ ഞാനുണ്ടെന്നരുളി<br/>തിരുക്കരത്താലവൻ താങ്ങി നടത്തും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആരം തരാത്തവിധം<br/>ആനന്ദം തൻസവിധം<br/>അനുദിനമധികമനുഭവിക്കുന്നു ഞാൻ<br/>അപഹരിക്കാവല്ലീയനുഗ്രഹങ്ങൾ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പാപത്തിൻ ശാപത്തിനാൽ<br/>പാടുപെടുന്നവരേ<br/>സൗജന്യമാണീ സൗഭാഗ്യമാകയാൽ<br/>സൗകര്യമാണിപ്പോൾ മനന്തിരിവിൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

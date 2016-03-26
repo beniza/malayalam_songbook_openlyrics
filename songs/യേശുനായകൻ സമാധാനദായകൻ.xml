@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:49">
+  <properties>
+    <titles>
+      <title>യേശുനായകൻ സമാധാനദായകൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുനായകൻ സമാധാനദായകൻ<br/>നിനക്കെന്നും ധനമേ<br/>എന്തിന്നാകുലം കലരുന്നെൻ മനമേ!<br/>നിൻസഹായകനവൻ ശക്തനാകയാൽ<br/>നിനക്കു നിർഭയമേ<br/>ലോക പോരിതിലനുദിനം ജയമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്റെ നിക്ഷേപമവനെന്നു കരുതാമെങ്കിൽ<br/>സക്ഷേമമവനിയിലമരാം<br/>ഇത്ര ശ്രേഷ്ഠനാമൊരുവൻ നിൻ<br/>കൂട്ടിനായരികിലുണ്ടതിനാൽ<br/>എന്തിന്നാകുലം കലരുന്നെൻ മനമേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീയിന്നധികം ധനിയാകാൻ നിധിയാം<br/>തീയിലൂതിക്കഴിച്ച പൊന്മതിയാം<br/>ഭൂവിൽ ക്രിസ്തുവുള്ളവനെപ്പോലിത്ര<br/>മാ ധനികനില്ലറിക<br/>എന്തിന്നാകുലം കലരുന്നെൻ മനമേ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകധനം സൗഖ്യമാർഗ്ഗമായ്<br/>കരുതി പോകും നരർക്കുള്ള<br/>വിനയ്ക്കില്ലൊരറുതി എന്നാൽ<br/>ക്രിസ്തുവിൽ സമാധാനം<br/>നിത്യമാം സുഖദാനമരുളും എന്തിന്നാകുലം<br/>കലരുന്നെൻ മനമേ!</lines>
+    </verse>
+  </lyrics>
+</song>

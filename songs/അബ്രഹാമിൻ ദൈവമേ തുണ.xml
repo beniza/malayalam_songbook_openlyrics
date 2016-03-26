@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:16">
+  <properties>
+    <titles>
+      <title>അബ്രഹാമിൻ ദൈവമേ തുണ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അബ്രഹാമിൻ ദൈവമേ തുണ<br/>യാക്കോബിൻ ദൈവമേ ബലം (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വൻ ദുഃഖവേളയിലും എൻഭാരമേറിടുമ്പോഴും (2)<br/>വിശ്വാസത്തോണിയിൽ ആശ്വാസദായകനായ്<br/>നീ മതി എന്നാളുമേ (2)<br/>നീ മതി എന്നാളുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മാറ മധുരമാക്കിയോൻ മാറ്റിടുന്നെൻ വേദനകൾ (2)<br/>എൻ ശക്തിയാം ദൈവം എൻ ഭാഗ്യം എൻ മോദം<br/>എൻ ശരണം നീ എന്നുമേ (2)<br/>എൻ ശരണം നീ എന്നുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൂരിരുളിൻ താഴ്വരയിലും വല്ലഭൻ നീയെന്നാശ്രയം (2)<br/>എൻ പാറയാം യാഹിൽ വാഗ്ദത്ത നായകനിൽ<br/>ആനന്ദ സമ്മേളനം (2)<br/>ആനന്ദ സമ്മേളനം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ജീവിത സാഗരത്തിലും ജീവനറ്റു കേണിടുമ്പോഴും (2)<br/>നീ വായെന്നേശുവേ വൈകാതെ എന്നരികിൽ<br/>എൻ സങ്കടം തീർത്തിടാൻ (2)<br/>എൻ സങ്കടം തീർത്തിടാൻ</lines>
+    </verse>
+  </lyrics>
+</song>

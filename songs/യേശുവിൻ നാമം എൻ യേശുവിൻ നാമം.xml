@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>യേശുവിൻ നാമം എൻ യേശുവിൻ നാമം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവിൻ നാമം എൻ യേശുവിൻ നാമം<br/>എൻ ജീവിതത്തിലേകയാശ്രയമേ<br/>ഞാനെന്നും സ്തുതിക്കും ഞാനെന്നും വാഴ്ത്തും<br/>യേശുവിൻ നാമം എനിക്കെത്രയാനന്ദം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപിയായിരുന്നെന്നെ രക്ഷിപ്പാനായ്<br/>യേശു ക്രൂശിലേറി തന്റെ ജീവനർപ്പിച്ചു<br/>യേശു എത്ര നല്ലവൻ യേശു എത്ര വല്ലഭൻ<br/>പതിനായിരത്തിലതിശ്രേഷ്ഠനവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നല്ലിടയനായ യേശുനാഥൻ<br/>നിരന്തരമായെന്നെ വഴിനടത്തും<br/>അവനെന്നെ ശാസിക്കും അവനെന്നെ രക്ഷിക്കും<br/>കൊടിക്കീഴിലെന്ന നിത്യം നടത്തുമവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സമാധാനമില്ലാതെ ഞാൻ വലഞ്ഞു<br/>യേശു സമാധാനമായെന്റെ അരികിൽ വന്നു<br/>അവനെന്നെ അണച്ചു അവനെന്നെ താങ്ങി<br/>ഭുജബലത്താലെന്നെ നടത്തുമവൻ</lines>
+    </verse>
+  </lyrics>
+</song>

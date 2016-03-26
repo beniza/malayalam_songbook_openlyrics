@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>പാപം നീക്കാൻ ശാപമേറ്റ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാപം നീക്കാൻ ശാപമേറ്റ<br/>പാപികളിൻ രക്ഷകാ<br/>വാഴ്ത്തും നിന്നെ എന്നും വാഴ്ത്തും<br/>വാഴ്ത്തും ഞാൻ നിൻ സ്നേഹത്തെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>രക്തത്താൽ എന്നെ വീണ്ടോനെ<br/>ഭക്തിയോടെ കീർത്തിക്കും<br/>ക്രൂശിനാൽ വിമോചനത്തെ<br/>യേശു ഏകി എനിക്കും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നഷ്ടപ്പെട്ടുപോയ എന്നെ<br/>കഷ്ടപ്പെട്ടെടുത്തോനേ<br/>വാഴ്ത്തും നിന്നെ എന്നും വാഴ്ത്തും<br/>വാഴ്ത്തും ഞാൻ നിൻ സ്നേഹത്തെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആർത്തിയോടെൻ രക്ഷകന്നു<br/>കീർത്തനം ഞാൻ പാടുമേ<br/>പാപസ്നേഹം നീക്കിയെന്നിൽ<br/>ദൈവസ്നേഹമേകയാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദൈവപൈതലാക്കാനെന്നെ<br/>ദൈവകോപമേറ്റോനേ!<br/>പൂർണ്ണഭക്ത്യാ സ്തോത്രം ചെയ്‌വാൻ<br/>പ്രാപ്തനാക്കുകെന്നെ നീ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>കൃപമതി യേശുവിൻ കൃപമതിയാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കൃപമതി യേശുവിൻ കൃപമതിയാം<br/>സങ്കടത്തിൽ എന്റെ സംഭ്രമത്തിൽ<br/>തുണമതി യേശവിൻ തുണമതിയാം<br/>കഷ്ടതയിൽ എന്റെ വേദനയിൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തലയിലെ ഒരു ചെറു മുടിപോലും<br/>വിലയില്ലാ ചെറിയൊരു കുരുവിപോലും<br/>എന്റെ ദൈവം സമ്മതിക്കാതെ<br/>നിലത്തു വീണു നശിക്കുകില്ല</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അനർത്ഥങ്ങളനവധിയേറിടുമ്പോൾ<br/>അവശതയാലുള്ളം തളർന്നിടുമ്പോൾ<br/>എന്റെ ദൈവം ഏബെൻ ഏസർ<br/>അനർത്ഥനാളിൽ കൈവിടുമോ?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മനം നൊന്തു തിരുമുമ്പിൻ കരയുമ്പോൾ<br/>മനസ്സലിഞ്ഞാശ്വാസം പകർന്നു തരും<br/>എന്റെ ദൈവം യഹോവയിരേ<br/>കരുതും കാക്കും പരിചരിക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മരുവിലെ മാറയെ മധുരമാക്കി<br/>ഉറപ്പുള്ള പാറയെ ജലമാക്കും<br/>മഞ്ഞിൽ നിന്നും മന്ന നൽകും<br/>മാമക ദൈവം വല്ലഭനാം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>വരുമിനി പുനഃരധി വിരവിലവൻ<br/>തരുംപുതു മഹസ്സെഴുമുടലെനിക്കു<br/>സ്വർഗ്ഗനാട്ടിൽ സ്വന്ത നാട്ടിൽ സ്വന്ത വീട്ടിൽ<br/>സന്തതം വാഴും ഹല്ലെലുയ്യ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>വാഴ്ത്തുവിൻ യഹേവയെ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2 v9 v2 v10 v2 v11 v2 v12 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഴ്ത്തുവിൻ യഹേവയെ<br/>കീർത്തിപ്പിൻ തൻ നാമത്തെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിത്യം തന്റെ കാരുണ്യം<br/>സത്യം തന്റെ വാഗ്ദത്തം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തൻ വിശുദ്ധ വചനം<br/>അന്ധതയിൽ വെളിച്ചം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പേയിൻ വാഴ്ച നീക്കുവാൻ<br/>സ്ത്രീയിൻ സന്തതി വന്നാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ചേറ്റിൽ നിന്നുയർത്തുന്നോൻ<br/>തീറ്റിപ്പോറ്റി കാക്കുന്നോൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>യിസ്രായേലിൻ കൂടെ നാം<br/>ക്രിസ്തൻ സ്വന്ത വംശമാം</lines>
+    </verse>
+    <verse name="v7">
+      <lines>കഷ്ടനഷ്ടങ്ങളിലും<br/>രോഗശോകങ്ങളിലും</lines>
+    </verse>
+    <verse name="v8">
+      <lines>യേശു വീണ്ടുംവന്നിടും<br/>ക്ലേശമാകെ മാറ്റിടും</lines>
+    </verse>
+    <verse name="v9">
+      <lines>കേൾപ്പിൻ ചെറിയവരേ<br/>ചൊല്ലിൻ വലിയവരേ</lines>
+    </verse>
+    <verse name="v10">
+      <lines>സർവ്വശക്തൻ ഭക്തനേ<br/>ധൈര്യമോടെ പാടുക</lines>
+    </verse>
+    <verse name="v11">
+      <lines>വന്ദിക്ക എന്നാത്മാവേ<br/>നന്ദിയോടീ ദൈവത്തെ</lines>
+    </verse>
+    <verse name="v12">
+      <lines>താതപുത്രനാത്മാവാം<br/>യഹോവയ്ക്കെൻ വന്ദനം.</lines>
+    </verse>
+  </lyrics>
+</song>

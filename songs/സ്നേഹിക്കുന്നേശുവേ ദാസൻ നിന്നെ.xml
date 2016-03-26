@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:55">
+  <properties>
+    <titles>
+      <title>സ്നേഹിക്കുന്നേശുവേ! ദാസൻ നിന്നെ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്നേഹിക്കുന്നേശുവേ! ദാസൻ നിന്നെ<br/>സ്നേഹിക്കുന്നുണ്മയിൽ നായകനേ!<br/>ആ ജീവനാന്തമെൻ മാനസവേദിയിൽ<br/>വന്നിടണം നീ പരനേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ക്രൂശിന്റെ കാഴ്ചയിൽ ശോഭിതമാം<br/>സ്നേഹമാത്മാവിനാൽ ബോധിതനായ്<br/>പ്രാപിച്ചു നിൻകൃപ പാപവിമോചനം<br/>നിത്യസുഖം ശാശ്വതമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്ലേശങ്ങളെന്റെ മേൽ വീഴുന്നിതാ<br/>നാശമുണ്ടാംവിധം മാമലപോൽ<br/>നീയല്ലോ മൽസഖി നീയെന്യേയില്ലെനി<br/>ക്കാശ്രയമായ് ഈ ഗഡുവിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മോഹിക്കുന്നേശുവേ എൻ ഹൃദയം<br/>സ്നേഹത്തിൻ ദിവ്യമാം ജ്വാലയതാൽ<br/>ദാഹിക്കുന്നെൻ മനം മോഹിക്കുന്നെൻ ബലം<br/>ഘോഷിക്കുവാൻ നിൻ സുഗുണം.</lines>
+    </verse>
+  </lyrics>
+</song>

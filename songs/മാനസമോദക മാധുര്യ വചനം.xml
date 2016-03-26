@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:46">
+  <properties>
+    <titles>
+      <title>മാനസമോദക മാധുര്യ വചനം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മാനസമോദക മാധുര്യ വചനം<br/>ധ്യാനിക്കുമ്പോൾ കൃപയേകുപരാ<br/>ഓരോ ഹൃദയത്തിനാവശ്യമതുപോൽ<br/>നീരൊഴുക്കേകിടുക (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപാന്ധകാരം ദുരിതമാക്കും<br/>വേദപ്രമാണങ്ങളെ<br/>മോദമോടുൾക്കോണ്ടേവരുമുണരാൻ<br/>നിൻ സ്വരം കേൾപ്പിക്കുക (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലാസറിൻ ജീവനേകിയ നാദം<br/>ദാസരിൽ കാതുകളിൽ<br/>ഓതുക നീ നിൻ ജീവന്റെ വചനം<br/>ഈ മൃതരാർത്തിടുവാൻ (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പിന്തിരഞ്ഞോടി താളടിയായി<br/>നിൻകൃപ കൈവെടിഞ്ഞോർ<br/>താപമാനസാൽ ആവലായ് വരുവാൻ<br/>നിൻ സ്വരം കേൾപ്പിക്കുക (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിൻജനം നിന്നിൽ സുസ്ഥിര-<br/>മാവാൻ വിണ്മഴയേകണമേ<br/>കന്മഷഹീന നിന്മൊഴിയേവം<br/>തൻ മധുരാമൃതമേ (2)</lines>
+    </verse>
+  </lyrics>
+</song>

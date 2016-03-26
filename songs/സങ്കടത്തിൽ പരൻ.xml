@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:13">
+  <properties>
+    <titles>
+      <title>സങ്കടത്തിൽ പരൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സങ്കടത്തിൽ പരൻ കരങ്ങളാൽ താങ്ങിടുമേ<br/>സംഭ്രമത്തിൽ തുണ നിന്നവൻ നടത്തിടുമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തിരുനിണം ചൊരിഞ്ഞു മരണത്തിൻ<br/>കരങ്ങളിൽ നിന്നെന്നെ വീണ്ടെടുത്തു<br/>പുതുജീവൻ തന്നു അനുഗ്രഹം പകർന്നു<br/>സ്വർഗ്ഗത്തിലിരുത്തിയെന്നെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തിരകളെൻ ജീവിതപ്പടകിൽ<br/>വന്നടിച്ചാൽ പരിഭ്രമമില്ലെനിക്കു<br/>അലകളിൻമീതെ നടന്നൊരു<br/>നാഥൻ അഭയമായുണ്ടെനിക്കു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അവനെന്നെ ശോധന ചെയ്തിടു-<br/>മെങ്കിലും പരിഭവമില്ലെനിക്കു<br/>തിരുഹിതമെന്താണതുവിധമെന്നെ<br/>നടത്തിയാൽ മതിയെന്നും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഒടുവിലെൻ ഗുരുവിൻ അരികിൽ തൻ<br/>മഹസ്സിൽ പുതുവുടൽ ധരിച്ചണയും<br/>കൃപയുടെ നിത്യധനത്തിന്റെ വലിപ്പം<br/>പൂർണ്ണമായ് ഞാനറിയും.</lines>
+    </verse>
+  </lyrics>
+</song>

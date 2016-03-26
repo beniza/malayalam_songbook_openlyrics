@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>ദൈവത്തിൻ ജനമേ, യേശുവിൻ ഭടരേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവത്തിൻ ജനമേ, യേശുവിൻ ഭടരേ!<br/>ആയുധങ്ങളേന്തി പോകുവിൻ നിങ്ങൾ<br/>സൈന്യനാഥൻ ക്രിസ്തു മുന്നിൽ നിൽക്കുന്നിതാ<br/>ഭീതി വേണ്ടാലേശം മുൻഗമിക്കുവിൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്വർഗ്ഗദേശത്തിൽ നാം വിശ്രമിക്കും<br/>ഇദ്ധരയിൽ വേണ്ട തെല്ലും വിശ്രമം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഭാരതനാടെല്ലാം, കീഴടക്കി വാഴും<br/>വൈരിയാം സാത്താനെ ആക്രമിക്കണം<br/>കാഹളങ്ങൾ ഊതി, ചുറ്റി നാം നടന്നു<br/>വീഴ്ത്തണം യെരീഹോ നേടണം ജയം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകമെങ്ങും പോയി ഘോഷിപ്പിൻ സുവാർത്ത<br/>അന്തിമാജ്ഞ നൽകി, നാഥനീ വിധം<br/>സൈന്യനാഥന്നാജ്ഞ,നിർവ്വഹിച്ചിടായ്കിൽ<br/>ന്യായതീർപ്പിൻ നാളിൽ എന്തു നീ ചെയ്യും?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഭോഷനെന്നു ചൊല്ലി കൂട്ടുകാർ ഹസിച്ച്<br/>കർമ്മഭീരുവാക്കിടാൻ ശ്രമിക്കുമ്പോൾ<br/>രാജ്യവും തൻ നിത്യ, നീതിയും കരുതി<br/>പോർ നടത്തണം നാം, ജീവൻ വയ്ക്കണം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കഷ്ടതകൾ തീർന്നു, സ്വർഗ്ഗഗേഹം പൂകി<br/>പ്രണനാഥൻ ചാരേ,നിന്നിടുമ്പോൾ നാം<br/>സ്വച്ഛമാം നഭസ്സിൽ താരകം കണക്കേ<br/>തൂമ തൂകുമന്നു നമ്മളേവരും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>കാക്കണം ദിനംതോറും കരുണയിൽ നീ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാക്കണം ദിനംതോറും കരുണയിൽ നീ<br/>കാക്കണം ദിനംതോറും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കാക്കണം ലോകത്തിൻ പോക്കിൽ നിന്നെന്നുടെ<br/>ലാക്കെന്നും നിന്നിലാകുവാൻ<br/>കരുണയിൽ നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജോലികളിൽ മനോഭാരമുണ്ടായി ഞാൻ<br/>ജോലിയിൽ മുഴുകിടാതെ<br/>കരുണയിൽ നീ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നല്ല മനസ്സാക്ഷി എള്ളളവും വിടാ<br/>വുതല്ലാ സമയം തന്നു<br/>കരുമയിൽ നീ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വേദവാക്യങ്ങളെ ശോധന ചെയ്യുവാൻ<br/>ആദരമരുളിയെന്നെ<br/>കരുണയിൽ നീ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മുന്നമെ ദൈവത്തിൻ രാജ്യവും നീതിയും<br/>തന്നെയന്വേഷിച്ചിടുവാൻ<br/>കരുണയിൽ നീ.</lines>
+    </verse>
+  </lyrics>
+</song>

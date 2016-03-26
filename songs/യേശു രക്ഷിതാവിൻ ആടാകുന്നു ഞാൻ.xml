@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:47">
+  <properties>
+    <titles>
+      <title>യേശു രക്ഷിതാവിൻ ആടാകുന്നു ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു രക്ഷിതാവിൻ ആടാകുന്നു ഞാൻ<br/>സ്വർഗ്ഗസ്ഥപിതാവിൻ പുത്രനായ താൻ<br/>പേർ ചൊല്ലി വിളിച്ചു മുമ്പേ നടക്കും<br/>ഞാനതു ശ്രവിച്ചു പിമ്പേ ഗമിക്കും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മുട്ടുണ്ടാകയില്ല കുറവില്ലിന്നു<br/>ചഞ്ചലമതില്ല തന്റെ ആടിനു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പച്ചമേച്ചിലിങ്കൽ എന്നെ കിടത്തി<br/>സ്വച്ഛവെള്ളത്തിങ്കൽ എന്നെ നടത്തി<br/>തിരിച്ചെന്നാത്മാവെ തന്റെ നാമത്താൽ<br/>നീതിയിൻ വഴിയേ നടത്തുന്നതാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചാവിൻ നിഴലിന്റെ താഴ്വരയിൽ ഞാൻ<br/>നടന്നാലും എന്റെ കൂടെയുണ്ടുതാൻ<br/>ഒരു ദോഷത്തേയും പേടിക്കില്ല ഞാൻ<br/>തൻകോലും വടിയും ആശ്വസിപ്പിക്കും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശത്രുക്കൾ മുമ്പാകെ മേശയൊരുക്കി<br/>തന്നെൻ ശിരസ്സാകെ പൂശുന്നെണ്ണ നീ<br/>എന്റെ പാനപാത്രം നിറയുന്നിതാ<br/>നിനക്കു ഞാൻ സ്തോത്രം ചെയ്യും സർവ്വദാ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആയുഷ്കാലമാകെ നന്മ കാരുണ്യം<br/>പിന്തുടരുമെന്നെ അതെൻ ലാവണ്യം<br/>ദൈവഭവനത്തിൽ നിത്യം വസിക്കും<br/>ഞാനുമത്യുച്ചത്തിൽ തന്നെ സ്തുതിക്കും.</lines>
+    </verse>
+  </lyrics>
+</song>

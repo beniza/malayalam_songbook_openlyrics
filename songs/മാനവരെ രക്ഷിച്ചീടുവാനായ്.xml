@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:25">
+  <properties>
+    <titles>
+      <title>മാനവരെ രക്ഷിച്ചീടുവാനായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മാനവരെ രക്ഷിച്ചീടുവാനായ്<br/>വാനത്തിൽ നിന്നിഹത്തിൽ വന്നു താൻ<br/>ജീവനേകിയോരേശു<br/>ഭൂവിതിൽ വീണ്ടും വരും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>വേഗമേശു രക്ഷകനാഗമിച്ചീടും<br/>മേഘമതാം വാഹനെ<br/>തങ്കചോര ഒഴുക്കി വീണ്ടെടുത്തതൻ<br/>തങ്കകന്യകയെ ചേർക്കുവാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തൻ ശുദ്ധരെ ആകാശെകൂട്ടുവാൻ<br/>യേശു വരുന്നു താമസം വിനാ<br/>പാർത്തലത്തിൽ നിന്നവൻ<br/>ചേർത്തിടും തൻ സന്നിധൌ - വേഗ..</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിങ്ങളുടെ അരകൾ കെട്ടിയും<br/>ഭംഗിയോടെ ദീപം വിളങ്ങിയും<br/>കർത്താവിൻ വരവിനായ്<br/>കാത്തീടുവിൻ സർവ്വദാ - വേഗ.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കുഞ്ഞാട്ടിന്റെ കല്യാണം വന്നിതാ<br/>കാന്ത അലംകൃത മനോഹരി-<br/>ക്ഷണിക്കപ്പെട്ടോർക്കെല്ലാം<br/>മണവാട്ടി ഒരത്ഭുതമേ - വേഗ..</lines>
+    </verse>
+  </lyrics>
+</song>

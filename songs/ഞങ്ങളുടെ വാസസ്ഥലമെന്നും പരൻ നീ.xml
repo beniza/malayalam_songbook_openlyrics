@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:53">
+  <properties>
+    <titles>
+      <title>ഞങ്ങളുടെ വാസസ്ഥലമെന്നും പരൻ നീ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഞങ്ങളുടെ വാസസ്ഥലമെന്നും പരൻ നീ<br/>ഭംഗമില്ലുലകിന്നും മലകൾക്കും ബഹുമുൻ നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നാശത്തിൽ തിരിക്കുന്നു മാനുജകുലത്തെ നീ<br/>നാശത്തിൽനിന്നു വീണ്ടും വരുത്തുന്നായവരെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ആയിരം സമകൾ നിൻ കാഴ്ചയിൽ തലേനാൾ പോൽ<br/>നായകാ! നിനക്കായതൊരു യാമമതുതാൻനീ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വൻവെള്ളമതുപോൽ നീ തള്ളിടും നരന്മാരെ<br/>വൻനിദ്രയതുപോൽ രാവിലെ പുല്ലിൻ സ്ഥിതിപോൽനീ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആയുസ്സെത്രയുമൽപ്പം കൂടിടുകിലും ദുഃഖം<br/>വേഗത്തിലറുക്കപ്പെട്ടകന്നിടും ക്ഷണത്തിൽനീ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കാരുണ്യങ്ങളാൽ ഞങ്ങൾക്കേകിടേണം നീ തൃപ്തി<br/>ആകിൽ ഞങ്ങളെന്നാളും ആനന്ദിച്ചുകൊള്ളുംനീ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഞങ്ങളിൻ ഹൃദയം നിന്നുടെ ജ്ഞാനം ഗ്രഹിച്ചിടാൻ<br/>ഞങ്ങളിൻ ദിനമെല്ലാം എണ്ണുവാനരുൾകനീ.</lines>
+    </verse>
+  </lyrics>
+</song>

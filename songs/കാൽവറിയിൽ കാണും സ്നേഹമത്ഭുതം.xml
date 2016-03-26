@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:36">
+  <properties>
+    <titles>
+      <title>കാൽവറിയിൽ കാണും സ്നേഹമത്ഭുതം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാൽവറിയിൽ കാണും സ്നേഹമത്ഭുതം<br/>വർണ്ണ്യമല്ലഹോ അതെന്റെ നാവിനാൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൽനിന്നെന്നെ വീണ്ടെടുത്ത സ്നേഹമേ<br/>പാവനനിണം ചൊരിഞ്ഞ ക്രൂശിൻ സ്നേഹമേ<br/>എൻമനം കവർന്നു നീ അതുല്യസ്നേഹമേ<br/>മാറ്റമില്ലാ ദിവ്യസ്നേഹം എത്ര അത്ഭുതം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീങ്ങിപ്പോകും പർവ്വതങ്ങൾ കുന്നുകളിവ<br/>കാണുമീ പ്രപഞ്ചവും ധനം മഹിമയും<br/>മർത്യസ്നേഹം മാറിടും ക്ഷണത്തിലെങ്കിലും<br/>മാറ്റമില്ലാ ദിവ്യസ്നേഹം എത്ര അത്ഭുതം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മൃത്യുവിന്റെ ബന്ധനം തകർത്ത സ്നേഹമേ<br/>ശത്രുവിന്റെ ശക്തിയെ ജയിച്ച സ്നേഹമേ<br/>മർത്യരിൽ മരണഭീതി നീക്കും സ്നേഹമേ<br/>മാറ്റമില്ലാ ദിവ്യസ്നേഹം എത്ര അത്ഭുതം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വാനമേഘേ സ്വർപ്പൂരേ കരേറിപ്പോയവൻ<br/>ഇന്നും എന്നും കൂടെയുള്ള നല്ല സ്നേഹിതൻ<br/>എന്നെ വേഗം ആനയിക്കും സ്വർഗ്ഗഗേഹത്തിൽ<br/>ദിവ്യസ്നേഹം എത്ര അത്ഭുതം.</lines>
+    </verse>
+  </lyrics>
+</song>

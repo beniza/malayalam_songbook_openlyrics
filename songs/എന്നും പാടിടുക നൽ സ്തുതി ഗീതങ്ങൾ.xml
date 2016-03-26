@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:25">
+  <properties>
+    <titles>
+      <title>എന്നും പാടിടുക നൽ സ്തുതി ഗീതങ്ങൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നും പാടിടുക നൽ സ്തുതി ഗീതങ്ങൾ<br/>മന്നിൽ മനുഷ്യനായ് അവതരിച്ച<br/>വിണ്ണിതിൻ നായകൻ യേശുവിന്നായ്<br/>നന്നായ് പാടിടാം മോദമോടെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നമുക്കുപ്രാപ്യമാം സ്വർഗ്ഗം പൂകിടുവാൻ<br/>നൽവഴിയവൻ തുറന്നുവല്ലോ!<br/>പാപങ്ങൾ മോചിച്ചു തൻ സ്വന്തമാക്കിയ<br/>സ്നേഹം മറക്കാവതോ?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദൈവകൽപ്പനകൾ ലംഘിച്ചവനാം<br/>മനുഷ്യനെ മാനിച്ചല്ലോ!<br/>മത്സരിയായൊരു മർത്യകുലത്തോടു<br/>വാത്സല്യം കാട്ടിയല്ലോ!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നമ്മെ വീണ്ടുകൊൾവാൻ പാപം പോക്കിടുവാൻ<br/>തന്റെ ചുടുനിണം ചൊരിഞ്ഞുവല്ലോ!<br/>നമ്മുടെ ഉള്ളത്തിൽ പകർന്നതോ<br/>തന്റെ ലാവണ്യ മൊഴികളുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

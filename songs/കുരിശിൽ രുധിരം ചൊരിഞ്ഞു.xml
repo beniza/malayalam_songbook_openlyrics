@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:33">
+  <properties>
+    <titles>
+      <title>കുരിശിൽ രുധിരം ചൊരിഞ്ഞു</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കുരിശിൽ രുധിരം ചൊരിഞ്ഞു<br/>രക്ഷകൻ ജീവൻ വെടിഞ്ഞു<br/>എൻപാപശാപം എല്ലാം കളഞ്ഞു<br/>എന്നെ രക്ഷിപ്പാൻ കനിഞ്ഞു എന്നെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകം ഉളവാകും മുന്നേ താൻ കണ്ടു അഗതിയെന്നെ<br/>രക്ഷയൊരുക്കി അന്നേ എനിക്കായ്<br/>എത്ര മഹാത്ഭുത സ്നേഹം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വിണ്ണിൽ ജനകൻ തൻമടിയിൽ തങ്ങിയിരുന്ന സുതൻ<br/>എന്നെ തിരഞ്ഞു വന്നു ജഗതിയിൽ<br/>തന്നു തൻ ജീവൻ എനിക്കായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രൂശിൽ ചൊരിഞ്ഞ രക്തത്താലെൻ കുറ്റം ക്ഷമിച്ചു തന്നു<br/>സന്താപം പോക്കി ശത്രുത നീക്കി താൻ<br/>സന്തോഷം എന്നിൽ പകർന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആണി തുളച്ച തൃപ്പാദത്തിൽ വീണു വണങ്ങുന്നു ഞാൻ<br/>സ്തോത്രം സ്തുതികൾക്കിന്നുമെന്നെന്നേക്കും<br/>പാത്രമവനേകൻ താൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

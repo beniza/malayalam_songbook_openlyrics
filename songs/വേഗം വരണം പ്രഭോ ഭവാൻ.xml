@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:39">
+  <properties>
+    <titles>
+      <title>വേഗം വരണം പ്രഭോ ഭവാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വേഗം വരണം പ്രഭോ ഭവാൻ<br/>യോഗമിതിലദ്ധ്യക്ഷനായ്<br/>ഏകാന്തചിന്തയോടെ<br/>ഞങ്ങളേവരും കാത്തിരിക്കുന്നേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഊറ്റമായ് കാറ്റിളകി കട-<br/>ലേറ്റവുമിരമ്പിടുമ്പോൾ<br/>മുറ്റും ഭയം തീർക്കുവാൻ മന<br/>മുറ്റരികിലെത്തും വിഭോ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിന്നെപ്പിരിഞ്ഞിരിപ്പാൻ ഗുരോ<br/>ഞങ്ങളാൽ കഴികയില്ലേ<br/>സൂര്യനെ കൂടാതുണ്ടോപകൽ<br/>ചന്ദ്രനെന്യേ രാത്രി നന്നോ?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഗന്ധം പിരിഞ്ഞിടുകിൽ<br/>പൂക്കളെന്തിനുപയോഗമാകും?<br/>ചന്തമകന്നിടുമേ ഞങ്ങൾ-<br/>ക്കന്തികേ നീയില്ലയെന്നാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിൻനാദം കേൾപ്പിക്കണേ നിന്റെ<br/>നൻമൊഴികൾ തൂകേണമേ<br/>വൻമാരിപോലാശിഷമേകി<br/>നന്മ വളർത്തിടേണമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഹാ രമ്യനാരകമേ, മധു<br/>പൂരമാർന്ന നിൻഫലങ്ങൾ<br/>പാരമശിച്ചടിയാർ താപ<br/>ഭാരമകന്നിടേണമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:45">
+  <properties>
+    <titles>
+      <title>തേനിലും മധുരം വേദം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>തേനിലും മധുരം വേദമല്ലാതി-<br/>ന്നേതുണ്ടുചൊൽ തോഴാ<br/>നീ സശ്രദ്ധമിതിലെ സത്യങ്ങൾ<br/>വായിച്ചു ധ്യാനിക്കുകെൻ തോഴാ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മഞ്ഞുപോൽ ലോകമഹികൾ മുഴുവൻ<br/>മാഞ്ഞിടുമെൻ തോഴാ<br/>ദിവ്യരഞ്ജിത വചനം ഭഞ്ജിതമാകാ<br/>ഫലം പൊഴിക്കും തോഴാ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പൊന്നും വസ്ത്രങ്ങളും മിന്നും രത്നങ്ങളു-<br/>മിതിന്നു സമമോ തോഴാ?<br/>എന്നുംപുതുബലമരുളും അതിശോഭ കലരും<br/>ഗതിതരുമന്യൂനം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തേനൊടു തേൻ കൂടതിലെ നൽതെളിതേ-<br/>നിതിന്നു സമമോ തോഴാ?<br/>ദിവ്യ തിരുവചനം നിൻദുരിതമകറ്റാൻ<br/>വഴിപറയും തോഴാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ജീവനുണ്ടാക്കും ജഗതിയിൽ ജനങ്ങൾ-<br/>ക്കതിശുഭമരുളിടും<br/>നിത്യജീവാത്മസൗഖ്യം ദേവാത്മാവരുളും<br/>വഴിയിതു താൻ ന്യൂനം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കാനനമതിൽവച്ചാനന്ദരൂപൻ<br/>വീണവനോടെതിർക്കേ ഇതിൻ<br/>ജ്ഞാനത്തിൻ മൂർച്ച സ്ഥാനത്താലവനെ<br/>ക്ഷീണിപ്പിച്ചെന്നോർക്ക</lines>
+    </verse>
+    <verse name="v7">
+      <lines>പാർത്തലമിതിലെ ഭാഗ്യങ്ങളഖിലം<br/>പരിണമിച്ചൊഴിഞ്ഞിടിലും<br/>നിത്യപരമേശവചനം പാപിക്കു ശരണം<br/>പരിചയിച്ചാൽ ന്യൂനം.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:11">
+  <properties>
+    <titles>
+      <title>എൻ യേശുവേ! എൻ ജീവനേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ യേശുവേ! എൻ ജീവനേ!<br/>എന്നാശ നീ മാത്രമാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശോകാന്ധകാരങ്ങളിൽ എൻ ഏകാന്ത നേരങ്ങളിൽ<br/>എൻ കാന്താ! നീയുള്ളിലാശ്വാസമായ്<br/>വൈകാതെൻ മുൻവന്നിടും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉറ്റോരുപേക്ഷിച്ചിടും എൻ കൂട്ടാളികൾ പോയിടും<br/>തെറ്റാതെന്നാവശ്യ നേരങ്ങളിൽ<br/>കൂട്ടായെനിക്കുണ്ടു നീ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>രാവിൽ വിളക്കാണു നീ എൻനാവിൽ മധുവാണു നീ<br/>അളവില്ലാ കദനത്തിൻ കാർമേഘത്തിൽ<br/>മഴവില്ലിന്നൊളിയാണു നീ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വേറില്ലെനിക്കാശ്രയം ഹാ! വേറില്ലെനിക്കാരുമേ<br/>നേരിട്ടറിഞ്ഞെന്നഴൽ നീക്കുവാൻ<br/>ചാരത്തു നീ മാത്രമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഒന്നേയെനിക്കാഗ്രഹം ഞാൻ നിന്നെയെൻ മുൻകാണണം<br/>എന്നേരവും നിൻ മുഖദർശനം തന്നേഴയെയോർക്കണം.</lines>
+    </verse>
+  </lyrics>
+</song>

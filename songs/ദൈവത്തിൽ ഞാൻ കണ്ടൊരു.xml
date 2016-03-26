@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:49">
+  <properties>
+    <titles>
+      <title>ദൈവത്തിൽ ഞാൻ കണ്ടൊരു</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവത്തിൽ ഞാൻ കണ്ടൊരു നിർഭയമാം പാർപ്പിടം<br/>ഇത്ര സൗഖ്യമെങ്ങുമേ കാണുന്നില്ല സാധു ഞാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>തന്റെ ചിറകിന്നുകീഴ് ദുർഘടങ്ങൾ നീങ്ങി ഞാൻ<br/>വാഴുന്നെന്തുമോദമായ് പാടും ഞാൻ അത്യുച്ചമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തന്റെ നിഴലിനുകീഴ് ഛന്നനായ് ഞാൻ പാർക്കയാൽ<br/>രാപ്പകൽ ഞാൻ നിർഭയൻ ഭീതി ദൂരെ പാഞ്ഞുപോയ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഘോരമഹാമാരിയോ കൂരിരുട്ടിൻ വേളയോ<br/>ഇല്ലതെല്ലും ചഞ്ചലം നാഥനുണ്ടു കൂടവേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ആയിരങ്ങളെന്നുടെ നേർക്കുവന്നെതിർക്കിലും<br/>വീതിയുള്ള പക്ഷങ്ങൾ സാധുവെ മറച്ചിടും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>സ്നേഹശാലി രക്ഷകൻ ഖേടകം തൻ സത്യമാം<br/>എന്റെ ചങ്കിലുണ്ടിതാ രക്ഷിതാവിൻ പേർ സദാ.</lines>
+    </verse>
+  </lyrics>
+</song>

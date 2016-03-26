@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:31">
+  <properties>
+    <titles>
+      <title>ദൈവം നല്ലവൻ എന്നെന്നും നല്ലവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവം നല്ലവൻ എന്നെന്നും നല്ലവൻ<br/>ഞാൻ രുചിച്ചറിഞ്ഞു പാടും ദൈവം നല്ലവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അവങ്കലേക്കു നോക്കിയോർ പ്രശോഭിതരായി<br/>ആരും നിലനിൽക്കുകയില്ലവർക്കെതിരായി<br/>ദൂതർ ഭക്തർ ചുറ്റും നിൽക്കും വൻമതിലായി<br/>ദുഷ്ടർ പോകും കാറ്റുപാറ്റിടും പതിരായി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വിണ്ഡലം ഭൂമണ്ഡലം നിർമ്മിക്കും മുന്നേ<br/>ഉണ്ടെനിക്കനാദിയായി ദൈവമായ് തന്നേ<br/>തലമുറകൾക്കാശ്രയമാം നല്ലവൻ നന്നേ<br/>മറന്നിടാതെ കാത്തിടുന്നു നിത്യവും നമ്മെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കഷ്ടതകൾ ശോധനകൾ നേരിടുമ്പോഴും<br/>ഇഷ്ടരായോർ വിട്ടകന്ന് പോയിടുമ്പോഴും<br/>നഷ്ടമല്ലതൊന്നും നിത്യ ദൈവസ്നേഹത്താൽ<br/>നന്മയ്ക്കെന്നു വ്യാപരിക്കും എനിക്കവയെല്ലാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്തുമെന്റെ ജീവിതത്തിൽ സംഭവിച്ചാലും<br/>എന്തിനെന്നകം കലങ്ങി ചോദിക്കില്ല ഞാൻ<br/>നൊന്തൊഴുകും കണ്ണുനീർ തൻ പൊന്നു പാദത്തിൽ<br/>ചിന്തി ഞാൻ തുടർന്നു പാടും ദൈവം നല്ലവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

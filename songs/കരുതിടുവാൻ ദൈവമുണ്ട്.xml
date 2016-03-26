@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:16">
+  <properties>
+    <titles>
+      <title>കരുതിടുവാൻ ദൈവമുണ്ട്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുതിടുവാൻ ദൈവമുണ്ട്<br/>കാത്തിടുവാൻ ദൂതരുണ്ട്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൈവിടുകില്ലെന്നുള്ള<br/>വാഗ്ദത്തം താൻ തന്നിട്ടുണ്ട്<br/>അല്ലും പകലും വേണ്ടതെല്ലാം<br/>തന്നു പുലർത്താൻ കഴിവുണ്ട്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സിംഹവായടച്ച കൈകൾ<br/>സങ്കടത്തിൽ താങ്ങാനുണ്ട്<br/>കടലിൽ നടന്ന ചരണം<br/>തളരാതെന്നും നടത്താനടുത്തുണ്ട്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ചെങ്കടൽ പിളർന്നു മുറ്റും<br/>തൻജനത്തെ കാത്ത ദൈവം<br/>ഏതു കഠിനവിഷമം വരിലും<br/>ആശ്രയിപ്പാൻ അടുത്തുണ്ട്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സ്വന്തചോര ചിന്തി നമ്മെ<br/>സ്വന്തമാക്കിതീർത്ത നാഥൻ<br/>മണ്ണും നഭസ്സും മാറുമ്പോഴും<br/>മാറിൽ ചേർത്തു മറച്ചിടും.</lines>
+    </verse>
+  </lyrics>
+</song>

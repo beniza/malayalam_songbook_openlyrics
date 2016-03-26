@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:18">
+  <properties>
+    <titles>
+      <title>യൗവനം മോഹനം സുന്ദരം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യൗവനം മോഹനം സുന്ദരം<br/>മാധുര്യം യുവതീയുവാക്കളേ<br/>യൗവനം വേഗം തീരും ആരോഗ്യം കുറഞ്ഞിടും<br/>യൗവനത്തിൽ നിൻ സൃഷ്ടി<br/>കർത്താവിൻ പാദം ചേർന്നിടുക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യൗവനകാലം മോഹനമല്ലോ<br/>ആരോഗ്യം ദൈവത്തിൻ ദാനമല്ലോ<br/>ഈ നല്ലകാലം നീ വ്യർത്ഥമാക്കല്ലേ<br/>ദൈവത്തിൻ പൈതലായ് ജീവിച്ചിടുക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>യൗവനത്തിൽ നീ നിന്നിഷ്ടംപോലെ<br/>നിന്നുടെ നാളുകൾ തീർക്കുകയോ?<br/>ദൈവത്തിൻ മുമ്പിൽ ഒരുനാൾ നിൽക്കേണം<br/>ദൈവത്തിൻ പൈതലായ് ജീവിച്ചിടുക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇന്നു നീ കാണും സർവ്വവും മായ<br/>വെന്തുപോം ചൂളപോലീയുലകം<br/>ലോകസൗഭാഗ്യത്തിന്നന്ത്യം സന്താപം<br/>ദൈവത്തിൻ പൈതങ്ങൾക്കന്നുമാനന്ദം.</lines>
+    </verse>
+  </lyrics>
+</song>

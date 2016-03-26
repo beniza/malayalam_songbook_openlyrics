@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:29">
+  <properties>
+    <titles>
+      <title>ഉന്നത നന്ദനനേ! ദേവാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഉന്നത നന്ദനനേ! ദേവാ! വന്ദനം വന്ദനമേ!<br/>നന്ദിയോടെ തിരുനാമത്തെ ഞങ്ങളിന്നാർത്തുഘോഷിച്ചിടുന്നേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മാനവ രക്ഷകനായ് നീയോ ദീനത പൂണ്ടധികം<br/>വാന ഭൂപാതാളമെന്നിവയ്ക്കേക മനോഹര നായകനായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീ മരണം സഹിച്ചു തേജസ്സായതിനാൽ ധരിച്ചു<br/>മാമഹത്വം നിൻ സിംഹാസനത്തിന്നലങ്കാരമതായ് ഭവിച്ചു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശത്രുസംഹാരമതും നിന്റെ മിത്രരിൻ രക്ഷണവും<br/>തത്ര ലഭിച്ചിവിടായിരമാണ്ടിനി വാഴുന്ന ദൈവസുതാ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അന്യജനത്തെയും നിൻ കീഴിൽ തന്നു പിതാവതിനാൽ<br/>അന്നവർ നിന്റെ പ്രസാദമന്വേഷിച്ചു വന്നിടുമാസ്ഥയോടെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>രാജരും പ്രഭുസുതരും സർവ്വമാനവ ഗോത്രങ്ങളും<br/>പൂജിക്കും നിന്നെയവർ മഹത്വം നിന്റെ പാദത്തിലർപ്പിച്ചിടും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>മൂപ്പന്മാർ ജീവികളും സ്വർഗ്ഗസേനകളാസകലം<br/>രാപ്പകൽ വാഴ്ത്തും മനോഹരനാമത്തെ വാഴ്ത്തിടുന്നീയടിയാർ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഞങ്ങളോ നിന്നടിയാർ നിന്റെ നന്മയോ വന്മധുരം<br/>മംഗലമായനുവാസരമാസ്വദിക്കുന്നു പരാപരനേ!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:27">
+  <properties>
+    <titles>
+      <title>നന്ദിയോടെന്നും പാടിടും ഞാൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നന്ദിയോടെന്നും പാടിടും ഞാൻ<br/>വല്ലഭനാമെൻ യേശുവിന്നായ് (2)<br/>വർണ്ണിച്ചിടും ഞാൻ തൻ മഹത്വം<br/>വന്ദിച്ചിടും ഞാൻ തൃപ്പാദത്തിൽ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നീചനാമെന്നെ രക്ഷിക്കുവാൻ<br/>ജീവനെ തന്നു സ്നേഹിച്ചവൻ (2)<br/>ഊറ്റിയല്ലോ തൻ ജീവരക്തം<br/>നീക്കിയല്ലോ എൻ മൃത്യുഭയം (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദൂതന്മാരേക്കാൾ താഴ്ചവന്നോൻ<br/>മാനം മഹത്വം അണിഞ്ഞോനായ് (2)<br/>കാരണഭൂതൻ എല്ലാറ്റിന്നും<br/>കാലമെല്ലാം ഞാൻ സ്തോത്രം ചെയ്യും.</lines>
+    </verse>
+  </lyrics>
+</song>

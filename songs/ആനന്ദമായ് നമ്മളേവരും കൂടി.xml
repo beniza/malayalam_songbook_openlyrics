@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:49">
+  <properties>
+    <titles>
+      <title>ആനന്ദമായ് നമ്മളേവരും കൂടി</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആനന്ദമായ് നമ്മളേവരും കൂടി<br/>അരുമരക്ഷകനാമേശുവിനെ<br/>അനുദിനം പാടിപ്പുകഴ്ത്തിടണം<br/>അനുഗ്രഹദായകനെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആനന്ദമേ നിത്യാനന്ദമേ എന്നാത്മാവിലെന്നും<br/>നിത്യാശ്വാസമേ ഭംഗമില്ലാ<br/>പ്രത്യാശയാലെന്നാമയമകന്നിടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കരുണയോടെന്നെ കൈവിടാതെന്നും<br/>കണ്മണിപോലവൻ കാത്തിടും<br/>കന്മഷം നീക്കി കണ്ണീർ തുടയ്ക്കും<br/>കൃപയെഴും തൻകരത്താൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കഠിനമാം കാറ്റും തിരകളുമെൻ<br/>പടകിൽ വന്നടിക്കും വേളകളിൽ<br/>കടലും വൻകാറ്റുമടക്കിയെന്നെ<br/>കാത്തിടുംഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യോർദ്ദാൻ നാം കടക്കും തൻബലത്താൽ<br/>യെരിഹോ നാം തകർക്കും<br/>സ്തുതിദ്ധ്വനിയാൽ യേശുവിൻ നാമത്തിൽ<br/>ജയം വരിക്കും എന്നും നാം ഹല്ലേലുയ്യാ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പരിശുദ്ധജനങ്ങളിൻ പാടുകളെല്ലാം<br/>പരിണമിക്കും സ്വർഗ്ഗസൗഭാഗ്യമായ്<br/>പരിഭവം നീങ്ങിയുണർന്നിരിപ്പിൻ<br/>പ്രതിഫലം തന്നിടും താൻ</lines>
+    </verse>
+  </lyrics>
+</song>

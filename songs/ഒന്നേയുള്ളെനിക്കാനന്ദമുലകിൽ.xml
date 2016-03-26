@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:47">
+  <properties>
+    <titles>
+      <title>ഒന്നേയുള്ളെനിക്കാനന്ദമുലകിൽ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഒന്നേയുള്ളെനിക്കാനന്ദമുലകിൽ<br/>യേശുവിൻ സന്നിധിയണയുവതേ<br/>അന്നേരം മമ മാനസഖേദം<br/>ഒന്നായകലും വെയിലിൽ ഹിമംപോൽ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മാനം ധനമീ മന്നിൻ മഹിമകളൊന്നും<br/>ശാന്തിയെ നൽകാതാം<br/>ദാഹം പെരുകും തണ്ണീരൊഴികെ<br/>ലോകം വേറെ തരികില്ലറിക</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നീർത്തോടുകളിൽ മാനെപ്പോലെൻ<br/>മാനസമീശനിൽ സുഖം തേടി<br/>വറ്റാജീവജലത്തിൻ നദിയെൻ<br/>വറുമയെയകറ്റി നിർവൃതിയരുളി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തൻബലിവേദിയിൽ കുരികിലും മീവലും<br/>വീടും കൂടും കണ്ടതുപോൽ<br/>എൻബലമാം സർവ്വേശ്വരനിൽ ഞാൻ<br/>സാനന്ദമഭയം തേടും സതതം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കണ്ണീർ താഴ്വരയുണ്ടെനിക്കനവധി<br/>മന്നിൽ ജീവിത പാതയതിൽ<br/>എന്നാലും ഭയമെന്തിനെന്നരികിൽ<br/>നന്നായവൻ കൃപമഴപോൽ ചൊരികിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

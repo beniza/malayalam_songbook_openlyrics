@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>എത്രയോ വലിയവൻ ബഹുധനികനും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എത്രയോ വലിയവൻ ബഹുധനികനും<br/>ജഗദധിപനും ക്രിസ്തുനാഥനഹോ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇത്രയും മഹാനൊരുത്തനിദ്ധരയിലുണ്ടോ?<br/>മർത്യരക്ഷ ചെയ്യുവാൻ<br/>മർത്യരക്ഷ ചെയ്യുവാൻ മഹിതലമിതിൽ<br/>മനുജനായ് വന്ന ദേവനിവൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മൃത്യുവെ ജയിച്ചുയിർത്ത മറ്റൊരുത്തനുണ്ടോ?<br/>നിത്യജീവനേകുവാൻ<br/>നിത്യജീവനേകുവാനിദ്ധരയിതിലി-<br/>തരനില്ലെത്രയും സദൃഢം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വാനദൂതസേനയും വണങ്ങുമീ<br/>മഹാന്ന് മാനവും മഹത്വവും<br/>മാനവും മഹത്വവും ധനവും ബലവും സ്തുതിയും<br/>നാം ദിനവും നൽകിടേണം</lines>
+    </verse>
+  </lyrics>
+</song>

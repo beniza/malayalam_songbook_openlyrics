@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:42">
+  <properties>
+    <titles>
+      <title>യേശു എന്റെ സ്വന്തം ആയതിനാൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു എന്റെ സ്വന്തം ആയതിനാൽ<br/>ഞാനെത്ര ഭാഗ്യവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്റെ താഴ്ചയിലോർത്തവനാം<br/>എന്നെ തേടി വന്നവനാം<br/>സ്വന്തജീവനും തന്നവനാം<br/>എന്റെ സങ്കടം തീർത്തവനാം<br/>എന്തു ത്യാഗമിതാശ്ചര്യം<br/>എന്തു സ്നേഹമിതവർണ്ണനീയം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ബുന്ധുമിത്രങ്ങൾ മറന്നിടിലും<br/>എന്തു വന്നിനി ഭവിച്ചിടിലും<br/>എന്നെ സ്നേഹിച്ചയെൻപ്രിയനെ<br/>എന്നും പിൻചെല്ലുമഞ്ചിടാതെ<br/>മന്നിലെനിക്കുള്ള നിമിഷങ്ങൾ<br/>തന്നിലാനന്ദം തേടിടും ഞാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അന്ത്യനാൾവരെ കരം പിടിച്ചു<br/>എന്നെ നടത്തുവാൻ ശക്തനവൻ<br/>കഷ്ടനാളുകൾ വന്നിടുകിൽ<br/>കർത്തൻ കാത്തിടും ചിറകടിയിൽ<br/>എന്നും കൃപതരുമെന്നഴലിൽ<br/>എനിക്കതുമതി ജീവിതത്തിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

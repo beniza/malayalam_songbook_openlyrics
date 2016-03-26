@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:58">
+  <properties>
+    <titles>
+      <title>മംഗളം ദേവദേവന്നു പ്രതിദിനവും</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മംഗളം ദേവദേവന്നു പ്രതിദിനവും<br/>മംഗളം ദേവദേവന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഭംഗമില്ലാതെ പര മോന്നതനായുലകി-<br/>ലെങ്ങും നിറഞ്ഞു മരുവും പരാപരന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ജീവനില്ലാതിരുന്നോ രാദിജലമതിന്മേ-<br/>ലാവസിച്ചുയിർ കൊടുത്ത പിതാമഹന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഏകജാതനാം തിരു സൂനുവെ ദയയോടു<br/>ലോകരക്ഷയ്ക്കു നൽകിയ സുരാധിപന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നീതിയോടിഹലോക ജീവിതം കഴിപ്പതി-<br/>ന്നാവിതന്നനുഗ്രഹിക്കു മഖിലേശന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ദേവനിവാസമായി ഭൂവിനെ ശരിയാക്കി<br/>മേവുവാൻ കൃപയരുളും സനാതനന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

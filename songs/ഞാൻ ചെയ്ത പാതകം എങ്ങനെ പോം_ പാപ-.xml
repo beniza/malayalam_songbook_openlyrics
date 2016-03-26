@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>ഞാൻ ചെയ്ത പാതകം എങ്ങനെ പോം? പാപ-</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഞാൻ ചെയ്ത പാതകം എങ്ങനെ പോം? പാപ-<br/>നാശകൻ എവിടെയുണ്ട്?<br/>ശ്രീയേശു രക്ഷകൻ പാപികൾക്കായ്ക്രൂശിൽ<br/>പ്രാണനെ വിട്ടില്ലയോ?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൊടുംപാപിയെന്നെ രക്ഷിപ്പാൻ രക്ഷിപ്പാൻ<br/>കൊടുംപാപിയെന്നെ രക്ഷിപ്പാൻ ഹല്ലേലുയ്യാ<br/>തിരുതലയിലവൻ മുൾമുടി ധരിച്ചാൻ<br/>കൊടുംപാപിയെന്നെ രക്ഷിപ്പാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലോകത്തിൻ പാപികൾ മോക്ഷം ചേരാൻ അവൻ കണ്ണീരൊഴുക്കിയല്ലോ!<br/>ദാഹിക്കുന്ന നരർ ജീവ ആറ്റിൽ<br/>ദാഹം തീർപ്പതിന്നായ് വരട്ടെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപിയാമെന്നുടെ പാപമോർത്തു<br/>മനസ്താപത്തോടെ വന്നപ്പോൾ<br/>കല്ലുള്ളം നീക്കി തൻ ആത്മാവിനാൽ<br/>തന്നു മാർദ്ദവമാം ഹൃദയം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാപികളേവർക്കും രക്ഷനൽകാൻ അവൻ<br/>പ്രാപ്തനാം കർത്തനല്ലോ<br/>പാപമുപേക്ഷിച്ചു കർത്തനിൽ നീ<br/>നമ്പു മോക്ഷം ചേരാം നിനക്കു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇത്രഭാഗ്യം തന്ന യേശുവിന്നു പ്രതി<br/>ഞാനെന്തുകൊടുക്കേണ്ടുഎന്റെ<br/>പൂർണ്ണശക്തിയോടെ തൻനാമത്തെ എന്നും വാഴ്ത്തിപുകഴ്ത്തിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

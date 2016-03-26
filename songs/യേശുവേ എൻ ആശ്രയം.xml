@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:17">
+  <properties>
+    <titles>
+      <title>യേശുവേ! എൻ ആശ്രയം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവേ! എൻ ആശ്രയം നീ ഏക ആശ്രയം<br/>നിന്നിലുണ്ട് പൂർണ്ണഭാഗ്യം സൗജന്യം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിന്നിലുണ്ട് പാപത്തിന്നായ് പൂർണ്ണമോചനം<br/>നിന്നിൽ എല്ലാ ബദ്ധന്മാർക്കായ് സ്വാതന്ത്ര്യം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിന്നിലുണ്ട് പൂർണ്ണശുദ്ധി ക്രൂശിൻ രക്തത്താൽ<br/>വേണ്ടുംപോൽ നീ കഴുകിടും എന്റെ കാൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിന്നിലുണ്ട് ജീവവെള്ളം ദാഹം തീർക്കുവാൻ<br/>ഇനിവേണ്ടാഇങ്ങും അങ്ങും ഓടുവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിന്നിലുണ്ട് ആത്മദാനം പരിപൂർണ്ണമായ്<br/>കവിയുന്നോർ പാനപാത്രം എനിക്കായ്</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിന്നിലുണ്ടെൻ വഴി എല്ലാം പൂർണ്ണ തെളിവായ്<br/>വളഞ്ഞതു നേരേയാക്കും നിൻതൃക്കൈ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നിന്നിലുണ്ട് പൂർണ്ണപ്രാപ്തി എന്നെ കാക്കുവാൻ<br/>കുറ്റമില്ലാത്തൊർ സമാപ്തി നൽകും താൻ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>നിന്നിലുണ്ട് ദൈവത്തിന്റെ സർവ്വനിറവും<br/>നിന്നിൽ തീർന്നെനിക്കുമെല്ലാ കുറവും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:41">
+  <properties>
+    <titles>
+      <title>എൻസങ്കടങ്ങൾ സകലവും തീർന്നുപോയി</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻസങ്കടങ്ങൾ സകലവും തീർന്നുപോയി<br/>സംഹാരദൂതൻ എന്നെ കടന്നുപോയി</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കുഞ്ഞാട്ടിന്റെ വിലയേറിയ നിണത്തിൽ<br/>മറഞ്ഞു ഞാൻ രക്ഷിക്കപ്പെട്ടരക്ഷണത്തിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഫറവോന്നു ഞാനിനി അടിമയല്ല<br/>പരമസീയോനിൽ ഞാനന്യനല്ല</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരുവിലെൻ ദൈവമെനിക്കധിപതിയേ<br/>തരുമവൻ പുതുമന്ന അതുമതിയേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മാറയെ മധുരമാക്കിത്തീർക്കുമവൻ<br/>പാറയെ പിളർന്നു ദാഹം പോക്കുമവൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മനോഹരമായ കനാൻ ദേശമേ<br/>അതേ എനിക്കഴിയാത്തൊരവകാശമേ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ആനന്ദമേ പരമാനന്ദമേ<br/>കനാൻ ജീവിതമെനിക്കാനന്ദമേ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>എന്റെ ബലവും എന്റെ സംഗീതവും<br/>എൻരക്ഷയും യേശുവത്രേ ഹല്ലേലുയ്യാ.</lines>
+    </verse>
+  </lyrics>
+</song>

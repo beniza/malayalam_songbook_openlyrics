@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:09">
+  <properties>
+    <titles>
+      <title>ചിത്തം കലങ്ങിടൊല്ലാ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1 v10 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ചിത്തം കലങ്ങിടൊല്ലാ പോയ് വരും ഞാൻ<br/>പോയ് വരും ഞാൻ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സത്യമായെന്നിലും നിത്യപിതാവിലും<br/>ശക്തിയായ് വിശ്വസിപ്പിൻ സന്തതവും നിങ്ങൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എൻപിതാവിൻ ഗൃഹേ ഇൻപമെഴും പല<br/>സംഭൃതഭവനങ്ങളുണ്ടതിനാലിനി</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പോയിടുന്നേൻ മുദാ വാസമൊരുക്കുവാൻ<br/>ആഗമിച്ചഹം വീണ്ടും ചേർക്കുവാൻ ഞങ്ങളെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>സത്യവും ജീവനും മാർഗ്ഗവും ഞാനത്രേ<br/>നിത്യപിതാവിലേക്കെത്തിടുന്നെന്നിലൂടെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എൻപിതാവെന്നിലും ഞാനവൻ തന്നിലും<br/>ഇമ്പമോടിതു നിനച്ചൻപൊടു വിശ്വസിപ്പിൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>എന്നുടെ നാമത്തിലെന്തു യാചിക്കിലും<br/>എൻപിതൃതേജസ്സിന്നായ് ഞാനതു ചെയ്തിടും</lines>
+    </verse>
+    <verse name="v8">
+      <lines>നിങ്ങളെന്നെ സ്നേഹിക്കുന്നുവെന്നാലെന്റെ<br/>മംഗളകരങ്ങളാമാജ്ഞകൾ പാലിക്കും</lines>
+    </verse>
+    <verse name="v9">
+      <lines>നാഥനില്ലാത്തവരായി വിടാതെ ഞാൻ<br/>കേവലമടുക്കലേക്കാഗമിപ്പേൻ മുദാ</lines>
+    </verse>
+    <verse name="v10">
+      <lines>നിത്യമായ് നിങ്ങളോടൊത്തിരിപ്പാനൊരു<br/>സത്യവിശുദ്ധാത്മാവെ തന്നിടുവേനതാൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:21">
+  <properties>
+    <titles>
+      <title>സ്തുതിച്ചു പാടാം യേശുവിനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സ്തുതിച്ചു പാടാം യേശുവിനെ<br/>സ്തുതികളിൽ വസിക്കുമുന്നതനെ<br/>സ്തോത്രവും സ്തുതിയും മാനം മഹത്വവും<br/>അർപ്പിച്ചു വാഴ്ത്തി സ്തുതിച്ചിടാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപം നിറഞ്ഞൊരീധരണിയിലന്നു<br/>പാപിയാമെന്നെത്തേടി നീ വന്നു<br/>നിത്യമാം ജീവനെ ദാനമായേകിയ<br/>ക്രിസ്തേശുനാഥനെ സ്തുതിച്ചിടുവിൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അനവധി കൃപകൾ അനുഭവിച്ചിടാൻ<br/>അനുവദിക്കുന്നെന്നെയനുദിനവും<br/>അന്ത്യത്തോളമെൻ ക്രൂശുമെടുത്തിനി<br/>അനുഗമിക്കും ഞാനീമരുയാത്രയിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കർത്തനിൻ നന്മകൾ കീർത്തിക്കും ഞാനെന്നും<br/>മാനവരിൽ ചെയ്തൊരത്ഭുതങ്ങൾ<br/>നന്ദിയാലെന്നും നിന്നെ പുകഴ്ത്തിടും<br/>നശ്വരമാമീ പാരിടത്തിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കണ്ടിടുമൊരുനാളെൻ പ്രിയകാന്തനെ<br/>ശുദ്ധരോടൊന്നിച്ചങ്ങാരാധിക്കും<br/>മരണവും ശാപവും മാറിയതോർത്തെന്നും<br/>പാടിടാം ജയ ജയ ഗീതങ്ങൾ.</lines>
+    </verse>
+  </lyrics>
+</song>

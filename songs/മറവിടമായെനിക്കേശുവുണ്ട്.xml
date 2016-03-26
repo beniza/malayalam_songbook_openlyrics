@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:10">
+  <properties>
+    <titles>
+      <title>മറവിടമായെനിക്കേശുവുണ്ട്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മറവിടമായെനിക്കേശുവുണ്ട്<br/>മറച്ചിടുമവനെന്നെ ചിറകടിയിൽ<br/>മറന്നിടാതിവിടെന്നെ കരുതിടുവാൻ<br/>മാറാതെയവനെന്റെ അരികിലുണ്ട്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>അനുദിനവും അനുഗമിപ്പാൻ<br/>അവൻ നല്ല മാതൃകയാകുന്നെനിക്ക്<br/>ആനന്ദജീവിത വഴിയിലിന്ന്<br/>അനുഗ്രഹമായെന്നെ നടത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പലവിധമാം എതിരുകളെൻ<br/>പാതയിലടിക്കടി ഉയർന്നിടുമ്പോൾ<br/>പാലിക്കും പരിചോടെ പരമനെന്നെ<br/>പതറാതെ നിൽക്കുവാൻ ബലം തരുന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിളിച്ച ദൈവം വിശ്വസ്തനല്ലോ<br/>വഴിയിൽ വലഞ്ഞു ഞാനലയാനിട<br/>വരികയില്ലവനെന്നെ പിരികയില്ല<br/>വലതുകൈ പിടിച്ചെന്നെ നടത്തിടുന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇതാ വേഗം ഞാൻ വാനവിരിവിൽ<br/>ഇനിയും വരുമെന്നരുളിച്ചെയ്ത<br/>ഈ നല്ല നാഥനെ കാണുവാനായ്<br/>ഇരവും പകലുമെണ്ണി വസിച്ചിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

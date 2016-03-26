@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>പാലിക്ക യേശുപരാ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പാലിക്ക യേശുപരാ! പാലിക്ക യേശുപരാ! നീ<br/>പാരിൽ പരമായ് ശോഭിച്ചിടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിൻ സത്യസാക്ഷികളായ് മന്നിൽ പ്രശോഭിക്കുവാൻ<br/>അമലമാം കൃപചൊരിഞ്ഞു നിന്നുടെ<br/>വഴിയിൽ ഞങ്ങളെ നടത്തിയെന്നുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാലാദി ഭേദവശാൽ മാലേതുമേശിടാതെ<br/>നിലയായ് നിന്നു നിൻ വെളിച്ചം ഭൂമിയിൽ<br/>വിളങ്ങിച്ചെപ്പോഴും വർത്തിച്ചിടുവാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആശീർവ്വദിക്ക പരാ! നാശവഴി വെടിഞ്ഞു<br/>നിയതം ഞങ്ങൾ നിൻ വിശുദ്ധവേദത്തെ<br/>പിടിച്ചുകൊണ്ടെന്നും പോർ നടത്തുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

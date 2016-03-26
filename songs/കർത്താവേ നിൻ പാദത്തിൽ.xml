@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>കർത്താവേ! നിൻ പാദത്തിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്താവേ! നിൻ പാദത്തിൽ<br/>ഞാനിതാ വന്നിടുന്നു<br/>എന്നെ ഞാൻ സമ്പൂർണ്ണമായ്<br/>നിൻകയ്യിൽ തന്നിടുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എല്ലാം ഞാൻ ഏകിടുന്നെൻ<br/>മാനസം, ദേഹി, ദേഹം<br/>നിൻഹിതം ചെയ്തിടുവാൻ<br/>എന്നെ സമർപ്പിക്കുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പോകട്ടെ നിനക്കായ് ഞാൻ<br/>പാടു സഹിച്ചിടുവാൻ<br/>ഓടട്ടെ നാടെങ്ങും ഞാൻ<br/>നിൻനാമം ഘോഷിക്കുവാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഹല്ലെലുയ്യാ മഹത്വം!<br/>സ്തോത്രമെൻ രക്ഷകനു<br/>ഹല്ലെലുയ്യാ കീർത്തനം<br/>പാടും ഞാൻ കർത്താവിന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

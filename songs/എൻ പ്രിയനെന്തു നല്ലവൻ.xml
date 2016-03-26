@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:58">
+  <properties>
+    <titles>
+      <title>എൻ പ്രിയനെന്തു നല്ലവൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>v1. എൻ പ്രിയനെന്തു നല്ലവൻ തൻസ്നേഹമാർക്കു വർണ്ണ്യമോ<br/>തൻജീവനേകിയെന്നെ വൻനാശത്തിൽനിന്നു വീണ്ടവൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാടിപ്പുകഴ്ത്തുമേഴ ഞാൻ പാരിൽ വസിച്ചിടുന്ന നാൾ<br/>പാദത്തിൽ വയ്കുന്നൊക്കെയും പാടേറ്റ പ്രാണനാഥന്നായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മാലിന്യമേശിടാതെയെൻ വീടോടടുത്തിടും വരെ<br/>നീടാർന്ന തൻ കരങ്ങളാൽ താങ്ങിടുമെന്നെ നാൾക്കുനാൾ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഭാരങ്ങളേറിടുന്ന നാൾ ചാരെയണഞ്ഞു പ്രിയനെൻ<br/>ഭാരം വഹിച്ചു നാൾക്കുനാൾ പാരിൽ നടത്തിടുന്നവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>തന്നെപ്പിരിഞ്ഞു പാരിതിൽ ആവില്ലെനിക്കു പാർക്കുവാൻ<br/>തന്നിൽ ലയിപ്പതെന്നു ഞാൻ ആ നാളിലെന്തു മോദമേ!.</lines>
+    </verse>
+  </lyrics>
+</song>

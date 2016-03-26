@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:08">
+  <properties>
+    <titles>
+      <title>എന്തൊരു സന്തോഷം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്തൊരു സന്തോഷം ഹാ! ഹാ!<br/>എന്തൊരു സമാധാനം<br/>അനന്ത സൗഭാഗ്യം അനുഭവിക്കുന്ന<br/>അനുഗ്രഹ ജീവിതമാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നും കരുതും തൻ കരത്തിൽ<br/>ഒന്നും കുറയാതിന്നിഹത്തിൽ<br/>ഖിന്നതതീർക്കും സന്നിധൗചേർക്കും<br/>എന്നെ കാക്കും നല്ലിടയൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തെല്ലും എന്മനം കലങ്ങുകില്ല<br/>അല്ലും പകലും നൽതുണ താൻ<br/>വല്ലഭനേശു ലോകാന്ത്യത്തോളം<br/>എല്ലാനാളും കൂടെയുണ്ട്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മരണനിഴലിൻ താഴ്വരയിൽ<br/>ശരണം തരുവാൻ വരുമരികിൽ<br/>ഞാനൊരനർത്ഥവും ഭയപ്പെടുകില്ല<br/>അവനെൻ കൂടെയുള്ളതിനാൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നന്മയും കരുണയും പിന്തുടരും<br/>തിന്മകളൊന്നും എനിക്കുവരാ<br/>വിണ്മയ വീട്ടിൽ ചേർത്തിടും വേഗം<br/>വിണ്ണിൽ വസിക്കും ദീർഘയുഗം</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>കർത്താവേയേകണമേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കർത്താവേയേകണമേ - നിന്റെ കൃപ<br/>നിത്യമീ ദാസനു നീ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ജീവിതപാതയിൽ വീണുപോകാതെന്നും<br/>ഈ ലോകേ കാക്കേണമേ - കൃപാനിധേ<br/>താവക ദാസനെയും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശോധനവേളയിൽ ആകുലനാകാതെ<br/>നാഥാ! കരുതേണമേ - അനുദിനം<br/>താവകദാസനെയും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്ഷീണിച്ചിടാതെയെൻ ഓട്ടം തികയ്ക്കുവാൻ<br/>ത്രാണിയേകിടണമേ - ദയാപരാ!<br/>ദാസനാമീയെനിക്കു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നൽകുന്ന ഭാരങ്ങൾ താങ്ങിടുവാനായി<br/>നല്ല കരുത്തു നൽകി - താങ്ങേണമേ<br/>താവകദാസനെയും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>എൻ മനോഭാരങ്ങൾ നീക്കിടുവാൻ ബലം<br/>എൻമനസ്സിന്നു നൽകി - പാലിക്കണേ<br/>താവകദാസനെയും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ദുഃഖസമുദ്രത്തിൽ ആഴ്ത്തിക്കളഞ്ഞിടും<br/>വൻകാറ്റിൽനിന്നുമെന്നും - കാക്കേണമേ<br/>താവകദാസനെയും.</lines>
+    </verse>
+  </lyrics>
+</song>

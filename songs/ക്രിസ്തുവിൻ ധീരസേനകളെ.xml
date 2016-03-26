@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തുവിൻ ധീരസേനകളെ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തുവിൻ ധീരസേനകളെ! കൂടിൻ തന്നനുയായികളേ!<br/>എന്തിനു ഭീതി ജയിക്കും നാം ജയി... (5)<br/>ഏതു വിപത്തിലും തോൽക്കാതെ ജയിക്കും നാം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നമ്മുടെ നാഥൻ നല്ലവൻ വൈരികളേക്കാൾ വല്ലഭൻ<br/>തൻ കരബലത്താൽ ജയിക്കും നാംജയി... (5)<br/>തന്ത്രമെഴും വൻ സാത്താനെ ജയിക്കും നാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ധരയിൽ ക്ലേശം നമുക്കുണ്ട് ദിനവുമെടുപ്പാൻ കുരിശുണ്ട്<br/>ബലം തരുവാനവനടുത്തുണ്ട്ജയിക്കും നാംജയി... (5)<br/>മരണനിഴലിലുമഞ്ചാതെ ജയിക്കും നാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശോകം തീർക്കും സന്ദേശം ലോകം ജയിക്കും സുവിശേഷം<br/>ചൊല്ലാൻ വേണ്ടഭയലേശം ജയിക്കും നാംജയി... (5)<br/>വെല്ലുവിളിപ്പിൻ വൈരികളെ ജയിക്കും നാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ലൗകിർ കണ്ടാൽ ബലഹീനർ, ഭൗതികർ പാർത്താൽ ദയനീയർ<br/>ദൈവികദൃഷ്ടിയിൽ ഗണനീയർ ജയിക്കും നാം ജയി... (5)<br/>കൈവിടുകയില്ലവനൊരുനാളും ജയിക്കും നാം.</lines>
+    </verse>
+  </lyrics>
+</song>

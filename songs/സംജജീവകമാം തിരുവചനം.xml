@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:46">
+  <properties>
+    <titles>
+      <title>സംജജീവകമാം തിരുവചനം</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സംജജീവകമാം തിരുവചനം<br/>സന്തോഷസമേതം പ്രതിദിനമെൻ<br/>ജീവിത പരമസുഖാർത്ഥമ-<br/>ചഞ്ചലനായ് ഹൃദി സംഗ്രഹിക്കും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പഞ്ചാമൃതസന്നിഭമതു മമ<br/>നെഞ്ചിന്നരുളും സംതൃപ്തിയെ<br/>സംജാത സുമോദമന്വിതമെ-<br/>ന്നധരം സ്തുതിചെയ്യുമേശുവെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പുന്തേൻ ഭ്രമരങ്ങളതീവ ശ്രമം<br/>ചെയ്താർജ്ജിപ്പതുപോൽ മമ<br/>സന്ദേഹമൊഴിഞ്ഞനിശം<br/>വചനത്തിൻ മധുരസമാസ്വദിക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇന്നാൾവരെയും പൊരുതവയൊടു<br/>നന്നായ് മന്നവർ നാസ്തികരും<br/>എന്നാൽ നിസ്തുലമഹിമയൊടവ<br/>യിന്നും വിജയിച്ചിടുന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദൈനംദിനമിവയുടെ സത്യത<br/>ജനസമ്മതമായി വരുന്നു<br/>നൂനം പല നൂതന തെളിവുക-<br/>ളൂനമൊഴിഞ്ഞുളവായിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

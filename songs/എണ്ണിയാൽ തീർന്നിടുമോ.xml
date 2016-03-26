@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>എണ്ണിയാൽ തീർന്നിടുമോ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എണ്ണിയാൽ തീർന്നിടുമോ വല്ലഭാ! നിൻകൃപകൾ<br/>വർണ്ണിപ്പാൻ സാദ്ധ്യമല്ല മന്നവാ! നിൻവഴികൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നും ഞാൻ സ്തുതിച്ചിടും എന്നും ഞാൻ പുകഴ്ത്തിടും<br/>നിന്നുടെ കൃപകളെ ഞാൻ എന്നെന്നും പാടിടുമേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഏഴയാമെന്നെയും നീ ആഴമായ് സ്നേഹിച്ചതാൽ<br/>ഊഴിയിൽ താണിറങ്ങി ഏഴയെ വീണ്ടെടുത്തു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാപത്തിൻ ചേറ്റിൽ ഞാനും താപത്താൽ വലഞ്ഞ നേരം<br/>വേഗത്തിൽ വന്നു എന്നെ സ്നേഹത്താൽ വീണ്ടെടുത്തു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വിശ്വാസ ജീവിതത്തിൽ ആശ്വാസദായകനായ്<br/>വിശ്വത്തിലെന്നുമെന്നും കൂടെയിരിക്കുമവൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിൻമുഖം കണ്ടിടുവാൻ നിന്നോടു ചേർന്നിടുവാൻ<br/>എന്നുളളം കൊതിച്ചിടുന്നേ എൻ പ്രിയാ! വന്നിടണേ!</lines>
+    </verse>
+  </lyrics>
+</song>

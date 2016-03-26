@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:41">
+  <properties>
+    <titles>
+      <title>എൻ യേശു രക്ഷകൻ എൻ നല്ല ഇടയൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2 v9 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എൻ യേശു രക്ഷകൻ എൻ നല്ല ഇടയൻ<br/>തൻ ആടുകളിൽ ഒന്നിനും ഇല്ലൊരു കുറവും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നന്മ മാത്രമേ പൂർണ്ണകൃപയും<br/>യേശുവേ! നിൻആടിനെ എപ്പോഴും പിൻചെല്ലും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഞാൻ നാശവഴിയിൽ തെറ്റിടും നേരത്തിൽ<br/>തൻ സ്വർഗ്ഗഭാഗ്യം വിട്ടു താൻ എന്നെ അന്വേഷിപ്പാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തൻ ശബ്ദം കേട്ടു ഞാൻ സന്തോഷത്തോടെ താൻ<br/>തൻ മാർവ്വിൽ എന്നെ അണച്ചു എൻകണ്ണീർ തുടച്ചു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എൻ പാപമുറിവു യേശു പൊറുപ്പിച്ചു<br/>തൻ സ്വന്തം രക്തം തന്നവൻ ഹാ! നല്ല ഇടയൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പിതാവിൻ ഭവനം ഇപ്പോൾ എൻ പാർപ്പിടം<br/>സ്വർഗ്ഗീയ ഭക്ഷണംകൊണ്ടുഞാൻ തൃപ്തിപ്പെടുന്നു</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഞാൻ സിംഹഗർജ്ജനം കേട്ടാൽ ഇല്ലിളക്കം<br/>തൻകൈയിൻ കോലും വടിയും സാത്താനെ ഓടിക്കും</lines>
+    </verse>
+    <verse name="v8">
+      <lines>എന്നെ വിളിച്ചവൻ എന്നേക്കും വിശ്വസ്തൻ<br/>താൻ അന്ത്യത്തോളം എന്നെയും വിടാതെ സൂക്ഷിക്കും</lines>
+    </verse>
+    <verse name="v9">
+      <lines>തൻ സ്വർഗ്ഗഭാഗ്യവും മാറാത്ത തേജസ്സും<br/>എൻയേശു തരും എനിക്കും ഇങ്ങില്ലോർ കുറവും.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:59">
+  <properties>
+    <titles>
+      <title>യാഹെന്ന ദൈവം എന്നിടയനഹോ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യാഹെന്ന ദൈവം എന്നിടയനഹോ!<br/>യാതൊരു കുറവുമില്ലെനിക്കിനിയും<br/>പച്ചപ്പുൽപ്പുറത്തെന്നെ കിടത്തുന്നവൻ<br/>നിശ്ചല ജലം എന്നെ കുടിപ്പിക്കുന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സന്തതമെന്നുള്ളം തണുപ്പിക്കുന്നു<br/>തൻതിരുപ്പാതയിൽ നടത്തുന്നെന്നെ<br/>കൂരിരുൾ താഴ്വരയതിൽ നടന്നാൽ<br/>സാരമില്ലെനിക്കൊരു ഭയവുമില്ല</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉന്നതന്നെന്നോടു കൂടെയുണ്ട്<br/>തന്നിടുന്നാശ്വാസം തൻവടിയാൽ<br/>എനിക്കൊരു വിരുന്നു നീ ഒരുക്കിടുന്നു<br/>എന്നുടെ വൈരികളിൻ നടുവിൽ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ശിരസ്സിനെ അഖിലവും അനുദിനവും<br/>പൂശുന്നു സൗരഭ്യതൈലമതാൽ<br/>എന്നുടെ പാനപാത്രം ദിനവും<br/>ഉന്നതൻ കരുണയാൽ കവിഞ്ഞിടുന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നന്മയും കരുണയും എന്നായുസ്സിൽ<br/>ഉണ്മയായ് തുടർന്നിടും ദിനവുമഹോ!<br/>സ്വർഗ്ഗീയ ആലയം തന്നിലീ ഞാൻ<br/>ദീർഘകാലം വസിക്കും ശുഭമായ്.</lines>
+    </verse>
+  </lyrics>
+</song>

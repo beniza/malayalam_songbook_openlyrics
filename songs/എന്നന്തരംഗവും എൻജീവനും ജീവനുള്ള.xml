@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:07">
+  <properties>
+    <titles>
+      <title>എന്നന്തരംഗവും എൻജീവനും ജീവനുള്ള</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നന്തരംഗവും എൻജീവനും ജീവനുള്ള<br/>ദേവനെ സ്തുതിച്ചിടുന്നിതാ നീ നല്ലവൻ<br/>നീ വല്ലഭൻ എൻരക്ഷകാ മഹാപ്രഭോ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കണ്ണുനീരിൻ താഴ്വരയിൽ ഞാൻ നടന്നിടും<br/>നേരവും നിൻ കൈകളെന്നെ പിന്തുടർന്നിടും<br/>നിന്നാലയേ വസിക്കുവാനീ ഏഴയെന്നെയും<br/>നീ തീർത്തതാൽ ഞാൻ<br/>ഭാഗ്യവാനായ് തീർന്നു നിശ്ചയം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഞാൻ വസിക്കുമീയൊരുദിനം നിന്നന്തികേ<br/>ആയിരം ദിനങ്ങളേക്കാൾ ശ്രേഷ്ടമേ തവ<br/>സന്നിധാനമെന്റെ നിത്യആശ്രയം വിഭോ!<br/>സർവ്വവും തരുന്നിതാ ഞാൻ<br/>നിൻ കരങ്ങളിൽ.</lines>
+    </verse>
+  </lyrics>
+</song>

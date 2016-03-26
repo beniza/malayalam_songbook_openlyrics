@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:48">
+  <properties>
+    <titles>
+      <title>എന്നിൽ കനിവേറും ശ്രീയേശു</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നിൽ കനിവേറും ശ്രീയേശു<br/>മനുവേലൻ താനെന്നും മാധുര്യവാൻ<br/>ഓ... എന്നും മാധുര്യവാൻ<br/>അവന്നരികിൽ വന്നതിനാലെന്താശ്വാസമായ്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്തൊരാശ്വാസമായ്<br/>തന്റെ തിരുമുഖം കാണുന്നതാനന്ദമായ്<br/>പരമാനന്ദമായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>എന്തിന്നലയുന്നു ഞാൻ പാരിൽ<br/>വലയുന്നു താൻ പാരം മതിയായവൻ<br/>ഓ... എന്നും മതിയായവൻ<br/>അവൻ കരുതിടുന്നെനിക്കായിട്ടെന്നാളുമേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അവൻ എന്നാളുമേ<br/>തന്റെ തണലിൽ ഞാനണയുമ്പോൾ വിശ്രാമമേ<br/>എന്തു വിശ്രാമമേ!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മന്നിൽ പരദേശിയാണെന്നാൽ<br/>സ്ഥിരവാസമോ<br/>വിണ്ണിൽ ആയിടുമേ<br/>ഓ... വിണ്ണിൽ ആയിടുമേ<br/>അന്നാൾ വരെയും ഞാനവന്നായി പാർത്തിടുമേ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഭൂവിൽ പാർത്തിടുമേ<br/>പിന്നെ വരും താനന്നവനോടു ചേർന്നിടുമേ<br/>ഞാനും ചേർന്നിടുമേ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:11">
+  <properties>
+    <titles>
+      <title>ദേവനെ പുകഴ്ത്തി സ്തുതിച്ചിടുവിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദേവനെ പുകഴ്ത്തി സ്തുതിച്ചിടുവിൻ<br/>അവൻ നല്ലവനാകയാൽ ദേവനെ<br/>തന്നുടെ കാരുണ്യം എന്നേക്കുമുള്ളത്<br/>എന്നേക്കുമുള്ളതെന്ന്</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്റെ വിഷമതകൾ തന്നെയറിയിച്ചു ഞാൻ<br/>എന്റെ സമീപമവനെത്തി ഉതവി നൽകാൻ<br/>എല്ലാമായെന്നും എനിക്കുണ്ടവനതാൽ<br/>തെല്ലും ഭയം വേണ്ടിനി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മർത്യനിലാശ്രയിക്കാതത്തൽ വരുന്നേരത്തിൽ<br/>കർത്താവിലാശ്രയിപ്പതെത്രയോ നല്ലതോർത്താൽ<br/>ശത്രുക്കൾ മുമ്പിൽ തൻശക്തിയിൽ ഞാൻ<br/>ജയകീർത്തനങ്ങൾ പാടിടും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഉല്ലാസ ജയഘോഷമുണ്ടുകൂടാരങ്ങളിൽ<br/>ഉത്തമഭക്തരുടെ ശുദ്ധഹൃദയങ്ങളിൽ<br/>എത്ര വിഷമതകൾ വന്നാലും<br/>പാടുമെന്നാളും സ്തുതിഗീതങ്ങൾ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>നിത്യതാതന്നു സ്തുതി സത്യാത്മാവിന്നു സ്തുതി<br/>മർത്യർക്കു രക്ഷ തന്ന ക്രിസ്തുനാഥന്നു സ്തുതി<br/>നിത്യതയിൽ നമ്മളെത്തുമന്നാളും<br/>തുടരും പരമസ്തുതി.</lines>
+    </verse>
+  </lyrics>
+</song>

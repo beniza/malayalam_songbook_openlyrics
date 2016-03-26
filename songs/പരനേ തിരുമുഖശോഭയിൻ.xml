@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:21">
+  <properties>
+    <titles>
+      <title>പരനേ! തിരുമുഖശോഭയിൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരനേ! തിരുമുഖശോഭയിൻ കതിരെന്നുടെ ഹൃദയേ<br/>നിറവാൻ കൃപയരുളേണമീ ദിവസാരംഭ സമയേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇരുളിൽ ബലമഖിലം മമ നികടേ നിന്നന്നങ്ങൊഴിവാൻ<br/>പരമാനന്ദ ജയകാന്തിയെൻ മനതാരിങ്കൽ പൊഴിവാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പുതുജീവനിൻ വഴിയേ മമ ചരണങ്ങളിന്നുറപ്പാൻ<br/>അതിശോഭിത കരുണാഘനമിഹമാം വഴി നടത്താൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഹൃദയേ തിരുകരമേകിയ പരമാമൃത ജീവൻ<br/>പ്രതിവാസരം വളർന്നേറ്റവും ബലയുക്തമായ് ഭവിപ്പാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പരമാവിയിൻ തിരുജീവനിൻ മുളയീയെന്നിൽ വളർന്നി-<br/>ട്ടരിസഞ്ചയനടുവിൽ നിന്റെ ഗുണശക്തികൾ വിളങ്ങാൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>മരണം വരെ സമരാങ്കണം അതിൽ ഞാൻ നില നിന്നി-<br/>ട്ടമർ ചെയ്തെന്റെ നില കാക്കുവാൻ തവ സാക്ഷിയായ് ഇരിപ്പാൻ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>അമിതാനന്ദ സുഖശോഭന നിലയേ വന്നങ്ങണവാൻ<br/>അവിടെന്നുടെ പ്രിയനോടൊത്തു യുഗകാലങ്ങൾ വസിപ്പാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

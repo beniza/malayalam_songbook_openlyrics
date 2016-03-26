@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:51">
+  <properties>
+    <titles>
+      <title>ദൈവകൃപയിൽ ഞാനാശ്രയിച്ച്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവകൃപയിൽ ഞാനാശ്രയിച്ച്<br/>അവൻ വഴികളെ ഞാനറിഞ്ഞ്<br/>അനുഗമിച്ചിടും അവനുടെ ചുവടുകളെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഇഹലോകമോ തരികില്ലൊരു<br/>സുഖവും മനഃശാന്തിയതും<br/>എന്റെ യേശുവിന്റെ തിരുസന്നിധിയിൽ<br/>എന്നും ആനന്ദമുണ്ടെനിക്ക്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മനോവേദന പല ശോധന<br/>മമ ജീവിത പാതയിതിൽ<br/>മാറാതേറിടുമ്പോൾ ആത്മനാഥനവൻ<br/>മാറിൽ ചാരി ഞാനാശ്വസിക്കും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>എത്ര നല്ലവൻ മതിയായവൻ<br/>എന്നെ കരുതുന്ന കർത്തനവൻ<br/>എന്റെ ആവശ്യങ്ങളെല്ലാം അറിഞ്ഞിടുന്ന<br/>ഏറ്റമടുത്ത സഹായകൻ താൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്റെ ആയുസ്സിൻ ദിനമാകെയും<br/>തന്റെ നാമമഹത്വത്തിനായ്<br/>ഒരു കൈത്തിരിപോൽ കത്തിയെരിഞ്ഞൊരിക്കൽ<br/>തിരുമാറിൽ മറഞ്ഞിടും ഞാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

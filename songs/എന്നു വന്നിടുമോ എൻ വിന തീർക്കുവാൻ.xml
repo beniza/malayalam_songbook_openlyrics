@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>എന്നു വന്നിടുമോ എൻ വിന തീർക്കുവാൻ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നു വന്നിടുമോ എൻ വിന തീർക്കുവാൻ<br/>എൻപേർക്കുയിർ തന്ന നാഥാ<br/>ഈ മരുഭൂവിലെ വാസമെനിക്കേതും<br/>യോഗ്യമല്ലെൻ പ്രിയനേ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സ്വർലോകം വിട്ടെന്നെ തേടി ധരയിതിൽ<br/>വന്നവനാണെന്റെ പ്രിയൻ<br/>മന്നിതിൽ നിന്നെന്നെ ഉന്നതേ ചേർക്കുവാൻ<br/>നിന്ദിതനായ് തീർന്ന നാഥൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അക്കരെയാണെന്റെ പ്രിയനെന്നാകിലും<br/>എപ്പോഴും എൻകഥയോർക്കും<br/>എന്നിങ്ങു വന്നിടും ഒന്നിച്ചിരുന്നിടും<br/>അന്നെന്റെ വേദനമാറും</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാരിൽ പരദേശിയായി ഞാൻ പ്രിയന്റെ<br/>സ്നേഹക്കൊടിക്കീഴിൽ മേവും<br/>പാരിടവാസം വെടിഞ്ഞിടും നേരത്തിൽ<br/>എൻപ്രിയൻ മാറിൽ ഞാൻ ചായും.</lines>
+    </verse>
+  </lyrics>
+</song>

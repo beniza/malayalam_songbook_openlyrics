@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>നിന്നോടു പ്രാർത്ഥിപ്പാൻ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നിന്നോടു പ്രാർത്ഥിപ്പാൻ പ്രിയ പിതാവേ!<br/>വന്ന നിൻ മക്കളെ ചെവിക്കൊണ്ടാലും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുവിൻ നാമത്തിൽ വന്നിതാ ഞങ്ങൾ<br/>ആശിഷം തരിക നിൻ വാഗ്ദത്തം പോലെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരിശുദ്ധാത്മാവിൻ സഹായത്തെ നൽകി<br/>ശരിയായി പ്രാർത്ഥിപ്പാനഭ്യസിപ്പിക്ക</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകത്തിൻ ചിന്തകൾ ലേശമില്ലാത്ത<br/>ഏകമാം മാനസം തന്നരുളേണം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശുദ്ധമാം കൈകളുയർത്തുവാനായി<br/>ശുദ്ധനാം നാഥനേ! നീ കൃപ ചെയ്ക</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ചോദിപ്പിൻ നൽകും ഞാനെന്ന നിൻ വാക്കിൽ<br/>മോദമോടാശ്രയം വച്ചു നിൻ മക്കൾ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>എണ്ണമില്ലാത്ത നിൻ കൃപകൾക്കായി<br/>നന്ദിയും സ്തോത്രവും എന്നേക്കും ആമേൻ!</lines>
+    </verse>
+  </lyrics>
+</song>

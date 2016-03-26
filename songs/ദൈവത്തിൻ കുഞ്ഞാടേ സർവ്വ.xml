@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:30">
+  <properties>
+    <titles>
+      <title>ദൈവത്തിൻ കുഞ്ഞാടേ! സർവ്വ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവത്തിൻ കുഞ്ഞാടേ! സർവ്വ<br/>വന്ദനത്തിനും യോഗ്യൻ നീ<br/>ജ്ഞാനവും ശക്തിയും ധനം ബലം സ്തുതി<br/>ബഹുമാനമെല്ലാം നിനക്കേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ഘോരപിശാചിൻ നുകം നീങ്ങാൻ<br/>പോരാ സ്വയത്തിൻ ശ്രമങ്ങൾ<br/>ചോരയിൻ ചൊരിച്ചിലാൽ യേശുവേ ഈ വൻ<br/>പോരിനെ തീർത്തവൻ നീ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ന്യായപ്രമാണത്തിന്റെ ശാപം<br/>ആയതെല്ലാം തീർക്കുവാൻ<br/>പ്രായശ്ചിത്താർത്ഥമായ് പാപത്തിന്നായി നിൻ<br/>കായത്തെ ഏൽപ്പിച്ചു നീ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>മൃത്യുവെ ജയിപ്പാൻ നീ ദൈവ<br/>ഭൃത്യനാം നിന്നെത്തന്നെ<br/>നിത്യദൈവാവിയാലർപ്പിച്ചതാലീ<br/>മർത്യർക്കു ജീവനുണ്ടായ്</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദൈവത്തിൻ കൂട്ടായ്മ ഞങ്ങൾ<br/>ചാവിലും ആസ്വദിപ്പാൻ<br/>ദൈവത്താൽ വിടപ്പെട്ടു ക്രൂശിങ്കൽ നീ<br/>നിൻ ജീവനെ ഏൽപ്പിച്ചപ്പോൾ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കുറ്റം ചുമത്തുന്നതാർ? നിന്റെ<br/>ശത്രുവർഗ്ഗമെവിടെ?<br/>യുദ്ധമൊഴിഞ്ഞു സമാധാനമായി<br/>വിശുദ്ധമാം രക്തത്തിനാൽ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഹല്ലേലുയ്യാ പാടിൻ ക്രിസ്തു<br/>നല്ലവനെന്നാർക്കുവിൻ<br/>വല്ലഭമാം തിരുനാമത്തിൽ സൃഷ്ടി-<br/>യെല്ലാം വണങ്ങിടട്ടെ.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>N</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:26">
+  <properties>
+    <titles>
+      <title>ദൈവത്തിൻ പുത്രനാം യേശു ഭൂജാതനായ്</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>താൻ വാഴ്കയാൽ ആകുലമില്ല<br/>നാളെയെന്ന് ഭീതിയില്ല<br/>ഭാവിയെല്ലാം തൻ കയ്യിലെന്നോർത്താൽ<br/>ഹാ എത്ര ധന്യമേ ഈ ലോകജീവിതം (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ആധിവേണ്ട ആശ്രയമേകാൻ<br/>തൻ കരങ്ങൾ പിമ്പിലുണ്ട്<br/>തൻ വഴികൾ സമ്പൂർണ്ണമല്ലോ<br/>ദോഷമായൊന്നും താതൻ ചെയ്കയില്ലല്ലോ (താൻ വാ)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അനാഥനല്ല ഞാൻ അശരണനല്ല ഞാൻ<br/>അവകാശിയാണു ഞാൻ പരദേശിയാണു ഞാൻ<br/>അത്യുന്നതൻ തൻ തിരുമാർവിൽ<br/>നിത്യവും ചാരിടും ഞാനെത്ര മോദമായ് (താൻ വാ)</lines>
+    </verse>
+  </lyrics>
+</song>

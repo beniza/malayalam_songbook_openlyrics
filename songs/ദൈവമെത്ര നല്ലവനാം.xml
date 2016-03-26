@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:54">
+  <properties>
+    <titles>
+      <title>ദൈവമെത്ര നല്ലവനാം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ദൈവമെത്ര നല്ലവനാം അവനിലത്രേ എന്നഭയം<br/>അനുഗ്രഹമായ് അത്ഭുതമായ് അനുദിനവും നടത്തുന്നെന്നെ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കരുണയെഴും തൻകരത്തിൽ കരുതിടുന്നീ മരുവിടത്തിൽ<br/>കരുമനയിൽ അരികിലെത്തും തരും കൃപയിൽ വഴി നടത്തും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കാരിരുളിൻ വഴികളിലും കരളുരുകി കരയുമ്പോഴും<br/>കൂടെവരും കൂട്ടിനവൻ കണ്ണീരെല്ലാം തുടയ്ക്കുമവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലോകം തരും ധനസുഖങ്ങൾക്കേകിടുവാൻ കഴിഞ്ഞിടാത്ത<br/>ആനന്ദമീ ക്രിസ്തുവിൽ ഞാൻ അനുഭവിക്കുന്നിന്നു മന്നിൽ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഒരുക്കുന്നവൻ പുതുഭവനം ഒരിക്കലെന്നെ ചേർത്തിടുവാൻ<br/>വരും വിരവിൽ പ്രാണപ്രിയൻ തരുമെനിക്ക് പ്രതിഫലങ്ങൾ.</lines>
+    </verse>
+  </lyrics>
+</song>

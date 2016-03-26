@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>പോകല്ലേ കടന്നെന്നെ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പോകല്ലേ കടന്നെന്നെ നീ പ്രിയ യേശുവേ!<br/>മറ്റുള്ളോരെ ദർശിക്കുമ്പോൾ നോക്കുകെന്നെയും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശു നാഥാ! എന്നപേക്ഷ കേൾ<br/>മറ്റുള്ളോരെ ദർശിക്കുമ്പോൾ നോക്കുകെന്നെയും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നിൻകൃപാസനത്തിൻ മുമ്പിൽ വീണു കെഞ്ചുന്നേ<br/>എൻ വിശ്വാസം ക്ഷീണിക്കുമ്പോൾ നീ സഹായിക്കേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നിന്റെ പുണ്യം മാത്രം എന്റെ നിത്യശരണം<br/>നിന്റെ കൃപയാലെ മാത്രം എന്നുദ്ധാരണം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ജീവനെക്കാൾ ഏറെ നന്ന് നീയെൻ കർത്താവേ<br/>ഭൂമി സ്വർഗ്ഗം തന്നിലും നീ മാത്രം ആശ്രയം.</lines>
+    </verse>
+  </lyrics>
+</song>

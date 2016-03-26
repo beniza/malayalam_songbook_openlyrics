@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:15">
+  <properties>
+    <titles>
+      <title>ആയുസ്സെന്തുള്ളു? നമുക്കിങ്ങായുസ്സെന്തുള്ളു?</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ആയുസ്സെന്തുള്ളു? നമുക്കിങ്ങായുസ്സെന്തുള്ളു?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശോകമൂലഗാത്രം പല രോഗബീജങ്ങൾക്കു പാത്രം ഇതിൽ<br/>ജീവൻ നിൽപൊരു സൂത്രം നിനച്ചീടുകിലെത്രയോ ചിത്രം!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>നാലു വിരലതിൻ നീളം കഥപോലെ കഴിയുമീ മേളം ഉടൽ<br/>ദീനതയാണ്ടൊരുനാളം അണുജീവികൾ പാർക്കുവാൻ മാളം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നാടകത്തിൻ നടൻപോലെ മരുവിടുമീ മാനുജർ ചാലേ നിജ<br/>വേഷമൊഴിഞ്ഞിടും മേലേമൃതി വേഗമണയുന്ന കാലേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഭാര്യമക്കൾക്കന്തുനേട്ടം ധനവീര്യമൊടുക്കുവാൻ നാട്ടം കൈയി<br/>ലുള്ള കാലത്തു കൊണ്ടാട്ടം പണമില്ലാതെയാകുമ്പൊഴോട്ടം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ബന്ധുമിത്രങ്ങളാൽ പൊന്തുവതേനന്ത കാലത്തവർ നൊന്തു മനം<br/>വെന്തിഹ കണ്ണുനീർ ചിന്തുമതിനന്തരമില്ലിതിലെന്ത്?</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഇന്നു ഭരിച്ചിടും രാജ്യം നാളെയേന്തിടും കൈകളിൽ ഭോജ്യം ഇര<br/>ന്നീടുവാൻ പാത്രമന്നാജ്യം കണികാണ്മാനുമില്ലതി ശോച്യം</lines>
+    </verse>
+    <verse name="v8">
+      <lines>മാളികമുകളിൽ കാണാമരശേറിയിരിപ്പോരെയീ നാളവർ<br/>നാളെ വെറും നിലത്താണു കിടന്നിടുവതെത്രയും കേണു</lines>
+    </verse>
+  </lyrics>
+</song>

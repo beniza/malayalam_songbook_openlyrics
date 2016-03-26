@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:04">
+  <properties>
+    <titles>
+      <title>ക്രിസ്തീയ ജീവിതം സൗഭാഗ്യജീവിതം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ക്രിസ്തീയ ജീവിതം സൗഭാഗ്യജീവിതം<br/>കർത്താവിൻ കുഞ്ഞുങ്ങൾക്കാനന്ദദായകം<br/>കഷ്ടങ്ങൾ വന്നാലും നഷ്ടങ്ങൾ വന്നാലും<br/>ക്രിസ്തേശു നായകൻ കൂട്ടാളിയാണേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ലോകത്തിൻ താങ്ങുകൾ നീങ്ങിപ്പോയിടുമ്പോൾ<br/>ലോകക്കാരെല്ലാരും കൈവെടിഞ്ഞിടുമ്പോൾ<br/>സ്വന്ത സഹോദരർ തള്ളിക്കളയുമ്പോൾ<br/>യൗസേപ്പിൻ ദൈവമെൻ കൂട്ടാളിയാണേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>അന്ധകാരം ഭൂവിൽ വ്യാപരിച്ചിടുമ്പോൾ<br/>രാജാക്കൾ നേതാക്കൾ ശത്രുക്കളാകുമ്പോൾ<br/>അഗ്നികുണ്ഡത്തിലും സിംഹക്കുഴിയിലും<br/>ദാനിയേലിൻ ദൈവമെൻ കൂട്ടാളിയാണേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഇത്ര നല്ലിടയൻ ഉത്തമ സ്നേഹിതൻ<br/>നിത്യനാം രാജാവെൻ കൂട്ടാളിയായാൽ<br/>എന്തിനീ ഭാരങ്ങൾ എന്തിനീ വ്യാകുലം<br/>കർത്താവിൻ കുഞ്ഞങ്ങൾ പാട്ടുപാടും</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കാഹള ശബ്ദങ്ങൾ കേട്ടീടാൻ നേരമായ്<br/>കഷ്ടങ്ങൾ ഏറ്റ എൻപ്രിയനെ കാണാറായ്<br/>എന്നു നീ വന്നിടും എപ്പോൾ നീ വന്നിടും<br/>എത്രനാൾ നോക്കി ഞാൻ പാർക്കേണം പ്രിയനെ.</lines>
+    </verse>
+  </lyrics>
+</song>

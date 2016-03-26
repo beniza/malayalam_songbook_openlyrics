@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:06">
+  <properties>
+    <titles>
+      <title>യേശു എത്ര നല്ലവൻ വല്ലഭൻ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശു എത്ര നല്ലവൻ വല്ലഭൻ<br/>യേശു എത്ര ഉന്നതൻ വന്ദിതൻ<br/>എന്നെന്നും മാറിടാത്ത മന്നവൻ<br/>എന്നെ കാത്തിടുന്ന രക്ഷകൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>സങ്കടങ്ങൾ തിങ്ങിടും വേളയിൽ<br/>തൻകരങ്ങളാലവൻ താങ്ങിടും<br/>സന്തതം പ്രിയൻ കൂടെയുള്ളതാൽ<br/>എന്തൊരാനന്ദമെൻ ജീവിതം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>കൂട്ടുകാരും കൈവെടിയും നേരത്ത്<br/>കൂട്ടിന്നായുണ്ടവൻ ചാരത്ത്<br/>പാട്ടുകൾ പാടി ഞാൻ പോയിടും<br/>പാടുകൾ ഏറ്റ എൻനാഥനായ്</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കർത്തൻവേല ചെയ്തു ഞാൻ തീരണം<br/>കർത്തൻ വീട്ടിൽ ചെന്നെനിക്കു ചേരണം<br/>കർത്തനെ നേരിലൊന്നു കാണണം<br/>ഹല്ലേലുയ്യാ ഗീതമെന്നും പാടണം.</lines>
+    </verse>
+  </lyrics>
+</song>

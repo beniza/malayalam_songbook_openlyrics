@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:20">
+  <properties>
+    <titles>
+      <title>ജയ ജയ ജഗൽ ഗുരുവേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജയ ജയ ജഗൽ ഗുരുവേ<br/>വരുന്നിതാ തിരുസവിധേ<br/>അനുദിനമനവധി തിരുകൃപകൾ തന്ന്<br/>അടിയാരെ നയിക്കണമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ക്രിസ്തുവിൽ ഞങ്ങളെ ജയോത്സവമായ്<br/>നടത്തുന്ന ദൈവത്തിൽ ആശ്രയിപ്പാൻ<br/>നാഥാ നിൻ ശക്തിയാൽ നിറയ്ക്കണമേ<br/>നിത്യം ജയത്തോടെ മുന്നേറുവാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്രിസ്തുവിൻ സുവിശേഷസാക്ഷികളായ്<br/>ഞങ്ങളെന്നും സൗരഭ്യവാസനയായ്<br/>നാഥാ നിൻ പത്രമായ് വെളിപ്പെടുവാൻ<br/>ആത്മദാനങ്ങൾ നൽകിടണേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ക്രിസ്തുവിൻ കഷ്ടത്തിൽ കൂട്ടാളിയായ്<br/>ഞങ്ങൾ ദുഃഖിതരെ മുറ്റുമാശ്വസിപ്പാൻ<br/>നാഥാ നിൻ ആശ്വാസം അനുഗ്രഹമായ്<br/>കൃപയാലെന്നും ചൊരിയണമേ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ക്രിസ്തുവിൻ തേജസ്സെ കണ്ണാടിപോൽ<br/>ഞങ്ങൾ ശോഭിക്കുന്നവരായിടുവാൻ<br/>നാഥാ നിൻ തേജസ്സ് പ്രാപിച്ചെന്നും<br/>പ്രതിരൂപമായ് മാറ്റിടണേ.</lines>
+    </verse>
+  </lyrics>
+</song>

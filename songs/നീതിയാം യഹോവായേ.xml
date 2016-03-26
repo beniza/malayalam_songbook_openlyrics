@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:01">
+  <properties>
+    <titles>
+      <title>നീതിയാം യഹോവായേ!</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>നീസരി സരിമാ രിമപാ നിപമാ<br/>പസസനി പനിപമ രിപാമ രിമരിസ<br/>നീയുരു കരുണാ രസമാനസമാർ<br/>ന്നനിശമിരിപ്പതാലസാമ്യ സുഖം മമ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ദേഹികൾക്കമൃതായേതവ ദേഹമിരിപ്പതെന്നായേ<br/>വേദമോതിടുന്നാകയാൽ നീയേ<br/>വേദനയിൽ തുണയെന്നാത്മിക തായേ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദേവ! നിന്നുടെ ജ്ഞാനം മമ താപമാറ്റിടും നൂനം<br/>പാവനാശയ! മാനസവാനം<br/>പാർക്കുവതിന്നരുൾ നിൻബോധവിമാനം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കാമതസ്കരൻ നേരേ വന്നു കേമഭാവമായ് ചാരേ<br/>താമസിപ്പതുണ്ടാകയാൽ ദൂരെ<br/>നീയിരിപ്പതെന്തനിക്കീശാ! നീ പോരേ?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>യൂദപാതകരോടും പുരമായിരുന്ന നീ, വീടും<br/>താതനമ്മയുംസ്വത്തുക്കൾ നാടും തള്ളിയോരെന്നെ<br/>പുലർത്തിടുവാൻ കൂടും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ആയിരം നരന്മാരിൽ പരിപൂതനേശുവിപ്പാരിൽ<br/>ആയവൻ ബലത്തോടു ഞാൻ ചേരിൽ<br/>മായമെന്യേ ജയിക്കാമാത്മിക പോരിൽ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>കഷ്ടനാളുകൾ വന്നു വൃഥപ്പെട്ടുവെങ്കിലും, പൊന്നു<br/>വിഷ്ടപേശ! നിൻ സന്നിധൗ നിന്നു<br/>സ്പഷ്ടമുരയ്ക്കിൽ ഭവാൻ കേട്ടിടുമന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

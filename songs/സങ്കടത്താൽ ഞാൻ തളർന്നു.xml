@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:16">
+  <properties>
+    <titles>
+      <title>സങ്കടത്താൽ ഞാൻ തളർന്നു</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>സങ്കടത്താൽ ഞാൻ തളർന്നു<br/>സങ്കേതം തേടി നടന്നു<br/>തങ്കരുധിരം പകർന്നു<br/>ചങ്കു രക്ഷകൻ തുറന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപഭാരം നീക്കിത്തന്നു<br/>ശാപവുമെല്ലാമകന്നു<br/>പാവനാത്മാവെ പകർന്നു<br/>ദൈവസ്നേഹം എന്നിൽ തന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉള്ളമതിലെൻ ദൈവം താൻ<br/>പള്ളികൊണ്ടുവാണീടുവാൻ<br/>വല്ലഭൻ എഴുന്നള്ളിനാൻ<br/>കൽനെഞ്ചിനെ മാംസമാക്കാൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>കൽപ്പനകൾ കാക്കാൻ ശക്തി<br/>അൽപ്പമില്ലാഞ്ഞെന്നിൽ പ്രാപ്തി<br/>അപ്പനനുഗ്രഹിച്ചന്നു<br/>കെൽപുതാനങ്ങുണ്ടായ് വന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാപശക്തികളകന്നു<br/>ദൈവശക്തി ഉള്ളിൽ വന്നു<br/>ദൈവഭവനമതാക്കി<br/>ദൈവവാസമുള്ളിലാക്കി</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇത്തരമനുഗ്രഹങ്ങൾ-<br/>ക്കെത്രയോ അപാത്രനാമീ<br/>ചത്ത നായിതാ നിൻപാദം<br/>മുത്തി വണങ്ങി പാടുന്നേൻ</lines>
+    </verse>
+  </lyrics>
+</song>

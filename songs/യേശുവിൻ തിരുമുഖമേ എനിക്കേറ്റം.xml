@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:48">
+  <properties>
+    <titles>
+      <title>യേശുവിൻ തിരുമുഖമേ എനിക്കേറ്റം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യേശുവിൻ തിരുമുഖമേ എനിക്കേറ്റം<br/>ആശ്വാസം പ്രതിദിനമേ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നാശലോകത്തിൽനിന്നു<br/>ദാസനാമെന്നെയവൻ<br/>ആശയോടെ വീണ്ടെടുത്ത-<br/>തോർക്കുന്നേരം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>വാനദിനേശനാമെൻ<br/>നായകനെ ഞാനെന്റെ<br/>മാനസേ ധ്യാനിച്ചിടുമ്പോൾ<br/>സ്നേഹമാർന്ന</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നാഥനാമേശുവിന്റെ<br/>പാദത്തിലിരുന്നു ഞാൻ<br/>വേദവാക്യങ്ങൾ കൃപയാൽ<br/>ധ്യാനിക്കുമ്പോൾ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>അരുണോദയ സമയേ<br/>പരിചൊടെഴുന്നു തിരു<br/>ചരണസമീപേ ചെല്ലുമ്പോൾ<br/>ഇമ്പമേറും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഓരോ കാര്യങ്ങളെന്റെ<br/>നേരെ വന്നെതിർത്തുകൊ-<br/>ണ്ടോരോന്നായ് വിഷമിപ്പിക്കും<br/>നേരമെന്റെ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>മോടിയേറും മുഖത്തിലേറെ<br/>പാടുകളേറ്റു<br/>വാടിയതോർത്തു നോക്കുമ്പോൾ<br/>പ്രാണനാഥൻ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>മേഘവാഹനത്തിൽ സ്വർ-<br/>ല്ലോക ദൂതരുമായി<br/>ആഘോഷമോടെ വരുമ്പോൾ<br/>ശോഭതിങ്ങും.</lines>
+    </verse>
+  </lyrics>
+</song>

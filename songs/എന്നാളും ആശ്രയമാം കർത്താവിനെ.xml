@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:27">
+  <properties>
+    <titles>
+      <title>എന്നാളും ആശ്രയമാം കർത്താവിനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നാളും ആശ്രയമാം കർത്താവിനെ<br/>എന്നും ഞാൻ വാഴ്ത്തിപ്പാടും കർത്താവിനെ<br/>എന്നും ഞാൻ വാഴ്ത്തിപ്പാടും</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നെയുമെന്റെ നിരൂപണമൊക്കെയും<br/>നന്നായറിയുന്നോനാംപരമോന്നതനാ<br/>മെന്റെ പൊന്നു കർത്താവിനെ<br/>എന്നും ഞാൻ സ്തോത്രം ചെയ്യും</lines>
+    </verse>
+    <verse name="v3">
+      <lines>തീജ്വാല പോലുള്ള കണ്ണിനുടമയാം<br/>കർത്താവറിയാതൊന്നും തന്നേ<br/>മർത്യരാം നമ്മൾക്കു സാധിക്കയില്ലെന്ന<br/>തോർത്തിതാ ഭക്തിയോടെ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>നമ്മുടെ ചിന്തകൾ ക്രിയകളൊക്കെയും<br/>തൻതിരു സന്നിധിയിൽവെറും<br/>നഗ്നവും മലർന്നതുമായ് തന്നെ കാണുമേ<br/>ഏതും മറവില്ലാതെ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>കർത്താവു നമ്മോടു കാര്യം തീർക്കും നാളിൽ<br/>ധൈര്യത്തോടെ നിൽക്കുമോഅന്നു<br/>നമ്മുടെ കൈകൾ ബലപ്പെട്ടിരിക്കുമോ<br/>ചിന്തിച്ചിടാം പ്രിയരേ.</lines>
+    </verse>
+  </lyrics>
+</song>

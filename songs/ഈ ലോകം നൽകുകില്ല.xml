@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:19">
+  <properties>
+    <titles>
+      <title>ഈ ലോകം നൽകുകില്ല</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഈ ലോകം നൽകുകില്ല സന്തോഷം സമാധാനം<br/>ഈ കാണുന്നതെല്ലാം മായ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മദ്യമോ മയക്കുമരുന്നോ<br/>മതമോ രാഷ്ട്രീയമോ<br/>എവിടെ... എവിടെ... സംതൃപ്തി എവിടെ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ലക്ഷ്യമെന്തെന്നറിയാതെ<br/>ഉഴലും സോദരരെ<br/>യൗവ്വനകാലത്തു സൃഷ്ടാവിനെ<br/>നീ ഓർത്തുകൊള്ളുക</lines>
+    </verse>
+  </lyrics>
+</song>

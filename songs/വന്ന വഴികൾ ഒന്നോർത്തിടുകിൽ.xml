@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:05">
+  <properties>
+    <titles>
+      <title>വന്ന വഴികൾ ഒന്നോർത്തിടുകിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വന്ന വഴികൾ ഒന്നോർത്തിടുകിൽ<br/>ഇന്നയോളം നടത്തിയ നാഥാ<br/>നന്ദിയല്ലാതിന്നൊന്നുമില്ല<br/>എന്നും കരങ്ങളിൽ വഹിച്ചവനേ (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നന്മ മാത്രം ഞങ്ങൾക്കായ്<br/>തന്നു നവ്യമാക്കി ഈ ജീവിതം<br/>നാവിനാലെ കീർത്തിച്ചിടുവാൻ<br/>നാൾമുഴുവൻ കൃപ കാട്ടി നീ (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ബഹുദൂരം മുന്നോട്ടു പോകാൻ<br/>ബലം നൽകി നീ നടത്തി<br/>തളർന്നോരോ നേരത്തിലെല്ലാം<br/>തവ കരങ്ങൾ ആശ്വാസമായ് (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ഓടി മറയുന്ന നാളുകളെല്ലാം<br/>ഓർപ്പിക്കുന്നു നിൻ കാരുണ്യം<br/>ഓരോ ജീവിതനിമിഷങ്ങൾ പോലും<br/>ഓതിടുന്നു തവസാന്നിദ്ധ്യം (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മനസ്സിൻ വ്യഥ നീയെന്നും കണ്ടു<br/>മനസ്സലിഞ്ഞു നീ ദയ കാട്ടി<br/>ഇരുളേറും പാതയിലെല്ലാം<br/>ഇതുവരെയും താങ്ങിയല്ലോ (2) JoyJ.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:13">
+  <properties>
+    <titles>
+      <title>യുദ്ധത്തിനു യുദ്ധത്തിനു</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2 v5 v2 v6 v2 v7 v2 v8 v2 v9 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>യുദ്ധത്തിനു യുദ്ധത്തിനു<br/>കേൾക്ക കാഹളം<br/>ശക്തിയോടു ധ്വനിക്കുന്നു<br/>സൈന്യം കൂടണം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>യേശുക്രിസ്തു രാജാവാകും<br/>സർവ്വഭൂമിയിൽ<br/>സേവകരാം നാമും കൂടെ<br/>വാഴും തേജസ്സിൽ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ക്രൂശിൻ കൊടിക്കീഴിൽ എങ്ങും<br/>ജയം കൊള്ളും നാം<br/>വാശിയിൽ എതിർക്കുന്നവൻ<br/>വീഴും നിശ്ചയം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>സാത്താൻ തൻമാസൈന്യം കൂട്ടി<br/>എതിർ നിൽക്കുമോ?<br/>യേശുനാമം കേട്ടിട്ടവർ<br/>ഓടിയില്ലയോ?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>മായഭക്തി ലോകയുക്തി<br/>അല്ല ആശ്രയം<br/>ദൈവാത്മാവും ദൈവവാക്കും<br/>അത്രേ ആയുധം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>കാഹളങ്ങളെ നാം ഊതി<br/>അട്ടഹസിക്കും<br/>അപ്പോൾ ഇരുട്ടിന്റെ കോട്ട<br/>താനേ വീണിടും</lines>
+    </verse>
+    <verse name="v7">
+      <lines>നീതിസൂര്യൻ ശോഭയോടുദിക്കും<br/>ഉള്ളത്തിൽ<br/>പാടിക്കൊണ്ടനേകർ വരും<br/>ജീവ വഴിയിൽ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>ഭൂമിയുടെ അറ്റത്തോളം<br/>സർവ്വസൃഷ്ടിയും<br/>ദൈവത്തിൻ മഹത്വം കണ്ടു<br/>വീണു കുമ്പിടും</lines>
+    </verse>
+    <verse name="v9">
+      <lines>ഹല്ലേലുയ്യാ! ഹല്ലേലുയ്യാ!<br/>സ്തുതി സ്തോത്രവും<br/>എന്നെന്നേക്കും ദൈവത്തിന്നും<br/>പുത്രനാത്മന്നും.</lines>
+    </verse>
+  </lyrics>
+</song>

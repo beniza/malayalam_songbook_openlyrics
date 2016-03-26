@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>ഒന്നിലും ഭയന്നിടാതെ പോകാം സഖാക്കളെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ഒന്നിലും ഭയന്നിടാതെ പോകാം സഖാക്കളെ<br/>ഉന്നതന്റെ വന്ദ്യനാമമൊന്നായുർത്തിടാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>നിസ്തുല്യനാമം ക്രിസ്തേശു നാമം<br/>നിത്യം പുകഴ്ത്തണം തൻ നിർദ്ദേശമൊത്തു നാം<br/>നിൽക്കണം മടുത്തിടാതെ പോർ നടത്തണം<br/>ജയം നിശ്ചയം, നിരക്കണം നിരാമയം സഖാക്കളേ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പാപത്തിൻ കൂലി തൻ ദേഹത്തിലേറ്റവൻ<br/>താപം സഹിച്ച തൻ സ്നേഹം നിനയ്ക്കുവിൻ<br/>മറ്റൊരുത്തനീ വിധത്തിലുറ്റു രക്ഷ ചെയ്തവൻ<br/>ഇദ്ധരിത്രി തന്നിലെങ്ങുമില്ലയെന്നറിഞ്ഞു നാം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തെല്ലും പരാജയം ഉണ്ടാകയില്ല നാമെല്ലാ-<br/>മേശുവെ പിഞ്ചെല്ലാ മുല്ലാസമായ്<br/>അല്ലലൽപ്പകാലമുണ്ടെന്നാകിലും വരും ജയം<br/>ഹല്ലേലുയ്യാ! ഹല്ലേലുയ്യാ! ഹല്ലേലുയ്യാ! ജയം.</lines>
+    </verse>
+  </lyrics>
+</song>

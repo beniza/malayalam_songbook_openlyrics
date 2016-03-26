@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:14">
+  <properties>
+    <titles>
+      <title>ജീവോദനമായ യേശു ദേവ! വന്ദനം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ജീവോദനമായ യേശു ദേവ! വന്ദനം<br/>ദേവാധീശാ! നീയൊഴിഞ്ഞിങ്ങാരുള്ളാശ്രയം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചാവിനെ വെന്നുയിർത്താവിയിൻ ജീവനീ<br/>ഭൂവിൽ നരർക്കരുളാൻ വാനിൽ നിന്നിറങ്ങിയ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മൺമയനാമാദാമിൻ വഴിയായ് വന്ന<br/>മൃൺമയ ശരീരത്തെ മണ്ണിൽ നിന്നുയർത്തുന്ന</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ലംഘനത്താൽ നരസംഘമശേഷവും<br/>സംക്രമിച്ച മരണശങ്കയൊഴിക്കും ദിവ്യ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പാവനമാം തിരുച്ചോരയിനാലെന്നെ<br/>ദേവസവിധം തന്നിൽ സേവിപ്പാൻ നിയമിച്ച</lines>
+    </verse>
+    <verse name="v6">
+      <lines>നിൻ വദനം തന്നിൽനിന്നു തൂകും കൃപ<br/>എൻ വിവശതയെല്ലാമൊന്നായകറ്റിടുന്നു.</lines>
+    </verse>
+  </lyrics>
+</song>

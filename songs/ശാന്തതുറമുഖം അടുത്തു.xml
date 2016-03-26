@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:15">
+  <properties>
+    <titles>
+      <title>ശാന്തതുറമുഖം അടുത്തു</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ശാന്തതുറമുഖം അടുത്തു...<br/>എന്റെ കാന്തനോടേറ്റം അടുത്തു...<br/>അധികമില്ല... അധികമില്ല...<br/>യാത്ര അധികമില്ല</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കൊടുങ്കാറ്റും തിരമാലയും<br/>പടകിലേറി അടിച്ചിടുമ്പോൾ<br/>ക്രൂശിൽ നോക്കി യാത്ര ചെയ്യും<br/>ശാശ്വത വീട്ടിൽ എത്തുവോളം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>സ്വന്തജനം കൈവിട്ടാലും<br/>ബന്ധുക്കളോ... മാറിയാലും<br/>യേശു എന്നെ കൈവിടില്ല<br/>ക്ലേശങ്ങളിൽ താങ്ങിടും താൻ</lines>
+    </verse>
+  </lyrics>
+</song>

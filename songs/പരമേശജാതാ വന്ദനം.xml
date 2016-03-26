@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:03">
+  <properties>
+    <titles>
+      <title>പരമേശജാതാ! വന്ദനം</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരമേശജാതാ! വന്ദനം സദാ നിനക്കു<br/>പരമേശജാതാ! വന്ദനം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പരമനിൻ മഹിമയീ ധരണിയിൽ തെളിയിപ്പാൻ<br/>നരനായ് ജനിച്ചസുരനായകനാം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇരുളിൻ ഭരണമെല്ലാ നരരിലും പരന്നതാൽ<br/>അരുളേകിയനാരതംകാത്തിടുന്ന</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ദുരിതഫലമായുള്ള മരണമതിങ്കൽനിന്നു<br/>തിരുവീണ്ടെടുപ്പാൽ വിടുവിച്ചു ഭവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ശരണമെനിക്കു ഭവാൻ പരമൊരു ഗതിയില്ല<br/>പരമാത്മജാ നിന്നടികൂപ്പിടുന്നേൻ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>തിരുശരീരമെനിക്കായ് കുരിശതിൽ ബലിയാക്കി<br/>തിരുനീതി ഫലിപ്പതിന്നായ് ശ്രമിച്ച</lines>
+    </verse>
+    <verse name="v7">
+      <lines>മരിച്ചു തിരികെ ജീവിച്ചമർത്യനായ് ഭവിച്ചതാൽ<br/>മരണത്തെ നീക്കാധികാരമാർന്ന.</lines>
+    </verse>
+  </lyrics>
+</song>

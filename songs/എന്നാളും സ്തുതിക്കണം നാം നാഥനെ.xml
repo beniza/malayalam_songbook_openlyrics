@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:57">
+  <properties>
+    <titles>
+      <title>എന്നാളും സ്തുതിക്കണം നാം നാഥനെ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>എന്നാളും സ്തുതിക്കണം നാം നാഥനെ<br/>എന്നാളും സ്തുതിക്കണം നാം<br/>വന്ദനം പാടി മന്നൻ മുൻകൂടി<br/>മന്ദതയകന്നു തിരുമുന്നിലഭയമിരന്നു</lines>
+    </verse>
+    <verse name="v2">
+      <lines>മോദമായ് കൂടുക നാം പരന്നു ബഹു<br/>നാദമായ് പാടുക നാം<br/>ഗീതഗണം തേടി നാഥന്നു നാം പാടി<br/>നാഥനാമവന്റെ തിരുനാമമേ ഗതിയായ് തേടി</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ശ്രേഷ്ഠഗുണദായകൻ അവൻ നിനയ്ക്കിൽ<br/>ശിഷ്ടജനനായകൻ<br/>സ്പഷ്ടം തിരുദാസർക്കിഷ്ടമരുളുവോൻ<br/>കഷ്ടതയിൽ നിന്നവരെ ധൃഷ്ടനായുദ്ധരിപ്പവൻ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തന്നെ സ്തുതിച്ചിടുന്നു ജനങ്ങൾ പദം<br/>തന്നിൽ പതിച്ചിടുന്നു<br/>മാനവമന്നർ പ്രസന്നരായ് വാഴ്ത്തുന്നു<br/>നന്ദിയോടവരേവരുമുന്നതനെ വണങ്ങുന്നു</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ദേവകളിൻ നാഥനെ സമസ്തലോക<br/>ജീവികളിൻ താതനെ<br/>ജീവന്നുറവായി മേവും പരേശനെ<br/>ജീവനുലകിന്നുദിപ്പാൻ സൂനുവെക്കൊടുത്തവനെ</lines>
+    </verse>
+    <verse name="v6">
+      <lines>തൻനാമകീർത്തനം നാം തുടർന്നു ചെയ്കി-<br/>ലെന്നും ദിവ്യാനന്ദമാം<br/>ഉന്നതൻ തന്നുടെ സന്നിധൗ നിന്നു നാം<br/>മന്നവനെ പുതുഗാനവന്ദനങ്ങളോടനിശം.</lines>
+    </verse>
+  </lyrics>
+</song>

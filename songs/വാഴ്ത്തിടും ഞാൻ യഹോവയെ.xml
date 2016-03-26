@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:03">
+  <properties>
+    <titles>
+      <title>വാഴ്ത്തിടും ഞാൻ യഹോവയെ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>വാഴ്ത്തിടും ഞാൻ യഹോവയെ<br/>കീർത്തിച്ചിടും തൻകൃപയെ<br/>ഓരോ നാളും ദിവ്യസ്നേഹം ഓർത്തു ഞാൻ<br/>എന്നും ധ്യാനിച്ചിടും നന്ദിയോടെൻ ദൈവമേ!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ശത്രുവിൻ തീയമ്പുകളോ<br/>പാഞ്ഞടുക്കും നേരമെന്നിൽ<br/>ശക്തിയോടെതിർത്തു നിൽപ്പാൻ പ്രിയനെ<br/>ശക്തി തന്നരുൾക ഓരോ നാളും നവ്യമായ് (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഭീകരമാം ആഴി തന്നിൽ<br/>യാത്ര ചെയ്യും നേരമെന്നിൽ<br/>ഭീതിയാലെന്നുള്ളം തിങ്ങും ഖേദത്താൽ<br/>ഭാരം ലേശമെന്യേ താങ്ങിടണേ കൈകളിൽ (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പാർത്തലത്തിൽ ക്രൂശെടുത്തു<br/>നിത്യവും പിൻ ചെന്നിടുവാൻ<br/>പാർത്തിടുന്നു നിന്നരികിൽ ദൈവമേ<br/>പാരിലാശ്രയിച്ചിടുന്നു നിന്നിൽ പൂർണ്ണമായ് (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>എന്റെ പ്രിയൻ എനിക്കായി<br/>ഒരുക്കിടും ഭവനത്തിൽ<br/>എത്തിടുവാൻ എത്ര കാലം പാർക്കേണം<br/>എന്നു തീർന്നിടുമെൻ മരുവാസം ദൈവമേ!(2)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:17">
+  <properties>
+    <titles>
+      <title>മരിച്ചോനുയിരെ ധരിച്ചോ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>മരിച്ചോനുയിരെ ധരിച്ചോ-<br/>നൊരുത്തനേയുള്ളവൻ<br/>ക്രിസ്തേശുനാഥനല്ലോ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ചാവിനെവെന്ന ദേവനവൻ<br/>ജീവനെ നൽകാൻ കഴിവുള്ളവൻ<br/>ഭൂവിതിലേവം വെളിപ്പെടുവാൻ<br/>ഈ വിധം ചെയ്തു മാനവർക്കായ്</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മറ്റാരും ചെയ്തില്ലിതുപോലെ<br/>മറ്റൊരുത്തനിലും രക്ഷയില്ല<br/>വാനത്തിൻ കീഴിൽ നരർക്കിടയിൽ<br/>മറ്റൊരു നാമമില്ലിതെന്യേ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>വിശ്വസിച്ചിടാൻ യോഗ്യമായി<br/>വിശ്വമശേഷമൊന്നിതുപോൽ<br/>നിശ്ചയമായ് മറ്റില്ലതിനാൽ<br/>നിസ്തുലമാമംഗീകൃതമാം</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ഇത്രമഹാനാം ക്രിസ്തുവിനെ<br/>മാത്രമീ മണ്ണിൽ മർത്യഗണ<br/>മാശ്രയിക്കേണ മല്ലയെങ്കിൽ<br/>ഭദ്രമല്ലാതാം ഭാവിദൃഢം</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ഇന്നവൻ വിണ്ണിൽ വാണിടുന്നു<br/>വന്നിടുമന്നു തന്റെ ജനം<br/>മണ്ണിലുറങ്ങുന്നോരുണർന്ന്<br/>ജീവനുള്ളവരോടൊത്തുയരും.</lines>
+    </verse>
+  </lyrics>
+</song>

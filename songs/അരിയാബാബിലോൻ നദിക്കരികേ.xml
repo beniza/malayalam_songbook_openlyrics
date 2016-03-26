@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:01">
+  <properties>
+    <titles>
+      <title>അരിയാബാബിലോൻ നദിക്കരികേ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1 v6 v1 v7 v1 v8 v1 v9 v1 v10 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>അരിയാബാബിലോൻ നദിക്കരികേ<br/>ചെന്നിരുന്നെങ്ങൾ<br/>തിരുസീയോൻപുരമോർത്തോരളവേറ്റം</lines>
+    </verse>
+    <verse name="v2">
+      <lines>കരതാരിൽ ചെറുവീണ കരുതിയെങ്കിലും പാടാൻ<br/>അരുതാതങ്ങലരിമേലവ തൂക്കിയുടൻ ഞങ്ങൾ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഉരുമോദമെഴും സീയോൻ തിരുഗാനങ്ങളിലൊന്നു<br/>പരിചിൽ പാടുവാൻ പ്രേരിച്ചുടമക്കാർ ചിലരന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>പരമദേവനിൻ ഗീതം പരദേശമതിലൊരു<br/>വിധവും പാടുവാൻ മേലാഞ്ഞടിയാർ മൗനികളായി</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പുരികൾക്കൊക്കെയുമേറ്റം തലയാം<br/>ശ്രീയെരുശലേം പുരമേ!<br/>നിന്നെ മറക്കാനരുതേയിങ്ങൊരുനാളും</lines>
+    </verse>
+    <verse name="v6">
+      <lines>പരമാനന്ദപുരമേ! തവ നാമം മറക്കുന്നോ<br/>രളവിലെൻ വലങ്കരമതിനെ ഞാൻ മറക്കട്ടെ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>അമിതാനന്ദദയായ് ഞാൻ ഭവതിയെ<br/>ഗണിക്കാഞ്ഞാൽ<br/>മമ നാവെന്നുടെ താലുഫലകേ സംഘടിക്കട്ടെ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>അടിയോളം ഭവതിയെ പൊടിയാക്കാൻ<br/>ശ്രമിച്ചേദോം<br/>കുടിലർ നിൻ ജയശ്രീ കണ്ടതിലജ്ജ കലരട്ടെ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>അതിനാശമണഞ്ഞുള്ള ഹതബാബേൽസുതേ!<br/>നിന്റെ കൃതിപോൽ നൽപ്രതികാരം<br/>തവ ചെയ്‌വോൻപരം ധന്യൻ</lines>
+    </verse>
+    <verse name="v10">
+      <lines>കുലടേ! ദുർഭഗേ! നിന്റെ ചെറിയ മക്കളെ തൂക്കി<br/>ശിലമേലാഞ്ഞടിപ്പോനാരവനെന്നും മഹാധന്യൻ</lines>
+    </verse>
+  </lyrics>
+</song>

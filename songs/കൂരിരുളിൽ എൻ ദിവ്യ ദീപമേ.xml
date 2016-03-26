@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:43">
+  <properties>
+    <titles>
+      <title>കൂരിരുളിൽ എൻ ദിവ്യ ദീപമേ!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കൂരിരുളിൽ എൻ ദിവ്യ ദീപമേ! നടത്തെന്നെ<br/>വേറാരുമില്ല വീടെത്തുവോളം നടത്തെന്നെ<br/>നീ നടത്തിയാൽ ദൂരം കാണേണ്ടാ<br/>ഒരടി മാത്രമെൻ മുൻകാണിക്ക</lines>
+    </verse>
+    <verse name="v2">
+      <lines>എന്നിഷ്ടം പോൽ നടന്നു ഞാനയ്യോ! മുൻനാൾകളിൽ<br/>ഹാ! നഷ്ടമായ് അക്കാലം ഇനി നീ നടത്തെന്നെ<br/>വന്ന കുറ്റങ്ങൾ ക്ഷമിക്ക നാഥാ!<br/>നിൻകൃപ മാത്രമെന്റെയാശ്രയം</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ഇന്നാൾ വരെ നിൻ കൃപ തന്നു നീയിനിമേലും<br/>കാടും കുന്നും കല്ലുമാം പാതയിൽ നടത്തെന്നെ<br/>നേരം പുലരും വീട്ടിൽ ചെല്ലും ഞാൻ<br/>കാണുമെൻ മുന്നേപോയ പ്രിയരെ.</lines>
+    </verse>
+  </lyrics>
+</song>

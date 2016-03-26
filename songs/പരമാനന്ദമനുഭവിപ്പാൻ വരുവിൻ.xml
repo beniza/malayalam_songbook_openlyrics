@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:16">
+  <properties>
+    <titles>
+      <title>പരമാനന്ദമനുഭവിപ്പാൻ വരുവിൻ</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>പരമാനന്ദമനുഭവിപ്പാൻ വരുവിൻ നരരേ! വിരഞ്ഞോടി നിങ്ങൾ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പരമോന്നതനേശുവിതാ! അരികിൽ വരുവാനുരചെയ്തിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>പരിശുദ്ധാമാമീ വചനം ഒരു കാലത്തിലും വരികില്ല ഭേദം</lines>
+    </verse>
+    <verse name="v4">
+      <lines>അരികിൽ വരുമാരെയുമേ പിരിയാതെയെന്നും കരുതിടുമവൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>പരമോന്നത വാക്യമിതാ ശരിയായ് നിന്നോടിന്നുരചെയ്തിടുന്നു</lines>
+    </verse>
+    <verse name="v6">
+      <lines>തിരുസന്നിധി ചേർന്നു നിന്റെ പരമാർത്ഥമെല്ലാം പറഞ്ഞിടുക നീ</lines>
+    </verse>
+    <verse name="v7">
+      <lines>ഒരു മാത്രയും പാർത്തിടാതെ വെറുത്തേറ്റു പറഞ്ഞൊഴിഞ്ഞിടു പാപം</lines>
+    </verse>
+    <verse name="v8">
+      <lines>തിരുച്ചോരകൊണ്ടാശു നിന്റെ പെരിയതാം പാപം കഴുകിടുമവൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

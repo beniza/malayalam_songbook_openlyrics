@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:24:33">
+  <properties>
+    <titles>
+      <title>കാണുക നീയാ കാൽവറി തന്നിൽ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കാണുക നീയാ കാൽവറി തന്നിൽ കാരിരുമ്പാണികളാൽ<br/>കാൽകരങ്ങൾ ബന്ധിതനായി കർത്തനാമേശുപരൻ...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തിൻ ശാപം നീക്കിടുവാനായ് പാരിതിൽ വന്നവനാം<br/>പ്രാണനാഥൻ പാപികൾക്കായ് പ്രാണൻ വെടിഞ്ഞിടുന്നു</lines>
+    </verse>
+    <verse name="v3">
+      <lines>മന്നവനാകും യേശുമഹേശൻ മാനവനായ് ധരയിൽ<br/>വന്ദനത്തിനു യോഗ്യനായോൻ നിന്ദിതനായ്ത്തീർന്നു</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ആകുലമാകെ നീക്കിടുവാനായ് വ്യാകുലനായ്ത്തീർന്ന<br/>പതിനായിരങ്ങളിൽ സുന്ദരനാം നാഥൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വീടുകളൊരുക്കി വിണ്ണതിൽ ചേർപ്പാൻ വീണ്ടും വരുന്നവനാം<br/>വീണ്ടെടുത്തൊരു തൻ ജനത്തിനു വിശ്രമം നൽകിടുവാൻ.</lines>
+    </verse>
+  </lyrics>
+</song>

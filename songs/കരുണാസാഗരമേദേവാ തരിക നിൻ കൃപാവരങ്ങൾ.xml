@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-26T20:25:00">
+  <properties>
+    <titles>
+      <title>കരുണാസാഗരമേദേവാ തരിക നിൻ കൃപാവരങ്ങൾ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>കരുണാസാഗരമേദേവാ തരിക നിൻ കൃപാവരങ്ങൾ<br/>ജീവിച്ചാലും നാഥാ! മരിച്ചാലും ദേവാ<br/>മഹിമ തൃപ്പാദത്തിലേറ്റിടുവാൻ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>പാപത്തെ വെറുത്തിടുവാൻ ഈ ലോകത്തെ ജയിച്ചിടുവാൻ<br/>ദൈവത്തിൻ ശക്തിയിൽ ഞാൻനിത്യം<br/>ഭക്തിയിൽ വളർന്നിടുവാൻ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ദൈവത്തിൽ വസിച്ചിടുവാൻ ദിവ്യസ്നേഹത്തിൽ രസിച്ചിടുവാൻ<br/>ആത്മാവിൽ ഫലം കായ്പാൻനാഥാ<br/>തരിക നിൻകൃപാവരങ്ങൾ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>തിരുഹിതം തികച്ചിടുവാൻനാഥാ!<br/>യാഗമായ് സമർപ്പിക്കുവാൻ<br/>പരിശുദ്ധനനുരൂപമായ്<br/>രൂപാന്തരം വരുത്തിടുവാൻ</lines>
+    </verse>
+    <verse name="v5">
+      <lines>വരവിന്നായൊരുങ്ങിടുവാൻ<br/>പ്രാണപ്രിയനെയെതിരേൽക്കുവാൻ<br/>വിശുദ്ധിയെ തികച്ചിടുവാൻകർത്താ<br/>തരികനിൻ വരദാനങ്ങൾ.</lines>
+    </verse>
+  </lyrics>
+</song>
